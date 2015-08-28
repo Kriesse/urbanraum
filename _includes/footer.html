@@ -6,7 +6,7 @@
       <div class="footer-col">
 
         {% if site.facebook_username %}
-          <a href="https://facebook.com/{{ site.facebook_username }}">
+          <a href="https://facebook.com/{{ site.facebook_username }}" class="footer-link">
             <span class="icon icon--facebook">
               <svg viewBox="0 0 20 20">
                 <path fill="currentColor" d="M18.9,0H1.1C0.5,0,0,0.5,0,1.1v17.8C0,19.5,0.5,20,1.1,20h9.6v-7.7H8.1v-3h2.6V7c0-2.6,1.6-4,3.9-4
@@ -20,7 +20,7 @@
         {% endif %}
 
         {% if site.twitter_username %}
-          <a href="https://twitter.com/{{ site.twitter_username }}">
+          <a href="https://twitter.com/{{ site.twitter_username }}" class="footer-link">
             <span class="icon  icon--twitter">
               <svg viewBox="0 0 20 20">
                 <path fill="currentColor"  d="M18.9,0H1.1C0.5,0,0,0.5,0,1.1v17.8C0,19.5,0.5,20,1.1,20h17.8c0.6,0,1.1-0.5,1.1-1.1V1.1C20,0.5,19.5,0,18.9,0
@@ -38,7 +38,7 @@
       </div>
 
       <div class="footer-col">
-        <div id="" class="text--right">
+        <div class="text--right">
           {{ site.address }} | <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </div>
       </div>
