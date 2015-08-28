@@ -3,19 +3,28 @@
 ---
 @charset "utf-8";
 
-
+// Urbanraum Colors
+$color-white: #FFFFFF;
+$color-mint: #52A396;
+$color-mint-cold: #7AB5b9;
+$color-mint-yellow: #a4d6ab;
+$collor-pine: #006264;
+$color-text: #1C2624;
+$color-berry: #FF0044; 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "Brandon Text", "Brandon Grotesque", "Helvetica Neue" Arial, Helvetica, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     16px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$height-header:    90px;
+
+$text-color:       $color-text;
+$color-background: #f3f8f2;
+$brand-color:      $color-mint;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -38,6 +47,11 @@ $on-laptop:        800px;
 // }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
+        @content;
+    }
+}
+@mixin media-query-min($device) {
+    @media screen and (min-width: $device) {
         @content;
     }
 }

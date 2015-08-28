@@ -1,3 +1,11 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 /**
  * Reset some basic elements
  */
@@ -14,13 +22,15 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: 300;
+  color: $color-text;
+  -webkit-text-size-adjust: 100%;
+  @include media-query-min($on-palm) {
+    border: $spacing-unit solid $color-white;
+  }
 }
 
 
@@ -32,7 +42,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
 }
 
 
@@ -148,6 +158,15 @@ pre {
     }
 }
 
+// Gives the frame to the site
+.site-wrapper {
+  min-height: -webkit-calc(100vh - (#{$spacing-unit} * 2));
+  min-height:         calc(100vh - (#{$spacing-unit} * 2));
+  width:      -webkit-calc(100% - (#{$spacing-unit} * 2));
+  width:              calc(100% - (#{$spacing-unit} * 2));
+  background: $color-background url('../img/urbanraum-bg-bright.jpg') no-repeat center;
+  position: fixed;
+}
 
 
 /**
@@ -170,18 +189,22 @@ pre {
     }
 }
 
+.wrapper--wide {
+  max-width: -webkit-calc(100% - (#{$spacing-unit} * 2));
+  max-width:         calc(100% - (#{$spacing-unit} * 2));
+}
+
 
 
 /**
  * Clearfix
  */
 %clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 
@@ -201,4 +224,11 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+
+// helpers 
+
+.text--right {
+  text-align: right;
 }

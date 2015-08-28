@@ -5,11 +5,42 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p>
+      {{ page.type }} | Level: {{ page.level }} | mit <a href="{{ page.teacher-link }}">{{ page.teacher }}</a>
+    </p>
   </header>
 
   <article class="post-content">
+
+    <p>
+      {{ page.description }}
+    </p>
+
+    IMG / Video
+
+    <ul>
+      <li>
+        {{ page.weekday }} {{ page.time }}
+      </li>
+      <li>
+        Kurssprache: {{ page.language }}
+      </li>
+      <li>
+        Dauer: {{ page.duration }}
+      </li>
+      <li>
+        Kosten: {{ page.price }}
+      </li>
+      <li>
+        Probestunde: {{ page.trial }}
+      </li>
+      <li>
+        Kontakt: <a href="mailto:{{ page.contact-link }}">{{ page.contact-link }}</a>
+      </li>
+    </ul>
+
     {{ content }}
   </article>
+
 
 </div>

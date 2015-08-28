@@ -4,19 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Urbanraum ist ein Raum, an dem Kinder, Erwachsene und Profi-Tänzer einen Ort finden, sich zu bewegen, zu tanzen, zu improvisieren, zu lernen
-
-Urbanraum will…
-
-* qualitativ hochwertigen Tanz- und Bewegungs-Unterricht bieten
-* zu einer Adresse für Tanz in Kreuzberg/Neukölln werden
-* eine Bandbreite an Kursen anbieten
-* ein Ort sein, an dem man sich gerne aufhält
+Urbanraum ist ein Raum, an dem Kinder, Erwachsene und Profi-Tänzer einen Ort finden, sich zu bewegen, zu tanzen, zu improvisieren, zu lernen. Urbanraum steht für qualitativ hochwertigen Tanz- und Bewegungs-Unterricht, bietet eine Bandbreite an Kursen und ist die Adresse für Tanz in Kreuzberg/Neukölln. Urbanraum will ein Ort sein, an dem man sich gerne aufhält und steht Tänzern aller Altersgruppen und Erfahrungsstufen offen.
 
 ## Fakten
-Urbanraum besteht seit 2 Jahren (als Kollektiv verwaltet), ab 1.8.: Friederike Erhart als Einzelunternehmerin
-Leiterin (Kuratorin? Organisatorin? …) ist Friederike Erhart
-Anzahl Tanzkurse, andere Kurse: 2-3 Klassen für Erwachsene (v.a. Profis) am Vormittag, 2-3 Kurse für Kinder am Nachmittag, ab 18.00 2 Kurse für Erwachsene
+Urbanraum besteht seit 2 Jahren. Anfangs als Kollektiv verwaltet, ist der Urbanraum seit Sommer 2015 unter der Leitung von Friederike Erhart.
+
+Vormittags: 2-3 Klassen für Erwachsene (v.a. Profis)
+
+Nachmittags: 2-3 Kurse für Kinder am Nachmittag, 
+
+Abends: 2 Kurse für Erwachsene
  
 ## Schwerpunkte:
 * Profi-Training (modern Dance/Zeitgenössisch, kein Ballett)
