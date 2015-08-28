@@ -1,3 +1,49 @@
 .post {
-  border: 2px solid red;
+  //border: 2px solid red;
+}
+
+
+/**
+ * Posts
+ */
+.post__header {
+    margin-bottom: 3 * $spacing-unit;
+    text-align: center;
+}
+
+.post__title {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.post__content {
+  margin-bottom: $spacing-unit;
+}
+
+.post__details {
+  overflow: hidden;
+  margin-bottom: 2 * $spacing-unit;
+}
+
+.post__media {
+  width: 50%;
+  float: left;
+  text-align: right;
+  padding-right: $spacing-unit;
+}
+
+.post__list {
+  width: 50%;
+  float: right;
+  padding-left: $spacing-unit;
+  ul  {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.post__description {
+  
 }

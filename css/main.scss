@@ -8,7 +8,7 @@ $color-white: #FFFFFF;
 $color-mint: #52A396;
 $color-mint-cold: #7AB5b9;
 $color-mint-yellow: #a4d6ab;
-$collor-pine: #006264;
+$color-pine: #006264;
 $color-text: #1C2624;
 $color-berry: #FF0044; 
 
@@ -21,10 +21,11 @@ $base-line-height: 1.5;
 $spacing-unit:     16px;
 
 $height-header:    90px;
+$height-footer:    60px;
 
-$text-color:       $color-text;
+$color-text:       $color-text;
 $color-background: #f3f8f2;
-$brand-color:      $color-mint;
+$color-brand:      $color-mint;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -61,6 +62,7 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
+        "buttons",
         "layout",
         "posts"
 ;

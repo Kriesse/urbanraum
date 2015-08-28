@@ -10,7 +10,7 @@
 
 {% for post in classes %}
   <div class="post">
-    <img src="{{ site.baseurl }}{{post.image}}" class="img-flex" />
+    <img src="{{ site.baseurl }}/img/{{post.image}}" class="img-flex" />
     <h4>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h4>

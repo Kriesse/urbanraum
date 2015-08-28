@@ -3,43 +3,56 @@ layout: default
 ---
 <div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+  <header class="post__header">
+    <h1 class="post__title">{{ page.title }}</h1>
     <p>
       {{ page.type }} | Level: {{ page.level }} | mit <a href="{{ page.teacher-link }}">{{ page.teacher }}</a>
     </p>
   </header>
 
-  <article class="post-content">
+  <article class="post__content">
+    
+    <div class="post__details">
+      <div class="post__media">
+        <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
+      </div>
 
-    <p>
-      {{ page.description }}
-    </p>
+      <div class="post__list">
+        <ul>
+          <li>
+            {{ page.weekday }} {{ page.time }}
+          </li>
+          <li>
+            Kurssprache: {{ page.language }}
+          </li>
+          <li>
+            Dauer: {{ page.duration }}
+          </li>
+          <li>
+            Kosten: {{ page.price }}
+          </li>
+          <li>
+            Probestunde: {{ page.trial }}
+          </li>
+          <li>
+            Kontakt: <a href="mailto:{{ page.contact-link }}">{{ page.contact-link }}</a>
+          </li>
+        </ul>
+      </div>
+      
+    </div>
 
-    IMG / Video
+    <div class="post__description">
+      <p>
+        {{ page.description }}
+      </p>
+    </div>
 
-    <ul>
-      <li>
-        {{ page.weekday }} {{ page.time }}
-      </li>
-      <li>
-        Kurssprache: {{ page.language }}
-      </li>
-      <li>
-        Dauer: {{ page.duration }}
-      </li>
-      <li>
-        Kosten: {{ page.price }}
-      </li>
-      <li>
-        Probestunde: {{ page.trial }}
-      </li>
-      <li>
-        Kontakt: <a href="mailto:{{ page.contact-link }}">{{ page.contact-link }}</a>
-      </li>
-    </ul>
 
-    {{ content }}
+
+      {{ content }}
+    </div>
+
   </article>
 
 

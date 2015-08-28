@@ -99,17 +99,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
-    text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
+  color: $color-brand;
+  text-decoration: none;
+  &:visited {
+    color: $color-brand;
+  }
+  &:hover {
+    color: $color-text;
+    text-decoration: underline;
+  }
 }
 
 
@@ -118,8 +116,7 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid $color-white;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -138,7 +135,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $color-brand;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -213,17 +210,12 @@ pre {
  * Icons
  */
 .icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
+  > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+  }
 }
 
 
