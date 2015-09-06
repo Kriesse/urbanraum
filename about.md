@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title_de: "Info"
+title_en: "About"
 permalink: /about/
 ---
 

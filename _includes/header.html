@@ -15,13 +15,20 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% if page.title_en || page.title_de %}
+            <a  class="page-link"
+                href="{{ page.url | prepend: site.baseurl }}"
+                data-en="{{ page.title_en }}"
+                data-de="{{ page.title_de }}"
+                >
+              {{ page.title_en }}
+            </a>
           {% endif %}
         {% endfor %}
-        <div class="language-switch">
-          <a href="">en</a> | <a href="">de</a>
-        </div>
+      </div>
+
+      <div class="js-language-switch language-switch">
+        <a href="#" id="en">en</a> | <a href="#" id="de">de</a>
       </div>
     </nav>
 

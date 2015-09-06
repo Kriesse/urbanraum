@@ -10,10 +10,10 @@ $color-mint-cold: #7AB5b9;
 $color-mint-yellow: #a4d6ab;
 $color-pine: #006264;
 $color-text: #1C2624;
-$color-berry: #FF0044; 
+$color-berry: #FF0044;
 
 // Our variables
-$base-font-family: "Brandon Text", "Brandon Grotesque", "Helvetica Neue" Arial, Helvetica, sans-serif;
+$base-font-family: "Brandon Text", "Brandon Grotesque", "Helvetica Neue", Arial, Helvetica, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -66,3 +66,12 @@ $on-laptop:        800px;
         "layout",
         "posts"
 ;
+
+
+// hide flash of untranslated content
+[data-de], [data-en] {
+ visibility: hidden;
+  .lang-loaded & {
+    visibility: visible;
+  }
+}

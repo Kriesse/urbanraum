@@ -4,14 +4,23 @@ layout: default
 <div class="post">
 
   <header class="post__header">
-    <h1 class="post__title">{{ page.title }}</h1>
+    <h1 class="post__title"
+        data-en="{{ page.title_en }}"
+        data-de="{{ page.title_de }}">
+        {{ page.title_en }}
+    </h1>
     <p>
-      {{ page.type }} | Level: {{ page.level }} | mit <a href="{{ page.teacher-link }}">{{ page.teacher }}</a>
+      <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
+      |
+      <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
+      <span data-en="{{ page.time_en }}" data-de="{{ page.time_de }}">{{ page.time_en }}</span>
+      |
+      <a href="{{ page.teacher-link }}">{{ page.teacher }}</a>
     </p>
   </header>
 
   <article class="post__content">
-    
+
     <div class="post__details">
       <div class="post__media">
         <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
@@ -20,31 +29,41 @@ layout: default
       <div class="post__list">
         <ul>
           <li>
-            {{ page.weekday }} {{ page.time }}
+            <span class="label" data-en="{{ site.level_en }}" data-de="{{ site.level_de }}">{{ site.level_en }}</span>:
+            <span data-en="{{ page.level_en }}" data-de="{{ page.level_de }}">{{ page.level_en }}</span>
           </li>
           <li>
-            Kurssprache: {{ page.language }}
+            <span class="label" data-en="{{ site.language_en }}" data-de="{{ site.language_de }}">{{ site.language_en }}</span>:
+            <span data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
           </li>
           <li>
-            Dauer: {{ page.duration }}
+            <span class="label" data-en="{{ site.duration_en }}" data-de="{{ site.duration_de }}">{{ site.duration_en }}</span>:
+            <span data-en="{{ page.duration_en }}" data-de="{{ page.duration_de }}">{{ page.duration_en }}</span>
           </li>
           <li>
-            Kosten: {{ page.price }}
+            <span class="label" data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">{{ site.cost_en }}</span>:
+            <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">{{ page.price_en }}</span>
           </li>
+
+          {% if page.trial %}
           <li>
-            Probestunde: {{ page.trial }}
+            <span class="label" data-en="{{ site.trial_en }}" data-de="{{ site.trial_de }}">{{ site.trial_en }}</span>:
+            <span data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">{{ page.trial_en }}</span>
           </li>
+          {% endif %}
+
           <li>
-            Kontakt: <a href="mailto:{{ page.contact-link }}">{{ page.contact-link }}</a>
+            <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>:
+            <a href="mailto:{{ page.contact-link }}">{{ page.contact-link }}</a>
           </li>
         </ul>
       </div>
-      
+
     </div>
 
     <div class="post__description">
-      <p>
-        {{ page.description }}
+      <p data-en="{{ page.description_en }}" data-de="{{ page.description_de }}">
+        {{ page.description_en }}
       </p>
     </div>
 

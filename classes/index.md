@@ -1,12 +1,11 @@
 ---
   layout: default
-  title: Classes
+  title_en: Classes
+  title_de: Kurse
 ---
 
 {% assign classes=site.tags.classes %}
 {% assign overview=true %}
-
-<h2>All Classes:</h2>
 
 {% for post in classes %}
   <div class="post">

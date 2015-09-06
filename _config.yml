@@ -9,5 +9,19 @@ twitter_username: urbanraum
 facebook_username:  urbanraumberlin
 address: 	'Urbanstraße 93, 10967 Berlin'
 
+# Language Variables Class Page
+level_en: "Level"
+level_de: "Level"
+language_en: "Language"
+language_de: "Kurssprache"
+duration_en: "Duration"
+duration_de: "Dauer"
+cost_en: "Cost"
+cost_de: "Kosten"
+trial_de: "Probestunde"
+trial_en: "Trial"
+contact_de: "Kontakt"
+contact_en: "Contact"
+
 # Build settings
 markdown: kramdown
