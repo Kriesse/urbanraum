@@ -10,8 +10,8 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Advanced"
 level_de: "Fortgeschritten"
 
-price_en: "EUR 12 / class"
-price_de: "12 EUR / Stunde"
+price_en: "EUR 12 / single class"
+price_de: "12 EUR / Einzelstunde"
 
 duration_en: "90 min"
 duration_de: "90 min"

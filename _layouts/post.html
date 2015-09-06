@@ -16,6 +16,9 @@ layout: default
       <span data-en="{{ page.time_en }}" data-de="{{ page.time_de }}">{{ page.time_en }}</span>
       |
       <a href="{{ page.teacher-link }}">{{ page.teacher }}</a>
+      {% if page.teacher_2 %}
+        & <a href="{{ page.teacher-link_2 }}">{{ page.teacher_2 }}</a>
+      {% endif %}
     </p>
   </header>
 
@@ -27,31 +30,32 @@ layout: default
       </div>
 
       <div class="post__list">
-        <ul>
+        <ul class="detail-list">
           <li>
-            <span class="label" data-en="{{ site.level_en }}" data-de="{{ site.level_de }}">{{ site.level_en }}</span>:
+            <span class="label" data-en="{{ site.level_en }}" data-de="{{ site.level_de }}">{{ site.level_en }}</span>
             <span data-en="{{ page.level_en }}" data-de="{{ page.level_de }}">{{ page.level_en }}</span>
           </li>
           <li>
-            <span class="label" data-en="{{ site.language_en }}" data-de="{{ site.language_de }}">{{ site.language_en }}</span>:
+            <span class="label" data-en="{{ site.language_en }}" data-de="{{ site.language_de }}">{{ site.language_en }}</span>
             <span data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
           </li>
           <li>
-            <span class="label" data-en="{{ site.duration_en }}" data-de="{{ site.duration_de }}">{{ site.duration_en }}</span>:
+            <span class="label" data-en="{{ site.duration_en }}" data-de="{{ site.duration_de }}">{{ site.duration_en }}</span>
             <span data-en="{{ page.duration_en }}" data-de="{{ page.duration_de }}">{{ page.duration_en }}</span>
           </li>
+          {% if page.trial_en || page.trial_de %}
           <li>
-            <span class="label" data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">{{ site.cost_en }}</span>:
-            <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">{{ page.price_en }}</span>
-          </li>
-
-          <li>
-            <span class="label" data-en="{{ site.trial_en }}" data-de="{{ site.trial_de }}">{{ site.trial_en }}</span>:
+            <span class="label" data-en="{{ site.trial_en }}" data-de="{{ site.trial_de }}">{{ site.trial_en }}</span>
             <span data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">{{ page.trial_en }}</span>
           </li>
-
+          {% endif %}
+          
           <li>
-            <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>:
+            <span class="label" data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">{{ site.cost_en }}</span>
+            <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">{{ page.price_en }}</span>
+          </li>
+          <li>
+            <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>
             <a href="mailto:{{ page.contact-link }}">{{ page.contact-link }}</a>
           </li>
         </ul>

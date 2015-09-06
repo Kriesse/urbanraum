@@ -1,6 +1,6 @@
 # Site settings
 title: Urbanraum
-email: kontakt@urbanraum.de
+email: info@urbanraum.com
 description: > # this means to ignore newlines until "baseurl:"
   "Urbanraum ist ein Raum für Bewegung, Tanz und Improvisation. Zeitgenössisch, offen, in Berlin Neukölln."
 baseurl: "/urbanraum/" # the subpath of your site, e.g. /blog/
@@ -9,7 +9,8 @@ twitter_username: urbanraum
 facebook_username:  urbanraumberlin
 address: 	'Urbanstraße 93, 10967 Berlin'
 
-# Language Variables Class Page
+
+# Language Variables
 level_en: "Level"
 level_de: "Level"
 language_en: "Language"
@@ -22,6 +23,7 @@ trial_de: "Probestunde"
 trial_en: "Trial"
 contact_de: "Kontakt"
 contact_en: "Contact"
+
 
 # Build settings
 markdown: kramdown

@@ -25,15 +25,13 @@ time_de: "10:00 Uhr"
 language_en: "German"
 language_de: "Deutsch"
 
-trial_en: "First class free"
-trial_de: "Erste Stunde umsonst"
 
 description_en: "<p>This workshop is open to all levels. As long as you like to move and are willing to let yourself being taken by the dynamic of the movement, enjoying falling and flying, you are welcome to join!
 We might have to limit the number of participants, so if you plan to come please register early on.
 </p>
 <p>
 Dear dance enthusiasts, we have again the pleasure to invite you to our next Contact-Improvisation workshop in Berlin! After two very fruitful and enjoyable meetings in Berlin and Leipzig we want to keep on sharing our research around the use of dynamics in contact improvisation. Enjoying the momentum, more than ever!
-Jumping around, falling together, lifting and flying each other… once again we will give you the possibility to discover various ways to play with the momentum, using it to feel, enjoy, create and sweat.
+Jumping around, falling together, lifting and flying each other… we will give you the possibility to discover various ways to play with the momentum, using it to feel, enjoy, create and sweat.
 </p>
 <p>
 <h3>Playing with the gravity</h3>
@@ -65,7 +63,10 @@ https://www.facebook.com/maciws"
 description_de: "nicht verfügbar"
 
 teacher: "Vega Luukkonen"
+teacher-link: ""
 teacher_2: "Charlie Fouchier"
+teacher-link_2_: ""
+
 contact-link: momentum.acrobatics@gmail.com
 tags: workshops
 image: "workshop-momentumacrobatics-01.jpg"
