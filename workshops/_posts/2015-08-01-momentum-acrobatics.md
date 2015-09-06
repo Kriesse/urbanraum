@@ -30,7 +30,7 @@ description_en: "<p>This workshop is open to all levels. As long as you like to 
 We might have to limit the number of participants, so if you plan to come please register early on.
 </p>
 <p>
-Dear dance enthusiasts, we have again the pleasure to invite you to our next Contact-Improvisation workshop in Berlin! After two very fruitful and enjoyable meetings in Berlin and Leipzig we want to keep on sharing our research around the use of dynamics in contact improvisation. Enjoying the momentum, more than ever!
+Dear dance enthusiasts, we have again the pleasure to invite you to our next Contact-Improvisation workshop in Berlin! After two very fruitful and enjoyable meetings in Berlin and Leipzig we want to keep on sharing our research around the use of dynamics in Contact-Improvisation. Enjoying the momentum, more than ever!
 Jumping around, falling together, lifting and flying each other… we will give you the possibility to discover various ways to play with the momentum, using it to feel, enjoy, create and sweat.
 </p>
 <p>
@@ -54,11 +54,14 @@ During the workshop we will discover how lifts can be understood as a smooth wei
 <p>
 Once again we are looking forward to share a weekend of playful and dynamic dances with you!
 </p>
-
-
-LINK to the Facebook event : https://www.facebook.com/events/933505286711533/
-www.charliefouchier.worpress.com/maci
-https://www.facebook.com/maciws"
+<p>
+  <a href='https://www.facebook.com/events/933505286711533/'>Facebook Event</a> 
+  <br>
+  <a href='http://www.charliefouchier.wordpress.com/maci'>charliefouchier.wordpress.com/maci</a>
+  <br>
+  <a href='https://www.facebook.com/maciws'>facebook.com/maciws</a>
+</p>
+"
 
 description_de: "nicht verfügbar"
 
