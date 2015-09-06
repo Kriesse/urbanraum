@@ -2,8 +2,7 @@
 
   <div class="wrapper wrapper--wide">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
+      <div class="site-footer__social">
 
         {% if site.facebook_username %}
           <a href="https://facebook.com/{{ site.facebook_username }}" class="footer-link">
@@ -34,14 +33,14 @@
             <span class="username">{{ site.twitter_username }}</span>
           </a>
         {% endif %}
+          
+        </div>
 
-      </div>
 
-      <div class="footer-col">
-        <div class="text--right">
+      <div class="site-footer__address">
           {{ site.address }} | <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </div>
-      </div>
+     
     </div>
 
   </div>

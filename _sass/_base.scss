@@ -28,7 +28,7 @@ body {
   font-weight: 300;
   color: $color-text;
   -webkit-text-size-adjust: 100%;
-  @include media-query-min($on-palm) {
+  @include media-query-min($on-tablet) {
     border: $spacing-unit solid $color-white;
   }
 }
@@ -157,12 +157,16 @@ pre {
 
 // Gives the frame to the site
 .site-wrapper {
-  min-height: -webkit-calc(100vh - (#{$spacing-unit} * 2));
-  min-height:         calc(100vh - (#{$spacing-unit} * 2));
-  width:      -webkit-calc(100% - (#{$spacing-unit} * 2));
-  width:              calc(100% - (#{$spacing-unit} * 2));
+  min-height: 100%;
+  width: 100%;
   background: $color-background url('../img/urbanraum-bg-bright.jpg') no-repeat center;
   position: fixed;
+  @include media-query-min($on-laptop) {
+    min-height: -webkit-calc(100vh - (#{$spacing-unit} * 2));
+    min-height:         calc(100vh - (#{$spacing-unit} * 2));
+    width:      -webkit-calc(100% - (#{$spacing-unit} * 2));
+    width:              calc(100% - (#{$spacing-unit} * 2));
+  }
 }
 
 
@@ -219,8 +223,17 @@ pre {
 }
 
 
-// helpers 
+// helpers
 
 .text--right {
   text-align: right;
+}
+
+
+// translations, hide flash of untranslated content
+[data-de], [data-en] {
+ visibility: hidden;
+  .lang-loaded & {
+    visibility: visible;
+  }
 }

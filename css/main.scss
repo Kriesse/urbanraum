@@ -24,7 +24,7 @@ $height-header:    90px;
 $height-footer:    60px;
 
 $color-text:       $color-text;
-$color-background: #f3f8f2;
+$color-background: #F3F8F2;
 $color-brand:      $color-mint;
 
 $grey-color:       #828282;
@@ -34,13 +34,13 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-tablet:        680px;
+$on-laptop:        900px;
 
 
 
 // Using media queries with like this:
-// @include media-query($on-palm) {
+// @include media-query($on-tablet) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
@@ -67,11 +67,3 @@ $on-laptop:        800px;
         "posts"
 ;
 
-
-// hide flash of untranslated content
-[data-de], [data-en] {
- visibility: hidden;
-  .lang-loaded & {
-    visibility: visible;
-  }
-}

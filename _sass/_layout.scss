@@ -18,42 +18,56 @@
 
 .language-switch {
   margin-left: 20px;
-  float: right;
 }
 
 .site-nav {
   float: right;
   line-height: $height-header;
+  z-index: 10;
   .menu-icon {
     display: none;
+    float: right;
+    width: 36px;
+    height: $height-header;
+    line-height: 0;
+    padding-top: 38px;
+    text-align: center;
+    > svg {
+      width: 18px;
+      height: 15px;
+    }
   }
-  @include media-query($on-palm) {
+  .trigger {
+    float: right;
+  }
+  .language-switch {
+    float: right;
+  }
+  @include media-query($on-tablet) {
     position: absolute;
-    top: 30px;
-    right: 30px;
-    background-color: transparent;
+    top: 0;
+    right: 16px;
     text-align: right;
     .menu-icon {
       display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-      > svg {
-          width: 18px;
-          height: 15px;
-      }
     }
     .trigger {
       clear: both;
       display: none;
     }
+    .language-switch {
+      float: none;
+    }
     &:hover .trigger {
       display: block;
-      padding-bottom: 5px;
+      padding-top: 30px;
+      padding-bottom: 25px;
       background-color: $color-white;
+      position: absolute;
+      top: 0;
+      right: 0;
+      min-width: 320px;
+      height: 100vw;
     }
   }
 }
@@ -66,7 +80,7 @@
   &:not(:first-child) {
     margin-left: 20px;
   }
-  @include media-query-min($on-palm) {
+  @include media-query-min($on-tablet) {
     display: inline-block;
     padding: 0;
   }
@@ -85,41 +99,21 @@
   position: relative;
   padding: $spacing-unit 0;
   min-height: $height-footer;
+  text-align: center;
 }
 
-
-.footer-col-wrapper {
-  font-size: 14px;
-  margin-left: -$spacing-unit / 2;
-  @extend %clearfix;
+.site-footer__social {
+  @include media-query-min($on-tablet) {
+    float: left;
+    text-align: left;
+  }
 }
 
-.footer-col {
-  float: left;
-  padding-left: $spacing-unit / 2;
-  width: 50%;
-}
-
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
+.site-footer__address {
+  @include media-query-min($on-tablet) {
+    float: right;
+    text-align: right;
+  }
 }
 
 
