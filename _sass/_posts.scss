@@ -61,3 +61,43 @@
     
   }
 }
+
+
+
+
+
+
+// Post list on overview pages
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 3em;
+}
+
+.gallery__item {
+  background-color: $color-pine;
+  max-width: 25%;
+}
+
+.post__link {
+  display: block;
+  overflow: hidden;
+  font-size: 24px;
+  clear: both;
+  position: relative;
+}
+
+.post__img {
+  width: 100%;
+}
+
+.post__meta {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: .5em;
+  font-size: .75em;
+  background-color: rgba(0,0,0,.8);
+}

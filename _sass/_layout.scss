@@ -132,29 +132,3 @@
   font-size: 20px;
 }
 
-.post-list {
-    margin-left: 0;
-    list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit;
-    }
-}
-
-.post-meta {
-  font-size: $small-font-size;
-}
-
-.post__link {
-  display: block;
-  overflow: hidden;
-  margin-bottom: 1.5em;
-  font-size: 24px;
-  clear: both;
-}
-
-.post__img {
-  float: left;
-  margin-right: 20px;
-  max-width: 100px;
-}
