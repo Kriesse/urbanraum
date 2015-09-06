@@ -145,8 +145,16 @@
   font-size: $small-font-size;
 }
 
-.post-link {
-    display: block;
-    font-size: 24px;
+.post__link {
+  display: block;
+  overflow: hidden;
+  margin-bottom: 1.5em;
+  font-size: 24px;
+  clear: both;
 }
 
+.post__img {
+  float: left;
+  margin-right: 20px;
+  max-width: 100px;
+}
