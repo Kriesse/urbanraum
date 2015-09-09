@@ -11,6 +11,8 @@ address: 	'Urbanstraße 93, 10967 Berlin'
 
 
 # Language Variables
+termin_en: "Date"
+termin_de: "Termin"
 level_en: "Level"
 level_de: "Level"
 language_en: "Language"

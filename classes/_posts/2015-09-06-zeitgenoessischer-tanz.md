@@ -13,14 +13,14 @@ level_de: "Fortgeschritten"
 price_en: "EUR 12 / single class"
 price_de: "12 EUR / Einzelstunde"
 
-duration_en: "90 min"
-duration_de: "90 min"
-
 weekday_en: "Montag"
 weekday_de: "Monday"
 
 time_en: "8:30 pm"
 time_de: "20:30 Uhr"
+
+endtime_en: "10 pm"
+endtime_de: "22:00 Uhr"
 
 language_en: "German"
 language_de: "Deutsch"

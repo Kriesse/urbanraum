@@ -78,7 +78,7 @@
 
 .gallery__item {
   background-color: $color-pine;
-  max-width: 25%;
+  max-width: 50%;
 }
 
 .post__link {
@@ -98,6 +98,16 @@
   bottom: 0;
   width: 100%;
   padding: .5em;
-  font-size: .75em;
-  background-color: rgba(0,0,0,.8);
+  font-size: .65em;
+  background-color: rgba(0,0,0,.3);
+  color: $color-white;
+  .post__meta__hidden {
+    display: none;
+  }
+  .post__link:hover & {
+    background-color: rgba(0,0,0,.8);
+    .post__meta__hidden {
+      display: block;
+    }
+  }
 }

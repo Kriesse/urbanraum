@@ -14,7 +14,11 @@
         <a  class="post__link"
             href="{{ post.url | prepend: site.baseurl }}">
           <div class="post__img">
-            <img src="{{ site.baseurl }}/img/{{post.image}}" class="img-flex" />
+            {% if post.image %}
+              <img src="{{ site.baseurl }}/img/{{ post.image }}" class="img-flex" />
+            {% else %}
+              <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
+            {% endif %}
           </div>
           <div  class="post__meta">
             <span data-en="{{ post.title_en }}" data-de="{{ post.title_de }}">

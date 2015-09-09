@@ -118,9 +118,7 @@
 
 
 
-/**
- * Page content
- */
+// Page content
 .page-content {
   position: relative;
   padding: $spacing-unit 0;
@@ -132,3 +130,9 @@
   font-size: 20px;
 }
 
+
+// Homepage
+.intro {
+  font-size: 1.2em;
+  margin-bottom: 2em;
+}

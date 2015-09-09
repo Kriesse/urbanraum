@@ -13,14 +13,14 @@ level_de: "Fortgeschritten"
 price_en: "120€. EarlyBird (ends 30.9.) and Profi: 90€. If the price is a problem for you, contact us."
 price_de: "120€. EarlyBird (ends 30.9.) and Profi: 90€. If the price is a problem for you, contact us."
 
-duration_en: "90 min"
-duration_de: "90 min"
-
 date_en: "17. & 18.10.2015"
 date_de: "17. & 18.10.2015"
 
-time_en: "10:00 am"
+time_en: "10 am"
 time_de: "10:00 Uhr"
+
+endtime_en: "?"
+endtime_de: "?"
 
 language_en: "German"
 language_de: "Deutsch"
