@@ -28,17 +28,17 @@ layout: default
         {% else %}
           <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
         {% endif %}
-        
+
       </div>
 
       <div class="post__list">
         <ul class="detail-list">
           <li>
-            <span class="label" data-en="{{ site.termin_en }}" data-de="{{ site.termin_de }}">{{ site.termin_en }}</span> 
+            <span class="label" data-en="{{ site.termin_en }}" data-de="{{ site.termin_de }}">{{ site.termin_en }}</span>
             <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
-  
+
            {% if page.date_en || page.date_de %}
-              <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>, 
+              <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
             {% endif %}
             <span data-en="{{ page.time_en }}" data-de="{{ page.time_de }}">{{ page.time_en }}</span>
             –
@@ -58,7 +58,7 @@ layout: default
             <span data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">{{ page.trial_en }}</span>
           </li>
           {% endif %}
-          
+
           <li>
             <span class="label" data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">{{ site.cost_en }}</span>
             <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">{{ page.price_en }}</span>

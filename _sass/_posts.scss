@@ -33,6 +33,13 @@
   padding-right: $spacing-unit;
 }
 
+.post__media--full-width {
+  width: 100%;
+  float: none;
+  text-align: center;
+  padding-right: 0;
+}
+
 .post__list {
   width: 50%;
   float: right;

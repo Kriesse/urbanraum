@@ -1,11 +1,11 @@
 ---
 layout: page
-title_de: "Info"
+title_de: "Information"
 title_en: "About"
 permalink: /about/
+image: "raum-01.jpg"
 ---
 
-# Über Urbanraum
 
 Urbanraum ist ein Raum, an dem Kinder, Erwachsene und Profi-Tänzer einen Ort finden, sich zu bewegen, zu tanzen, zu improvisieren, zu lernen. Urbanraum steht für qualitativ hochwertigen Tanz- und Bewegungs-Unterricht, bietet eine Bandbreite an Kursen und ist die Adresse für Tanz in Kreuzberg/Neukölln. Urbanraum will ein Ort sein, an dem man sich gerne aufhält und steht Tänzern aller Altersgruppen und Erfahrungsstufen offen.
 
