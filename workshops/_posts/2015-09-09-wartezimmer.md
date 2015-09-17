@@ -13,8 +13,8 @@ level_de: "Fortgeschritten"
 price_en: "Attendee fee EUR 45"
 price_de: "Teilnahmegebühr EUR 45"
 
-weekday_en: "Sunday"
-weekday_de: "Sonntag"
+date_en: "October 11 2015"
+date_de: "11. Oktober 2015"
 
 time_en: "11 am"
 time_de: "11:00 Uhr"

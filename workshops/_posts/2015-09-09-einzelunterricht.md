@@ -13,11 +13,8 @@ level_de: "Fortgeschritten"
 price_en: "EUR 10"
 price_de: "10 EUR"
 
-weekday_en: "Friday"
-weekday_de: "Freitag"
-
-date_en: "25.09.15"
-date_de: "25.09.15"
+date_en: "September 25 2015"
+date_de: "25. September 2015"
 
 time_en: "8.30 pm"
 time_de: "20.30 Uhr"
