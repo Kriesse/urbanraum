@@ -9,11 +9,14 @@
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: $height-header;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
+  font-size: 26px;
+  line-height: $height-header;
+  margin-bottom: 0;
+  float: left;
+  svg {
+    display: block;
+    max-width: 180px;
+  }
 }
 
 .language-switch {
