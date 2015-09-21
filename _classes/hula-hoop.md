@@ -30,9 +30,8 @@ description_de: "Kristin Lahoop bringt euch das Hoopen bei! Wir starten den Kurs
 
 teacher: "Kristin Lahoop"
 teacher-link: "friederike-erhart"
-contact-link: kristin@lahoop.de
+email: kristin@lahoop.de
 image: "class-hulahoop-01.jpg"
-video: ""
 
 ---
 

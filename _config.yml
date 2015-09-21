@@ -25,8 +25,8 @@ trial_de: "Probestunde"
 trial_en: "Trial"
 contact_de: "Kontakt"
 contact_en: "Contact"
-level-all_de: "All"
-level-all_en: "Alle"
+level-all_en: "All"
+level-all_de: "Alle"
 
 
 # Build settings
@@ -57,6 +57,9 @@ defaults:
     values:
       layout: post
       tags: classes
+      level_en: All
+      level_de: Alle
+      email: info@urbanraum.de
   -
     scope:
       path: ""
@@ -64,3 +67,6 @@ defaults:
     values:
       layout: post
       tags: workshops
+      level_en: All
+      level_de: Alle
+      email: info@urbanraum.de

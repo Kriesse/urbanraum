@@ -30,9 +30,8 @@ description_de: "Wir beginnen mit Atem- und Konzentrationsübungen, unser Geist 
 
 teacher: "Meritxell Campos Olivé"
 teacher-link: "friederike-erhart"
-contact-link: friedastaire@gmx.de
+email: friedastaire@gmx.de
 image: "workshop-einzelunterricht-01.jpg"
-video: ""
 
 ---
 

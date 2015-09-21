@@ -15,7 +15,7 @@ Zusätzliche Ausbildungen: Projekt Minotaurus, Identität und Die vier Elemente.
 Aktuell Leiterin der Biodanza Schule Berlin- Mitte, System Rolando Toro.
 "
 
-contact-link: "sammo.lusa@googlemail.com"
+email: "sammo.lusa@googlemail.com"
 tags: teachers
 image: "teacher-sammo-lusa-01.jpg"
 video: 

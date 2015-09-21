@@ -9,9 +9,6 @@ subtitle_de:
 type_en: "Workshop"
 type_de: "Workshop"
 
-level_en: "?"
-level_de: "?"
-
 price_en: "
 70 EUR monatlich für zwei Termine
 40 EUR monatlich für einen Termin
@@ -55,9 +52,8 @@ Kennenlern-Workshop am 28. September, 8:00 - 11:00, 8 EUR.
 
 teacher: "Karina Suárez-Bosche"
 teacher-link: "friederike-erhart"
-contact-link: friedastaire@gmx.de
+email: friedastaire@gmx.de
 image: "workshop-yoga-01.jpg"
-video: ""
 
 ---
 

@@ -9,9 +9,6 @@ subtitle_de:  "Menschen mit- und ohne Beeinträchtigungen"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "?"
-level_de: "?"
-
 price_en: "?"
 price_de: "?"
 
@@ -36,9 +33,8 @@ description_de: "Wir nehmen achtsam Kontakt zum Raum um uns herum, zu uns selbst
 
 teacher: "Claudia Neumeyer"
 teacher-link: "friederike-erhart"
-contact-link: jederkanntanzen@web.de
+email: jederkanntanzen@web.de
 image: "class-improvisation-fuer-alle-01.jpg"
-video: ""
 
 ---
 

@@ -41,7 +41,7 @@ description_de: "<p>Das Wartezimmer ist ein Ort, an dem Zeit, Raum und menschlic
 
 teacher: "?"
 teacher-link: "friederike-erhart"
-contact-link: mbrodolini@camposolive.de
+email: mbrodolini@camposolive.de
 image: "workshop-wartezimmer-01.jpg"
 video: ""
 

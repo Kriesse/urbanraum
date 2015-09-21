@@ -9,9 +9,6 @@ subtitle_de:
 type_en: "Workshop"
 type_de: "Workshop"
 
-level_en:
-level_de:
-
 price_en: "EUR 45 monthly"
 price_de: "45 EUR monatlich"
 
@@ -50,9 +47,7 @@ Kennenlern-Workshop am 2. Oktober, 10:00 - 12:00, 8 EUR.
 
 teacher: "Karina Suárez-Bosche"
 teacher-link: "friederike-erhart"
-contact-link: friedastaire@gmx.de
 image: "workshop-contact-improvisation-01.jpg"
-video: ""
 
 ---
 

@@ -68,9 +68,8 @@ teacher-link: "friederike-erhart"
 teacher_2: "Charlie Fouchier"
 teacher-link_2: "friederike-erhart"
 
-contact-link: momentum.acrobatics@gmail.com
+email: momentum.acrobatics@gmail.com
 image: "workshop-momentumacrobatics-01.jpg"
-video: ""
 
 ---
 

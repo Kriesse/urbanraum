@@ -51,9 +51,8 @@ nicht verfügbar
 
 teacher: "Bruno Eap"
 teacher-link: "friederike-erhart"
-contact-link: friedastaire@gmx.de
+email: friedastaire@gmx.de
 image: "workshop-qigong-01.png"
-video: ""
 
 ---
 

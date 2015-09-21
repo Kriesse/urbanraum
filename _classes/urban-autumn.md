@@ -50,9 +50,8 @@ nicht verfügbar
 
 teacher: "Iliana Aladdin"
 teacher-link: "friederike-erhart"
-contact-link: "lynnkalapotharakou@gmail.com"
+email: "lynnkalapotharakou@gmail.com"
 image: "workshop-urban-autumn-01.png"
-video: ""
 
 ---
 

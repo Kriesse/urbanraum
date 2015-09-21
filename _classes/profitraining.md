@@ -53,10 +53,9 @@ teacher-link: "friederike-erhart"
 teacher_2: "Heidi Weiss"
 teacher-link_2: "friederike-erhart"
 
-contact-link: friedastaire@gmx.de
+email: friedastaire@gmx.de
 tags: classes
 image: 
-video: 
 
 ---
 
