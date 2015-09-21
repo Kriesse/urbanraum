@@ -9,8 +9,8 @@ subtitle_de:
 type_en: "Workshop"
 type_de: "Workshop"
 
-level_en: "?"
-level_de: "?"
+level_en:
+level_de:
 
 price_en: "EUR 45 monthly"
 price_de: "45 EUR monatlich"

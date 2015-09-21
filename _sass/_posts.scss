@@ -72,7 +72,10 @@
   }
   .label {
     text-transform: uppercase;
-    font-size: .8em;
+    font-size: .9em;
+    &:after {
+      content: ":"
+    }
   }
   .content {
 
