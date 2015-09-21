@@ -44,7 +44,7 @@ Darum, unsere moralischen Grenzen zu brechen und einen Dialog der Bewegung zu sc
 <br>
 Eine Arbeit, die auch eine Integration und persönliche Recherche der eigenen Bewegungssprache auslöst.
 <br>
-Wöchentlich ab dem ab dem 9.Oktober 2015
+Wöchentlich ab dem 9.Oktober 2015
 <br>
 Kennenlern-Workshop am 2. Oktober, 10:00 - 12:00, 8 EUR.
 "

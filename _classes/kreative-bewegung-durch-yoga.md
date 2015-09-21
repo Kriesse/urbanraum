@@ -49,7 +49,7 @@ In ihrem morgendlichen Yoga-Kurs verbindet die zeitgenössische Tänzerin Karina
 Montags und Freitags: 8:00 - 9:30
 ab den 02.10.2015
 <br>
-Wöchentlich ab dem ab dem 1.Oktober 2015
+Wöchentlich ab dem 1.Oktober 2015
 <br>
 Kennenlern-Workshop am 28. September, 8:00 - 11:00, 8 EUR.
 "
