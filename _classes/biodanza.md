@@ -46,8 +46,9 @@ Durch Bewegung bringen wir den Strom des Lebens in unserem Körper zu Fließen u
 </p>
 '
 
-teacher: "?"
-contact-link: friedastaire@gmx.de
+teacher: "Sammo Lusa"
+teacher-link: "sammo-lusa"
+contact-link: sammo.lusa@googlemail.com
 tags: classes
 image: "class-biodanza-01.jpg"
 video:

@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post__header">
+    <h1 class="post__title">
+      {{ page.teacher_name }}
+    </h1>
+  </header>
+
+  <article class="post__content">
+
+    <div class="post__details">
+      <div class="post__media">
+        {% if page.image %}
+          <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
+        {% else %}
+          <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
+        {% endif %}
+
+      </div>
+
+      <div class="post__aside">
+        <div class="post__bio" data-en="{{ page.bio_en }}" data-de="{{ page.bio_de }}">
+          {{ page.bio_en }}
+        </div>
+
+        <ul class="post__list">
+          <li>
+            <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>
+            <a href="mailto:{{ page.contact-link }}">{{ page.contact-link }}</a>
+          </li>
+        </ul>
+
+      </div>
+
+    </div>
+
+    <div class="post__description">
+      {{ content }}
+    </div>
+
+
+
+
+    </div>
+
+  </article>
+
+
+</div>

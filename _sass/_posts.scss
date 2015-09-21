@@ -31,6 +31,16 @@
   margin-bottom: 2 * $spacing-unit;
 }
 
+.post__aside {
+  width: 50%;
+  float: right;
+  padding-left: $spacing-unit;
+}
+
+.post__bio {
+  margin-bottom: $spacing-unit;
+}
+
 .post__media {
   width: 50%;
   float: left;
@@ -46,14 +56,9 @@
 }
 
 .post__list {
-  width: 50%;
-  float: right;
-  padding-left: $spacing-unit;
-  ul  {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .post__description {
@@ -61,7 +66,7 @@
   margin: 0 auto 3rem;
 }
 
-.detail-list {
+.post__list {
   li {
     margin-bottom: .5em;
   }
@@ -73,7 +78,6 @@
 
   }
 }
-
 
 
 
@@ -91,6 +95,10 @@
 .gallery__item {
   max-width: 50%;
   padding: .5em;
+}
+
+.gallery__item--small {
+  max-width: 25%;
 }
 
 .post__link {

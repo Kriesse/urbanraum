@@ -19,7 +19,7 @@ layout: default
     <p>
       <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
       |
-      <a href="{{ page.teacher-link }}">{{ page.teacher }}</a>
+      <a href="{{ site.baseurl }}/teachers/{{ page.teacher-link }}.html">{{ page.teacher }}</a>
       {% if page.teacher_2 %}
         & <a href="{{ page.teacher-link_2 }}">{{ page.teacher_2 }}</a>
       {% endif %}
@@ -38,8 +38,8 @@ layout: default
 
       </div>
 
-      <div class="post__list">
-        <ul class="detail-list">
+      <div class="post__aside">
+        <ul class="post__list">
           <li>
             <span class="label" data-en="{{ site.termin_en }}" data-de="{{ site.termin_de }}">{{ site.termin_en }}</span>
             <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
