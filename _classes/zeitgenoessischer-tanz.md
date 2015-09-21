@@ -32,7 +32,7 @@ description_de: "Der Kurs richtet sich an alle Bewegungsbegeisterten mit tänzer
 
 teacher: "Friederike Erhart"
 teacher-link: "friederike-erhart"
-email: friedastaire@gmx.de
+email: info@urbanraum.de
 image: "class-contemporary-01.jpg"
 
 ---

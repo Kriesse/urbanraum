@@ -51,7 +51,7 @@ nicht verfügbar
 
 teacher: "Bruno Eap"
 teacher-link: "friederike-erhart"
-email: friedastaire@gmx.de
+email: info@urbanraum.de
 image: "workshop-qigong-01.png"
 
 ---

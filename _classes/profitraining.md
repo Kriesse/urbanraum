@@ -53,7 +53,7 @@ teacher-link: "friederike-erhart"
 teacher_2: "Heidi Weiss"
 teacher-link_2: "friederike-erhart"
 
-email: friedastaire@gmx.de
+email: info@urbanraum.de
 tags: classes
 image: 
 

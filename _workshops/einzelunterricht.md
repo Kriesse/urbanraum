@@ -30,7 +30,7 @@ description_de: "Wir beginnen mit Atem- und Konzentrationsübungen, unser Geist 
 
 teacher: "Meritxell Campos Olivé"
 teacher-link: "friederike-erhart"
-email: friedastaire@gmx.de
+email: info@urbanraum.de
 image: "workshop-einzelunterricht-01.jpg"
 
 ---

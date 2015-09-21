@@ -52,7 +52,7 @@ Kennenlern-Workshop am 28. September, 8:00 - 11:00, 8 EUR.
 
 teacher: "Karina Suárez-Bosche"
 teacher-link: "friederike-erhart"
-email: friedastaire@gmx.de
+email: info@urbanraum.de
 image: "workshop-yoga-01.jpg"
 
 ---
