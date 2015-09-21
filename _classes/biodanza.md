@@ -42,7 +42,7 @@ Biodanza ist ein System von Erfahrungen, das Musik, Bewegung und Begegnungsübun
 <br>
 Biodanza lässt sich inspirieren von den jüngsten Forschungsergebnissen der Neurowissenschaft und der Humanwissenschaften und bietet einen kontinuierlichen Anreiz für freudvolle Bewegung, für die Aufnahme von Beziehungen zu anderen, für den Mut, sich auszudrücken, für die Wahrnehmung des eigenen natürlichen Rhythmus, dafür, das Lebens zu fühlen statt es nur zu denken, für ein Selbstwertgefühl und das Bewusstsein für die eigene Identität.
 <br>
-Durch Bewegung bringen wir den Strom des Lebens in unserem Körper zu Fließen und gestalten im Tanz unseren eigenen Ausdruck von Kraft, Lebendigkeit und Liebe.
+Durch Bewegung bringen wir den Strom des Lebens in unserem Körper zum fließen und gestalten im Tanz unseren eigenen Ausdruck von Kraft, Lebendigkeit und Liebe.
 </p>
 '
 
