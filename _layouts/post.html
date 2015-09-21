@@ -4,11 +4,18 @@ layout: default
 <div class="post">
 
   <header class="post__header">
-    <h1 class="post__title"
-        data-en="{{ page.title_en }}"
-        data-de="{{ page.title_de }}">
-        {{ page.title_en }}
+    <h1 class="post__title">
+        <span data-en="{{ page.title_en }}"
+              data-de="{{ page.title_de }}">
+              {{ page.title_en }}
+        </span>
+        <span class="post__subtitle"
+              data-en="{{ page.subtitle_en }}"
+              data-de="{{ page.subtitle_de }}">
+              {{ page.subtitle_en }}
+        </span>
     </h1>
+    
     <p>
       <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
       |
