@@ -36,7 +36,7 @@ description_de: "Wir nehmen achtsam Kontakt zum Raum um uns herum, zu uns selbst
 
 teacher: "Claudia Neumeyer"
 teacher-link: "friederike-erhart"
-contact-link: friedastaire@gmx.de
+contact-link: jederkanntanzen@web.de
 image: "class-improvisation-fuer-alle-01.jpg"
 video: ""
 
