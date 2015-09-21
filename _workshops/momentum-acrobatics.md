@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title_en:  "Momentum & Acrobatics in Contact-Improvisation 3rd. Edition"
 title_de:  "Momentum & Acrobatics in Contact-Improvisation 3rd. Edition"
 
@@ -66,12 +64,11 @@ Once again we are looking forward to share a weekend of playful and dynamic danc
 description_de: "nicht verfügbar"
 
 teacher: "Vega Luukkonen"
-teacher-link: ""
+teacher-link: "friederike-erhart"
 teacher_2: "Charlie Fouchier"
-teacher-link_2_: ""
+teacher-link_2: "friederike-erhart"
 
 contact-link: momentum.acrobatics@gmail.com
-tags: workshops
 image: "workshop-momentumacrobatics-01.jpg"
 video: ""
 

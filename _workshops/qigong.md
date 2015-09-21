@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title_en:  "Qi Gong"
 title_de:  "Qi Gong"
 
@@ -52,8 +50,8 @@ nicht verfügbar
 "
 
 teacher: "Bruno Eap"
-contact-link: 
-tags: workshops
+teacher-link: "friederike-erhart"
+contact-link: friedastaire@gmx.de
 image: "workshop-qigong-01.png"
 video: ""
 

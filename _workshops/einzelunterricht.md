@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title_en:  "Einzelunterricht"
 title_de:  "Einzelunterricht"
 
@@ -31,8 +29,8 @@ description_en: "not available"
 description_de: "Wir beginnen mit Atem- und Konzentrationsübungen, unser Geist ist entspannt, unser Körper ist wach und bereit für die Bewegung. Es folgen Übungen in tänzerischer Basistechnik, Isolationen, Koordination, Yoga, isometrischem Training und intensiver Bodenarbeit. Dabei ist unsere Wahrnehmung auf das Hier und Jetzt fokussiert. Wir wecken unsere Kreativität und Ausdruckskraft mit Improvisationen sowohl für jeden Einzelnen, als auch in der Kommunikation und Interaktion mit der Gruppe. Im letzten Teil des Unterricht erarbeiten wir eine choreographische Sequenz, die verschiedene Elemente aus dem vorbereitenden Teil wieder aufgreift: den Bewegungsfluss, Kontraktionen, Impuls und Reaktion, Drehungen, Sprünge, Schritte innerhalb und außerhalb der Körperachse. Emotion, Expressivität und interpretative Fähigkeiten werden geschult und bereichert. Musik - ohne stilistische Beschränkung - spielt eine tragende Rolle; Sie motiviert und inspiriert uns bei allen Bewegungen und Emotionen."
 
 teacher: "Meritxell Campos Olivé"
-contact-link: 
-tags: workshops
+teacher-link: "friederike-erhart"
+contact-link: friedastaire@gmx.de
 image: "workshop-einzelunterricht-01.jpg"
 video: ""
 

@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title_en:  "Biodanza"
 title_de:  "Biodanza"
 
@@ -49,7 +47,6 @@ Durch Bewegung bringen wir den Strom des Lebens in unserem Körper zum fließen 
 teacher: "Sammo Lusa"
 teacher-link: "sammo-lusa"
 contact-link: sammo.lusa@googlemail.com
-tags: classes
 image: "class-biodanza-01.jpg"
 video:
 

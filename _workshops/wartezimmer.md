@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title_en:  "The Waiting Room"
 title_de:  "Wartezimmer"
 
@@ -42,8 +40,8 @@ description_de: "<p>Das Wartezimmer ist ein Ort, an dem Zeit, Raum und menschlic
 </p>"
 
 teacher: "?"
+teacher-link: "friederike-erhart"
 contact-link: mbrodolini@camposolive.de
-tags: workshops
 image: "workshop-wartezimmer-01.jpg"
 video: ""
 

@@ -38,3 +38,27 @@ collections:
     output: true
   teachers:
     output: true
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: teachers   # <= here you can specify a collection now!
+    values:
+      layout: teacher
+      tags: teachers
+  -
+    scope:
+      path: ""
+      type: classes   # <= here you can specify a collection now!
+    values:
+      layout: post
+      tags: classes
+  -
+    scope:
+      path: ""
+      type: workshops   # <= here you can specify a collection now!
+    values:
+      layout: post
+      tags: workshops

@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title_en:  "Profitraining"
 title_de:  "Profi-Training"
 
@@ -50,7 +48,8 @@ The class will conclude with a longer choreography that connects all of these el
 </p>
 '
 
-teacher: "?"
+teacher: "Friederike Erhart"
+teacher-link: "friederike-erhart"
 contact-link: friedastaire@gmx.de
 tags: classes
 image: 

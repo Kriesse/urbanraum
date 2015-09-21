@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title_en:  "Contemporary Dance"
 title_de:  "Zeitgenössischer Tanz"
 
@@ -35,7 +33,6 @@ description_de: "Der Kurs richtet sich an alle Bewegungsbegeisterten mit tänzer
 teacher: "Friederike Erhart"
 teacher-link: "friederike-erhart"
 contact-link: friedastaire@gmx.de
-tags: classes
 image: "class-contemporary-01.jpg"
 video: ""
 

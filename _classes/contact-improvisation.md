@@ -1,5 +1,4 @@
 ---
-layout: post
 
 title_en:  "Contact Improvisation, Präsenz und Wahrnehmung"
 title_de:  "Contact Improvisation, Präsenz und Wahrnehmung"
@@ -50,8 +49,8 @@ Kennenlern-Workshop am 2. Oktober, 10:00 - 12:00, 8 EUR.
 "
 
 teacher: "Karina Suárez-Bosche"
-contact-link: ""
-tags: workshops
+teacher-link: "friederike-erhart"
+contact-link: friedastaire@gmx.de
 image: "workshop-contact-improvisation-01.jpg"
 video: ""
 

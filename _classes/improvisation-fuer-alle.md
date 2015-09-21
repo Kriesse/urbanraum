@@ -1,5 +1,4 @@
 ---
-layout: post
 
 title_en:  "Neuer Improvisationstanzkurs für ALLE"
 title_de:  "Neuer Improvisationstanzkurs für ALLE"
@@ -36,8 +35,8 @@ description_en: "not available"
 description_de: "Wir nehmen achtsam Kontakt zum Raum um uns herum, zu uns selbst und den Anderen auf und probieren in diesem geschützten Rahmen spielerisch und mit Spaß aus, welche Bewegungen mit uns selbst und den Anderen möglich sind."
 
 teacher: "Claudia Neumeyer"
+teacher-link: "friederike-erhart"
 contact-link: friedastaire@gmx.de
-tags: classes
 image: "class-improvisation-fuer-alle-01.jpg"
 video: ""
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 
 title_en:  "Kreative Bewegung durch Yoga"
 title_de:  "Kreative Bewegung durch Yoga"
@@ -55,8 +54,8 @@ Kennenlern-Workshop am 28. September, 8:00 - 11:00, 8 EUR.
 "
 
 teacher: "Karina Suárez-Bosche"
-contact-link: ""
-tags: workshops
+teacher-link: "friederike-erhart"
+contact-link: friedastaire@gmx.de
 image: "workshop-yoga-01.jpg"
 video: ""
 

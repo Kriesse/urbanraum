@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title_en:  "Urban Autumn"
 title_de:  "Urban Autumn"
 
@@ -51,8 +49,8 @@ nicht verfügbar
 "
 
 teacher: "Iliana Aladdin"
+teacher-link: "friederike-erhart"
 contact-link: "lynnkalapotharakou@gmail.com"
-tags: workshops
 image: "workshop-urban-autumn-01.png"
 video: ""
 

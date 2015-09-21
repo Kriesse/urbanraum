@@ -1,6 +1,4 @@
 ---
-layout: teacher
-
 teacher_name:  "Friederike Erhart"
 
 bio_en: "
@@ -12,11 +10,9 @@ Friederike Erhart ist Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
 "
 
 contact-link: "info@urbanraum.com"
-tags: teachers
 image: "teacher-friederike-erhart-01.jpg"
-video: 
-website: 
-
+video:
+website:
 
 ---
 
