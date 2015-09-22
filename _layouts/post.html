@@ -20,11 +20,20 @@ email: testde
     <p>
       <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
       |
+      {{ page.teacher }}
+      {% if page.teacher_2 %}
+        & {{ page.teacher_2 }}
+      {% endif %}
+    </p>
+    
+    <!-- <p>
+      <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
+      |
       <a href="{{ site.baseurl }}/teachers/{{ page.teacher-link }}.html">{{ page.teacher }}</a>
       {% if page.teacher_2 %}
         & <a href="{{ page.teacher-link_2 }}">{{ page.teacher_2 }}</a>
       {% endif %}
-    </p>
+    </p> -->
   </header>
 
   <article class="post__content">

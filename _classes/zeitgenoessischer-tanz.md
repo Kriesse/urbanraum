@@ -14,11 +14,11 @@ price_de: "12 EUR / Einzelstunde"
 weekday_en: "Montag"
 weekday_de: "Monday"
 
-time_en: "8:30 pm"
-time_de: "20:30 Uhr"
+time_en: "8:00 pm"
+time_de: "20:00 Uhr"
 
-endtime_en: "10 pm"
-endtime_de: "22:00 Uhr"
+endtime_en: "9:30 pm"
+endtime_de: "21:30 Uhr"
 
 language_en: "German"
 language_de: "Deutsch"

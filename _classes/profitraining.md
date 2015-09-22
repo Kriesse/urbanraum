@@ -8,11 +8,11 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Advanced"
 level_de: "Fortgeschritten"
 
-price_en: ""
-price_de: ""
+price_en: "EUR 10 / single class"
+price_de: "10 EUR / Einzelstunde"
 
-weekday_en: "Wednesday"
-weekday_de: "Mittwoch"
+weekday_en: "Tuesday"
+weekday_de: "Dienstag"
 
 time_en: "10 am"
 time_de: "10:00 Uhr"
