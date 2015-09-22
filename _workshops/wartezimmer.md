@@ -39,7 +39,7 @@ description_de: "<p>Das Wartezimmer ist ein Ort, an dem Zeit, Raum und menschlic
   Aufführung um 20 Uhr
 </p>"
 
-teacher: "?"
+teacher: "Meritxell Campos Olivé"
 teacher-link: "friederike-erhart"
 email: mbrodolini@camposolive.de
 image: "workshop-wartezimmer-01.jpg"

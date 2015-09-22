@@ -2,8 +2,8 @@
 title_en:  "Urban Autumn"
 title_de:  "Urban Autumn"
 
-subtitle_en:  "Contemporary Dance and Improvisation for Adults"
-subtitle_de:  "Zeitgenössischer Tanz und Improvisation für Erwachsense"
+subtitle_en: "Contemporary Dance and Improvisation for Adults"
+subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
 
 type_en: "Workshop"
 type_de: "Workshop"
@@ -27,11 +27,11 @@ Drop-In: EUR 10
 date_en: "October 1 - December 17 2015"
 date_de: "1.10.-17.12. 2015"
 
-time_en: "?.?? pm"
-time_de: "?:?? Uhr"
+time_en: "12 noon"
+time_de: "12:00 Uhr"
 
-endtime_en: "?? pm"
-endtime_de: "??:?? Uhr"
+endtime_en: "1 pm"
+endtime_de: "13:30 Uhr"
 
 language_en: "English"
 language_de: "Englisch"
