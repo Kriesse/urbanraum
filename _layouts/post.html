@@ -16,7 +16,7 @@ email: testde
               {{ page.subtitle_en }}
         </span>
     </h1>
-    
+
     <p>
       <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
       |
@@ -25,7 +25,7 @@ email: testde
         & {{ page.teacher_2 }}
       {% endif %}
     </p>
-    
+
     <!-- <p>
       <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
       |
@@ -52,42 +52,53 @@ email: testde
         <ul class="post__list">
           <li>
             <span class="label" data-en="{{ site.termin_en }}" data-de="{{ site.termin_de }}">{{ site.termin_en }}</span>
-            <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
+            <span class="detail">
+               <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
 
-           {% if page.date_en || page.date_de %}
-              <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
-            {% endif %}
-            <span data-en="{{ page.time_en }}" data-de="{{ page.time_de }}">{{ page.time_en }}</span>
-            –
-            <span data-en="{{ page.endtime_en }}" data-de="{{ page.endtime_de }}">{{ page.endtime_en }}</span>
+              {% if page.date_en || page.date_de %}
+                 <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
+               {% endif %}
+               <span data-en="{{ page.time_en }}" data-de="{{ page.time_de }}">{{ page.time_en }}</span>
+
+               {% if page.endtime_en || page.endtime_de %}
+               –
+               <span data-en="{{ page.endtime_en }}" data-de="{{ page.endtime_de }}">{{ page.endtime_en }}</span>
+               {% endif %}
+
+            </span>
+
           </li>
           <li>
             <span class="label" data-en="{{ site.level_en }}" data-de="{{ site.level_de }}">{{ site.level_en }}</span>
             {% if page.level_en || page.level_de %}
-            <span data-en="{{ page.level_en }}" data-de="{{ page.level_de }}">{{ page.level_en }}</span>
+            <span class="detail" data-en="{{ page.level_en }}" data-de="{{ page.level_de }}">{{ page.level_en }}</span>
             {% else %}
-              <span data-en="{{ site.level-all_en }}" data-de="{{ site.level-all_de }}">{{ site.level-all_en }}</span>
+              <span  class="detail" data-en="{{ site.level-all_en }}" data-de="{{ site.level-all_de }}">{{ site.level-all_en }}</span>
             {% endif %}
           </li>
-          
+
           <li>
             <span class="label" data-en="{{ site.language_en }}" data-de="{{ site.language_de }}">{{ site.language_en }}</span>
-            <span data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
+            <span class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
           </li>
           {% if page.trial_en || page.trial_de %}
           <li>
             <span class="label" data-en="{{ site.trial_en }}" data-de="{{ site.trial_de }}">{{ site.trial_en }}</span>
-            <span data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">{{ page.trial_en }}</span>
+            <span class="detail" data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">{{ page.trial_en }}</span>
           </li>
           {% endif %}
 
           <li>
             <span class="label" data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">{{ site.cost_en }}</span>
-            <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">{{ page.price_en }}</span>
+            <span class="detail" data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
+              {{ page.price_en }}
+            </span>
           </li>
           <li>
             <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>
-            <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+            <span class="detail" >
+              <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+            </span>
           </li>
         </ul>
       </div>

@@ -24,9 +24,6 @@ endtime_de: "19:45 Uhr"
 language_en: "German"
 language_de: "Deutsch"
 
-trial_en: "?"
-trial_de: "?"
-
 description_en: "not available"
 
 description_de: "Wir nehmen achtsam Kontakt zum Raum um uns herum, zu uns selbst und den Anderen auf und probieren in diesem geschützten Rahmen spielerisch und mit Spaß aus, welche Bewegungen mit uns selbst und den Anderen möglich sind."

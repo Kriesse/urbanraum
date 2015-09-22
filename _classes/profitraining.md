@@ -23,9 +23,6 @@ endtime_de: "12:00 Uhr"
 language_en: "English"
 language_de: "Englisch"
 
-trial_en: 
-trial_de: 
-
 description_en: '
 <p>
 Every weissmann* class begins with focusing one’s energy with a short yoga sequence. Clear placement, stretch and strengthening exercises warm the pelvis and spine while preparing the body for a more uninhibited experience of movement. The mind begins to permeate the body through concious breathing.
