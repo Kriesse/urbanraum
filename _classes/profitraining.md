@@ -1,6 +1,6 @@
 ---
-title_en:  "Profitraining"
-title_de:  "Profi-Training"
+title_en:  "Profitraining - starting October 10"
+title_de:  "Profi-Training - ab 10. Oktober"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
