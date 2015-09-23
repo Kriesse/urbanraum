@@ -49,7 +49,7 @@ Mit Maria Schneiders (Tänzerin, Choreographin), 09.September 2015 bis 28. Okto
 teacher: "Maria Schneiders"
 teacher-link: "friederike-erhart"
 email: mschneiders.tanzt@gmail.com
-image: "class-placeholder-01.jpg"
+image: "tanzgespraeche-01.jpg"
 
 ---
 
