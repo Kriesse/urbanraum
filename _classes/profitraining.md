@@ -39,6 +39,9 @@ Particular movement themes such as rhythm and musicality, quick directional and 
 <p>
 The class will conclude with a longer choreography that connects all of these elements. One is prepared for an uninhibited range of movement. All spatial levels will be explored: floorwork, taking space on a “middle level”, and airtime: jumps. Here, one can fully explore dynamics, transitions, interpretation and intention… a celebration of our art form and our aliveness!!! Soulful music inspires and accompanies all moments of the class.
 </p>
+<p>
+  <b>Starting October 10th 2015</b>
+</p>
 '
 
 description_de: '
@@ -56,6 +59,9 @@ Particular movement themes such as rhythm and musicality, quick directional and 
 </p>
 <p>
 The class will conclude with a longer choreography that connects all of these elements. One is prepared for an uninhibited range of movement. All spatial levels will be explored: floorwork, taking space on a “middle level”, and airtime: jumps. Here, one can fully explore dynamics, transitions, interpretation and intention… a celebration of our art form and our aliveness!!! Soulful music inspires and accompanies all moments of the class.
+</p>
+<p>
+  <b>Starting October 10th 2015</b>
 </p>
 ' 
 
