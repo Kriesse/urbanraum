@@ -72,11 +72,10 @@ teacher-link_2: "friederike-erhart"
 
 email: info@urbanraum.de
 tags: classes
-image: "profitraining-01.jpg"
+image: "profitraining-03.jpg"
 
 ---
 
-<img src="{{ site.baseurl }}/img/profitraining-02.jpg" class="img-flex" />
 
 
 
