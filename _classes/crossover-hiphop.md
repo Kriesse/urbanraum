@@ -8,9 +8,6 @@ subtitle_de:  "Hip Hop/Zeitgenössischer Tanz"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "Advanced"
-level_de: "Fortgeschritten"
-
 price_en: "
 EUR 100 / entire programme
 <br>
