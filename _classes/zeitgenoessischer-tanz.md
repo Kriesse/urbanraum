@@ -11,8 +11,8 @@ level_de: "Fortgeschritten"
 price_en: "EUR 12 / single class"
 price_de: "12 EUR / Einzelstunde"
 
-weekday_en: "Montag"
-weekday_de: "Monday"
+weekday_en: "Monday"
+weekday_de: "Montag"
 
 time_en: "8:00 pm"
 time_de: "20:00 Uhr"

@@ -16,9 +16,7 @@
   letter-spacing: -1px;
   line-height: 1.2;
   @include media-query-min($on-tablet) {
-    .post__meta {
-      font-size: 42px;
-    }
+    font-size: 42px;
   }
 }
 
