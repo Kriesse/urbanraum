@@ -39,7 +39,7 @@ email: testde
   <article class="post__content">
 
     <div class="post__details">
-      <div class="post__media">
+      <div class="post__media {% if page.fullwidth %}post__media--full-width{% endif %}">
         {% if page.image %}
           <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
         {% else %}
@@ -48,7 +48,7 @@ email: testde
 
       </div>
 
-      <div class="post__aside">
+      <div class="post__aside {% if page.fullwidth %}post__aside--full-width{% endif %}">
         <ul class="post__list">
           <li>
             <span class="label" data-en="{{ site.termin_en }}" data-de="{{ site.termin_de }}">{{ site.termin_en }}</span>
