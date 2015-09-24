@@ -1,6 +1,6 @@
 ---
-title_en:  "Profitraining - starting October 10"
-title_de:  "Profi-Training - ab 10. Oktober"
+title_en:  "Profitraining - starting October 20"
+title_de:  "Profi-Training - ab 20. Oktober"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -40,7 +40,7 @@ Particular movement themes such as rhythm and musicality, quick directional and 
 The class will conclude with a longer choreography that connects all of these elements. One is prepared for an uninhibited range of movement. All spatial levels will be explored: floorwork, taking space on a “middle level”, and airtime: jumps. Here, one can fully explore dynamics, transitions, interpretation and intention… a celebration of our art form and our aliveness!!! Soulful music inspires and accompanies all moments of the class.
 </p>
 <p>
-  <b>Starting October 10th 2015</b>
+  <b>Starting October 20th 2015</b>
 </p>
 '
 
@@ -61,7 +61,7 @@ Particular movement themes such as rhythm and musicality, quick directional and 
 The class will conclude with a longer choreography that connects all of these elements. One is prepared for an uninhibited range of movement. All spatial levels will be explored: floorwork, taking space on a “middle level”, and airtime: jumps. Here, one can fully explore dynamics, transitions, interpretation and intention… a celebration of our art form and our aliveness!!! Soulful music inspires and accompanies all moments of the class.
 </p>
 <p>
-  <b>Starting October 10th 2015</b>
+  <b>Starting October 20th 2015</b>
 </p>
 ' 
 
