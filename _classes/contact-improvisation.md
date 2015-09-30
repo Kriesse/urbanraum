@@ -26,8 +26,6 @@ language_de: "Deutsch"
 
 
 description_en: "
-Weekly class, starting October 9 2015.
-<br>
 <strong>Workshop to get to know each other on October 2, 10 - 12am, cost: EUR 8.</strong>
 "
 
@@ -36,13 +34,13 @@ Sich berühren und spüren ist eine Form der Kommunikation, die viel direkter un
 <br>
 In diesem Kurs geht es um das Geben und das Nehmen. Darum, unsere moralischen Grenzen zu brechen und einen Dialog der Bewegung zu schaffen. Eine Arbeit, die auch eine Integration und persönliche Recherche der eigenen Bewegungssprache auslöst.
 <br>
-Wöchentlich ab dem 9. Oktober 2015.
-<br>
 <strong>Kennenlern-Workshop am 2. Oktober, 10:00 - 12:00, Kosten: 8 EUR.</strong>
 "
 
 teacher: "Karina Suárez-Bosche"
 teacher-link: "friederike-erhart"
+email: info@urbanraum.com
+
 image: "workshop-contact-improvisation-01.jpg"
 
 tags: workshops, classes

@@ -8,8 +8,14 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Advanced"
 level_de: "Fortgeschritten"
 
-price_en: "EUR 12 / single class"
-price_de: "12 EUR / Einzelstunde"
+price_en: "
+EUR 10 / single class
+EUR 30 / monthly
+"
+price_de: "
+10 EUR / Einzelstunde
+30 EUR / Monatsbeitrag
+"
 
 weekday_en: "Monday"
 weekday_de: "Montag"
@@ -32,7 +38,7 @@ description_de: "Der Kurs richtet sich an alle Bewegungsbegeisterten mit tänzer
 
 teacher: "Friederike Erhart"
 teacher-link: "friederike-erhart"
-email: info@urbanraum.de
+email: info@urbanraum.com
 image: "class-contemporary-01.jpg"
 
 ---

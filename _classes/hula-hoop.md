@@ -6,8 +6,8 @@ title_de:  "Hula Hoop"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "Advanced"
-level_de: "Fortgeschritten"
+level_en: "Beginner. Join anytime"
+level_de: "Anfänger. Einstieg jederzeit möglich"
 
 price_en: "EUR 12 / single class, EUR 100 / 10 classes"
 price_de: "12 EUR / Einzelkurs, 100 EUR / 10 Kurse"
@@ -17,6 +17,9 @@ weekday_de: "Donnerstag"
 
 time_en: "5:15 pm"
 time_de: "17:15 Uhr"
+
+endtime_en: "6:45 pm"
+endtime_de: "18:45 Uhr"
 
 language_en: "German"
 language_de: "Deutsch"

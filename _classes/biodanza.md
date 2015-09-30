@@ -6,10 +6,10 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 level_en: "Advanced"
-level_de: "Fortgeschritten"
+level_de: "mit Vorkenntnissen"
 
-price_en: "EUR 12 / single class, EUR 100 / 10 classes"
-price_de: "12 EUR / Einzelkurs, 100 EUR / 10 Kurse"
+price_en: "EUR 15 / single class, EUR 100 / 10 classes"
+price_de: "15 EUR / Einzelkurs, 100 EUR / 10 Kurse"
 
 weekday_en: "Wednesday"
 weekday_de: "Mittwoch"
@@ -20,14 +20,14 @@ time_de: "20:00 Uhr"
 endtime_en: "10 pm"
 endtime_de: "22:00 Uhr"
 
-language_en: "German"
-language_de: "Deutsch"
+language_en: "German / English"
+language_de: "Deutsch / Englisch"
 
-trial_en: "EUR 5"
-trial_de: "5 EUR"
+trial_en: "1st Wednesday of the month: open class"
+trial_de: "1. Mittwoch im Monat offener Abend"
 
 description_en: '
-not available
+n/a
 '
 
 description_de: '
@@ -47,6 +47,9 @@ Durch Bewegung bringen wir den Strom des Lebens in unserem Körper zum fließen 
 teacher: "Sammo Lusa"
 teacher-link: "sammo-lusa"
 email: sammo.lusa@googlemail.com
+phone: 0304493341
+website-title: biodanza-in-berlin.com
+website-link: http://www.biodanza-in-berlin.com
 image: "class-biodanza-01.jpg"
 
 ---

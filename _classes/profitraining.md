@@ -39,9 +39,6 @@ Particular movement themes such as rhythm and musicality, quick directional and 
 <p>
 The class will conclude with a longer choreography that connects all of these elements. One is prepared for an uninhibited range of movement. All spatial levels will be explored: floorwork, taking space on a “middle level”, and airtime: jumps. Here, one can fully explore dynamics, transitions, interpretation and intention… a celebration of our art form and our aliveness!!! Soulful music inspires and accompanies all moments of the class.
 </p>
-<p>
-  <b>Starting October 20th 2015</b>
-</p>
 '
 
 description_de: '
@@ -60,9 +57,6 @@ Particular movement themes such as rhythm and musicality, quick directional and 
 <p>
 The class will conclude with a longer choreography that connects all of these elements. One is prepared for an uninhibited range of movement. All spatial levels will be explored: floorwork, taking space on a “middle level”, and airtime: jumps. Here, one can fully explore dynamics, transitions, interpretation and intention… a celebration of our art form and our aliveness!!! Soulful music inspires and accompanies all moments of the class.
 </p>
-<p>
-  <b>Starting October 20th 2015</b>
-</p>
 ' 
 
 teacher: "Jennifer Mann"
@@ -70,7 +64,7 @@ teacher-link: "friederike-erhart"
 teacher_2: "Heidi Weiss"
 teacher-link_2: "friederike-erhart"
 
-email: info@urbanraum.de
+email: info@urbanraum.com
 tags: classes
 image: "profitraining-03.jpg"
 fullwidth: true

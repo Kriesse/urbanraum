@@ -8,8 +8,8 @@ type_de: "Workshop und Aufführung"
 level_en: "Advanced"
 level_de: "Fortgeschritten"
 
-price_en: "EUR 10"
-price_de: "10 EUR"
+price_en: "EUR 100"
+price_de: "100 EUR"
 
 date_en: "Oct 2, 2-6pm & Oct 3, 10am-2pm"
 date_de: "2. Okt., 14-18:00, 3. Okt., 10-14:00"
@@ -68,7 +68,7 @@ description_de: "
 
 teacher: "Bruno Eap"
 teacher-link: "friederike-erhart"
-email: info@urbanraum.de
+email: ben@ohrbooten.de
 image: "workshop-qigong-01.png"
 
 ---

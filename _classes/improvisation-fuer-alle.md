@@ -9,8 +9,8 @@ subtitle_de:  "Menschen mit- und ohne Beeinträchtigungen"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-price_en: "?"
-price_de: "?"
+price_en: "tba"
+price_de: "tba"
 
 weekday_en: "Wednesday"
 weekday_de: "Mittwoch"

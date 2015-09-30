@@ -62,7 +62,7 @@ Improvisation is used in the class, both integrated into fixed material and sepa
 </p>
 "
 
-teacher: "Iliana Aladdin"
+teacher: "Iliana Kalapotharakou"
 teacher-link: "friederike-erhart"
 email: "lynnkalapotharakou@gmail.com"
 image: "workshop-urban-autumn-01.png"
