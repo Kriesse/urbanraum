@@ -15,11 +15,8 @@ price_de: "tba"
 weekday_en: "Wednesday"
 weekday_de: "Mittwoch"
 
-time_en: "5:30 pm"
-time_de: "17:30 Uhr"
-
-endtime_en: "7:45 pm"
-endtime_de: "19:45 Uhr"
+time: "5:30 pm"
+endtime: "7:45 pm"
 
 language_en: "German"
 language_de: "Deutsch"

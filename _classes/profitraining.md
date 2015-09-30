@@ -14,11 +14,9 @@ price_de: "10 EUR / Einzelklasse"
 weekday_en: "Tuesday"
 weekday_de: "Dienstag"
 
-time_en: "10 am"
-time_de: "10:00 Uhr"
+time: "10 am"
 
-endtime_en: "12 noon"
-endtime_de: "12:00 Uhr"
+endtime: "12pm"
 
 language_en: "English"
 language_de: "Englisch"

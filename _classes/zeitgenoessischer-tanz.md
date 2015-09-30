@@ -20,11 +20,8 @@ price_de: "
 weekday_en: "Monday"
 weekday_de: "Montag"
 
-time_en: "8:00 pm"
-time_de: "20:00 Uhr"
-
-endtime_en: "9:30 pm"
-endtime_de: "21:30 Uhr"
+time: "8:00 pm"
+endtime: "9:30 pm"
 
 language_en: "German"
 language_de: "Deutsch"

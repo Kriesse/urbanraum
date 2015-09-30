@@ -30,9 +30,9 @@
               {% if post.date_en || post.date_de %}
                  <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>, 
                {% endif %}
-               <span data-en="{{ post.time_en }}" data-de="{{ post.time_de }}">{{ post.time_en }}</span>
+               <span>{{ post.time | date: "%R" }}</span>
                –
-               <span data-en="{{ post.endtime_en }}" data-de="{{ post.endtime_de }}">{{ post.endtime_en }}</span>
+               <span>{{ post.endtime | date: "%R" }}</span>
             </div>
           </div>
         </a>

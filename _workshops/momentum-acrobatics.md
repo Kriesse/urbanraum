@@ -8,17 +8,27 @@ type_de: "Workshop"
 level_en: "Advanced"
 level_de: "Fortgeschritten"
 
-price_en: "EUR 120. Profi: EUR 90. If the price is a problem for you, contact us."
-price_de: "120 EUR. Profi: 90 EUR. If the price is a problem for you, contact us."
+price_en: "
+EUR 120
+<br>
+Profi: EUR 90
+<br>
+If the price is a problem for you, contact us.
+"
+
+price_de: "
+120 EUR
+<br>
+Profi: 90 EUR
+<br>
+If the price is a problem for you, contact us.
+"
 
 date_en: "October 17-18 2015"
 date_de: "17.-18. Oktober 2015"
 
-time_en: "10 am"
-time_de: "10:00 Uhr"
-
-endtime_en: "5 pm"
-endtime_de: "17:00 Uhr"
+time: "10 am"
+endtime: "5 pm"
 
 language_en: "German"
 language_de: "Deutsch"
@@ -101,7 +111,7 @@ teacher_2: "Charlie Fouchier"
 teacher-link_2: "friederike-erhart"
 
 email: momentum.acrobatics@gmail.com
-phone: 
+phone:
 website-title: Facebook Event
 website-link: https://www.facebook.com/events/933505286711533/
 image: "workshop-momentumacrobatics-01.jpg"

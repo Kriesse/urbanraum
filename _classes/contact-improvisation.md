@@ -15,11 +15,9 @@ price_de: "45 EUR monatlich"
 weekday_en: "Friday"
 weekday_de: "Freitag"
 
-time_en: "10 am"
-time_de: "10:00 Uhr"
+time: "10 am"
 
-endtime_en: "12 noon"
-endtime_de: "12:00 Uhr"
+endtime: "12pm"
 
 language_en: "German"
 language_de: "Deutsch"

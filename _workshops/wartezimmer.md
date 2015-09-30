@@ -14,11 +14,8 @@ price_de: "Teilnahmegebühr EUR 45"
 date_en: "October 11 2015"
 date_de: "11. Oktober 2015"
 
-time_en: "11 am"
-time_de: "11:00 Uhr"
-
-endtime_en: "6 pm"
-endtime_de: "18:00 Uhr"
+time: "11 am"
+endtime: "6 pm"
 
 language_en: "German"
 language_de: "Deutsch"

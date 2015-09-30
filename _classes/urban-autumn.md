@@ -27,11 +27,9 @@ Drop-In: 10 EUR <br>
 weekday_en: "Thursday"
 weekday_de: "Donnerstag"
 
-time_en: "12 noon"
-time_de: "12:00 Uhr"
+time: "12pm"
 
-endtime_en: "1:30 pm"
-endtime_de: "13:30 Uhr"
+endtime: "1:30pm"
 
 language_en: "English"
 language_de: "Englisch"

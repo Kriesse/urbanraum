@@ -14,11 +14,9 @@ price_de: "10 EUR"
 date_en: "September 25 2015"
 date_de: "25. September 2015"
 
-time_en: "8.30 pm"
-time_de: "20.30 Uhr"
+time: "8.30 pm"
 
-endtime_en: "10 pm"
-endtime_de: "22:00 Uhr"
+endtime: "10 pm"
 
 language_en: "German"
 language_de: "Deutsch"

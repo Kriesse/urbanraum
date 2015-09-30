@@ -23,11 +23,8 @@ price_de: "
 weekday_en: "Wednesday"
 weekday_de: "Mittwoch"
 
-time_en: "4:00 pm"
-time_de: "16:00 Uhr"
-
-endtime_en: "5:00 pm"
-endtime_de: "17:00 Uhr"
+time: "4:00 pm"
+endtime: "5:00 pm"
 
 language_en: "German"
 language_de: "Deutsch"

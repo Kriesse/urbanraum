@@ -58,11 +58,13 @@ email: testde
               {% if page.date_en || page.date_de %}
                  <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
                {% endif %}
-               <span data-en="{{ page.time_en }}" data-de="{{ page.time_de }}">{{ page.time_en }}</span>
+               <span class="detail">
+                 {{ page.time | date: "%R" }}
+               </span>
 
-               {% if page.endtime_en || page.endtime_de %}
+               {% if page.endtime %}
                –
-               <span data-en="{{ page.endtime_en }}" data-de="{{ page.endtime_de }}">{{ page.endtime_en }}</span>
+               <span>{{ page.endtime | date: "%R" }}</span>
                {% endif %}
 
             </span>

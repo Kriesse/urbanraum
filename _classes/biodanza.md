@@ -14,11 +14,9 @@ price_de: "15 EUR / Einzelkurs, 100 EUR / 10 Kurse"
 weekday_en: "Wednesday"
 weekday_de: "Mittwoch"
 
-time_en: "8 pm"
-time_de: "20:00 Uhr"
+time: "8 pm"
 
-endtime_en: "10 pm"
-endtime_de: "22:00 Uhr"
+endtime: "10 pm"
 
 language_en: "German / English"
 language_de: "Deutsch / Englisch"
