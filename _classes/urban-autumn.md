@@ -44,9 +44,6 @@ description_en: "
 The workshop will emphasize on Improvisation and Contemporary Dance technique build-up, while inviting the physical joy of organic movement. The technical part focuses on floor work practice, understanding the relation to the floor. Using the flow of the movement to understand the paths followed in space and in the body, we will also explore different movement qualities and dynamics.<br>
 Improvisation is used in the class, both integrated into fixed material and separately. To wake up our receiving antennas, our tools of movement, of expression and body awareness. Improvising our warm up & warming up our Improvisation.
 </p>
-<p>
- More information on <a href='http://www.facebook.com/Workshops.Iliana'>Facebook</a>.
-</p>
 "
 
 description_de: "
@@ -57,14 +54,14 @@ description_de: "
 The workshop will emphasize on Improvisation and Contemporary Dance technique build-up, while inviting the physical joy of organic movement. The technical part focuses on floor work practice, understanding the relation to the floor. Using the flow of the movement to understand the paths followed in space and in the body, we will also explore different movement qualities and dynamics.<br>
 Improvisation is used in the class, both integrated into fixed material and separately. To wake up our receiving antennas, our tools of movement, of expression and body awareness. Improvising our warm up & warming up our Improvisation.
 </p>
-<p>
- Mehr Infos auf <a href='http://www.facebook.com/Workshops.Iliana'>Facebook</a>.
-</p>
 "
 
 teacher: "Iliana Kalapotharakou"
 teacher-link: "friederike-erhart"
 email: "lynnkalapotharakou@gmail.com"
+website-title: "Facebook"
+website-link: http://www.facebook.com/Workshops.Iliana
+
 image: "workshop-urban-autumn-01.png"
 
 ---

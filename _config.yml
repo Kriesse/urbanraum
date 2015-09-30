@@ -55,7 +55,7 @@ defaults:
       tags: classes
       level_en: All
       level_de: Alle
-      email: info@urbanraum.de
+      email: info@urbanraum.com
   -
     scope:
       path: ""
@@ -65,4 +65,4 @@ defaults:
       tags: workshops
       level_en: All
       level_de: Alle
-      email: info@urbanraum.de
+      email: info@urbanraum.com
