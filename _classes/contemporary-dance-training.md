@@ -15,7 +15,7 @@ weekday_en: "Thursday"
 weekday_de: "Donnerstag"
 
 time: "10 am"
-endtime: "11.30 am"
+endtime: "11:30 am"
 
 description_en: 'n/a'
 description_de: '
