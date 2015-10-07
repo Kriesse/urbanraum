@@ -22,7 +22,7 @@ $(function() {
     });
     localStorage.setItem("language", langId);
   }
-  
+
   $("body").addClass("lang-loaded");
 
 });
