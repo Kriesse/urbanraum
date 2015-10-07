@@ -9,7 +9,7 @@
   <h1>Impressum</h1>
 
   <p>
-    Kontakt: <a href="mailto:info@urbanraum.com">mailto:info@urbanraum.com</a>
+    Kontakt: <a href="mailto:info@urbanraum.com">info@urbanraum.com</a>
   </p>
 
 </div>
