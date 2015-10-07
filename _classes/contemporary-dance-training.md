@@ -27,7 +27,7 @@ Außerdem ist der Kurs als Proben-Warm up oder zur Vorbereitung einer Tanz-Aufna
 '
 teacher: "Livia Politi"
 teacher-link: 
-email:  
+email:  "info@urbanraum.com"
 phone: 
 website-title: 
 website-link: 
