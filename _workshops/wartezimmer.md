@@ -8,7 +8,7 @@ type_de: "Workshop und Aufführung"
 level_en: "Advanced"
 level_de: "Fortgeschritten"
 
-price_en: "Attendee fee EUR 45"
+price_en: "Workshop fee EUR 45"
 price_de: "Teilnahmegebühr EUR 45"
 
 date_en: "October 11 2015"
@@ -20,10 +20,15 @@ endtime: "6 pm"
 language_en: "German"
 language_de: "Deutsch"
 
-trial_en: "EUR 5"
-trial_de: "5 EUR"
+description_en: "
+<p>
+  Number of workshop attendees is limited. Please register via e-mail: mbrodolini@camposolive.de
+</p>
 
-description_en: "not available"
+<p>
+  Performance at 20:00.
+</p>
+"
 
 description_de: "<p>Das Wartezimmer ist ein Ort, an dem Zeit, Raum und menschliche Interaktion für jeden Einzelnen mit hoher Intensität spürbar werden. Die Anwesenden bewegen sich im klaren Rhythmus einer unbewusst vertrauten Choreographie, sie improvisieren im Fluss bekannter Handlungsabläufe. Das Personal ist jedoch zufällig zusammengewürfelt, wie eine einander unbekannte Reisegruppe verbringt man eine bestimmte Zeitspanne mit Fremden,als Beobachter und Darsteller gleichermaßen.</p>
 <p>Was geschieht, wenn durch persönliche Eigenschaften einzelner Wartender oder durch äußere Ereignisse Brüche des erwarteten Ablaufes entstehen? Wie reagieren die Anwesenden in diesem Mikrokosmos auf unvorhersehbare Begegnungen und Situationen? Wie viele Aspekte ihrer persönlichen Geschichte, wie viel von den Erlebnissen des Alltags, von ihren Sorgen und Hoffnungen bringen die Wartenden in diese Miniatur-Manege? Welche Funktion übernehmen die Angestellten, sind sie mehr als nur die strukturell ordnende Hand der Effizienz und Professionalität?</p>
@@ -33,8 +38,12 @@ description_de: "<p>Das Wartezimmer ist ein Ort, an dem Zeit, Raum und menschlic
   <br>
   Bringt bitte etwas zum Schreiben und Verpflegung für eine Pause mit.
   <br>
-  Aufführung um 20 Uhr
-</p>"
+</p>
+
+<p>
+  Aufführung um 20 Uhr.
+</p>
+"
 
 teacher: "Meritxell Campos Olivé"
 teacher-link: "friederike-erhart"

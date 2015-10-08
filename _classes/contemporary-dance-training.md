@@ -31,6 +31,6 @@ email:  "info@urbanraum.com"
 phone: 
 website-title: 
 website-link: 
-image:
+image: "class-contemporary-dance-training-01.jpg"
 
 ---

@@ -79,44 +79,10 @@ email: testde
             {% endif %}
           </li>
 
+          {% if page.language_en || page.language_de %}
           <li>
             <span class="label" data-en="{{ site.language_en }}" data-de="{{ site.language_de }}">{{ site.language_en }}</span>
             <span class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
-          </li>
-          {% if page.trial_en || page.trial_de %}
-          <li>
-            <span class="label" data-en="{{ site.trial_en }}" data-de="{{ site.trial_de }}">{{ site.trial_en }}</span>
-            <span class="detail" data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">{{ page.trial_en }}</span>
-          </li>
-          {% endif %}
-
-          <li>
-            <span class="label" data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">{{ site.cost_en }}</span>
-            <span class="detail" data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
-              {{ page.price_en }}
-            </span>
-          </li>
-          <li>
-            <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>
-            <span class="detail" >
-              <a href="mailto:{{ page.email }}">{{ page.email }}</a>
-            </span>
-          </li>
-          {% if page.website-link %}
-          <li>
-            <span class="label">Website</span>
-            <span class="detail">
-              <a href="{{ page.website-link }}">{{ page.website-title }}</a>
-            </span>
-          </li>
-          {% endif %}
-
-          {% if page.phone %}
-          <li>
-            <span class="label">Phone</span>
-            <span class="detail">
-              {{ page.phone }}
-            </span>
           </li>
           {% endif %}
 
@@ -130,8 +96,47 @@ email: testde
     </div>
 
 
-
       {{ content }}
+
+
+    <div class="post__footer">
+      {% if page.price_en || page.price_de %}
+      <div>
+        <span data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">
+          {{ site.cost_en }}
+        </span>:<br>
+        <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
+          {{ page.price_en }}
+        </span>
+      </div>
+      {% endif %}
+
+      {% if page.trial_en || page.trial_de %}
+      <div>
+        <span data-en="{{ site.trial_en }}" data-de="{{ site.trial_de }}">
+          {{ site.trial_en }}
+        </span>:<br>
+        <span class="detail" data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">
+          {{ page.trial_en }}
+        </span>
+      </div>
+      {% endif %}
+
+      <div>
+        <span data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">
+          {{ site.contact_en }}
+        </span>:<br>
+        <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+        {% if page.website-link %}
+        | <a href="{{ page.website-link }}">{{ page.website-title }}</a>
+        {% endif %}
+        {% if page.phone %}
+        | {{ page.phone }}
+        {% endif %}
+      </div>
+    </div>
+
+
     </div>
 
   </article>

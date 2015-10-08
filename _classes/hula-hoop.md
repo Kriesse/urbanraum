@@ -9,8 +9,16 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Beginner. Join anytime"
 level_de: "Anfänger. Einstieg jederzeit möglich"
 
-price_en: "EUR 12 / single class, EUR 100 / 10 classes"
-price_de: "12 EUR / Einzelkurs, 100 EUR / 10 Kurse"
+price_en: "
+EUR 12 / single class
+<br>
+EUR 100 / 10 classes
+"
+price_de: "
+12 EUR / Einzelkurs
+<br>
+100 EUR / 10 Kurse
+"
 
 weekday_en: "Thursday"
 weekday_de: "Donnerstag"

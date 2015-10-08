@@ -9,7 +9,7 @@ level_en: "Advanced"
 level_de: "Fortgeschritten"
 
 price_en: "
-EUR 120
+Normal: EUR 120
 <br>
 Profi: EUR 90
 <br>
@@ -17,7 +17,7 @@ If the price is a problem for you, contact us.
 "
 
 price_de: "
-120 EUR
+Regular: 120 EUR
 <br>
 Profi: 90 EUR
 <br>

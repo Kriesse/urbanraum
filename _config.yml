@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://urbanraum.de" # the base hostname & protocol for your site
 twitter_username: urbanraum
 facebook_username:  urbanraumberlin
-address: 	'Urbanstraße 93, 1. Hinterhof, 10967 Berlin'
+address: 'Urbanstraße 93, 1. Hinterhof, 10967 Berlin'
 
 
 # Language Variables
