@@ -20,7 +20,7 @@ endtime: "11:30 am"
 description_en: 'not available yet'
 description_de: '
 Mit tänzerischem Warm Up, Koordinationen und Muskeltraining füllen wir den Raum mit Bewegung, Dynamik und Musikalität. Wir wechseln die Ebenen, die Texturen, die Richtungen. 
-Die Bewegungselemente werden zu dynamischen Choreografien zusammengefügt und mit kleinen Improvisations-Aufgaben ergänzt. 
+Die Bewegungselemente werden zu Choreografien zusammengefügt und mit kleinen Improvisations-Aufgaben ergänzt. 
 Der Unterricht basiert auf der Folkwang-Tanz-Technik, bereichert durch Elemente der Alexander-Technik.
 Die Idee ist, dynamisch und kreativ in den Tag zu starten und ein technisches und choreographisches Repertoire aufzubauen.
 Außerdem ist der Kurs als Proben-Warm up oder zur Vorbereitung einer Tanz-Aufnahmeprüfung geeignet.
