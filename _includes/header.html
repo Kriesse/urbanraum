@@ -1,6 +1,6 @@
 <header class="site-header">
 
-  <div class="wrapper wrapper--wide">
+  <div class="wrapper">
 
     <a class="site-title" title="{{ site.title }}" href="{{ site.baseurl }}/">
 
@@ -52,7 +52,9 @@
 
       <div class="trigger">
         <div class="js-language-switch language-switch">
-          <a href="#" id="en">en</a> | <a href="#" id="de">de</a>
+          <a href="#" id="en" class="language-switch__link">en</a>
+          <span class="language-switch__separator"></span>
+          <a href="#" id="de" class="language-switch__link">de</a>
         </div>
 
         {% for page in site.pages %}

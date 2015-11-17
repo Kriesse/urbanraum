@@ -4,6 +4,7 @@ title_de: "Information"
 title_en: "About"
 permalink: /about/
 image: "raum-01.jpg"
+fullwidth: true
 ---
 
 

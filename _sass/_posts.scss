@@ -107,7 +107,7 @@
   div {
     margin-bottom: 1em;
   }
-  
+
   @include media-query-min($on-tablet) {
     padding: 2em 2.5em;
   }
