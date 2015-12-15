@@ -1,6 +1,6 @@
 ---
-title_en: "Contemporary Dance Training (starting October 22)"
-title_de: "Contemporary Dance Training (ab 22. Oktober)"
+title_en: "Contemporary Dance Training (wieder ab 4. Februar)"
+title_de: "Contemporary Dance Training (from 4th february on)"
 
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
