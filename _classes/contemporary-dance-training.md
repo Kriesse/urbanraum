@@ -17,7 +17,7 @@ weekday_de: "Donnerstag"
 time: "10 am"
 endtime: "11:30 am"
 
-description_en: 'not available yet'
+description_en: 'see german description'
 description_de: '
 Mit tänzerischem Warm Up, Koordinationen und Muskeltraining füllen wir den Raum mit Bewegung, Dynamik und Musikalität. Wir wechseln die Ebenen, die Texturen, die Richtungen. 
 Die Bewegungselemente werden zu Choreografien zusammengefügt und mit kleinen Improvisations-Aufgaben ergänzt. 
