@@ -15,7 +15,7 @@ price_de: "45 EUR monatlich"
 weekday_en: "Friday"
 weekday_de: "Freitag"
 
-time: "10 am"
+time: "10am"
 
 endtime: "12pm"
 
@@ -43,4 +43,3 @@ tags: workshops, classes
 
 
 ---
-
