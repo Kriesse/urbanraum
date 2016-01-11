@@ -1,6 +1,6 @@
 ---
 title_en:  "Urban Winter [Contemporary]"
-title_de:  "Urban Autumn [Contemporary]"
+title_de:  "Urban Winter [Contemporary]"
 
 subtitle_en: "Contemporary Dance and Improvisation"
 subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
