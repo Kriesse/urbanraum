@@ -1,31 +1,31 @@
 ---
-title_en:  "Urban Autumn [contemporary]"
-title_de:  "Urban Autumn [contemporary]"
+title_en:  "Urban Winter [Contemporary]"
+title_de:  "Urban Autumn [Contemporary]"
 
-subtitle_en: "Contemporary Dance and Improvisation for Adults"
+subtitle_en: "Contemporary Dance and Improvisation"
 subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
 
-type_en: "Workshop"
-type_de: "Workshop"
+type_en: "class"
+type_de: "Unterricht"
 
-level_en: "Advanced"
-level_de: "Fortgeschritten"
+level_en: "mixed"
+level_de: "mixed"
 
 price_en: "
 Drop-In: EUR 10 <br>
 4 classes: EUR 34 <br>
-6 classes: EUR 48 <br>
-12 classes (the whole workshop): EUR 90
+8 classes: EUR 64 <br>
+12 classes: EUR 90
 "
 price_de: "
 Drop-In: 10 EUR <br>
 4 Stunden: 34 EUR <br>
-6 Stunden: 48 EUR <br>
-12 Stunden (ganzer Kurs): 90 EUR
+8 Stunden: 64 EUR <br>
+12 Stunden : 90 EUR
 "
 
-weekday_en: "Thursday"
-weekday_de: "Donnerstag"
+weekday_en: "Friday"
+weekday_de: "Freitag"
 
 time: "12pm"
 
@@ -36,21 +36,26 @@ language_de: "Englisch"
 
 description_en: "
 <p>
-  <b>October 1 - December 17 2015</b>
+
 </p>
 <p>
-The workshop will emphasize on Improvisation and Contemporary Dance technique build-up, while inviting the physical joy of organic movement. The technical part focuses on floor work practice, understanding the relation to the floor. Using the flow of the movement to understand the paths followed in space and in the body, we will also explore different movement qualities and dynamics.<br>
-Improvisation is used in the class, both integrated into fixed material and separately. To wake up our receiving antennas, our tools of movement, of expression and body awareness. Improvising our warm up & warming up our Improvisation.
+The workshop emphasizes on Improvisation and Contemporary Dance technique build-up, while inviting the physical joy of organic movement  and physical expression. The technical part focuses on floor work practice, understanding the relation to the floor, the ways to get in/out, but also to use our everlasting partner: the floor. The approach also focuses on the flow of the movement, understanding the paths of the moving body, exploring different movement qualities and dynamics.
+
+Improvisation is used in the class, both integrated into fixed material and separately. To wake up our receiving antennas, our tools of movement, of expression and body awareness. 
+
+Improvising our warm up & warming up our Improvisation.
 </p>
 "
 
 description_de: "
 <p>
-  <b>Vom 1. Oktober bis 17. Dezember 2015</b>
 </p>
 <p>
-The workshop will emphasize on Improvisation and Contemporary Dance technique build-up, while inviting the physical joy of organic movement. The technical part focuses on floor work practice, understanding the relation to the floor. Using the flow of the movement to understand the paths followed in space and in the body, we will also explore different movement qualities and dynamics.<br>
-Improvisation is used in the class, both integrated into fixed material and separately. To wake up our receiving antennas, our tools of movement, of expression and body awareness. Improvising our warm up & warming up our Improvisation.
+The workshop emphasizes on Improvisation and Contemporary Dance technique build-up, while inviting the physical joy of organic movement  and physical expression. The technical part focuses on floor work practice, understanding the relation to the floor, the ways to get in/out, but also to use our everlasting partner: the floor. The approach also focuses on the flow of the movement, understanding the paths of the moving body, exploring different movement qualities and dynamics.
+
+Improvisation is used in the class, both integrated into fixed material and separately. To wake up our receiving antennas, our tools of movement, of expression and body awareness. 
+
+Improvising our warm up & warming up our Improvisation.
 </p>
 "
 
