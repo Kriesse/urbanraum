@@ -24,7 +24,8 @@ Die Bewegungselemente werden zu Choreografien zusammengefügt und mit kleinen Im
 Der Unterricht basiert auf der Folkwang-Tanz-Technik, bereichert durch Elemente der Alexander-Technik.
 Die Idee ist, dynamisch und kreativ in den Tag zu starten und ein technisches und choreographisches Repertoire aufzubauen.
 Außerdem ist der Kurs als Proben-Warm up oder zur Vorbereitung einer Tanz-Aufnahmeprüfung geeignet.
-Der Kurs beginnt am 22. Oktober.
+
+NEU! Ab März 2016: Werkstatt Tanzcompany (Dienstag & Donnerstag von 10.00-11.30)
 '
 teacher: "Livia Politi"
 teacher-link: 
