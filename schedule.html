@@ -19,7 +19,7 @@ title_de: Stundenplan
       {% assign end = post.endtime | date: "%k%M" %}
       {% assign duration = end | minus: start %}
         {% if post.weekday_en contains day %}
-        <a  class="event time--{{ start }} duration--{{duration}}"
+        <a  class="event time--{{start}} duration--{{duration}}"
             href="{{ post.url | prepend: site.baseurl }}">
           <span class="event__time">
             {{ post.time | date: "%R"}}

@@ -21,7 +21,7 @@ price_de: "
 weekday_en: "Friday"
 weekday_de: "Freitag"
 
-time: "9 am"
+time: "09:00 am"
 
 endtime: "10:15 am"
 
@@ -44,6 +44,3 @@ email: info@urbanraum.com
 image: "workshop-yoga-01.jpg"
 
 ---
-
-
-
