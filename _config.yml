@@ -9,6 +9,7 @@ twitter_username: urbanraum
 facebook_username:  urbanraumberlin
 address: 'Urbanstraße 93, 1. Hinterhof, 10967 Berlin'
 
+weekdays: [Monday, Tuesday, Wednesday, Thursday, Friday]
 
 # Language Variables
 termin_en: "Date"
@@ -23,6 +24,8 @@ trial_de: "Probestunde"
 trial_en: "Trial"
 contact_de: "Kontakt"
 contact_en: "Contact"
+teacher_de: "Lehrende"
+teacher_en: "Teacher"
 level-all_en: "All"
 level-all_de: "Alle"
 
@@ -49,9 +52,9 @@ defaults:
   -
     scope:
       path: ""
-      type: classes   # <= here you can specify a collection now!
+      type: classes
     values:
-      layout: post
+      layout: class
       tags: classes
       level_en: All
       level_de: Alle
@@ -59,9 +62,9 @@ defaults:
   -
     scope:
       path: ""
-      type: workshops   # <= here you can specify a collection now!
+      type: workshops
     values:
-      layout: post
+      layout: class
       tags: workshops
       level_en: All
       level_de: Alle

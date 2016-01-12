@@ -1,5 +1,5 @@
 ---
-  layout: default
+  layout: gallery
   title_en: Workshops
   title_de: Workshops
 ---
@@ -26,9 +26,9 @@
             </span>
             <div class="post__meta__hidden">
                <span data-en="{{ post.weekday_en }}" data-de="{{ post.weekday_de }}">{{ post.weekday_en }}</span>
-  
+
               {% if post.date_en || post.date_de %}
-                 <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>, 
+                 <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>,
                {% endif %}
                <span>{{ post.time | date: "%R" }}</span>
                –
@@ -40,5 +40,3 @@
     </div>
   {% endfor %}
 </div>
-
-

@@ -1,7 +1,38 @@
-/**
- * Site header
- */
+body {
+  background: $color-mint url('../img/urbanraum-bg-bright.jpg') no-repeat center;
+  background-image:
+    linear-gradient(to bottom, rgba(255,255,255,.4) 0%,rgba(255,255,255,0) 800px),
+    url('../img/urbanraum-bg-b-w.jpg');
+  background-size: cover;
+  background-attachment: scroll, fixed;
+}
+
+// Wrapper, for padding left and right
+.wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
+  @include media-query-min($on-tablet) {
+    padding-right: $spacing-unit * 1.5;
+    padding-left: $spacing-unit * 1.5;
+  };
+  @include media-query-min($on-laptop) {
+    padding-right: $spacing-unit * 3;
+    padding-left: $spacing-unit * 3;
+  };
+}
+
+.wrapper--content {
+  max-width: 1024px;
+}
+
+// Site header
 .site-header {
+  position: fixed;
+  width: 100%;
+  top: 0;
   min-height: $height-header;
   padding-top: $spacing-unit / 2;
   // Positioning context for the mobile navigation icon
@@ -50,7 +81,6 @@
   color: rgba($color-text, .4);
   &:hover, &:focus {
     text-decoration: none;
-  //  background-color: red;
   }
 }
 
@@ -118,66 +148,85 @@
   display: block;
   line-height: $base-line-height;
   padding: 10px 10px;
-  border-bottom: 2px solid rgba($color-mint-yellow, .2);
   text-decoration: none;
+  color: $color-text;
+  text-transform: uppercase;
   &:hover, &:focus {
-    border-color: $color-mint-yellow;
+    border-bottom: 2px solid $color-mint-yellow;
     text-decoration: none;
-  };
+  }
   @include media-query-min($on-tablet) {
     display: inline-block;
-    margin-right: 8px;
-    margin-left: 8px;
+    margin-right: 6px;
+    margin-left: 6px;
     padding: 0;
+    font-size: 12px;
+  }
+  @include media-query-min($on-laptop) {
+    font-size: 14px;
+    margin-right: 10px;
+    margin-left: 10px;
   }
 }
 
 .footer-link {
-  &:not(:first-child) {
-    margin-left: 20px;
+  display: inline-block;
+  text-decoration: none;
+  padding: 0 6px 12px;
+  color: $color-text;
+  &:hover, &:focus {
+    text-decoration: none;
+    color: $color-pine;
+  }
+  &:first-child {
+    padding-left: 0;
   }
 }
 
-/**
- * Site footer
- */
+// Site Footer
 .site-footer {
-  padding: $spacing-unit 0 ($spacing-unit * 2);
-  min-height: $height-footer;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
   text-align: center;
 }
 
 .site-footer__social {
-  @include media-query-min($on-laptop) {
+  @include media-query-min(650px) {
     float: left;
     text-align: left;
   }
 }
 
 .site-footer__address {
-  @include media-query-min($on-laptop) {
+  @include media-query-min(650px) {
     float: right;
     text-align: right;
   }
 }
 
-
-
 // Page content
 .page-content {
-  padding-top: (2 * $spacing-unit);
-  padding-bottom: (2 * $spacing-unit);
-  min-height: -webkit-calc(100vh - (#{$spacing-unit} * 2) - #{$height-header} - #{$height-footer} );
-  min-height:         calc(100vh - (#{$spacing-unit} * 2) - #{$height-header} - #{$height-footer} );
+  margin-bottom: $height-footer;
+  position: relative;
+  z-index: 3;
+  padding-top: (3 * $spacing-unit);
+  padding-bottom: (4 * $spacing-unit);
+  min-height: -webkit-calc(100vh - (#{$spacing-unit} * 2) - #{$height-header} );
+  min-height:         calc(100vh - (#{$spacing-unit} * 2) - #{$height-header} );
+  background: $color-white;
+  @include media-query-min($on-tablet) {
+    padding-top: (4 * $spacing-unit);
+    padding-bottom: (7 * $spacing-unit);
+  }
+  @include media-query-min($on-laptop) {
+    padding-top: (4 * $spacing-unit);
+    padding-bottom: (8 * $spacing-unit);
+  }
 }
 
 .page-heading {
   font-size: 20px;
-}
-
-
-// Homepage
-.intro {
-  font-size: 1.2em;
-  margin-bottom: 2em;
 }

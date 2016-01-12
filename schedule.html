@@ -2,8 +2,37 @@
 layout: page
 ---
 
-<h1>Schedule</h1>
+<!-- {% assign classes=site.tags.classes %}
+{% assign overview=true %} -->
 
-
-
-
+<div class="schedule">
+{% for day in site.weekdays %}
+  <div class="day">
+    <header class="day__header">
+      {{ day }}
+    </header>
+    <div class="day__list">
+      {% for post in site.classes %}
+      {% assign start = post.time | date: "%k%M" %}
+      {% assign end = post.endtime | date: "%k%M" %}
+      {% assign duration = end | minus: start %}
+        {% if post.weekday_en contains day %}
+        <a  class="event time--{{ start }} duration--{{duration}}"
+            href="{{ post.url | prepend: site.baseurl }}">
+          <span class="event__time">
+            {{ post.time | date: "%R"}}
+            -
+            {{ post.endtime | date: "%R" }}
+          </span>
+          <h4 class="event__title"
+              data-en="{{ post.title_en }}"
+              data-de="{{ post.title_de }}">
+                {{ post.title_en }}
+          </h4>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endfor %}
+</div>

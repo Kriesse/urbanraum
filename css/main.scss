@@ -21,7 +21,7 @@ $base-line-height: 1.5;
 $spacing-unit:     16px;
 
 $height-header:    90px;
-$height-footer:    60px;
+$height-footer:    120px;
 
 $color-text:       $color-text;
 $color-background: #F3F8F2;
@@ -34,7 +34,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    800px;
 
-$on-tablet:        550px;
+$on-tablet:        600px;
 $on-laptop:        900px;
 
 
@@ -64,5 +64,8 @@ $on-laptop:        900px;
         "base",
         "buttons",
         "layout",
-        "posts"
+        "posts",
+        "banner",
+        "panorama",
+        "schedule"
 ;

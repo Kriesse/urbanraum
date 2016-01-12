@@ -36,7 +36,6 @@ Der Kurs startet am 4. März 2016.
 "
 
 teacher: "Karina Suárez-Bosche"
-teacher-link: "friederike-erhart"
 email: info@urbanraum.com
 
 image: "workshop-contact-improvisation-01.jpg"

@@ -42,4 +42,3 @@ email: kristin@lahoop.de
 image: "class-hulahoop-01.jpg"
 
 ---
-

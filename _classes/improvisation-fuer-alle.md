@@ -10,9 +10,9 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 price_en: "tba"
-price_de: "tba"
+price_de: "tba"  
 
-weekday_en: "Wednesday"
+weekday_en: "Wednesdayy"
 weekday_de: "Mittwoch"
 
 time: "5:30 pm"
@@ -31,6 +31,3 @@ email: jederkanntanzen@web.de
 image: "class-improvisation-fuer-alle-01.jpg"
 
 ---
-
-
-

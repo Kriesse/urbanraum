@@ -1,52 +1,59 @@
 ---
 layout: default
 ---
-<div class="post">
+{% assign teacher = site.data.people[page.teacher] %}
 
-  <header class="post__header">
-    <h1 class="post__title">
-      {{ page.teacher_name }}
-    </h1>
-  </header>
+<div class="page-content">
+  <div class="wrapper wrapper--content">
 
-  <article class="post__content">
+    <div class="post">
 
-    <div class="post__details">
-      <div class="post__media">
-        {% if page.image %}
-          <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
-        {% else %}
-          <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
-        {% endif %}
+      <header class="post__header">
+        <h1 class="post__title">
+          {{ teacher.name }}
+        </h1>
+      </header>
 
-      </div>
+      <article class="post__content">
 
-      <div class="post__aside">
-        <div class="post__bio" data-en="{{ page.bio_en }}" data-de="{{ page.bio_de }}">
-          {{ page.bio_en }}
+        <div class="post__details">
+          <div class="post__media">
+            {% if teacher.image %}
+              <img src="{{ site.baseurl }}/img/{{ teacher.image }}" class="img-flex" />
+            {% else %}
+              <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
+            {% endif %}
+
+          </div>
+
+          <div class="post__aside">
+            <div class="post__bio" data-en="{{ teacher.bio_en }}" data-de="{{ teacher.bio_de }}">
+              {{ teacher.bio_en }}
+            </div>
+
+            <ul class="post__list">
+              <li>
+                <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>
+                <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
+              </li>
+            </ul>
+
+          </div>
+
         </div>
 
-        <ul class="post__list">
-          <li>
-            <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>
-            <a href="mailto:{{ page.email }}">{{ page.email }}</a>
-          </li>
-        </ul>
-
-      </div>
-
-    </div>
-
-    <div class="post__description">
-      {{ content }}
-    </div>
+        <div class="post__description">
+          {{ content }}
+        </div>
 
 
+
+
+        </div>
+
+      </article>
 
 
     </div>
-
-  </article>
-
-
+  </div>
 </div>

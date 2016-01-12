@@ -1,6 +1,7 @@
 ---
-  layout: default
-
+  layout: gallery
+  title_en: Teachers
+  title_de: Lehrende
 ---
 
 {% assign teachers=site.tags.teachers %}
@@ -8,20 +9,23 @@
 
 <div class="gallery">
   {% for post in site.teachers %}
-    <div class="gallery__item gallery__item--small">
+
+  {% assign teacher = site.data.people[post.teacher] %}
+
+    <div class="gallery__item">
       <div class="post">
         <a  class="post__link"
             href="{{ post.url | prepend: site.baseurl }}">
           <div class="post__img">
-            {% if post.image %}
-              <img src="{{ site.baseurl }}/img/{{ post.image }}" class="img-flex" />
+            {% if teacher.image %}
+              <img src="{{ site.baseurl }}/img/{{ teacher.image }}" class="img-flex" />
             {% else %}
               <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
             {% endif %}
           </div>
           <div  class="post__meta">
-            <span data-en="{{ post.title_en }}" data-de="{{ post.title_de }}">
-              {{ post.title_en }}
+            <span>
+              {{ teacher.name }}
             </span>
           </div>
         </a>
@@ -29,5 +33,3 @@
     </div>
   {% endfor %}
 </div>
-
-
