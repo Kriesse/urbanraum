@@ -8,8 +8,8 @@ type_de: "Wöchentlicher Kurs"
 level_en: "open level"
 level_de: "open level"
 
-price_en: "80 Euro / 10 classes, 10 Euro / singel class"
-price_de: "10-er Karte: 80 EURO/ Einzelstunde: 10 EURO"
+price_en: "10 classes: 80 Euro, Single class: 10 Euro"
+price_de: "10er Karte: 80 EURO, Einzelstunde: 10 EURO"
 
 weekday_en: "Tuesday"
 weekday_de: "Dienstag"
@@ -25,7 +25,7 @@ trial_de: "nach Anmeldung"
 
 description_en: "Ein Tanzkurs für alle, die schon immer tanzen wollten oder bereits Erfahrung haben.
 Lior bietet mit seinem Kurs einen alternativen und kreativen Weg, sich in Bewegung zu bringen und Sport zu machen.
-Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird. 
+Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird.
 Anschließend werden Grundelemente aus dem zeitgenössischen Tanz erlernt und es entstehen einfache choreographische Kombinationen verschiedener Tanztechniken.
 
 Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren.
@@ -33,7 +33,7 @@ Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung 
 
 description_de: "Ein Tanzkurs für alle, die schon immer tanzen wollten oder bereits Erfahrung haben.
 Lior bietet mit seinem Kurs einen alternativen und kreativen Weg, sich in Bewegung zu bringen und Sport zu machen.
-Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird. 
+Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird.
 Anschließend werden Grundelemente aus dem zeitgenössischen Tanz erlernt und es entstehen einfache choreographische Kombinationen verschiedener Tanztechniken.
 
 Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren.
