@@ -10,8 +10,8 @@ type_de: "Wöchentlicher Kurs"
 level_en: "open level"
 level_de: "open level"
 
-price_en: "80 Euro / 10 classes, 10 Euro / singel class"
-price_de: "10-er Karte: 80 EURO/ Einzelstunde: 10 EURO"
+price_en: "10 classes: 80 Euro, Single class: 10 Euro"
+price_de: "10er Karte: 80 EURO, Einzelstunde: 10 EURO"
 
 weekday_en: "Tuesday"
 weekday_de: "Dienstag"
