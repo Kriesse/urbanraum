@@ -2,6 +2,8 @@
 title_en:  "Contemporary Dance (open level)"
 title_de:  "Zeitgenössischer Tanz (alle Level)"
 
+teacher: "lior"
+
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
@@ -24,12 +26,8 @@ trial_en: "on registration"
 trial_de: "nach Anmeldung"
 
 description_en: "n/a"
-
 description_de: "n/a"
 
-teacher: "Lior Shneior"
-teacher-link: "lior-shneior"
-email: info@urbanraum.com
 image: "class-contemporary-lior-01.jpg"
 
 ---

@@ -3,6 +3,8 @@
 title_en:  "Kung Fu"
 title_de:  "Kung Fu"
 
+teacher: ""
+
 subtitle_en:
 subtitle_de:
 
@@ -24,9 +26,6 @@ language_de: ""
 description_en: "n/a"
 description_de: "n/a"
 
-teacher: "Lefte & Hagen"
-teacher-link: ""
-email: info@urbanraum.com
 image:
 
 ---

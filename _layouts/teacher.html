@@ -33,10 +33,39 @@ layout: default
 
             <ul class="post__list">
               <li>
-                <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>
+                <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">
+                  {{ site.contact_en }}
+                </span>
                 <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
+                {% if teacher.website-link %}
+                | <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
+                {% endif %}
+                {% if teacher.phone %}
+                | {{ teacher.phone }}
+                {% endif %}
               </li>
             </ul>
+
+            <h3>{{ teacher.name }} teaches these classes at Urbanraum:</h3>
+
+            <div class="">
+              {% for post in site.classes %}
+               {{ teacher.name | downcase }}
+               vs
+               {{ post.teacher }}|||
+                {% if (teacher.name | downcase contains post.teacher %}
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                  <h4 class="event__title"
+                      data-en="{{ post.title_en }}"
+                      data-de="{{ post.title_de }}">
+                        {{ post.title_en }}
+                  </h4>
+                </a>
+                {% endif %}
+              {% endfor %}
+
+            </div>
+
 
           </div>
 

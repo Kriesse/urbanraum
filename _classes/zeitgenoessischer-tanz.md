@@ -2,6 +2,8 @@
 title_en:  "Contemporary Dance"
 title_de:  "Zeitgenössischer Tanz"
 
+teacher: "friederike"
+
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
@@ -35,9 +37,6 @@ description_en: "This class is for all lovers of body movement with previous exp
 
 description_de: "Der Kurs richtet sich an alle Bewegungsbegeisterten mit tänzerischer Vorerfahrung. Ziel ist es zum einen, eine solide Tanztechnik aus verschiedenen Bereichen des zeitgenössischen Tanzes zu vermitteln und diese in kleinere, tänzerische Sequenzen einzubauen. Darüberhinaus werden einzelne Choreographien entwickelt, in denen die Kursteilnehmer ihren tänzerischen Ausdruck vertiefen können. Der Tanzstil Friederike Erharts zeichnet sich durch sehr dynamische, fließende und organische Bewegungen aus. Oberstes Prinzip ist stets die Freude an Musik und Bewegung."
 
-teacher: "Friederike Erhart"
-teacher-link: "friederike-erhart"
-email: info@urbanraum.com
 image: "class-contemporary-01.jpg"
 
 ---

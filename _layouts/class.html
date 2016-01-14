@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign teacher = site.data.people[page.teacher] %}
 
 <div class="page-content">
   <div class="wrapper wrapper--content">
@@ -70,11 +71,11 @@ layout: default
               {% endif %}
 
               <li>
-                <span class="label" data-en="{{ site.teacher_en }}" data-de="{{ site.teacher_de }}">{{ site.termin_en }}</span>
+                <span class="label" data-en="{{ site.teacher_en }}" data-de="{{ site.teacher_de }}">{{ site.teacher_en }}</span>
                 <span class="detail">
-                  <a href="{{ site.baseurl }}/teachers/{{ page.teacher-link }}.html">{{ page.teacher }}</a>
-                  {% if page.teacher_2 %}
-                    & <a href="{{ page.teacher-link_2 }}">{{ page.teacher_2 }}</a>
+                  <a href="{{ site.baseurl }}/teachers/{{ teacher.link }}.html">{{ teacher.name }}</a>
+                  {% if teacher_2 %}
+                    & <a href="{{ site.baseurl }}/teachers/{{ teacher_2.link }}.html">{{ teacher_2.name }}</a>
                   {% endif %}
                 </span>
               </li>
@@ -120,12 +121,12 @@ layout: default
               <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">
                 {{ site.contact_en }}
               </span>
-              <a href="mailto:{{ page.email }}">{{ page.email }}</a>
-              {% if page.website-link %}
-              | <a href="{{ page.website-link }}">{{ page.website-title }}</a>
+              <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
+              {% if teacher.website-link %}
+              | <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
               {% endif %}
-              {% if page.phone %}
-              | {{ page.phone }}
+              {% if teacher.phone %}
+              | {{ teacher.phone }}
               {% endif %}
             </li>
           </ul>

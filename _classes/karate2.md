@@ -3,6 +3,8 @@
 title_en:  "Karate"
 title_de:  "Karate"
 
+teacher: "malte"
+
 subtitle_en:
 subtitle_de:
 
@@ -24,9 +26,6 @@ language_de: ""
 description_en: "n/a"
 description_de: "n/a"
 
-teacher: "Malte Loos"
-teacher-link: "malte-loos"
-email: info@urbanraum.com
 image:
 
 ---

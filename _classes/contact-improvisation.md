@@ -1,10 +1,11 @@
 ---
+title_en:  "Contact Improvisation, Präsenz und Wahrnehmung"
+title_de:  "Contact Improvisation, Präsenz und Wahrnehmung"
 
-title_en:  "Contact Improvisation, Präsenz und Wahrnehmung (from march 2016)"
-title_de:  "Contact Improvisation, Präsenz und Wahrnehmung (ab März 2016)"
+teacher: "karina"
 
-subtitle_en:
-subtitle_de:
+subtitle_en: "from march 2016"
+subtitle_de: "ab März 2016"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -22,7 +23,6 @@ endtime: "12:00pm"
 language_en: "German"
 language_de: "Deutsch"
 
-
 description_en: "
 n/a
 "
@@ -35,12 +35,8 @@ In diesem Kurs geht es um das Geben und das Nehmen. Darum, unsere moralischen Gr
 Der Kurs startet am 4. März 2016.
 "
 
-teacher: "Karina Suárez-Bosche"
-email: info@urbanraum.com
-
 image: "workshop-contact-improvisation-01.jpg"
 
 tags: workshops, classes
-
 
 ---

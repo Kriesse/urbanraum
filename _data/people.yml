@@ -11,8 +11,9 @@ sammo:
     link: "sammo-lusa"
     phone: "0304493341"
     image: "teacher-sammo-lusa-01.jpg"
+    website-title: "biodanza-in-berlin.com"
+    website-link: "http://www.biodanza-in-berlin.com"
     bio_en: Biography not yet available
-    website: "www.biodanza-in-berlin.com"
     bio_de: "Sammo Lusa ist aus Buenos Aires/Argentinien, hat in Italien und den USA gelebt, und wohnt seit 1988 in Berlin. Sammo hat Unterrichtserfahrungen im kreativen Tanz, in der Schauspielkunst und leitet langjährig offene Gruppen, Workshops und Fortbildungen auf dem Gebiet der Tanztherapie. Sie ist Leiterin und Didakta von Biodanza.
     <br>
     Zusätzliche Ausbildungen: Projekt Minotaurus, Identität und Die vier Elemente.
@@ -46,6 +47,8 @@ iliana:
     email: "lynnkalapotharakou@gmail.com"
     bio_en: Biography not yet available
     bio_de: Biographie noch nicht verfügbar
+    website-title: "Facebook"
+    website-link: http://www.facebook.com/Workshops.Iliana
 lior:
     name: "Lior Shneior"
     link: "lior-shneior"

@@ -3,6 +3,8 @@
 title_en:  "Werkstatt Tanzcompany"
 title_de:  "Werkstatt Tanzcompany"
 
+teacher: "livia"
+
 subtitle_en:
 subtitle_de:
 
@@ -24,9 +26,6 @@ language_de: ""
 description_en: "n/a"
 description_de: "n/a"
 
-teacher: "Livia Politi"
-teacher-link: "livia-politi"
-email: info@urbanraum.com
 image:
 
 ---
