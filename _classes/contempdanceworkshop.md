@@ -1,6 +1,6 @@
 ---
-title_en: "Dance company workshop"
-title_de: "TANZCOMPANY WERKSTATT"
+title_en: "Dance company workshop (from march 2016)"
+title_de: "TANZCOMPANY WERKSTATT (ab März 2016)"
 
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
