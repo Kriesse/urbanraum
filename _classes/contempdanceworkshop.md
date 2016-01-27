@@ -1,6 +1,6 @@
 ---
 title_en: "Dance company workshop (from march 2016)"
-title_de: "TANZCOMPANY WERKSTATT (ab März 2016)"
+title_de: "Tanzcompany Werkstatt (ab März 2016)"
 
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
@@ -18,10 +18,14 @@ weekday_de: "Dienstag und Donnerstag"
 time: "10 am"
 endtime: "11:30 am"
 
-description_en: 'Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreiche Projekte in Deutschland, U.S.A, Mexiko und Argentinien. 
+description_en: 'Tanztechnik und Choreografie.Trimestral  Studio Vorstellung (optional).
+Weitere Infos über die Tanzcompany Werkstatt bei Livia Politi: liviapoliti@gmail.com.
+Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreiche Projekte in Deutschland, U.S.A, Mexiko und Argentinien. 
 Die erfahrene Tanzdozentin Unterrichtet u.a. an der Dock11 studios Berlin, 
 Bildungsjahr Tanz von Seneca- Intensiv und assistiert beim Masterstudiengang für Choreografie der Udk  Berlin.'
 description_de: '
+Tanztechnik und Choreografie.Trimestral  Studio Vorstellung (optional).
+Weitere Infos über die Tanzcompany Werkstatt bei Livia Politi: liviapoliti@gmail.com.
 Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreiche Projekte in Deutschland, U.S.A, Mexiko und Argentinien. 
 Die erfahrene Tanzdozentin Unterrichtet u.a. an der Dock11 studios Berlin, 
 Bildungsjahr Tanz von Seneca- Intensiv und assistiert beim Masterstudiengang für Choreografie der Udk  Berlin.
