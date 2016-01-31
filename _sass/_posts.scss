@@ -29,7 +29,6 @@
 .post__details {
   text-align: center;
   overflow: hidden;
-  margin-bottom: 2 * $spacing-unit;
 }
 
 .post__bio {
@@ -47,20 +46,31 @@
 }
 
 .post__description {
-  max-width: 500px;
-  margin: 0 auto 3rem;
+  //max-width: 500px;
+  margin: 0 auto 0;
 }
 
 .post__list {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: .5rem;
+  border-top: 2px solid $color-brand;
+  border-bottom: 2px solid $color-brand;
+
   list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
   text-align: left;
+
+  @include media-query-min($on-tablet) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
   li {
     margin-bottom: 1.5em;
-    min-width: 200px;
+    @include media-query-min($on-tablet) {
+      width: 200px;
+    }
   }
   .detail {
     display: inline-block;

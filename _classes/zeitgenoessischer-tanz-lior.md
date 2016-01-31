@@ -1,8 +1,11 @@
 ---
-title_en:  "Contemporary Dance (open level) ab 2.2.2016"
-title_de:  "Zeitgenössischer Tanz (open level) from 2th february"
+title_en:  "Contemporary Dance (open level)"
+title_de:  "Zeitgenössischer Tanz (open level)"
 
 teacher: "lior"
+
+subtitle_en: "ab Februar 2016"
+subtitle_de: "starting February 2016"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -10,7 +13,7 @@ type_de: "Wöchentlicher Kurs"
 level_en: "open level"
 level_de: "open level"
 
-price_en: "10 classes: 80 Euro, Single class: 10 Euro"
+price_en: "10 classes: 80 Euro, single class: 10 Euro"
 price_de: "10er Karte: 80 EURO, Einzelstunde: 10 EURO"
 
 weekday_en: "Tuesday"

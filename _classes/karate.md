@@ -8,8 +8,8 @@ teacher: "malte"
 subtitle_en:
 subtitle_de:
 
-type_en: "Weekly Class"
-type_de: "Wöchentlicher Kurs"
+type_en: "Class"
+type_de: "Kurs"
 
 price_en: ""
 price_de: ""

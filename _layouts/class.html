@@ -118,17 +118,32 @@ layout: default
             {% endif %}
 
             <li>
-              <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">
-                {{ site.contact_en }}
+              <span class="label">
+                Email
               </span>
               <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
+            </li>
+
+            {% if teacher.website-link %}
+            <li>
+              <span class="label">
+                Website
+              </span>
               {% if teacher.website-link %}
-              | <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
-              {% endif %}
-              {% if teacher.phone %}
-              | {{ teacher.phone }}
+                <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
               {% endif %}
             </li>
+            {% endif %}
+
+            {% if teacher.phone %}
+            <li>
+              <span class="label">
+                Phone
+              </span>
+              <a href="tel:{{ teacher.phone }}">{{ teacher.phone }}</a>
+            </li>
+            {% endif %}
+
           </ul>
         </div>
 

@@ -3,7 +3,7 @@
 title_en:  "Kung Fu"
 title_de:  "Kung Fu"
 
-teacher: ""
+teacher: "n/a"
 
 subtitle_en:
 subtitle_de:

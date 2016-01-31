@@ -37,8 +37,6 @@ $content-width:    800px;
 $on-tablet:        600px;
 $on-laptop:        900px;
 
-
-
 // Using media queries with like this:
 // @include media-query($on-tablet) {
 //     .wrapper {
@@ -46,6 +44,7 @@ $on-laptop:        900px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;

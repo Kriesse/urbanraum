@@ -48,19 +48,19 @@ layout: default
 
             <h3>{{ teacher.name }} teaches these classes at Urbanraum:</h3>
 
-            <div class="">
+
+            <div class="teacher__class-list">
+              {% assign teacher-name = teacher.name | downcase %}
               {% for post in site.classes %}
-               {{ teacher.name | downcase }}
-               vs
-               {{ post.teacher }}|||
-                {% if (teacher.name | downcase contains post.teacher %}
+                {% if (teacher-name contains post.teacher %}
                 <a href="{{ post.url | prepend: site.baseurl }}">
-                  <h4 class="event__title"
+                  <span
                       data-en="{{ post.title_en }}"
                       data-de="{{ post.title_de }}">
                         {{ post.title_en }}
-                  </h4>
+                  </span>
                 </a>
+                <br>
                 {% endif %}
               {% endfor %}
 
