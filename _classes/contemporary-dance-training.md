@@ -8,8 +8,8 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Advanced"
 level_de: "Fortgeschritten"
 
-price_en: "10 EURO/Kurs, 90 EURO/10-er Karte (3 Monate gültig)"
-price_de: "10 EURO/Kurs, 90 EURO/10-er Karte (3 Monate gültig)"
+price_en: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
+price_de: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
 
 weekday_en: "Thursday"
 weekday_de: "Donnerstag"
