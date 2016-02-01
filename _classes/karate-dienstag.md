@@ -33,8 +33,7 @@ Thursdays we dig a little deeper.
 
 description_de: '
 Karate ist eine buddhistisch geprägte Kampfkunst aus dem Süden Japans. Karate kann man als reine Selbstverteidigung betreiben, aber auch als eine körperlich intensive Meditation. Je nach Ausrichtung zielt es darauf, den äusseren Gegner zu überwältigen, oder eben innere Beschwernisse geistig zu überwinden.
-Wir richten unser Training zumeist nach innen und machen den Körper so weich, dass er den Geist entlassen kann. Wenn unsere Furcht vergeht, und unser Begehren, werden wir innerlich still. Dann kann sich unsere gesamte Energie frei nach aussen wenden und auf den Gegner konzentrieren.
-Unser Training ist körperlich anspruchsvoll und geistig fordernd. Vorkenntnisse sind nicht notwendig. Anfänger lernen die Grundtechniken am besten in der Stunde am Dienstag Abend. Donnerstags graben wir etwas tiefer.
+Wir richten unser Training zumeist nach innen und machen den Körper so weich, dass er den Geist entlassen kann. Wenn unsere Furcht vergeht, und unser Begehren, werden wir innerlich still. Dann kann sich unsere gesamte Energie frei nach aussen wenden und auf den Gegner konzentrieren. Unser Training ist körperlich anspruchsvoll und geistig fordernd. Vorkenntnisse sind nicht notwendig. Anfänger lernen die Grundtechniken am besten in der Stunde am Dienstag Abend. Donnerstags graben wir etwas tiefer.
 '
 
 teacher: "Malte Loos"
