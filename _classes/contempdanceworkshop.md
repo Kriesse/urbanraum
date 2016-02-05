@@ -20,7 +20,7 @@ endtime: "11:30 am"
 
 description_en: '
 <p> 
-Tanztechnik und Choreografie. Trimestral Studio Vorstellung (optional). <br>
+Tanztechnik und Choreografie. Studio Vorstellung nach 3 Monaten (optional). <br>
 Weitere Infos über die Tanzcompany Werkstatt bei Livia Politi: liviapoliti@gmail.com. <br> <p>
 Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreiche Projekte in Deutschland, U.S.A, Mexiko und Argentinien. <br>
 Die erfahrene Tanzdozentin unterrichtet u.a. an der Dock11 studios Berlin, 
