@@ -29,7 +29,7 @@ Bildungsjahr Tanz von Seneca- Intensiv und assistiert beim Masterstudiengang fü
 
 description_de: '
 <p>
-Tanztechnik und Choreografie. Trimestral Studio Vorstellung (optional). 
+Tanztechnik und Choreografie. Studio Vorstellung nach 3 Monaten (optional). 
 <br>
 Weitere Infos über die Tanzcompany Werkstatt bei Livia Politi: liviapoliti@gmail.com.
 </p>
