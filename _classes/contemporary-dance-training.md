@@ -1,12 +1,12 @@
 ---
-title_en: "Contemporary Dance Training (from 4th february on)"
-title_de: "Contemporary Dance Training (wieder ab 4. Februar)"
+title_en: "Contemporary Dance Training"
+title_de: "Contemporary Dance Training"
 
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "Advanced"
-level_de: "Fortgeschritten"
+level_en: "open level"
+level_de: "alle Level"
 
 price_en: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
 price_de: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
