@@ -1,6 +1,6 @@
 ---
 title_en: "Karate (Tuesday)"
-title_de: "Karate (Dienstag)"
+title_de: "Karate am Dienstag"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
