@@ -14,9 +14,9 @@ price_de: "130 EUR / 10 Kurse"
 weekday_en: "Thursday"
 weekday_de: "Donnerstag"
 
-time: "7:45pm"
+time: "7:00pm"
 
-endtime: "9:15pm"
+endtime: "9:00pm"
 
 language_en: "predominantly German (also English, French and some Spanish)"
 language_de: "vorwiegend Deutsch"
