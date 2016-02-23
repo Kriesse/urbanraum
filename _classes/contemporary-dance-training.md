@@ -1,12 +1,12 @@
 ---
-title_en: "Contemporary Dance Training (from 4th february on)"
-title_de: "Contemporary Dance Training (wieder ab 4. Februar)"
+title_en: "Contemporary Dance Training"
+title_de: "Contemporary Dance Training"
 
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "Advanced"
-level_de: "Fortgeschritten"
+level_en: "open level"
+level_de: "open Level"
 
 price_en: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
 price_de: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
@@ -25,7 +25,7 @@ Der Unterricht basiert auf der Folkwang-Tanz-Technik, bereichert durch Elemente 
 Die Idee ist, dynamisch und kreativ in den Tag zu starten und ein technisches und choreographisches Repertoire aufzubauen.
 Außerdem ist der Kurs als Proben-Warm up oder zur Vorbereitung einer Tanz-Aufnahmeprüfung geeignet.
 
-NEU! Ab März 2016: Werkstatt Tanzcompany (Dienstag & Donnerstag von 10.00-11.30)
+NEU! Ab März 2016: Werkstatt Tanzcompany mit Livia Politi (Dienstags von 10.00-11.30)
 '
 teacher: "Livia Politi"
 teacher-link: 
