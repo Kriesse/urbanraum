@@ -75,6 +75,6 @@ email: momentum.acrobatics@gmail.com
 phone:
 website-title: Facebook Event
 website-link: https://www.facebook.com/events/933505286711533/
-image: "workshop-momentumacrobatics-01.jpg"
+image: 
 
 ---
