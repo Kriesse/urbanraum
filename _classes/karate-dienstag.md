@@ -43,6 +43,6 @@ email: "malte@innere-stille.net"
 phone: "0174 3790176"
 website-title: "innere-stille.net"
 website-link: "http://www.innere-stille.net/"
-image: ""
+image: 
 
 ---

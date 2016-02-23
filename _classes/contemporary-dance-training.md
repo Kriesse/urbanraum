@@ -6,7 +6,7 @@ type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
 
 level_en: "open level"
-level_de: "open Level"
+level_de: "open level"
 
 price_en: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
 price_de: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"

@@ -1,6 +1,6 @@
 ---
-title_en:  "Contemporary Dance (open level) ab 2.2.2016"
-title_de:  "Zeitgenössischer Tanz (open level) from 2th february"
+title_en:  "Contemporary Dance (open level)"
+title_de:  "Zeitgenössischer Tanz (open level)"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
