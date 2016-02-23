@@ -23,7 +23,7 @@ price_de: "
 Drop-In: 10 EUR <br>
 4 Stunden: 34 EUR <br>
 8 Stunden: 64 EUR <br>
-12 Stunden : 90 EUR
+12 Stunden: 90 EUR
 "
 
 weekday_en: "Friday"

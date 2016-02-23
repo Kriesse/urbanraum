@@ -4,9 +4,6 @@ title_de:  "Zeitgenössischer Tanz (open level)"
 
 teacher: "lior"
 
-subtitle_en: "ab Februar 2016"
-subtitle_de: "starting February 2016"
-
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
