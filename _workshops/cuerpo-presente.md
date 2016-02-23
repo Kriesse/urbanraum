@@ -71,10 +71,9 @@ This meeting ends with individual or group practices of instant composition, fol
 teacher: "Alexander Carrillo"
 teacher-link: "friederike-erhart"
 
-email: momentum.acrobatics@gmail.com
+email: lexfre@gmail.com
 phone:
-website-title: Facebook Event
-website-link: https://www.facebook.com/events/933505286711533/
+website-link: www.vimeo.com/alexandercarrillo / www.alexander-carrillo.com / www.facebook.com/events/1669240953325521/
 image: 
 
 ---
