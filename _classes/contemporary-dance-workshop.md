@@ -12,7 +12,7 @@ price_de: "90 Euro/12 Termine | 64 Euro/8 Termine |
 weekday_en: "Tuesday"
 weekday_de: "Dienstag"
 
-time: "12 am"
+time: "12 pm"
 endtime: "13.30 pm"
 
 description_en: '
