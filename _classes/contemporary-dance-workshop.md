@@ -13,7 +13,7 @@ weekday_en: "Tuesday"
 weekday_de: "Dienstag"
 
 time: "12 pm"
-endtime: "13.30 pm"
+endtime: "1:30 pm"
 
 description_en: '
 Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreichen Projekte in Deutschland, U.S.A, Mexiko und Argentinien. <br>
