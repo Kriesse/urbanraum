@@ -14,7 +14,7 @@ price_de: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
 weekday_en: "Thursday"
 weekday_de: "Donnerstag"
 
-time: "12 am"
+time: "12 pm"
 endtime: "1:30 pm"
 
 description_en: '
