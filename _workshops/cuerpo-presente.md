@@ -39,6 +39,7 @@ language_de: ""
 description_en: "
 Today’s world needs art to heal our bodies from our souls. Art as a tool of transformation. From our inner feeling and sensations. From our inner beast, being present. With a conscience practice. (Is not easy - for sure is fun). Then, there is not past to regret of, there is not present to be disappointed and not future to be worry about. Just moments of learning, moments of understanding our own world, our inner beast, and our own life. And so, we can share and maybe get to understand others life.
 <br> <p> 
+</p> <p> 
 </p> The Workshop invites us to meet our -wild animal being- that naturally follows the path of its physical and emotional actions. The present and future life as Creative Platform.
 <br>
 These meetings are for all levels and are open to bodies and ideas in different fields. Dancers, performers, workers, engineers, stripers, lovers and … are invited, not movement background required. Is required to have passion to explore the body, the own possibilities, frustrations and the fact of being alive:
