@@ -14,8 +14,8 @@ price_de: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
 weekday_en: "Thursday"
 weekday_de: "Donnerstag"
 
-time: "10 am"
-endtime: "11:30 am"
+time: "12 am"
+endtime: "1:30 pm"
 
 description_en: '
 Mit tänzerischem Warm Up, Koordinationen und Muskeltraining füllen wir den Raum mit Bewegung, Dynamik und Musikalität. Wir wechseln die Ebenen, die Texturen, die Richtungen.
