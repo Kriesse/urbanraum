@@ -33,7 +33,7 @@ Der Unterricht basiert auf der Folkwang-Tanz-Technik, bereichert durch Elemente 
 Die Idee ist, dynamisch und kreativ in den Tag zu starten und ein technisches und choreographisches Repertoire aufzubauen.
 Außerdem ist der Kurs als Proben-Warm up oder zur Vorbereitung einer Tanz-Aufnahmeprüfung geeignet.
 <br>
-NEU! Ab März 2016: Werkstatt Tanzcompany mit Livia Politi (Dienstags von 10.00-11.30)
+NEU! Ab März 2016: Dance Company Lab mit Livia Politi (Donnerstag von 12.00-11.30)
 '
 teacher: "Livia Politi"
 teacher-link:
