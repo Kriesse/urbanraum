@@ -11,8 +11,8 @@ level_de: "open level"
 price_en: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
 price_de: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
 
-weekday_en: "Thursday"
-weekday_de: "Donnerstag"
+weekday_en: "Tuesday"
+weekday_de: "Dienstag"
 
 time: "12 pm"
 endtime: "1:30 pm"
