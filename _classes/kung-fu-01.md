@@ -1,7 +1,7 @@
 ---
 
-title_en:  "Kung Fu"
-title_de:  "Kung Fu"
+title_en:  "Kung Fu (Monday)"
+title_de:  "Kung Fu am Montag"
 
 teacher: "n/a"
 

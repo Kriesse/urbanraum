@@ -9,7 +9,7 @@
 
 <div class="gallery">
   {% for post in site.workshops %}
-    <div class="gallery__item">
+    <div class="gallery__item gallery__item--large ">
       <div class="post">
         <a  class="post__link"
             href="{{ post.url | prepend: site.baseurl }}">
