@@ -151,6 +151,7 @@ body {
   text-decoration: none;
   color: $color-text;
   text-transform: uppercase;
+  border-bottom: 2px solid transparent;
   &:hover, &:focus {
     border-bottom: 2px solid $color-mint-yellow;
     text-decoration: none;

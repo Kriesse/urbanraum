@@ -26,7 +26,16 @@ $h: $schedule-start-hour;
 .day {
   float: left;
   width: 20%;
-  padding: 10px;
+  border-left: 1px solid rgba($color-mint, .2);
+  &:first-child {
+    border-left: none;
+  }
+  @include media-query-min($on-tablet) {
+    padding: 0 4px;
+  }
+  @include media-query-min($on-laptop) {
+    padding: 0 10px;
+  }
 }
 
 .day__header {
