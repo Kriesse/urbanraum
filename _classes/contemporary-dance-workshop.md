@@ -9,8 +9,8 @@ price_en: "90 Euro/12 classes | 64 Euro/8 classes | 34 Euro/4 classes | Drop-in:
 price_de: "90 Euro/12 Termine | 64 Euro/8 Termine |
   34 Euro/4 Termine | Drop-in: 10 Euro"
 
-weekday_en: "Tuesday"
-weekday_de: "Dienstag"
+weekday_en: "Thursday"
+weekday_de: "Donnerstag"
 
 time: "12 pm"
 endtime: "1:30 pm"
