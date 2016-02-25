@@ -2,7 +2,7 @@
 title: Urbanraum
 email: info@urbanraum.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Urbanraum ist ein Raum für Bewegung, Tanz und Improvisation. Zeitgenössisch, offen, in Berlin Neukölln."
+  "Urbanraum ist ein Raum für Bewegung, Tanz und Improvisation. Zeitgenössisch, offen, in Berlin Kreuzberg."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://urbanraum.de" # the base hostname & protocol for your site
 twitter_username: urbanraum
