@@ -32,7 +32,9 @@
 }
 
 .post__bio {
-  margin-bottom: $spacing-unit;
+  max-width: 500px;
+  margin: 0 auto $spacing-unit;
+  text-align: left;
 }
 
 .post__media {
@@ -46,7 +48,7 @@
 }
 
 .post__description {
-  //max-width: 500px;
+  max-width: 500px;
   margin: 0 auto 0;
 }
 
