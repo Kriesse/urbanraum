@@ -16,7 +16,7 @@
       <div class="post">
         <a  class="post__link"
             href="{{ post.url | prepend: site.baseurl }}">
-          <div class="post__img">
+          <div class="post__img post__img--teacher">
             {% if teacher.image %}
               <img src="{{ site.baseurl }}/img/{{ teacher.image }}" class="img-flex" />
             {% else %}

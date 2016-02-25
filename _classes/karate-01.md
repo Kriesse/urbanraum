@@ -1,6 +1,14 @@
 ---
+
 title_en: "Karate (Tuesday)"
 title_de: "Karate am Dienstag"
+
+teacher: "malte"
+
+image: "class-karate-01.jpg"
+
+subtitle_en:
+subtitle_de:
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -14,15 +22,17 @@ price_de: "130 EUR / 10 Kurse"
 weekday_en: "Tuesday"
 weekday_de: "Dienstag"
 
-time: "7:45pm"
-
-endtime: "9:15pm"
+time: "7:45 pm"
+endtime: "9:15 pm"
 
 language_en: "predominantly German (also English, French and some Spanish)"
 language_de: "vorwiegend Deutsch"
 
 trial_en: "Free trial after registration"
 trial_de: "Probestunde kostenlos nach Anmeldung"
+
+website-title: "innere-stille.net"
+website-link: "http://www.innere-stille.net/"
 
 description_en: '
 Karate is a martial art, originating in the Okinawa Islands south of Japan. It is also a buddhist form of meditation. In training, you can put the emphasis on piercing your opponents’ defenses and overwhelming them or on clearing your body and mind to reveal inner truth. If done right, the two go together.
@@ -39,13 +49,5 @@ Wir richten unser Training zumeist nach innen und machen den Körper so weich, d
 <br>
 Unser Training ist körperlich anspruchsvoll und geistig fordernd. Vorkenntnisse sind nicht notwendig. Anfänger lernen die Grundtechniken am besten in der Stunde am Dienstag Abend. Donnerstags graben wir etwas tiefer.
 '
-
-teacher: "Malte Loos"
-teacher-link: ""
-email: "malte@innere-stille.net"
-phone: "0174 3790176"
-website-title: "innere-stille.net"
-website-link: "http://www.innere-stille.net/"
-image: "class-karate-01.jpg"
 
 ---

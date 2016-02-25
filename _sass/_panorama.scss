@@ -21,10 +21,10 @@
   @include media-query-min($on-tablet) {
     padding-left: 2em;
     padding-right: 2em;
-    font-size: 2.5em;
+    font-size: 2.2em;
   };
   @include media-query-min($on-laptop) {
-    font-size: 3em;
+    font-size: 2.5em;
   };
   p {
     max-width: 14em;
