@@ -1,7 +1,7 @@
 ---
 
-title_en:  "Kreative Bewegung durch Yoga (from march 2016)"
-title_de:  "Kreative Bewegung durch Yoga (ab März 2016)"
+title_en:  "Kreative Bewegung durch Yoga (from april 2016)"
+title_de:  "Kreative Bewegung durch Yoga (ab April 2016)"
 
 subtitle_en:
 subtitle_de:
