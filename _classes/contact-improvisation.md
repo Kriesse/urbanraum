@@ -1,7 +1,7 @@
 ---
 
-title_en:  "Contact Improvisation, Präsenz und Wahrnehmung (from march 2016)"
-title_de:  "Contact Improvisation, Präsenz und Wahrnehmung (ab März 2016)"
+title_en:  "Contact Improvisation, Präsenz und Wahrnehmung (from april 2016)"
+title_de:  "Contact Improvisation, Präsenz und Wahrnehmung (ab April 2016)"
 
 subtitle_en:
 subtitle_de:
