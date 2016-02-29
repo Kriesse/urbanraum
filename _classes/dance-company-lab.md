@@ -1,6 +1,6 @@
 ---
-title_en: "Dance Company Lab (from March 2016)"
-title_de: "Tanzcompany Lab (ab März 2016)"
+title_en: "Dance Company Lab"
+title_de: "Tanzcompany Lab"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
