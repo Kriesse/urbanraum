@@ -32,7 +32,7 @@ Sich berühren und spüren ist eine Form der Kommunikation, die viel direkter un
 <br>
 In diesem Kurs geht es um das Geben und das Nehmen. Darum, unsere moralischen Grenzen zu brechen und einen Dialog der Bewegung zu schaffen. Eine Arbeit, die auch eine Integration und persönliche Recherche der eigenen Bewegungssprache auslöst.
 <br>
-Der Kurs startet am 4. März 2016.
+Der Kurs startet am 1. April 2016.
 "
 
 teacher: "Karina Suárez-Bosche"
