@@ -8,9 +8,8 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Advanced"
 level_de: "Fortgeschritten/Mittelstufe"
 
-price_en: "90 Euro/12 classes | 64 Euro/8 classes | 34 Euro/4 classes | Drop-in: 10 Euro"
-price_de: "90 Euro/12 Termine | 64 Euro/8 Termine |
-  34 Euro/4 Termine | Drop-in: 10 Euro"
+price_en: "90 Euro/12 classes | Drop-in: 10 Euro"
+price_de: "90 Euro/12 Termine | Drop-in: 10 Euro"
 
 weekday_en: "Thursday"
 weekday_de: "Donnerstag"
