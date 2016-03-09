@@ -1,6 +1,6 @@
 ---
-title_en: "Dance Company Lab"
-title_de: "Tanzcompany Lab"
+title_en: "Dance Company Lab / Joining still possible"
+title_de: "Tanzcompany Lab / Achtung! Einstieg noch möglich""
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
