@@ -42,6 +42,9 @@ $h: $schedule-start-hour;
   border-bottom: 2px solid $color-text;
   margin-bottom: 10px;
   height: $day__header-height;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .day__list {
@@ -56,11 +59,14 @@ $h: $schedule-start-hour;
   display: block;
   position: absolute;
   width: 100%;
-  padding: 5px;
+  padding: 2px;
   background-color: $color-mint;
   color: $color-white;
-  font-size: 12px;
+  font-size: 11px;
   overflow: hidden;
+  transition-property: background-color, transform, color;
+  transition-duration: $transition-duration;
+  transition-timing-function: ease-in;
   .event__time {
     font-size: 10px;
     display: block;
@@ -69,6 +75,12 @@ $h: $schedule-start-hour;
     background-color: $color-text;
     text-decoration: none;
     color: $color-white;
+    transform: scale(1.2);
+    z-index: 10;
+  }
+  @include media-query-min($on-tablet) {
+    padding: 5px;
+    font-size: 12px;
   }
 }
 

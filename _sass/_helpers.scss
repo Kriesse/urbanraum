@@ -1,0 +1,9 @@
+.text--right {
+  text-align: right;
+}
+
+.hide-mobile {
+  @include media-query($on-tablet) {
+    display: none;
+  }
+}

@@ -12,6 +12,22 @@ layout: default
         <h1 class="post__title">
           {{ teacher.name }}
         </h1>
+        <p class="teacher__class-list">
+          {% assign teacher-name = teacher.name | downcase %}
+          {% for post in site.classes %}
+            {% if (teacher-name contains post.teacher %}
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <span
+                  data-en="{{ post.title_en }}"
+                  data-de="{{ post.title_de }}">
+                    {{ post.title_en }}
+              </span>
+            </a>
+            <br>
+            {% endif %}
+          {% endfor %}
+
+        </p>
       </header>
 
       <article class="post__content">
@@ -45,24 +61,6 @@ layout: default
                 {% endif %}
               </li>
             </ul>
-
-            <p>{{ teacher.name }} teaches these classes at Urbanraum:</p>
-
-
-            <div class="teacher__class-list">
-              {% assign teacher-name = teacher.name | downcase %}
-              {% for post in site.classes %}
-                {% if (teacher-name contains post.teacher %}
-                <a href="{{ post.url | prepend: site.baseurl }}">
-                  <span
-                      data-en="{{ post.title_en }}"
-                      data-de="{{ post.title_de }}">
-                        {{ post.title_en }}
-                  </span>
-                </a>
-                <br>
-                {% endif %}
-              {% endfor %}
 
             </div>
 

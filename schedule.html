@@ -23,8 +23,10 @@ title_de: Stundenplan
             href="{{ post.url | prepend: site.baseurl }}">
           <span class="event__time">
             {{ post.time | date: "%R"}}
-            -
-            {{ post.endtime | date: "%R" }}
+            <span class="hide-mobile">
+              -
+              {{ post.endtime | date: "%R" }}
+            </span>
           </span>
           <h4 class="event__title"
               data-en="{{ post.title_en }}"

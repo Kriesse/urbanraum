@@ -40,7 +40,7 @@ The Workshop invites us to meet our -wild animal being- that naturally follows t
 <br>
 These meetings are for all levels and are open to bodies and ideas in different fields. Dancers, performers, workers, engineers, stripers, lovers and … are invited, not movement background required. Is required to have passion to explore the body, the own possibilities, frustrations and the fact of being alive:
 <br>
-'CUERPO PRESENTE: THE INNER BEAST' aims to help participants in a better process their organic inner sensations - listening and feeling the present moment - present them externally in clear forms, and through tasks, focus their attention in the ‘natural’ character of their movements, authenticity and conscience.  
+'CUERPO PRESENTE: THE INNER BEAST' aims to help participants in a better process their organic inner sensations - listening and feeling the present moment - present them externally in clear forms, and through tasks, focus their attention in the ‘natural’ character of their movements, authenticity and conscience.
 <br>
 With themes, physical tasks, improvisation and research tools for individual and collective movement. Participants are guiding through their own experiences to perceive consciously the vital moment, and integrate their bodies and minds with time and space simultaneously.
 <br>
@@ -61,7 +61,7 @@ The Workshop invites us to meet our -wild animal being- that naturally follows t
 <br>
 These meetings are for all levels and are open to bodies and ideas in different fields. Dancers, performers, workers, engineers, stripers, lovers and … are invited, not movement background required. Is required to have passion to explore the body, the own possibilities, frustrations and the fact of being alive:
 <br>
-'CUERPO PRESENTE: THE INNER BEAST' aims to help participants in a better process their organic inner sensations - listening and feeling the present moment - present them externally in clear forms, and through tasks, focus their attention in the ‘natural’ character of their movements, authenticity and conscience.  
+'CUERPO PRESENTE: THE INNER BEAST' aims to help participants in a better process their organic inner sensations - listening and feeling the present moment - present them externally in clear forms, and through tasks, focus their attention in the ‘natural’ character of their movements, authenticity and conscience.
 <br>
 With themes, physical tasks, improvisation and research tools for individual and collective movement. Participants are guiding through their own experiences to perceive consciously the vital moment, and integrate their bodies and minds with time and space simultaneously.
 <br>
