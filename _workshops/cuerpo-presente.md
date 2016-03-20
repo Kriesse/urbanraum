@@ -13,21 +13,17 @@ level_en: "open level"
 level_de: "open level"
 
 price_en: "
-March 5 2016: First meeting price, discount for all: 25 Euro
-<br>
 April 2/3 2016: 65 Euro / Early pay before 27 of March: 60 Euro
 <br>
 "
 
 price_de: "
-5. März 2016: First meeting price, discount for all: 25 Euro
-<br>
 2./3. April 2016: 65 Euro / Early pay before 27 of March: 60 Euro
 <br>
 "
 
-date_en: "March 5 2016 & April 2/3 2016"
-date_de: "5. März 2016 & 2./3. April 2016"
+date_en: "April 2/3 2016"
+date_de: "2./3. April 2016"
 
 time: "10:00 am"
 endtime: "2:00 pm"

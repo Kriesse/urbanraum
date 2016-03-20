@@ -7,8 +7,11 @@ teacher: "livia"
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
 
-price_en: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
-price_de: "10 Euro/Kurs, 90 Euro/10-er Karte (3 Monate gültig)"
+level_en: "open level"
+level_de: "open level"
+
+price_en: "12 Euro/Kurs, 95 Euro/10-er Karte (3 Monate gültig)"
+price_de: "12 Euro/Kurs, 95 Euro/10-er Karte (3 Monate gültig)"
 
 weekday_en: "Tuesday"
 weekday_de: "Dienstag"
