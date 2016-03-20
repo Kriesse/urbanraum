@@ -33,10 +33,10 @@ Morning class on Friday.
 "
 
 description_de: "
-In ihrem morgendlichen Yoga-Kurs verbindet die zeitgenössische Tänzerin Karina Suárez-Bosche Elemente des Hatha und Ashtanga Yogas (Sonnengruß, Asanas, Atem-Übungen u.s.w.) mit denen aus dem Tanz und der Bewegungs-Improvisation.  Die regelmäßige Praxis, schafft Raum für das Bewusstsein des aktuellen Zustandes unseres Seins sowie das Gleichgewicht zwischen Körper, Geist und Seele. Das Ziel ist eine bessere Organisation, Präsenz und Stärkung des Körpers, wodurch sich - auch im Alltag - Vertrauen in dem Selbst und Kreativität entwickelt.
+In ihrem morgendlichen Yoga-Kurs verbindet die zeitgenössische Tänzerin Karina Suárez-Bosche Elemente des Hatha und Ashtanga Yogas (Sonnengruß, Asanas, Atem-Übungen u.s.w.) mit denen aus dem Tanz und der Bewegungs-Improvisation. Die regelmäßige Praxis schafft Raum für das Bewusstsein des aktuellen Zustandes unseres Seins sowie das Gleichgewicht zwischen Körper, Geist und Seele. Das Ziel ist eine bessere Organisation, Präsenz und Stärkung des Körpers, wodurch sich - auch im Alltag - Vertrauen ins Selbst und Kreativität entwickelt.
 <br>
 <br>
-Der Kus startet am 1. April 2016."
+Der Kurs startet am 1. April 2016."
 
 teacher: "Karina Suárez-Bosche"
 teacher-link: "friederike-erhart"
@@ -44,6 +44,3 @@ email: info@urbanraum.com
 image: "workshop-yoga-01.jpg"
 
 ---
-
-
-
