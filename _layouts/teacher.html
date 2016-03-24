@@ -44,8 +44,10 @@ layout: default
           </div>
 
           <div class="post__aside">
-            <div class="post__bio" data-en="{{ teacher.bio_en }}" data-de="{{ teacher.bio_de }}">
-              {{ teacher.bio_en }}
+            <div class="post__bio"
+                 data-en="{% if teacher.bio_en %}{{ teacher.bio_en }}{% else %}{{ site.data.copy.bio_unavailable_en }}{% endif %}"
+                 data-de="{% if teacher.bio_de %}{{ teacher.bio_de }}{% else %}{{ site.data.copy.bio_unavailable_de }}{% endif %}">
+              {% if teacher.bio_en %}{{ teacher.bio_en }}{% else %}{{ site.data.copy.bio_unavailable_en }}{% endif %}
             </div>
 
             <ul class="post__list">
