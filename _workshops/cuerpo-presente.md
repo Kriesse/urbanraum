@@ -25,8 +25,8 @@ price_de: "
 date_en: "April 2/3 2016"
 date_de: "2./3. April 2016"
 
-time: "10:00 am"
-endtime: "2:00 pm"
+time: "12:00 am"
+endtime: "4:00 pm"
 
 language_en: ""
 language_de: ""
