@@ -12,11 +12,11 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 price_en: "
-EUR 40 per month<br>
+EUR 50 per month<br>
 EUR 11 single class
 "
 price_de: "
-40 EUR monatlich <br>
+50 EUR monatlich <br>
 11 EUR Einzeltermin
 "
 

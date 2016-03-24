@@ -1,0 +1,88 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post__header">
+    <h1 class="post__title">
+        <span data-en="{{ page.title_en }}"
+              data-de="{{ page.title_de }}">
+              {{ page.title_en }}
+        </span>
+        <span class="post__subtitle"
+              data-en="{{ page.subtitle_en }}"
+              data-de="{{ page.subtitle_de }}">
+              {{ page.subtitle_en }}
+        </span>
+    </h1>
+
+  </header>
+
+  <article class="post__content">
+
+    <div class="post__details">
+      <div class="post__media {% if page.fullwidth %}post__media--full-width{% endif %}">
+        {% if page.image %}
+          <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
+        {% else %}
+          <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
+        {% endif %}
+      </div>
+
+      <div class="post__aside {% if page.fullwidth %}post__aside--full-width{% endif %}">
+        <ul class="post__list">
+          <li>
+            <span class="label" data-en="{{ site.termin_en }}" data-de="{{ site.termin_de }}">{{ site.termin_en }}</span>
+            <span class="detail">
+               <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
+
+              {% if page.date_en || page.date_de %}
+                 <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
+               {% endif %}
+               <span class="detail">
+                 {{ page.time | date: "%R" }}
+               </span>
+
+               {% if page.endtime %}
+               –
+               <span>{{ page.endtime | date: "%R" }}</span>
+               {% endif %}
+
+            </span>
+
+          </li>
+          {% if page.price_en || page.price_de %}
+            <li>
+              <span data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">
+                {{ site.cost_en }}
+              </span>:<br>
+              <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
+                {{ page.price_en }}
+              </span>
+            </li>
+          {% endif %}
+
+          {% if page.language_en || page.language_de %}
+          <li>
+            <span class="label" data-en="{{ site.language_en }}" data-de="{{ site.language_de }}">{{ site.language_en }}</span>
+            <span class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
+          </li>
+          {% endif %}
+
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="post__description" data-en="{{ page.description_en }}" data-de="{{ page.description_de }}">
+      {{ page.description_en }}
+    </div>
+
+      {{ content }}
+
+    </div>
+
+  </article>
+
+
+</div>

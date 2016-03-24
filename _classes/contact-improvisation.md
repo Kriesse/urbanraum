@@ -10,8 +10,8 @@ subtitle_de: "ab April 2016"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-price_en: "EUR 45 monthly"
-price_de: "45 EUR monatlich"
+price_en: "EUR 50 monthly"
+price_de: "50 EUR monatlich"
 
 weekday_en: "Friday"
 weekday_de: "Freitag"
