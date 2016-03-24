@@ -1,3 +1,4 @@
 ---
-teacher: karina
+id: "karina"
+name: "Karina Suárez-Bosche"
 ---

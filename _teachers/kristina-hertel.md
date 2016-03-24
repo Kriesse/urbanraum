@@ -1,3 +1,4 @@
 ---
-teacher: kristin-hertel
+id: "kristin-hertel"
+name: "Kristin Hertel"
 ---

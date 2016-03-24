@@ -1,3 +1,4 @@
 ---
-teacher: lior
+id: "lior"
+name: "Lior Shneior"
 ---

@@ -1,21 +1,13 @@
 ---
-  layout: gallery
-  title_en: Teachers
-  title_de: Lehrende
+layout: gallery
 ---
 
-{% assign teachers=site.tags.teachers %}
-{% assign overview=true %}
-
 <div class="gallery">
-  {% for post in site.teachers %}
-
-  {% assign teacher = site.data.people[post.teacher] %}
-
+  {% for teacher in site.teachers %}
     <div class="gallery__item">
       <div class="post">
         <a  class="post__link"
-            href="{{ post.url | prepend: site.baseurl }}">
+            href="{{ teacher.url | prepend: site.baseurl }}">
           <div class="post__img post__img--teacher">
             {% if teacher.image %}
               <img src="{{ site.baseurl }}/img/{{ teacher.image }}" class="img-flex" />
