@@ -57,23 +57,23 @@ layout: default
               <div class="post__aside">
                 <ul class="post__list">
                   <li>
-                    <span class="label" data-en="{{ site.level_en }}" data-de="{{ site.level_de }}">{{ site.level_en }}</span>
+                    <span class="label" data-en="{{ site.data.lang.level_en }}" data-de="{{ site.data.lang.level_de }}">{{ site.data.lang.level_en }}</span>
                     {% if page.level_en || page.level_de %}
                     <span class="detail" data-en="{{ page.level_en }}" data-de="{{ page.level_de }}">{{ page.level_en }}</span>
                     {% else %}
-                      <span  class="detail" data-en="{{ site.level-all_en }}" data-de="{{ site.level-all_de }}">{{ site.level-all_en }}</span>
+                      <span  class="detail" data-en="{{ site.data.lang.level-all_en }}" data-de="{{ site.data.lang.level-all_de }}">{{ site.data.lang.level-all_en }}</span>
                     {% endif %}
                   </li>
 
                   {% if page.language_en || page.language_de %}
                   <li>
-                    <span class="label" data-en="{{ site.language_en }}" data-de="{{ site.language_de }}">{{ site.language_en }}</span>
+                    <span class="label" data-en="{{ site.data.lang.language_en }}" data-de="{{ site.data.lang.language_de }}">{{ site.data.lang.language_en }}</span>
                     <span class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
                   </li>
                   {% endif %}
 
                   <li>
-                    <span class="label" data-en="{{ site.teacher_en }}" data-de="{{ site.teacher_de }}">{{ site.teacher_en }}</span>
+                    <span class="label" data-en="{{ site.data.lang.teacher_en }}" data-de="{{ site.data.lang.teacher_de }}">{{ site.data.lang.teacher_en }}</span>
                     <span class="detail">
                       <a href="{{ site.baseurl }}/teachers/{{ teacher.link }}.html">{{ teacher.name }}</a>
                       {% if teacher_2 %}
@@ -99,8 +99,8 @@ layout: default
               <ul class="post__list">
                 {% if page.price_en || page.price_de %}
                 <li>
-                  <span class="label" data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">
-                    {{ site.cost_en }}
+                  <span class="label" data-en="{{ site.data.lang.cost_en }}" data-de="{{ site.data.lang.cost_de }}">
+                    {{ site.data.lang.cost_en }}
                   </span>
                   <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
                     {{ page.price_en }}
@@ -110,8 +110,8 @@ layout: default
 
                 {% if page.trial_en || page.trial_de %}
                 <li>
-                  <span class="label" data-en="{{ site.trial_en }}" data-de="{{ site.trial_de }}">
-                    {{ site.trial_en }}
+                  <span class="label" data-en="{{ site.data.lang.trial_en }}" data-de="{{ site.data.lang.trial_de }}">
+                    {{ site.data.lang.trial_en }}
                   </span>
                   <span class="detail" data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">
                     {{ page.trial_en }}

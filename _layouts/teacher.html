@@ -45,15 +45,15 @@ layout: default
 
           <div class="post__aside">
             <div class="post__bio"
-                 data-en="{% if teacher.bio_en %}{{ teacher.bio_en }}{% else %}{{ site.data.copy.bio_unavailable_en }}{% endif %}"
-                 data-de="{% if teacher.bio_de %}{{ teacher.bio_de }}{% else %}{{ site.data.copy.bio_unavailable_de }}{% endif %}">
-              {% if teacher.bio_en %}{{ teacher.bio_en }}{% else %}{{ site.data.copy.bio_unavailable_en }}{% endif %}
+                 data-en="{% if teacher.bio_en %}{{ teacher.bio_en }}{% else %}{{ site.data.lang.bio_unavailable_en }}{% endif %}"
+                 data-de="{% if teacher.bio_de %}{{ teacher.bio_de }}{% else %}{{ site.data.lang.bio_unavailable_de }}{% endif %}">
+              {% if teacher.bio_en %}{{ teacher.bio_en }}{% else %}{{ site.data.lang.bio_unavailable_en }}{% endif %}
             </div>
 
             <ul class="post__list">
               <li>
-                <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">
-                  {{ site.contact_en }}
+                <span class="label" data-en="{{ site.data.lang.contact_en }}" data-de="{{ site.data.lang.contact_de }}">
+                  {{ site.data.lang.contact_en }}
                 </span>
                 <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
                 {% if teacher.website-link %}

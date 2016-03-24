@@ -32,7 +32,7 @@ layout: default
       <div class="post__aside {% if page.fullwidth %}post__aside--full-width{% endif %}">
         <ul class="post__list">
           <li>
-            <span class="label" data-en="{{ site.termin_en }}" data-de="{{ site.termin_de }}">{{ site.termin_en }}</span>
+            <span class="label" data-en="{{ site.data.lang.termin_en }}" data-de="{{ site.data.lang.termin_de }}">{{ site.data.lang.termin_en }}</span>
             <span class="detail">
                <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
 
@@ -53,8 +53,8 @@ layout: default
           </li>
           {% if page.price_en || page.price_de %}
             <li>
-              <span data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">
-                {{ site.cost_en }}
+              <span data-en="{{ site.data.lang.cost_en }}" data-de="{{ site.data.lang.cost_de }}">
+                {{ site.data.lang.cost_en }}
               </span>:<br>
               <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
                 {{ page.price_en }}
@@ -64,7 +64,7 @@ layout: default
 
           {% if page.language_en || page.language_de %}
           <li>
-            <span class="label" data-en="{{ site.language_en }}" data-de="{{ site.language_de }}">{{ site.language_en }}</span>
+            <span class="label" data-en="{{ site.data.lang.language_en }}" data-de="{{ site.data.lang.language_de }}">{{ site.data.lang.language_en }}</span>
             <span class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
           </li>
           {% endif %}
