@@ -15,7 +15,7 @@ layout: default
         <p class="teacher__class-list">
           {% assign teacher-name = teacher.name | downcase %}
           {% for post in site.classes %}
-            {% if (teacher-name contains post.teacher %}
+            {% if teacher-name contains post.teacher %}
             <a href="{{ post.url | prepend: site.baseurl }}">
               <span
                   data-en="{{ post.title_en }}"
