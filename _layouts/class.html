@@ -2,159 +2,155 @@
 layout: default
 ---
 
-{% for teacher in site.teachers %}
-  {% if teacher.id == page.teacher %}
+{% assign teacher = site.teachers | where: "id", page.teacher | first %}
 
-    <div class="page-content">
-      <div class="wrapper wrapper--content">
+<div class="page-content">
+  <div class="wrapper wrapper--content">
 
-        <div class="post">
+    <div class="post">
 
-          <header class="post__header">
-            <h1 class="post__title">
-                <span data-en="{{ page.title_en }}"
-                      data-de="{{ page.title_de }}">
-                      {{ page.title_en }}
-                </span>
-                <span class="post__subtitle"
-                      data-en="{{ page.subtitle_en }}"
-                      data-de="{{ page.subtitle_de }}">
-                      {{ page.subtitle_en }}
-                </span>
-            </h1>
+      <header class="post__header">
+        <h1 class="post__title">
+            <span data-en="{{ page.title_en }}"
+                  data-de="{{ page.title_de }}">
+                  {{ page.title_en }}
+            </span>
+            <span class="post__subtitle"
+                  data-en="{{ page.subtitle_en }}"
+                  data-de="{{ page.subtitle_de }}">
+                  {{ page.subtitle_en }}
+            </span>
+        </h1>
 
-            <p>
-              <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
-              |
-              <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
+        <p>
+          <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
+          |
+          <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
 
-             {% if page.date_en || page.date_de %}
-                <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
+         {% if page.date_en || page.date_de %}
+            <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
+          {% endif %}
+          <span class="detail">
+            {{ page.time | date: "%R" }}
+          </span>
+
+          {% if page.endtime %}
+          –
+          <span>{{ page.endtime | date: "%R" }}</span>
+          {% endif %}
+        </p>
+
+      </header>
+
+      <article class="post__content">
+
+        <div class="post__details">
+          <div class="post__media">
+            {% if page.image %}
+              <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
+            {% else %}
+              <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
+            {% endif %}
+          </div>
+
+          <div class="post__aside">
+            <ul class="post__list">
+              <li>
+                <span class="label" data-en="{{ site.data.lang.level_en }}" data-de="{{ site.data.lang.level_de }}">{{ site.data.lang.level_en }}</span>
+                {% capture level_en %}{% include with_fallback value=page.level_en fallback=site.data.lang.level-all_en %}{% endcapture %}
+                {% capture level_de %}{% include with_fallback value=page.level_de fallback=site.data.lang.level-all_de %}{% endcapture %}
+                <span class="detail" data-en="{{ level_en }}" data-de="{{ level_de }}">{{ level_en }}</span>
+              </li>
+
+              {% if page.language_en || page.language_de %}
+              <li>
+                <span class="label" data-en="{{ site.data.lang.language_en }}" data-de="{{ site.data.lang.language_de }}">{{ site.data.lang.language_en }}</span>
+                <span class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
+              </li>
               {% endif %}
-              <span class="detail">
-                {{ page.time | date: "%R" }}
-              </span>
 
-              {% if page.endtime %}
-              –
-              <span>{{ page.endtime | date: "%R" }}</span>
-              {% endif %}
-            </p>
+              <li>
+                <span class="label" data-en="{{ site.data.lang.teacher_en }}" data-de="{{ site.data.lang.teacher_de }}">{{ site.data.lang.teacher_en }}</span>
+                <span class="detail">
+                  <a href="{{ teacher.url }}">{{ teacher.name }}</a>
+                </span>
+              </li>
 
-          </header>
-
-          <article class="post__content">
-
-            <div class="post__details">
-              <div class="post__media">
-                {% if page.image %}
-                  <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
-                {% else %}
-                  <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
-                {% endif %}
-              </div>
-
-              <div class="post__aside">
-                <ul class="post__list">
-                  <li>
-                    <span class="label" data-en="{{ site.data.lang.level_en }}" data-de="{{ site.data.lang.level_de }}">{{ site.data.lang.level_en }}</span>
-                    {% capture level_en %}{% include with_fallback value=page.level_en fallback=site.data.lang.level-all_en %}{% endcapture %}
-                    {% capture level_de %}{% include with_fallback value=page.level_de fallback=site.data.lang.level-all_de %}{% endcapture %}
-                    <span class="detail" data-en="{{ level_en }}" data-de="{{ level_de }}">{{ level_en }}</span>
-                  </li>
-
-                  {% if page.language_en || page.language_de %}
-                  <li>
-                    <span class="label" data-en="{{ site.data.lang.language_en }}" data-de="{{ site.data.lang.language_de }}">{{ site.data.lang.language_en }}</span>
-                    <span class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
-                  </li>
-                  {% endif %}
-
-                  <li>
-                    <span class="label" data-en="{{ site.data.lang.teacher_en }}" data-de="{{ site.data.lang.teacher_de }}">{{ site.data.lang.teacher_en }}</span>
-                    <span class="detail">
-                      <a href="{{ teacher.url }}">{{ teacher.name }}</a>
-                    </span>
-                  </li>
-
-                </ul>
-              </div>
-
-            </div>
-
-            {% capture description_en %}{% include with_translation lang="en" data=page key="description" fallback=site.data.lang.description_unavailable_en %}{% endcapture %}
-            {% capture description_de %}{% include with_translation lang="de" data=page key="description" fallback=site.data.lang.description_unavailable_de %}{% endcapture %}
-
-            <div class="post__description"
-                data-en="{{ description_en | markdownify | xml_escape}}"
-                data-de="{{ description_de | markdownify | xml_escape}}">
-              {{ description_en | markdownify }}
-            </div>
-
-              {{ content }}
-
-            <div class="post__footer">
-              <ul class="post__list">
-                {% if page.price_en || page.price_de %}
-                <li>
-                  <span class="label" data-en="{{ site.data.lang.cost_en }}" data-de="{{ site.data.lang.cost_de }}">
-                    {{ site.data.lang.cost_en }}
-                  </span>
-                  <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
-                    {{ page.price_en }}
-                  </span>
-                </li>
-                {% endif %}
-
-                {% if page.trial_en || page.trial_de %}
-                <li>
-                  <span class="label" data-en="{{ site.data.lang.trial_en }}" data-de="{{ site.data.lang.trial_de }}">
-                    {{ site.data.lang.trial_en }}
-                  </span>
-                  <span class="detail" data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">
-                    {{ page.trial_en }}
-                  </span>
-                </li>
-                {% endif %}
-
-                <li>
-                  <span class="label">
-                    Email
-                  </span>
-                  <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
-                </li>
-
-                {% if teacher.website-link %}
-                <li>
-                  <span class="label">
-                    Website
-                  </span>
-                  {% if teacher.website-link %}
-                    <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
-                  {% endif %}
-                </li>
-                {% endif %}
-
-                {% if teacher.phone %}
-                <li>
-                  <span class="label">
-                    Phone
-                  </span>
-                  <a href="tel:{{ teacher.phone }}">{{ teacher.phone }}</a>
-                </li>
-                {% endif %}
-
-              </ul>
-            </div>
-
-
-            </div>
-
-          </article>
+            </ul>
+          </div>
 
         </div>
-      </div>
-    </div>
 
-  {% endif %}
-{% endfor %}
+        {% capture description_en %}{% include with_translation lang="en" data=page key="description" fallback=site.data.lang.description_unavailable_en %}{% endcapture %}
+        {% capture description_de %}{% include with_translation lang="de" data=page key="description" fallback=site.data.lang.description_unavailable_de %}{% endcapture %}
+
+        <div class="post__description"
+            data-en="{{ description_en | markdownify | xml_escape}}"
+            data-de="{{ description_de | markdownify | xml_escape}}">
+          {{ description_en | markdownify }}
+        </div>
+
+          {{ content }}
+
+        <div class="post__footer">
+          <ul class="post__list">
+            {% if page.price_en || page.price_de %}
+            <li>
+              <span class="label" data-en="{{ site.data.lang.cost_en }}" data-de="{{ site.data.lang.cost_de }}">
+                {{ site.data.lang.cost_en }}
+              </span>
+              <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
+                {{ page.price_en }}
+              </span>
+            </li>
+            {% endif %}
+
+            {% if page.trial_en || page.trial_de %}
+            <li>
+              <span class="label" data-en="{{ site.data.lang.trial_en }}" data-de="{{ site.data.lang.trial_de }}">
+                {{ site.data.lang.trial_en }}
+              </span>
+              <span class="detail" data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">
+                {{ page.trial_en }}
+              </span>
+            </li>
+            {% endif %}
+
+            <li>
+              <span class="label">
+                Email
+              </span>
+              <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
+            </li>
+
+            {% if teacher.website-link %}
+            <li>
+              <span class="label">
+                Website
+              </span>
+              {% if teacher.website-link %}
+                <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
+              {% endif %}
+            </li>
+            {% endif %}
+
+            {% if teacher.phone %}
+            <li>
+              <span class="label">
+                Phone
+              </span>
+              <a href="tel:{{ teacher.phone }}">{{ teacher.phone }}</a>
+            </li>
+            {% endif %}
+
+          </ul>
+        </div>
+
+
+        </div>
+
+      </article>
+
+    </div>
+  </div>
+</div>
