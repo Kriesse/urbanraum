@@ -3,7 +3,7 @@
 title_en:  "Kung Fu (Monday)"
 title_de:  "Kung Fu am Montag"
 
-teacher: "n/a"
+teacher:
 
 subtitle_en:
 subtitle_de:
@@ -20,12 +20,11 @@ weekday_de: "Montag"
 time: "6:15 pm"
 endtime: "7:45 pm"
 
-language_en: ""
-language_de: ""
+language_en:
+language_de:
 
-description_en: "n/a"
-description_de: "n/a"
+description_en:
+description_de:
 
 image:
-
 ---

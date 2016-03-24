@@ -44,16 +44,12 @@ layout: default
           </div>
 
           <div class="post__aside">
-            {% capture bio_en %}
-              {% include with_fallback value=teacher.bio_en fallback=site.data.lang.bio_unavailable_en %}
-            {% endcapture %}
-            {% capture bio_de %}
-              {% include with_fallback value=teacher.bio_de fallback=site.data.lang.bio_unavailable_en %}
-            {% endcapture %}
+            {% capture bio_en %}{% include with_fallback value=teacher.bio_en fallback=site.data.lang.bio_unavailable_en %}{% endcapture %}
+            {% capture bio_de %}{% include with_fallback value=teacher.bio_de fallback=site.data.lang.bio_unavailable_de %}{% endcapture %}
             <div class="post__bio"
-                 data-en="{{ bio_en }}"
-                 data-de="{{ bio_de }}">
-              {{ bio_en }}
+                 data-en="{{ bio_en | markdownify | xml_escape }}"
+                 data-de="{{ bio_de | markdownify | xml_escape }}">
+              {{ bio_en | markdownify }}
             </div>
 
             <ul class="post__list">

@@ -19,28 +19,20 @@ weekday_de: "Dienstag"
 time: "6:00 pm"
 endtime: "7:30 pm"
 
-language_en: ""
-language_de: ""
+language_en:
+language_de:
 
 trial_en: "on registration"
 trial_de: "nach Anmeldung"
 
-description_en: "Ein Tanzkurs für alle, die schon immer tanzen wollten oder bereits Erfahrung haben.
-Lior bietet mit seinem Kurs einen alternativen und kreativen Weg, sich in Bewegung zu bringen und Sport zu machen.
-Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird.
-Anschließend werden Grundelemente aus dem zeitgenössischen Tanz erlernt und es entstehen einfache choreographische Kombinationen verschiedener Tanztechniken.
+description_en:
 
-Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren.
-"
+description_de: |
+  Ein Tanzkurs für alle, die schon immer tanzen wollten oder bereits Erfahrung haben. Lior bietet mit seinem Kurs einen alternativen und kreativen Weg, sich in Bewegung zu bringen und Sport zu machen. Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird.
 
-description_de: "Ein Tanzkurs für alle, die schon immer tanzen wollten oder bereits Erfahrung haben.
-Lior bietet mit seinem Kurs einen alternativen und kreativen Weg, sich in Bewegung zu bringen und Sport zu machen.
-Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird.
-Anschließend werden Grundelemente aus dem zeitgenössischen Tanz erlernt und es entstehen einfache choreographische Kombinationen verschiedener Tanztechniken.
+  Anschließend werden Grundelemente aus dem zeitgenössischen Tanz erlernt und es entstehen einfache choreographische Kombinationen verschiedener Tanztechniken.
 
-Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren.
-"
+  Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren.
 
 image: "class-contemporary-lior-01.jpg"
-
 ---

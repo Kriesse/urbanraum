@@ -88,8 +88,10 @@ layout: default
             {% capture description_en %}{% include with_translation lang="en" data=page key="description" fallback=site.data.lang.description_unavailable_en %}{% endcapture %}
             {% capture description_de %}{% include with_translation lang="de" data=page key="description" fallback=site.data.lang.description_unavailable_de %}{% endcapture %}
 
-            <div class="post__description" data-en="{{ description_en }}" data-de="{{ description_de }}">
-              {{ description_en }}
+            <div class="post__description"
+                data-en="{{ description_en | markdownify | xml_escape}}"
+                data-de="{{ description_de | markdownify | xml_escape}}">
+              {{ description_en | markdownify }}
             </div>
 
               {{ content }}

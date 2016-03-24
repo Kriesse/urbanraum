@@ -34,12 +34,9 @@ trial_de: "Probestunde kostenlos nach Anmeldung"
 website-title: "innere-stille.net"
 website-link: "http://www.innere-stille.net/"
 
-description_en: '
-n/a
-'
+description_en: |
+  N/A
 
-description_de: '
-n/a
-'
-
+description_de: |
+  N/A
 ---
