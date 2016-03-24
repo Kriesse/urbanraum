@@ -8,6 +8,7 @@ url: "http://urbanraum.de" # the base hostname & protocol for your site
 twitter_username: urbanraum
 facebook_username:  urbanraumberlin
 address: 'Urbanstraße 93, 1. Hinterhof, 10967 Berlin'
+future: true
 
 
 # Language Variables
@@ -35,6 +36,8 @@ collections:
   workshops:
     output: true
   teachers:
+    output: true
+  events:
     output: true
 
 
@@ -65,4 +68,12 @@ defaults:
       tags: workshops
       level_en: All
       level_de: Alle
+      email: info@urbanraum.com
+  -
+    scope:
+      path: ""
+      type: events   # <= here you can specify a collection now!
+    values:
+      layout: post
+      tags: events
       email: info@urbanraum.com

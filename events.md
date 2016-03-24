@@ -1,14 +1,14 @@
 ---
   layout: default
-  title_en: Workshops
-  title_de: Workshops
+  title_en: 
+  title_de: Veranstaltungen
 ---
 
-{% assign workshops=site.tags.workshops %}
+{% assign events=site.tags.events %}
 {% assign overview=true %}
 
-<div class="gallery">
-  {% for post in site.workshops %}
+<div class="event-list">
+  {% for post in site.events %}
     <div class="gallery__item">
       <div class="post">
         <a  class="post__link"
@@ -24,16 +24,6 @@
             <span data-en="{{ post.title_en }}" data-de="{{ post.title_de }}">
               {{ post.title_en }}
             </span>
-            <div class="post__meta__hidden">
-               <span data-en="{{ post.weekday_en }}" data-de="{{ post.weekday_de }}">{{ post.weekday_en }}</span>
-
-              {% if post.date_en || post.date_de %}
-                 <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>,
-               {% endif %}
-               <span>{{ post.time | date: "%R" }}</span>
-               –
-               <span>{{ post.endtime | date: "%R" }}</span>
-            </div>
           </div>
         </a>
       </div>
