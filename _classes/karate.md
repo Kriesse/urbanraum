@@ -1,11 +1,16 @@
 ---
-
-title_en: "Karate (Tuesday)"
-title_de: "Karate am Dienstag"
-
 teacher: "malte"
-
+schedule:
+  - day: "tuesday"
+    start: "7:45pm"
+    end: "9:15pm"
+  - day: "thursday"
+    start: "7:00pm"
+    end: "9:00pm"
 image: "class-karate-01.jpg"
+
+title_en: "Karate"
+title_de: "Karate"
 
 subtitle_en:
 subtitle_de:
@@ -18,12 +23,6 @@ level_de: "Anfänger"
 
 price_en: "EUR 130 / 10 classes"
 price_de: "130 EUR / 10 Kurse"
-
-weekday_en: "Tuesday"
-weekday_de: "Dienstag"
-
-time: "7:45 pm"
-endtime: "9:15 pm"
 
 language_en: "predominantly German (also English, French and some Spanish)"
 language_de: "vorwiegend Deutsch"

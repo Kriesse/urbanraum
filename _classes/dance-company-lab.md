@@ -1,11 +1,16 @@
 ---
+teacher: "livia"
+schedule:
+  - day: "thursday"
+    start: "12:00pm"
+    end: "1:30pm"
+image: "class-contemporary-dance-workshop.jpg"
+
 title_en: "Dance Company Lab"
 title_de: "Tanzcompany Lab"
 
 subtitle_en: "Joining still possible"
 subtitle_de: "Achtung! Einstieg noch möglich"
-
-teacher: "livia"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -15,12 +20,6 @@ level_de: "Fortgeschritten/Mittelstufe"
 
 price_en: "90 Euro/12 classes | Drop-in: 10 Euro"
 price_de: "90 Euro/12 Termine | Drop-in: 10 Euro"
-
-weekday_en: "Thursday"
-weekday_de: "Donnerstag"
-
-time: "12 pm"
-endtime: "1:30 pm"
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
@@ -33,6 +32,4 @@ description_de: |
   Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreichen Projekte in Deutschland, U.S.A, Mexiko und Argentinien.
 
   Die erfahrene Tanzdozentin unterrichtet u.a. an den Dock11 Studios Berlin, Bildungsjahr Tanz von Seneca-Intensiv und assistiert beim Masterstudiengang für Choreografie der Udk Berlin.
-
-image: "class-contemporary-dance-workshop.jpg"
 ---

@@ -1,9 +1,13 @@
 ---
+teacher: "karina"
+schedule:
+  - day: "friday"
+    start: "9:00am"
+    end: "10:15am"
+image: "workshop-yoga-01.jpg"
 
 title_en:  "Kreative Bewegung durch Yoga"
 title_de:  "Kreative Bewegung durch Yoga"
-
-teacher: "karina"
 
 subtitle_en: "from April 2016"
 subtitle_de: "ab April 2016"
@@ -20,13 +24,6 @@ price_de: "
 11 EUR Einzeltermin
 "
 
-weekday_en: "Friday"
-weekday_de: "Freitag"
-
-time: "09:00 am"
-
-endtime: "10:15 am"
-
 language_en: "German"
 language_de: "Deutsch"
 
@@ -39,6 +36,4 @@ description_de: |
   In ihrem morgendlichen Yoga-Kurs verbindet die zeitgenössische Tänzerin Karina Suárez-Bosche Elemente des Hatha und Ashtanga Yogas (Sonnengruß, Asanas, Atem-Übungen u.s.w.) mit denen aus dem Tanz und der Bewegungs-Improvisation. Die regelmäßige Praxis schafft Raum für das Bewusstsein des aktuellen Zustandes unseres Seins sowie das Gleichgewicht zwischen Körper, Geist und Seele. Das Ziel ist eine bessere Organisation, Präsenz und Stärkung des Körpers, wodurch sich - auch im Alltag - Vertrauen ins Selbst und Kreativität entwickelt.
 
   Der Kurs startet am 1. April 2016.
-
-image: "workshop-yoga-01.jpg"
 ---

@@ -25,7 +25,14 @@ layout: default
         <p>
           <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
           |
-          <span data-en="{{ page.weekday_en }}" data-de="{{ page.weekday_de }}">{{ page.weekday_en }}</span>
+          {% assign days = page.schedule | map: "day" %}
+          {% for day in days %}
+            <span
+              data-en="{% include i18n lang='en' key=day %}"
+              data-de="{% include i18n lang='de' key=day %}">
+              {% include i18n lang='en' key=page.weekday %}
+            </span>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
 
          {% if page.date_en || page.date_de %}
             <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,

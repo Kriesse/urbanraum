@@ -1,8 +1,13 @@
 ---
+teacher: "iliana"
+schedule:
+  - day: "friday"
+    start: "12:00pm"
+    end: "1:30pm"
+image: "workshop-urban-autumn-01.png"
+
 title_en:  "Urban Winter [Contemporary]"
 title_de:  "Urban Winter [Contemporary]"
-
-teacher: "iliana"
 
 subtitle_en: "Contemporary Dance and Improvisation"
 subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
@@ -26,12 +31,6 @@ Drop-In: 10 EUR <br>
 12 Stunden: 90 EUR
 "
 
-weekday_en: "Friday"
-weekday_de: "Freitag"
-
-time: "12pm"
-
-endtime: "1:30pm"
 
 language_en: "English"
 language_de: "Englisch"
@@ -44,6 +43,4 @@ description_en: |
   Improvising our warm up & warming up our Improvisation.
 
 description_de:
-
-image: "workshop-urban-autumn-01.png"
 ---

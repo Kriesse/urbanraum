@@ -1,9 +1,13 @@
 ---
+teacher: "kristin"
+schedule:
+  - day: "thursday"
+    start: "5:15pm"
+    end: "6:45pm"
+image: "class-hulahoop-01.jpg"
 
 title_en:  "Hula Hoop"
 title_de:  "Hula Hoop"
-
-teacher: "kristin"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -22,12 +26,6 @@ price_de: "
 100 EUR / 10 Kurse
 "
 
-weekday_en: "Thursday"
-weekday_de: "Donnerstag"
-
-time: "5:15pm"
-endtime: "6:45pm"
-
 language_en: "German"
 language_de: "Deutsch"
 
@@ -39,7 +37,4 @@ description_en: |
 
 description_de: |
   Kristin Lahoop bringt euch das Hoopen bei! Wir starten den Kurs mit einer spielerischen Aufwärmung. Dann bringe ich euch eine Kombination aus mehreren Tricks zu einem speziellen Thema bei (Isolation, Flips, Würfe, Sprünge, Vertikal etc.). Anschließend werdet ihr selbst kreativ bei einem kleinen Teil Hula Hoop Tanz Improvisation, der im Laufe der Zeit mehr Platz einnehmen wird und am Ende dehnen wir gemeinsam ab. Musik – ohne stilistische Beschränkungen – wird uns motivieren und inspirieren. Der Kurs ist für Anfänger (egal wie alt du bist!) geeignet. Der Fokus liegt zunächst auf einem Hula Hoop. Damit kann man schon allerhand anfangen: den Reifen von den Knien bis zum Hals wandern lassen, sich elegant aus dem Reifen heraus und wieder reindrehen, Isolation etc. Später kommt dann auch ein zweiter Hoop dazu. Keine Angst, das hier ist weder ein Fitnesskurs noch eine Artistenschule, bei mir geht es vor allem um Spaß und ein schönes Körpergefühl!
-
-image: "class-hulahoop-01.jpg"
-
 ---

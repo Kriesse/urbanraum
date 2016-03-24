@@ -2,39 +2,39 @@
 layout: page
 title_en: Schedule
 title_de: Stundenplan
+workdays: [monday, tuesday, wednesday, thursday, friday]
 ---
 
-<!-- {% assign classes=site.tags.classes %}
-{% assign overview=true %} -->
-
 <div class="schedule">
-{% for day in site.weekdays %}
+{% for day in page.workdays %}
   <div class="day">
     <header class="day__header">
-      {{ day }}
+      {{ day | capitalize }}
     </header>
     <div class="day__list">
-      {% for post in site.classes %}
-      {% assign start = post.time | date: "%k%M" %}
-      {% assign end = post.endtime | date: "%k%M" %}
-      {% assign duration = end | minus: start %}
-        {% if post.weekday_en contains day %}
-        <a  class="event time--{{start}} duration--{{duration}}"
-            href="{{ post.url | prepend: site.baseurl }}">
-          <span class="event__time">
-            {{ post.time | date: "%R"}}
-            <span class="hide-mobile">
-              -
-              {{ post.endtime | date: "%R" }}
-            </span>
-          </span>
-          <h4 class="event__title"
-              data-en="{{ post.title_en }}"
-              data-de="{{ post.title_de }}">
-                {{ post.title_en }}
-          </h4>
-        </a>
-        {% endif %}
+      {% for class in site.classes %}
+        {% for date in class.schedule %}
+          {% if date.day == day %}
+            {% assign start = date.start | date: "%k%M" %}
+            {% assign end = date.end | date: "%k%M" %}
+            {% assign duration = end | minus: start %}
+            <a  class="event time--{{start}} duration--{{duration}}"
+                href="{{ class.url | prepend: site.baseurl }}">
+              <span class="event__time">
+                {{ date.start | date: "%R"}}
+                <span class="hide-mobile">
+                  -
+                  {{ date.end | date: "%R" }}
+                </span>
+              </span>
+              <h4 class="event__title"
+                  data-en="{{ class.title_en }}"
+                  data-de="{{ class.title_de }}">
+                    {{ class.title_en }}
+              </h4>
+            </a>
+          {% endif %}
+        {% endfor %}
       {% endfor %}
     </div>
   </div>
