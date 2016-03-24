@@ -73,10 +73,7 @@ layout: default
                   <li>
                     <span class="label" data-en="{{ site.data.lang.teacher_en }}" data-de="{{ site.data.lang.teacher_de }}">{{ site.data.lang.teacher_en }}</span>
                     <span class="detail">
-                      <a href="{{ site.baseurl }}/teachers/{{ teacher.link }}.html">{{ teacher.name }}</a>
-                      {% if teacher_2 %}
-                        & <a href="{{ site.baseurl }}/teachers/{{ teacher_2.link }}.html">{{ teacher_2.name }}</a>
-                      {% endif %}
+                      <a href="{{ teacher.url }}">{{ teacher.name }}</a>
                     </span>
                   </li>
 
