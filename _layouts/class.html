@@ -85,13 +85,14 @@ layout: default
 
             </div>
 
-            <div class="post__description" data-en="{{ page.description_en }}" data-de="{{ page.description_de }}">
-              {{ page.description_en }}
+            {% capture description_en %}{% include with_translation lang="en" data=page key="description" fallback=site.data.lang.description_unavailable_en %}{% endcapture %}
+            {% capture description_de %}{% include with_translation lang="de" data=page key="description" fallback=site.data.lang.description_unavailable_de %}{% endcapture %}
+
+            <div class="post__description" data-en="{{ description_en }}" data-de="{{ description_de }}">
+              {{ description_en }}
             </div>
 
-
               {{ content }}
-
 
             <div class="post__footer">
               <ul class="post__list">

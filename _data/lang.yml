@@ -16,6 +16,8 @@ level-all_en: "All"
 level-all_de: "Alle"
 bio_unavailable_en: "Biography not yet available"
 bio_unavailable_de: "Biographie noch nicht verfügbar"
+description_unavailable_en: "No details. Contact the teacher for more information"
+description_unavailable_de: "Keine weitere Informationen"
 intro_en: "Urbanraum is a space for dance, workshops, performances, rehearsals, and more. Contemporary, open, in Berlin Kreuzberg."
 intro_de: "Urbanraum ist ein Raum für Bewegung, Tanz und Improvisation. Zeitgenössisch, offen, in Berlin Kreuzberg.
 "
