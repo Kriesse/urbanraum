@@ -58,11 +58,9 @@ layout: default
                 <ul class="post__list">
                   <li>
                     <span class="label" data-en="{{ site.data.lang.level_en }}" data-de="{{ site.data.lang.level_de }}">{{ site.data.lang.level_en }}</span>
-                    {% if page.level_en || page.level_de %}
-                    <span class="detail" data-en="{{ page.level_en }}" data-de="{{ page.level_de }}">{{ page.level_en }}</span>
-                    {% else %}
-                      <span  class="detail" data-en="{{ site.data.lang.level-all_en }}" data-de="{{ site.data.lang.level-all_de }}">{{ site.data.lang.level-all_en }}</span>
-                    {% endif %}
+                    {% capture level_en %}{% include with_fallback value=page.level_en fallback=site.data.lang.level-all_en %}{% endcapture %}
+                    {% capture level_de %}{% include with_fallback value=page.level_de fallback=site.data.lang.level-all_de %}{% endcapture %}
+                    <span class="detail" data-en="{{ level_en }}" data-de="{{ level_de }}">{{ level_en }}</span>
                   </li>
 
                   {% if page.language_en || page.language_de %}
