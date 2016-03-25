@@ -74,6 +74,6 @@ defaults:
       path: ""
       type: events   # <= here you can specify a collection now!
     values:
-      layout: post
+      layout: event
       tags: events
       email: info@urbanraum.com

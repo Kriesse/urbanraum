@@ -49,14 +49,14 @@ layout: default
                {% endif %}
 
             </span>
-
           </li>
+
           {% if page.price_en || page.price_de %}
             <li>
-              <span data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">
+              <span class="label" data-en="{{ site.cost_en }}" data-de="{{ site.cost_de }}">
                 {{ site.cost_en }}
-              </span>:<br>
-              <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
+              </span>
+              <span class="detail" data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
                 {{ page.price_en }}
               </span>
             </li>

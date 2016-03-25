@@ -2,8 +2,8 @@
 title_en:  "Event Title"
 title_de:  "Veranstaltungstitel"
 
-price_en: "Fee: EUR ??"
-price_de: "Eintritt: ?? EUR"
+price_en: "EUR ??"
+price_de: "?? EUR"
 
 date_en: "April 26 2016"
 date_de: "26. April 2016"
@@ -27,6 +27,6 @@ description_de: "
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 "
 
-image: ""
+image: 
 
 ---
