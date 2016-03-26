@@ -15,7 +15,10 @@ Link: [Github](https://github.com/Kriesse/urbanraum/tree/gh-pages)
 # Formatierungshilfen
 
 * Kurze Zeilen müssen immer in Anführunszeichen stehen
-* Längere Texte haben keine Anführungszeichen, sondern beginnen immer mit `|` und einem Absatz
+* Längere Texte:
+  * haben keine Anführungszeichen
+  * beginnen immer mit `|` und einem Zeilenumbruch
+  * Alle folgenden Absätze müssen indentiert sein
 * Ein Zeilenumbruch wird erreicht durch neue Zeile _und_ zwei Leerzeichen am Ende der Zeile
 * So sieht ein Link aus: `[example link](http://example.com/)`
 * *Kursiver Text* wird so erzeugt: `*kursiver Text*`

@@ -6,8 +6,8 @@ schedule:
     end: "7:45pm"
 image: "class-improvisation-fuer-alle-01.jpg"
 
-title_en:  "Neuer Improvisationstanzkurs für ALLE"
-title_de:  "Neuer Improvisationstanzkurs für ALLE"
+title_en:  "Tanz-Improvisation (inklusiv)"
+title_de:  "Tanz-Improvisation (inklusiv)"
 
 subtitle_en:  "Menschen mit- und ohne Beeinträchtigungen"
 subtitle_de:  "Menschen mit- und ohne Beeinträchtigungen"

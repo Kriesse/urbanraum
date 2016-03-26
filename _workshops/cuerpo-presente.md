@@ -1,12 +1,12 @@
 ---
 teacher: "alexander-carrillo"
-schedule:
-  - day: ""
-    start: "12:00pm"
-    end: "4:00pm"
 
 date_en: "April 2/3 2016"
 date_de: "2./3. April 2016"
+
+time: "12:00pm"
+endtime: "4:00pm"
+
 image: "class-cuerpo-presente_01.jpg"
 
 title_en: "CUERPO PRESENTE: The Inner Beast"

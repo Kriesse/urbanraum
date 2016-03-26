@@ -28,7 +28,7 @@ defaults:
   -
     scope:
       path: ""
-      type: teachers   # <= here you can specify a collection now!
+      type: teachers
     values:
       layout: teacher
       tags: teachers
@@ -55,8 +55,10 @@ defaults:
   -
     scope:
       path: ""
-      type: events   # <= here you can specify a collection now!
+      type: events
     values:
       layout: class
       tags: events
       email: info@urbanraum.com
+      type_en: "Event"
+      type_de: "Veranstaltung"

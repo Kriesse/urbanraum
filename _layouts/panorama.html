@@ -13,11 +13,67 @@ layout: default
 <div class="page-content">
   <div class="wrapper wrapper--content">
 
-    <p style="margin: 3em auto; max-width: 500px">
-      Urbanraum ist ein Raum, an dem Kinder, Erwachsene und Profi-Tänzer einen Ort finden, sich zu bewegen, zu tanzen, zu improvisieren, zu lernen. Urbanraum steht für qualitativ hochwertigen Tanz- und Bewegungs-Unterricht und bietet eine Bandbreite an Kursen. Der Stundenplan wird momentan beständig erweitert.
+    <header class="post__header">
+      <h1 class="post__title"
+        data-en="{{ site.data.lang.about_en }}"
+        data-de="{{ site.data.lang.about_de }}">
+        {{ site.data.lang.about_en }}
+      </h1>
+    </header>
+
+    <p style="margin: 3em auto; max-width: 36em">
+      Urbanraum ist ein Raum, an dem Kinder, Erwachsene und Profi-Tänzer einen Ort finden, sich zu bewegen, zu tanzen, zu improvisieren, zu lernen. Urbanraum steht für qualitativ hochwertigen Tanz- und Bewegungs-Unterricht. Der Stundenplan wird beständig erweitert.
       <br><br>
-      Fragen zur Raum-Vermietung und zum Programm an Friederike Erhart / Contact Friederike Erhart for all questions around the room and its programme via email: <a href="mailto:info@urbanraum.com">info@urbanraum.com</a>
+      Fragen zur Raum-Vermietung und zum Programm an Friederike Erhart
+      <br>
+      Contact Friederike Erhart for all questions around the room and its programme: <a href="mailto:info@urbanraum.com">info@urbanraum.com</a>
     </p>
+
+    <header class="post__header">
+      <h1 class="post__title"
+        data-en="{{ site.data.lang.events_en }}"
+        data-de="{{ site.data.lang.events_de }}">
+        {{ site.data.lang.events_en }}
+      </h1>
+    </header>
+
+    {% assign events=site.tags.events %}
+    {% assign overview=true %}
+
+    <div class="event-list" style="margin: 3em auto; max-width: 36em">
+      {% for post in site.events %}
+        <a  class="event-list__item"
+            href="{{ post.url | prepend: site.baseurl }}">
+          <div class="event__img">
+            {% if post.image %}
+              <img src="{{ site.baseurl }}/img/{{ post.image }}" class="img-flex" />
+            {% else %}
+              <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
+            {% endif %}
+          </div>
+          <div  class="event__meta">
+            <span class="event__time">
+              <span data-en="{{ post.weekday_en }}" data-de="{{ post.weekday_de }}">{{ post.weekday_en }}</span>
+
+             {% if post.date_en || post.date_de %}
+                <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>,
+              {% endif %}
+              <span class="detail">
+                {{ post.time | date: "%R" }}
+              </span>
+
+              {% if post.endtime %}
+              –
+              <span>{{ post.endtime | date: "%R" }}</span>
+              {% endif %}
+            </span>
+            <span data-en="{{ post.title_en }}" data-de="{{ post.title_de }}">
+              {{ post.title_en }}
+            </span>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
 
   </div>
 </div>

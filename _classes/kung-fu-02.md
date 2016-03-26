@@ -1,13 +1,13 @@
 ---
-teacher: "livia"
+teacher: "lefte-hagen"
 schedule:
-  - day: "tuesday"
-    start: "10:00am"
-    end: "11:30pm"
+  - day: "friday"
+    start: "7:00pm"
+    end: "8:15pm"
 image:
 
-title_en:  "Werkstatt Tanzcompany"
-title_de:  "Werkstatt Tanzcompany"
+title_en:  "Kung Fu (Friday)"
+title_de:  "Kung Fu am Freitag"
 
 subtitle_en:
 subtitle_de:

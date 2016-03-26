@@ -1,16 +1,13 @@
 ---
 teacher: "malte"
 schedule:
-  - day: "tuesday"
-    start: "7:45pm"
-    end: "9:15pm"
   - day: "thursday"
     start: "7:00pm"
     end: "9:00pm"
-image: "class-karate-01.jpg"
+image: "class-karate-02.jpg"
 
-title_en: "Karate"
-title_de: "Karate"
+title_en: "Karate (Thursday)"
+title_de: "Karate am Donnerstag"
 
 subtitle_en:
 subtitle_de:

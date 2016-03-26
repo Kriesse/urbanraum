@@ -30,12 +30,36 @@ layout: default
           <div class="post__aside">
             <ul class="post__list">
               <li>
-                <div class="label" data-en="{{ site.data.lang.classes_en }}" data-de="{{ site.data.lang.classes_de }}">
-                  {{ site.data.lang.classes_en }}
+                <div class="label" data-en="{{ site.data.lang.classes_en }}" data-de="{{ site.data.lang.events_de }}">
+                  {{ site.data.lang.events_en }}
                 </div>
                 <div class="detail">
                   {% assign teacher-name = teacher.name | downcase %}
                   {% for post in site.classes %}
+                    {% if teacher-name contains post.teacher %}
+                      <a href="{{ post.url | prepend: site.baseurl }}">
+                        <span
+                            data-en="{{ post.title_en }}"
+                            data-de="{{ post.title_de }}">
+                              {{ post.title_en }}
+                        </span>
+                      </a>
+                      <br>
+                    {% endif %}
+                  {% endfor %}
+                  {% for post in site.workshops %}
+                    {% if teacher-name contains post.teacher %}
+                      <a href="{{ post.url | prepend: site.baseurl }}">
+                        <span
+                            data-en="{{ post.title_en }}"
+                            data-de="{{ post.title_de }}">
+                              {{ post.title_en }}
+                        </span>
+                      </a>
+                      <br>
+                    {% endif %}
+                  {% endfor %}
+                  {% for post in site.events %}
                     {% if teacher-name contains post.teacher %}
                       <a href="{{ post.url | prepend: site.baseurl }}">
                         <span

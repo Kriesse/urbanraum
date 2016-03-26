@@ -1,16 +1,13 @@
 ---
-teacher:
+teacher: "lefte-hagen"
 schedule:
   - day: "monday"
     start: "6:15pm"
     end: "7:45pm"
-  - day: "friday"
-    start: "7:00pm"
-    end: "8:00pm"
 image:
 
-title_en:  "Kung Fu"
-title_de:  "Kung Fu"
+title_en:  "Kung Fu (Monday)"
+title_de:  "Kung Fu am Montag"
 
 subtitle_en:
 subtitle_de:
