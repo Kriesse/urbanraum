@@ -17,7 +17,7 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 price_en: "EUR 50 monthly"
-price_de: "50 EUR monatlich"
+price_de: "50 Euro monatlich"
 
 language_en: "German"
 language_de: "Deutsch"

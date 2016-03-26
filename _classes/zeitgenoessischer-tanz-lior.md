@@ -19,6 +19,7 @@ level_de: "Open Level"
 price_en: |
   Single Class: EUR 10  
   10er Classes: EUR 80
+
 price_de: |
   Einzelkurs: 10 Euro  
   10er Karte: 80 Euro

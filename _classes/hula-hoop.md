@@ -15,22 +15,19 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Beginner. Join anytime"
 level_de: "Anfänger. Einstieg jederzeit möglich"
 
-price_en: "
-EUR 12 / single class
-<br>
-EUR 100 / 10 classes
-"
-price_de: "
-12 EUR / Einzelkurs
-<br>
-100 EUR / 10 Kurse
-"
+price_en: |
+ EUR 12 / single class  
+ EUR 100 / 10 classes
+
+price_de: |
+  12 Euro / Einzelkurs  
+  100 Euro / 10 Kurse
 
 language_en: "German"
 language_de: "Deutsch"
 
 trial_en: "EUR 5"
-trial_de: "5 EUR"
+trial_de: "5 Euro"
 
 description_en: |
   Kristin Lahoop will show you how to hoop! The class starts with a fun warm-up. Next up, you’ll learn a combination of tricks on various topics - isolation, flips, jumps, verticals… on the foundation you will become creative with small hula hoop dance improvisations, which will become more important as the class progresses. Music – whithout stylistic limitations – will keep us motivated and inspired. The class is open for beginners (no matter your age). We'll focus on one hoop first. And with that we’ll have plenty to do already: Let the hoop wander from knees to neck, twist yourself elegantly out of the hoop, isolation, etc. Later we’ll add a second hoop. No worries, this is neither a hardcore workout class nor an artistic school – most importantly it’s about fun and enjoying your body!

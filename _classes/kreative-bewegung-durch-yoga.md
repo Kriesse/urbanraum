@@ -15,14 +15,14 @@ subtitle_de: "ab April 2016"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-price_en: "
-EUR 50 per month<br>
-EUR 11 single class
-"
-price_de: "
-50 EUR monatlich <br>
-11 EUR Einzeltermin
-"
+price_en: |
+  EUR 11 / single class  
+  EUR 50 per month
+
+price_de: |
+  11 EUR Einzeltermin  
+  50 EUR monatlich  
+
 
 language_en: "German"
 language_de: "Deutsch"

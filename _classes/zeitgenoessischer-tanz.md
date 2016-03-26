@@ -16,16 +16,13 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Advanced"
 level_de: "Fortgeschritten"
 
-price_en: "
-EUR 10 / single class
-<br>
-EUR 30 / monthly
-"
-price_de: "
-10 EUR / Einzelstunde
-<br>
-30 EUR / Monatsbeitrag
-"
+price_en: |
+  EUR 10 / single class  
+  EUR 30 / monthly
+
+price_de: |
+  10 EUR / Einzelstunde  
+  30 EUR / Monatsbeitrag
 
 language_en: "German"
 language_de: "Deutsch"

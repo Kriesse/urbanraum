@@ -18,8 +18,11 @@ type_de: "Wöchentlicher Kurs"
 level_en: "Beginner"
 level_de: "Anfänger"
 
-price_en: "EUR 130 / 10 classes"
-price_de: "130 EUR / 10 Kurse"
+price_en: |
+  EUR 130 / 10 classes
+
+price_de: |
+  130 Euro / 10 Kurse
 
 language_en: "predominantly German (also English, French and some Spanish)"
 language_de: "vorwiegend Deutsch"

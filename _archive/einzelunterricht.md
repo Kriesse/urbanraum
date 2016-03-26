@@ -9,14 +9,14 @@ level_en: "Advanced"
 level_de: "Fortgeschritten"
 
 price_en: "EUR 10"
-price_de: "10 EUR"
+price_de: "10 Euro"
 
 date_en: "September 25 2015"
 date_de: "25. September 2015"
 
-time: "8.30 pm"
+time: "8:30pm"
 
-endtime: "10 pm"
+endtime: "10:00pm"
 
 language_en: "German"
 language_de: "Deutsch"
