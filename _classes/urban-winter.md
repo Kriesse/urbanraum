@@ -15,21 +15,20 @@ subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "mixed"
-level_de: "mixed"
+level_en: "Mixed"
+level_de: "Mixed"
 
-price_en: "
-Drop-In: EUR 10 <br>
-4 classes: EUR 34 <br>
-8 classes: EUR 64 <br>
-12 classes: EUR 90
-"
-price_de: "
-Drop-In: 10 EUR <br>
-4 Stunden: 34 EUR <br>
-8 Stunden: 64 EUR <br>
-12 Stunden: 90 EUR
-"
+price_en: |
+  Drop-In: EUR 10  
+  4 classes: EUR 34  
+  8 classes: EUR 64
+  12 classes: EUR 90
+
+price_de: |
+  Drop-In: 10 Euro  
+  4 Stunden: 34 Euro  
+  8 Stunden: 64 Euro  
+  12 Stunden: 90 Euro
 
 
 language_en: "English"
@@ -40,7 +39,7 @@ description_en: |
 
   Improvisation is used in the class, both integrated into fixed material and separately. To wake up our receiving antennas, our tools of movement, of expression and body awareness.
 
-  Improvising our warm up & warming up our Improvisation.
+  Improvising our warm up and warming up our Improvisation.
 
 description_de:
 ---

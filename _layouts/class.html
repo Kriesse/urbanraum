@@ -25,13 +25,16 @@ layout: default
         <p>
           <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
           |
-          {% assign days = page.schedule | map: "day" %}
-          {% for day in days %}
+          {% for date in page.schedule %}
             <span
-              data-en="{% include i18n lang='en' key=day %}"
-              data-de="{% include i18n lang='de' key=day %}">
-              {% include i18n lang='en' key=page.weekday %}
-            </span>{% unless forloop.last %}, {% endunless %}
+              data-en="{% include i18n lang='en' key=date.day %}"
+              data-de="{% include i18n lang='de' key=date.day %}">
+              {% include i18n lang='en' key=date.day %}
+            </span>
+            <span>
+              {{date.start}} - {{date.end}}
+            </span>
+            {% unless forloop.last %}, {% endunless %}
           {% endfor %}
 
          {% if page.date_en || page.date_de %}
@@ -62,26 +65,8 @@ layout: default
 
           <div class="post__aside">
             <ul class="post__list">
-              <li>
-                <span class="label" data-en="{{ site.data.lang.level_en }}" data-de="{{ site.data.lang.level_de }}">{{ site.data.lang.level_en }}</span>
-                {% capture level_en %}{% include with_fallback value=page.level_en fallback=site.data.lang.level-all_en %}{% endcapture %}
-                {% capture level_de %}{% include with_fallback value=page.level_de fallback=site.data.lang.level-all_de %}{% endcapture %}
-                <span class="detail" data-en="{{ level_en }}" data-de="{{ level_de }}">{{ level_en }}</span>
-              </li>
 
-              {% if page.language_en || page.language_de %}
-              <li>
-                <span class="label" data-en="{{ site.data.lang.language_en }}" data-de="{{ site.data.lang.language_de }}">{{ site.data.lang.language_en }}</span>
-                <span class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</span>
-              </li>
-              {% endif %}
-
-              <li>
-                <span class="label" data-en="{{ site.data.lang.teacher_en }}" data-de="{{ site.data.lang.teacher_de }}">{{ site.data.lang.teacher_en }}</span>
-                <span class="detail">
-                  <a href="{{ teacher.url }}">{{ teacher.name }}</a>
-                </span>
-              </li>
+              {% include post-list.html %}
 
             </ul>
           </div>
@@ -98,63 +83,6 @@ layout: default
         </div>
 
           {{ content }}
-
-        <div class="post__footer">
-          <ul class="post__list">
-            {% if page.price_en || page.price_de %}
-            <li>
-              <span class="label" data-en="{{ site.data.lang.cost_en }}" data-de="{{ site.data.lang.cost_de }}">
-                {{ site.data.lang.cost_en }}
-              </span>
-              <span data-en="{{ page.price_en }}" data-de="{{ page.price_de }}">
-                {{ page.price_en }}
-              </span>
-            </li>
-            {% endif %}
-
-            {% if page.trial_en || page.trial_de %}
-            <li>
-              <span class="label" data-en="{{ site.data.lang.trial_en }}" data-de="{{ site.data.lang.trial_de }}">
-                {{ site.data.lang.trial_en }}
-              </span>
-              <span class="detail" data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">
-                {{ page.trial_en }}
-              </span>
-            </li>
-            {% endif %}
-
-            <li>
-              <span class="label">
-                Email
-              </span>
-              <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
-            </li>
-
-            {% if teacher.website-link %}
-            <li>
-              <span class="label">
-                Website
-              </span>
-              {% if teacher.website-link %}
-                <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
-              {% endif %}
-            </li>
-            {% endif %}
-
-            {% if teacher.phone %}
-            <li>
-              <span class="label">
-                Phone
-              </span>
-              <a href="tel:{{ teacher.phone }}">{{ teacher.phone }}</a>
-            </li>
-            {% endif %}
-
-          </ul>
-        </div>
-
-
-        </div>
 
       </article>
 

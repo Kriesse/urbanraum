@@ -15,8 +15,12 @@ type_de: "Wöchentlicher Kurs"
 level_en:
 level_de:
 
-price_en: "EUR 15 / single class, EUR 140 / 10 classes"
-price_de: "15 EUR / Einzelkurs, 140 EUR / 10 Kurse"
+price_en: |
+  EUR 15 / single class  
+  EUR 140 / 10 classes
+price_de: |
+  15 EUR / Einzelkurs  
+  140 EUR / 10 Kurse
 
 language_en: "German / English"
 language_de: "Deutsch / Englisch"

@@ -1,5 +1,4 @@
 .post {
-  //border: 2px solid red;
 }
 
 //  Posts
@@ -26,69 +25,85 @@
   margin-bottom: $spacing-unit;
 }
 
-.post__details {
-  text-align: center;
-  overflow: hidden;
-}
-
 .post__bio {
-  max-width: 500px;
+  max-width: 36em;
   margin: 0 auto $spacing-unit;
   text-align: left;
 }
 
+.post__details {
+  @include media-query-min($on-laptop) {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+  }
+}
+
 .post__media {
-  margin-bottom: $spacing-unit;
+  text-align: center;
+  overflow: hidden;
+  margin-bottom: 2 * $spacing-unit;
   img {
     max-height: 50vh;
   }
+
 }
 
 .post__aside {
+  margin-bottom: 2 * $spacing-unit;
+  @include media-query-min($on-laptop) {
+    flex-grow: 0;
+    flex-shrink: 1;
+    padding-left: 1.5em;
+  }
 }
 
 .post__description {
-  max-width: 500px;
-  margin: 0 auto 0;
+  max-width: 36em;
+  clear: both;
+  margin: 0 auto;
 }
 
 .post__list {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  padding-top: 2rem;
-  padding-bottom: .5rem;
-  border-top: 2px solid $color-brand;
-  border-bottom: 2px solid $color-brand;
-
+  margin-left: 0;
   list-style: none;
   text-align: left;
-
-  @include media-query-min($on-tablet) {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
   li {
-    margin-bottom: 1.5em;
-    @include media-query-min($on-tablet) {
-      width: 200px;
+    margin-bottom: 1em;
+    &:last-child {
+      margin-bottom: 0;
     }
   }
+  p {
+    margin-bottom: 0;
+  }
   .detail {
-    display: inline-block;
-    vertical-align: top;
+    width: 70%;
   }
   .label {
-    display: block;
     text-transform: uppercase;
     font-size: .75em;
+    text-align: right;
+    margin-top: 0.25em;
+    width: 28%;
+    min-width: 74px;
+    padding-right: .5em;
+  }
+  .detail,
+  .label {
+    display: inline-block;
     vertical-align: top;
+    @include media-query-min($on-tablet) {
+      width: 49%;
+    }
+    @include media-query-min($on-laptop) {
+      display: block;
+      text-align: left;
+      width: 100%;
+    }
   }
 }
 
-.post__footer {
-  margin-bottom: 8em;
-}
 
 // Post list on overview pages
 .gallery {

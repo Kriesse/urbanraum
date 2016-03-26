@@ -13,11 +13,16 @@ title_de:  "Zeitgenössischer Tanz (open level)"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "open level"
-level_de: "open level"
+level_en: "Open Level"
+level_de: "Open Level"
 
-price_en: "10 classes: 80 Euro, single class: 10 Euro"
-price_de: "10er Karte: 80 EURO, Einzelstunde: 10 EURO"
+price_en: |
+  Single Class: EUR 10  
+  10er Classes: EUR 80
+price_de: |
+  Einzelkurs: 10 Euro  
+  10er Karte: 80 Euro
+
 
 language_en:
 language_de:
