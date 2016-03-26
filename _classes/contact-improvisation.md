@@ -15,9 +15,9 @@ price_de: "50 EUR monatlich"
 weekday_en: "Friday"
 weekday_de: "Freitag"
 
-time: "10.30am"
+time: "10:30am"
 
-endtime: "12pm"
+endtime: "12:00pm"
 
 language_en: "German"
 language_de: "Deutsch"
