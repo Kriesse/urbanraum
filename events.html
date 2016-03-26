@@ -2,6 +2,7 @@
   layout: page
   title_en: Events
   title_de: Veranstaltungen
+  menu: main
 ---
 
 {% assign events=site.tags.events %}
@@ -19,10 +20,8 @@
         {% endif %}
       </div>
       <div  class="event__meta">
-        <span>
+        <span class="event__time">
           {% for date in post.schedule %}
-            {{ date.day }}
-            {{ date.day }}
             {{ date.day }}
           {% endfor %}
         </span>

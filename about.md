@@ -3,6 +3,7 @@ layout: page
 title_de: "Information"
 title_en: "About"
 permalink: /about/
+menu: main
 image: "raum-01.jpg"
 fullwidth: true
 ---

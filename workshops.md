@@ -2,6 +2,7 @@
   layout: gallery
   title_en: Workshops
   title_de: Workshops
+  menu: main
 ---
 
 {% assign workshops=site.tags.workshops %}

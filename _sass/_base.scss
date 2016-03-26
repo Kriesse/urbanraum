@@ -128,10 +128,10 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $color-mint;
+    font-size: .75em;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: rgba($color-mint-yellow, .25);
+    font-family: Monaco, Menlo, monospace;
 }
 
 code {

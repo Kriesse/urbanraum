@@ -67,12 +67,6 @@ $h: $schedule-start-hour;
   transition-property: background-color, transform, color;
   transition-duration: $transition-duration;
   transition-timing-function: ease-in;
-  letter-spacing: .025em;
-  .event__time {
-    font-size: 10px;
-    display: block;
-    opacity: .75;
-  }
   &:hover, &:focus {
     background-color: $color-text;
     text-decoration: none;
@@ -84,6 +78,17 @@ $h: $schedule-start-hour;
     padding: 5px;
     font-size: 12px;
   }
+  .event__time {
+    font-size: 10px;
+  }
+}
+
+.event__time {
+  display: block;
+  opacity: .75;
+  text-transform: uppercase;
+  letter-spacing: .025em;
+  font-size: .8em;
 }
 
 

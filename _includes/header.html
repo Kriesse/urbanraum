@@ -57,8 +57,9 @@
           <a href="#" id="de" class="language-switch__link">de</a>
         </div>
 
-        {% for page in site.pages %}
-          {% if page.title_en || page.title_de %}
+        {% assign pages = site.pages | sort: 'weight' %}
+        {% for page in pages %}
+          {% if page.menu == 'main' %}
             <a  class="page-link"
                 href="{{ page.url | prepend: site.baseurl }}"
                 data-en="{{ page.title_en }}"
@@ -68,6 +69,7 @@
             </a>
           {% endif %}
         {% endfor %}
+
       </div>
 
     </nav>

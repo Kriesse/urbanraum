@@ -1,5 +1,7 @@
 ---
 layout: gallery
+title_en: Teachers
+title_de: Teachers
 ---
 
 <div class="gallery">

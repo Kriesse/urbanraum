@@ -1,8 +1,10 @@
 .event-list__item {
-  background: beige;
+  display: block;
   margin-bottom: 2em;
 }
 
 .event__img {
-  max-width: 50px;
+  max-width: 60px;
+  float: left;
+  margin-right: 1em;
 }
