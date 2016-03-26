@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+{% assign teacher = site.teachers | where: "id", page.teacher | first %}
+
+<div class="page-content">
+  <div class="wrapper wrapper--content">
+
+    <div class="post">
+
+      <header class="post__header">
+        <h1 class="post__title">
+            <span data-en="{{ page.title_en }}"
+                  data-de="{{ page.title_de }}">
+                  {{ page.title_en }}
+            </span>
+            <span class="post__subtitle"
+                  data-en="{{ page.subtitle_en }}"
+                  data-de="{{ page.subtitle_de }}">
+                  {{ page.subtitle_en }}
+            </span>
+        </h1>
+
+        <p>
+          <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
+          <span class="separator">|</span>
+          {% for date in page.schedule %}
+            <span
+              data-en="{% include i18n lang='en' key=date.day %}"
+              data-de="{% include i18n lang='de' key=date.day %}">
+              {% include i18n lang='en' key=date.day %}
+            </span>
+            <span>
+              {{date.start}} - {{date.end}}
+            </span>
+            {% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+
+         {% if page.date_en || page.date_de %}
+            <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
+          {% endif %}
+          <span>
+            {{ page.time | date: "%R" }}
+          </span>
+          {% if page.endtime %}
+            -
+            <span>{{ page.endtime | date: "%R" }}</span>
+          {% endif %}
+
+
+        </p>
+
+      </header>
+
+      <article class="post__content">
+
+        <div class="post__details">
+          <div class="post__media">
+            {% if page.image %}
+              <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
+            {% else %}
+              <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
+            {% endif %}
+          </div>
+
+          <div class="post__aside">
+            <ul class="post__list">
+
+              {% include post-list.html %}
+
+            </ul>
+          </div>
+
+        </div>
+
+        {% capture description_en %}{% include with_translation lang="en" data=page key="description" fallback=site.data.lang.description_unavailable_en %}{% endcapture %}
+        {% capture description_de %}{% include with_translation lang="de" data=page key="description" fallback=site.data.lang.description_unavailable_de %}{% endcapture %}
+
+        <div class="post__description"
+            data-en="{{ description_en | markdownify | xml_escape}}"
+            data-de="{{ description_de | markdownify | xml_escape}}">
+          {{ description_en | markdownify }}
+        </div>
+
+          {{ content }}
+
+      </article>
+
+    </div>
+  </div>
+</div>

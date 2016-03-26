@@ -42,7 +42,6 @@ ul, ol, dl, figure,
 }
 
 
-
 /**
  * Images
  */
@@ -95,14 +94,13 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $color-brand;
+  color: $color-mint;
   text-decoration: none;
-  &:visited {
-    color: $color-brand;
-  }
-  &:hover {
+  transition-property: color, background-color, border;
+  transition-duration: $transition-duration;
+  transition-timing-function: ease-in-out;
+  &:hover, &:focus {
     color: $color-text;
-    text-decoration: underline;
   }
 }
 
@@ -130,10 +128,10 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $color-brand;
+    font-size: .75em;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: rgba($color-mint-yellow, .25);
+    font-family: Monaco, Menlo, monospace;
 }
 
 code {
@@ -149,43 +147,6 @@ pre {
         padding-right: 0;
         padding-left: 0;
     }
-}
-
-// Gives the frame to the site
-.site-wrapper {
-  min-height: 100%;
-  width: 100%;
-  background: $color-background url('../img/urbanraum-bg-bright.jpg') no-repeat center;
-  position: fixed;
-  top: 0;
-  z-index: -1;
-  @include media-query-min($on-tablet) {
-    border: $spacing-unit solid $color-white;
-  }
-}
-
-
-/**
- * Wrapper
- */
-.wrapper {
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
-  @extend %clearfix;
-  @include media-query-min($on-tablet) {
-    padding-right: $spacing-unit * 2;
-    padding-left: $spacing-unit * 2;
-  };
-  @include media-query-min($on-laptop) {
-    padding-right: $spacing-unit * 3;
-    padding-left: $spacing-unit * 3;
-  };
-}
-
-.wrapper--content {
-  max-width: 1024px;
 }
 
 
@@ -212,13 +173,6 @@ pre {
     height: 16px;
     vertical-align: middle;
   }
-}
-
-
-// helpers
-
-.text--right {
-  text-align: right;
 }
 
 

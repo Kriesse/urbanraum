@@ -1,14 +1,15 @@
 ---
-  layout: default
-  title_en: 
-  title_de: Veranstaltungen
+  layout: gallery
+  title_en: Classes
+  title_de: Kurse
+  menu: main
 ---
 
-{% assign events=site.tags.events %}
+{% assign classes=site.tags.classes %}
 {% assign overview=true %}
 
-<div class="event-list">
-  {% for post in site.events %}
+<div class="gallery">
+  {% for post in site.classes %}
     <div class="gallery__item">
       <div class="post">
         <a  class="post__link"

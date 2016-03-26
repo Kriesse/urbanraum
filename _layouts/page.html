@@ -1,28 +1,37 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post__header">
-    <h1 class="post__title"
-      data-en="{{ page.title_en }}"
-      data-de="{{ page.title_de }}">
-      {{ page.title_en }}
-    </h1>
-  </header>
+<div class="page-content">
+  <div class="wrapper wrapper--content">
 
-  <article class="post__content">
+    <div class="post">
 
-    <div class="post__aside">
-      <div class="post__media post__media--full-width">
-        {% if page.image %}
-          <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
-        {% endif %}
-      </div>
+      <header class="post__header">
+        <h1 class="post__title"
+          data-en="{{ page.title_en }}"
+          data-de="{{ page.title_de }}">
+          {{ page.title_en }}
+        </h1>
+      </header>
+
+      <article class="post__content">
+
+        <div class="post__image">
+          <div class="post__media">
+            {% if page.image %}
+              <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="post__description">
+          {{ content }}
+        </div>
+
+      </article>
+
     </div>
 
-
-    {{ content }}
-  </article>
-
+  </div>
 </div>

@@ -1,11 +1,7 @@
 .post {
-  //border: 2px solid red;
 }
 
-
-/**
- * Posts
- */
+//  Posts
 .post__header {
     margin-bottom: 3 * $spacing-unit;
     text-align: center;
@@ -18,6 +14,14 @@
   @include media-query-min($on-tablet) {
     font-size: 42px;
   }
+  &:after {
+    content: '';
+    width: 1em;
+    height: 4px;
+    background: $color-mint-yellow;
+    display: block;
+    margin: .5em auto .5em;
+  }
 }
 
 .post__subtitle {
@@ -25,113 +29,117 @@
   font-size: .6666em;
 }
 
+.separator {
+  color: rgba($color-text--light, .5);
+  padding-left: .25em;
+  padding-right: .25em;
+}
+
 .post__content {
   margin-bottom: $spacing-unit;
 }
 
-.post__details {
-  overflow: hidden;
-  margin-bottom: 2 * $spacing-unit;
+.post__bio {
+  max-width: 36em;
+  margin: 0 auto $spacing-unit;
+  text-align: left;
 }
 
-.post__bio {
-  margin-bottom: $spacing-unit;
+.post__details {
+  @include media-query-min($on-laptop) {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
 }
 
 .post__media {
-  margin-bottom: $spacing-unit;
-  @include media-query-min($on-tablet) {
-    width: 50%;
-    float: left;
-    text-align: right;
-    padding-right: $spacing-unit;
+  text-align: center;
+  overflow: hidden;
+  margin-bottom: 2 * $spacing-unit;
+  img {
+    max-height: 50vh;
   }
+
 }
 
 .post__aside {
-  @include media-query-min($on-tablet) {
-    width: 50%;
-    float: right;
-    padding-left: $spacing-unit;
+  margin-bottom: 2 * $spacing-unit;
+  @include media-query-min($on-laptop) {
+    flex-grow: 0;
+    flex-shrink: 1;
+    padding-left: 1.5em;
   }
-}
-
-
-.post__media--full-width {
-  width: 100%;
-  float: none;
-  text-align: center;
-  padding-right: 0;
-}
-
-.post__list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
 }
 
 .post__description {
-  max-width: 500px;
-  margin: 0 auto 3rem;
+  max-width: 36em;
+  clear: both;
+  margin: 0 auto;
 }
 
 .post__list {
+  margin-left: 0;
+  margin-top: -.5em;
+  list-style: none;
+  text-align: left;
   li {
-    margin-bottom: .5em;
+    margin-bottom: 1em;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  p {
+    margin-bottom: 0;
   }
   .detail {
-    display: inline-block;
-    vertical-align: top;
+    width: 70%;
   }
   .label {
     text-transform: uppercase;
-    min-width: 80px;
-    display: block;
+    font-size: .75em;
+    text-align: right;
+    margin-top: 0.25em;
+    width: 28%;
+    min-width: 74px;
+    padding-right: .5em;
+    color: $color-text--light;
+  }
+  .detail,
+  .label {
+    display: inline-block;
     vertical-align: top;
     @include media-query-min($on-tablet) {
-      display: inline-block;
+      width: 49%;
     }
-    &:after {
-      content: ":"
+    @include media-query-min($on-laptop) {
+      display: block;
+      text-align: left;
+      width: 100%;
     }
-  }
-  .content {
-
   }
 }
-
-.post__footer {
-  margin-bottom: 8em;
-  padding: 1em;
-  background-color: #FFF;
-  div {
-    margin-bottom: 1em;
-  }
-
-  @include media-query-min($on-tablet) {
-    padding: 2em 2.5em;
-  }
-}
-
-
 
 
 // Post list on overview pages
-
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   margin-bottom: 3em;
 }
 
 .gallery__item {
   max-width: 50%;
+  width: 200px;
   padding: .5em;
 }
 
-.gallery__item--small {
-  max-width: 25%;
+.gallery__item--large {
+  max-width: 100%;
+  @include media-query-min($on-tablet) {
+    width: 400px;
+  }
 }
 
 .post__link {
@@ -143,7 +151,9 @@
   img {
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
-    transition: filter .25s ease-in-out;
+    transition-property: filter;
+    transition-duration: $transition-duration;
+    transition-timing-function: ease-in-out;
   }
 }
 
@@ -156,6 +166,10 @@
 
 .post__img {
   width: 100%;
+}
+
+.post__img--teacher {
+  height: 200px
 }
 
 .post__meta {

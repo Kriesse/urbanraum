@@ -1,0 +1,1 @@
+{% capture key %}{{include.key | downcase}}_{{include.lang | downcase}}{% endcapture %}{{site.data.lang[key]}}

@@ -10,7 +10,11 @@ $color-mint-cold: #7AB5b9;
 $color-mint-yellow: #a4d6ab;
 $color-pine: #006264;
 $color-text: #1C2624;
+$color-text--medium: #606765;
+$color-text--light: #8d9291;
 $color-berry: #FF0044;
+
+$transition-duration: .05s;
 
 // Our variables
 $base-font-family: "Brandon Text", "Brandon Grotesque", "brandon-grotesque", "Helvetica Neue", Arial, Helvetica, sans-serif;
@@ -21,23 +25,13 @@ $base-line-height: 1.5;
 $spacing-unit:     16px;
 
 $height-header:    90px;
-$height-footer:    60px;
-
-$color-text:       $color-text;
-$color-background: #F3F8F2;
-$color-brand:      $color-mint;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$height-footer:    120px;
 
 // Width of the content area
 $content-width:    800px;
 
-$on-tablet:        550px;
+$on-tablet:        600px;
 $on-laptop:        900px;
-
-
 
 // Using media queries with like this:
 // @include media-query($on-tablet) {
@@ -46,6 +40,7 @@ $on-laptop:        900px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -64,5 +59,10 @@ $on-laptop:        900px;
         "base",
         "buttons",
         "layout",
-        "posts"
+        "posts",
+        "banner",
+        "panorama",
+        "schedule",
+        "events",
+        "helpers"
 ;

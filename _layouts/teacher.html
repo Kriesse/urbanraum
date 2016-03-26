@@ -1,52 +1,126 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post__header">
-    <h1 class="post__title">
-      {{ page.teacher_name }}
-    </h1>
-  </header>
+{% assign teacher = page %}
 
-  <article class="post__content">
+<div class="page-content">
+  <div class="wrapper wrapper--content">
 
-    <div class="post__details">
-      <div class="post__media">
-        {% if page.image %}
-          <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-flex" />
-        {% else %}
-          <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
-        {% endif %}
+    <div class="post">
 
-      </div>
+      <header class="post__header">
+        <h1 class="post__title">
+          {{ teacher.name }}
+        </h1>
+      </header>
 
-      <div class="post__aside">
-        <div class="post__bio" data-en="{{ page.bio_en }}" data-de="{{ page.bio_de }}">
-          {{ page.bio_en }}
+      <article class="post__content">
+
+        <div class="post__details">
+          <div class="post__media">
+            {% if teacher.image %}
+              <img src="{{ site.baseurl }}/img/{{ teacher.image }}" class="img-flex" />
+            {% else %}
+              <img src="{{ site.baseurl }}/img/class-placeholder-01.jpg" class="img-flex" />
+            {% endif %}
+
+          </div>
+
+          <div class="post__aside">
+            <ul class="post__list">
+              <li>
+                <div class="label" data-en="{{ site.data.lang.classes_en }}" data-de="{{ site.data.lang.events_de }}">
+                  {{ site.data.lang.events_en }}
+                </div>
+                <div class="detail">
+                  {% assign teacher-name = teacher.name | downcase %}
+                  {% for post in site.classes %}
+                    {% if teacher-name contains post.teacher %}
+                      <a href="{{ post.url | prepend: site.baseurl }}">
+                        <span
+                            data-en="{{ post.title_en }}"
+                            data-de="{{ post.title_de }}">
+                              {{ post.title_en }}
+                        </span>
+                      </a>
+                      <br>
+                    {% endif %}
+                  {% endfor %}
+                  {% for post in site.workshops %}
+                    {% if teacher-name contains post.teacher %}
+                      <a href="{{ post.url | prepend: site.baseurl }}">
+                        <span
+                            data-en="{{ post.title_en }}"
+                            data-de="{{ post.title_de }}">
+                              {{ post.title_en }}
+                        </span>
+                      </a>
+                      <br>
+                    {% endif %}
+                  {% endfor %}
+                  {% for post in site.events %}
+                    {% if teacher-name contains post.teacher %}
+                      <a href="{{ post.url | prepend: site.baseurl }}">
+                        <span
+                            data-en="{{ post.title_en }}"
+                            data-de="{{ post.title_de }}">
+                              {{ post.title_en }}
+                        </span>
+                      </a>
+                      <br>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+              </li>
+              <li>
+                <div class="label" data-en="{{ site.data.lang.contact_en }}" data-de="{{ site.data.lang.contact_de }}">
+                  {{ site.data.lang.contact_en }}
+                </div>
+                <div class="detail">
+                  {% if teacher.email %}
+                    <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
+                    <br>
+                  {% else %}
+                    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                    <br>
+                  {% endif %}
+                  {% if teacher.website-link %}
+                    <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
+                    <br>
+                  {% endif %}
+                  {% if teacher.phone %}
+                    {{ teacher.phone }}
+                  {% endif %}
+                </div>
+              </li>
+            </ul>
+
+          </div>
+
         </div>
 
-        <ul class="post__list">
-          <li>
-            <span class="label" data-en="{{ site.contact_en }}" data-de="{{ site.contact_de }}">{{ site.contact_en }}</span>
-            <a href="mailto:{{ page.email }}">{{ page.email }}</a>
-          </li>
-        </ul>
+        {% capture bio_en %}{% include with_fallback value=teacher.bio_en fallback=site.data.lang.bio_unavailable_en %}{% endcapture %}
+        {% capture bio_de %}{% include with_fallback value=teacher.bio_de fallback=site.data.lang.bio_unavailable_de %}{% endcapture %}
 
-      </div>
+        <div class="post__bio"
+             data-en="{{ bio_en | markdownify | xml_escape }}"
+             data-de="{{ bio_de | markdownify | xml_escape }}">
+          {{ bio_en | markdownify }}
+        </div>
+
+        <div class="post__description">
+          {{ content }}
+        </div>
+
+
+
+
+        </div>
+
+      </article>
+
 
     </div>
-
-    <div class="post__description">
-      {{ content }}
-    </div>
-
-
-
-
-    </div>
-
-  </article>
-
-
+  </div>
 </div>

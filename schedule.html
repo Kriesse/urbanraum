@@ -1,9 +1,43 @@
 ---
-layout: page
+layout: schedule
+title_en: Schedule
+title_de: Stundenplan
+menu: main
+workdays: [monday, tuesday, wednesday, thursday, friday]
 ---
 
-<h1>Schedule</h1>
-
-
-
-
+<div class="schedule">
+{% for day in page.workdays %}
+  <div class="day">
+    <header class="day__header">
+      {{ day | capitalize }}
+    </header>
+    <div class="day__list">
+      {% for class in site.classes %}
+        {% for date in class.schedule %}
+          {% if date.day == day %}
+            {% assign start = date.start | date: "%k%M" %}
+            {% assign end = date.end | date: "%k%M" %}
+            {% assign duration = end | minus: start %}
+            <a  class="event time--{{start}} duration--{{duration}}"
+                href="{{ class.url | prepend: site.baseurl }}">
+              <span class="event__time">
+                {{ date.start | date: "%R"}}
+                <span class="hide-mobile">
+                  -
+                  {{ date.end | date: "%R" }}
+                </span>
+              </span>
+              <h4 class="event__title"
+                  data-en="{{ class.title_en }}"
+                  data-de="{{ class.title_de }}">
+                    {{ class.title_en }}
+              </h4>
+            </a>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </div>
+  </div>
+{% endfor %}
+</div>

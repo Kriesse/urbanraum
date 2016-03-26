@@ -1,7 +1,8 @@
 ---
-  layout: default
+  layout: gallery
   title_en: Workshops
   title_de: Workshops
+  menu: main
 ---
 
 {% assign workshops=site.tags.workshops %}
@@ -9,7 +10,7 @@
 
 <div class="gallery">
   {% for post in site.workshops %}
-    <div class="gallery__item">
+    <div class="gallery__item gallery__item--large ">
       <div class="post">
         <a  class="post__link"
             href="{{ post.url | prepend: site.baseurl }}">
@@ -25,7 +26,6 @@
               {{ post.title_en }}
             </span>
             <div class="post__meta__hidden">
-               <span data-en="{{ post.weekday_en }}" data-de="{{ post.weekday_de }}">{{ post.weekday_en }}</span>
 
               {% if post.date_en || post.date_de %}
                  <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>,

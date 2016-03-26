@@ -1,0 +1,56 @@
+{% if page.level_en || page.level_de %}
+  <li>
+    <div class="label" data-en="{{ site.data.lang.level_en }}" data-de="{{ site.data.lang.level_de }}">{{ site.data.lang.level_en }}</div>
+    {% capture level_en %}{% include with_fallback value=page.level_en fallback=site.data.lang.level-all_en %}{% endcapture %}
+    {% capture level_de %}{% include with_fallback value=page.level_de fallback=site.data.lang.level-all_de %}{% endcapture %}
+    <div class="detail" data-en="{{ level_en }}" data-de="{{ level_de }}">{{ level_en }}</div>
+  </li>
+{% endif %}
+
+{% if page.language_en || page.language_de %}
+  <li>
+    <div class="label" data-en="{{ site.data.lang.language_en }}" data-de="{{ site.data.lang.language_de }}">{{ site.data.lang.language_en }}</div>
+    <div class="detail" data-en="{{ page.language_en }}" data-de="{{ page.language_de }}">{{ page.language_en }}</div>
+  </li>
+{% endif %}
+
+{% if page.price_en || page.price_de %}
+  <li>
+    <div class="label" data-en="{{ site.data.lang.cost_en }}" data-de="{{ site.data.lang.cost_de }}">
+      {{ site.data.lang.cost_en }}
+    </div>
+    <div class="detail" data-en="{{ page.price_en | markdownify | xml_escape }}" data-de="{{ page.price_de | markdownify | xml_escape }}">
+      {{ page.price_en | markdownify }}
+    </div>
+  </li>
+{% endif %}
+
+{% if page.trial_en || page.trial_de %}
+  <li>
+    <div class="label" data-en="{{ site.data.lang.trial_en }}" data-de="{{ site.data.lang.trial_de }}">
+      {{ site.data.lang.trial_en }}
+    </div>
+    <div class="detail" data-en="{{ page.trial_en }}" data-de="{{ page.trial_de }}">
+      {{ page.trial_en }}
+    </div>
+  </li>
+{% endif %}
+
+<li>
+  <div class="label" data-en="{{ site.data.lang.contact_en }}" data-de="{{ site.data.lang.contact_de }}">{{ site.data.lang.contact_en }}</div>
+  <div class="detail">
+    <a href="{{ teacher.url }}">{{ teacher.name }}</a>
+    {% if teacher.email %}
+      <br>
+      <a href="mailto:{{ teacher.email }}">{{ teacher.email }}</a>
+    {% endif %}
+    {% if teacher.website-link %}
+      <br>
+      <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
+    {% endif %}
+    {% if teacher.phone %}
+      <br>
+      <a href="tel:{{ teacher.phone }}">{{ teacher.phone }}</a>
+    {% endif %}
+  </div>
+</li>

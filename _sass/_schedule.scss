@@ -1,0 +1,115 @@
+$height-quarter-hour: 10px;
+
+$schedule-start-hour: 800;
+$schedule-end-hour: 2200;
+$day__header-height: 32px;
+
+$h: $schedule-start-hour;
+@while $h < 2300 {
+  $m: 0;
+  @while $m < 60 {
+    $t: $h + $m;
+    .time--#{$t} {
+      top: ((($h - 800) / 25) + ($m / 15)) * $height-quarter-hour;
+     }
+    $m: $m + 15;
+  }
+  $h: ($h + 100);
+}
+
+.schedule {
+  width: 100%;
+  background: $color-white;
+  min-height: (($schedule-end-hour - $schedule-start-hour) / 25) * $height-quarter-hour + $day__header-height  + (2 * $height-quarter-hour);
+}
+
+.day {
+  float: left;
+  width: 20%;
+  border-left: 1px solid rgba($color-mint, .2);
+  &:first-child {
+    border-left: none;
+  }
+  @include media-query-min($on-tablet) {
+    padding: 0 4px;
+  }
+  @include media-query-min($on-laptop) {
+    padding: 0 10px;
+  }
+}
+
+.day__header {
+  border-bottom: 2px solid $color-text;
+  margin-bottom: 10px;
+  height: $day__header-height;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.day__list {
+  position: relative;
+  background-image: linear-gradient(rgba($color-mint, .2) 1px, transparent 1px);
+  background-size: 100% $height-quarter-hour * 4;
+  min-height: (($schedule-end-hour - $schedule-start-hour) / 25) * $height-quarter-hour;
+
+}
+
+.event, .event:visited {
+  display: block;
+  position: absolute;
+  width: 100%;
+  padding: 2px;
+  background-color: $color-mint;
+  color: $color-white;
+  font-size: 11px;
+  overflow: hidden;
+  transition-property: background-color, transform, color;
+  transition-duration: $transition-duration;
+  transition-timing-function: ease-in;
+  &:hover, &:focus {
+    background-color: $color-text;
+    text-decoration: none;
+    color: $color-white;
+    transform: scale(1.2);
+    z-index: 10;
+  }
+  @include media-query-min($on-tablet) {
+    padding: 5px;
+    font-size: 12px;
+  }
+  .event__time {
+    font-size: 10px;
+  }
+}
+
+.event__time {
+  display: block;
+  opacity: .75;
+  text-transform: uppercase;
+  letter-spacing: .025em;
+  font-size: .8em;
+}
+
+
+.duration--100 {
+  height: 4 * $height-quarter-hour;
+}
+.duration--115 {
+  height: 5 * $height-quarter-hour;
+}
+.duration--130 {
+  height: 6 * $height-quarter-hour;
+}
+.duration--145 {
+  height: 7 * $height-quarter-hour;
+}
+.duration--200 {
+  height: 8 * $height-quarter-hour;
+}
+.duration--215 {
+  height: 9 * $height-quarter-hour;
+}
+.duration--230 {
+  height: 10 * $height-quarter-hour;
+}
