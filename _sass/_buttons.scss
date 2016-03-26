@@ -1,6 +1,9 @@
 .button {
   display: inline-block;
-  padding: ($spacing-unit / 2) $spacing-unit;
-  border: 2px solid $color-brand;
+  padding: ($spacing-unit / 2) (2 * $spacing-unit);
+  border-width: 3px;
   border-radius: 2px;
+  border-style: solid;
+  border-color: currentColor;
+  color: $color-pine;
 }

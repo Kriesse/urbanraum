@@ -94,14 +94,13 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $color-brand;
+  color: $color-mint;
   text-decoration: none;
-  // &:visited {
-  //   color: $color-brand;
-  // }
+  transition-property: color, background-color, border;
+  transition-duration: $transition-duration;
+  transition-timing-function: ease-in-out;
   &:hover, &:focus {
     color: $color-text;
-    text-decoration: underline;
   }
 }
 
@@ -130,7 +129,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $color-brand;
+    border: 1px solid $color-mint;
     border-radius: 3px;
     background-color: #eef;
 }

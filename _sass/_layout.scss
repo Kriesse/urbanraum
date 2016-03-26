@@ -69,7 +69,7 @@ body {
   display: inline-block;
   height: 17px;
   margin-bottom: -3px;
-  border-left: 2px solid rgba($color-mint-yellow, .2);
+  border-left: 2px solid rgba($color-mint-yellow, .8);
   transform: rotate(20deg);
 }
 .language-switch__link {
@@ -78,14 +78,12 @@ body {
   padding-right: 2px;
   text-transform: uppercase;
   font-size: .9em;
-  color: rgba($color-text, .4);
-  &:hover, &:focus {
-    text-decoration: none;
-  }
+  color: $color-text--medium;
 }
 
 .language-switch__link--active {
   color: $color-mint;
+  color: $color-text;
 }
 
 .site-nav {
@@ -148,13 +146,11 @@ body {
   display: block;
   line-height: $base-line-height;
   padding: 10px 10px;
-  text-decoration: none;
   color: $color-text;
   text-transform: uppercase;
   border-bottom: 2px solid transparent;
   &:hover, &:focus {
     border-bottom: 2px solid $color-mint-yellow;
-    text-decoration: none;
   }
   @include media-query-min($on-tablet) {
     display: inline-block;
@@ -172,11 +168,9 @@ body {
 
 .footer-link {
   display: inline-block;
-  text-decoration: none;
   padding: 0 6px 12px;
   color: $color-text;
   &:hover, &:focus {
-    text-decoration: none;
     color: $color-pine;
   }
   &:first-child {

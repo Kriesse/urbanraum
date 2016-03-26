@@ -1,5 +1,5 @@
 ---
-teacher: "alexander-carillo"
+teacher: "alexander-carrillo"
 schedule:
   - day: ""
     start: "12:00pm"
@@ -23,11 +23,11 @@ level_de: "Open Level"
 
 price_en: |
   EUR 65  
-  Early pay before March 27: EUR 60
+  EUR 60 (early pay before March 27)
 
 price_de: |
   65 EUR  
-  Frühbucher (vor 27. März): 60 EUR
+  60 EUR (Frühbucher vor 27. März)
 
 
 

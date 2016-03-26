@@ -1,6 +1,6 @@
 ---
 id: "alexander-carrillo"
-name: "Alexander Carillo"
+name: "Alexander Carrillo"
 guest-teacher: true
 image: "teacher-malte-loos-01.jpg"
 email: lexfre@gmail.com

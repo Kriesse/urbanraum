@@ -24,7 +24,7 @@ layout: default
 
         <p>
           <span data-en="{{ page.type_en }}" data-de="{{ page.type_de }}">{{ page.type_en }}</span>
-          |
+          <span class="separator">|</span>
           {% for date in page.schedule %}
             <span
               data-en="{% include i18n lang='en' key=date.day %}"
