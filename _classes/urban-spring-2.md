@@ -31,13 +31,6 @@ price_de: |
   8 Stunden: 64 Euro  
   12 Stunden: 90 Euro
 
-weekday_en: "Friday"
-weekday_de: "Freitag"
-
-time: "2pm"
-
-endtime: "3:30pm"
-
 language_en: "English"
 language_de: "vorwiegend Englisch"
 
