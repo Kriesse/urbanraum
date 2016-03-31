@@ -16,12 +16,14 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 price_en: |
-  EUR 11 / single class  
+  EUR 15 / single class  
   EUR 50 per month
+  Eur 100 / 10 classes
 
 price_de: |
-  11 EUR Einzeltermin  
+  15 EUR Einzeltermin  
   50 EUR monatlich  
+  100 EUR p10-er Karte 
 
 
 language_en: "German"
