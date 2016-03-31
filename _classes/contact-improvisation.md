@@ -4,7 +4,7 @@ schedule:
   - day: "friday"
     start: "10:30am"
     end: "12:00pm"
-image: "workshop-contact-improvisation-01.jpg"
+image: "class-contact-improvisation-01.jpg"
 tags: workshops, classes
 
 title_en:  "Contact Improvisation, Präsenz und Wahrnehmung"

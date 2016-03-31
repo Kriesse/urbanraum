@@ -1,5 +1,11 @@
 ---
 teacher: "iliana"
+schedule:
+  - day: "friday"
+    start: "2:00pm"
+    end: "3:30pm"
+
+image: "class-urban-spring-02.jpg"
 
 title_en: "URBAN SPRING [PERFORMATIVE]"
 title_de: "URBAN SPRING [PERFORMATIVE]"

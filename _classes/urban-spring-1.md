@@ -4,10 +4,11 @@ schedule:
   - day: "friday"
     start: "12:15pm"
     end: "1:45pm"
-image: "workshop-urban-autumn-01.png"
 
-title_en:  "Urban Spring [Performative]"
-title_de:  "Urban Spring [Performative]"
+image: "class-urban-spring-02.jpg"
+
+title_en: "Urban Spring [Performative]"
+title_de: "Urban Spring [Performative]"
 
 subtitle_en: "Contemporary Dance and Improvisation"
 subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
