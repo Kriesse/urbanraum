@@ -2,12 +2,12 @@
 teacher: "iliana"
 schedule:
   - day: "friday"
-    start: "12:00pm"
-    end: "1:30pm"
+    start: "12:15pm"
+    end: "1:45pm"
 image: "workshop-urban-autumn-01.png"
 
-title_en:  "Urban Winter [Contemporary]"
-title_de:  "Urban Winter [Contemporary]"
+title_en:  "Urban Spring [Performative]"
+title_de:  "Urban Spring [Performative]"
 
 subtitle_en: "Contemporary Dance and Improvisation"
 subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
@@ -15,8 +15,8 @@ subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "Mixed"
-level_de: "Mixed"
+level_en: "mixed (some level of experience necessary)"
+level_de: "Mittelstufe/Fortgeschritten"
 
 price_en: |
   Drop-In: EUR 10  
@@ -35,11 +35,16 @@ language_en: "English"
 language_de: "Englisch"
 
 description_en: |
-  The workshop emphasizes on Improvisation and Contemporary Dance technique build-up, while inviting the physical joy of organic movement  and physical expression. The technical part focuses on floor work practice, understanding the relation to the floor, the ways to get in/out, but also to use our everlasting partner: the floor. The approach also focuses on the flow of the movement, understanding the paths of the moving body, exploring different movement qualities and dynamics.
+Form.
+Transform.
+Perform.
 
-  Improvisation is used in the class, both integrated into fixed material and separately. To wake up our receiving antennas, our tools of movement, of expression and body awareness.
+The workshop will emphasize on Improvisation and Contemporary Dance technique build-up, welcoming the physical joy of organic movement. The technical part focuses on floor work practice, developing our relation to the floor in all movement levels. But also includes the practice of different movement qualities and dynamics in our dance.
 
-  Improvising our warm up and warming up our Improvisation.
+Through fixed phrases and improvisation tasks, we will study the weight, the flow and direction of movement. We will work on our spacial awareness, both in the space and in the body and develop our kinetics intelligence.
+
+Important NOTE: The workshop will end up in a performance in Berlin in July 2016 (place & dates to be confirmed). Performing is not obligatory, still the fixed group is of importance. To connect to each other & enjoy dancing together, both in the studio & on stage!
+  
 
 description_de:
 ---
