@@ -23,7 +23,7 @@ price_en: |
 price_de: |
   15 EUR Einzeltermin  
   50 EUR monatlich  
-  100 EUR p10-er Karte 
+  100 EUR 10-er Karte 
 
 
 language_en: "German"
