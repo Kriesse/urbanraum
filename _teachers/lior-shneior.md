@@ -2,8 +2,8 @@
 id: "lior"
 name: "Lior Shneior"
 email: "liorshneiordance@gmail.com"
-phone: ""
-image: ""
+phone: 
+image: 
 website-title: "Facebook  | Lior Shneior Dance"
 website-link: "https://www.facebook.com/groups/973904225990504/"
 bio_de: |
