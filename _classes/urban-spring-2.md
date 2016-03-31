@@ -7,8 +7,8 @@ schedule:
 
 image: "class-urban-spring-02.jpg"
 
-title_en: "Urban Spring [Performative]"
-title_de: "Urban Spring [Performative]"
+title_en: "Urban Spring [Performative] | yellow class"
+title_de: "Urban Spring [Performative] | yellow class"
 
 subtitle_en: "Contemporary Dance and Improvisation for beginners"
 subtitle_de: "Zeitgenössischer Tanz und Improvisation für Anfänger"
