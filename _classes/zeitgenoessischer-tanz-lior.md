@@ -36,8 +36,6 @@ description_en:
 
 description_de: |
   Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird. Aufbauend auf die ersten Grundlagen aus dem vorherigen Kurs werden wir nun längere Tanz-Kombinationen erarbeiten. Die Bewegungsgrundlagen, die wir im ersten Kurs ausprobiert haben, werden ausgebaut. Dabei benutzen wir Bodenelemente und release-Technik und bauen die Koordination von Händen, Armen, Beinen und dem ganzen Körper aus. Einzelne Bewegungssequenzen bauen aufeinander auf.
-
-Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren. Der Kurs baut auf dem Einsteiger-Kurs auf, ist aber offen für alle, ob mit oder ohne Erfahrung im Tanz.
-
-Am 5.4.2016 findet der letztes Termin des 1. Kurses statt. An diesem Tag ist ein Drop-In möglich.
+  Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren. Der Kurs baut auf dem Einsteiger-Kurs auf, ist aber offen für alle, ob mit oder ohne Erfahrung im Tanz.
+  Am 5.4.2016 findet der letztes Termin des 1. Kurses statt. An diesem Tag ist ein Drop-In möglich.
 ---
