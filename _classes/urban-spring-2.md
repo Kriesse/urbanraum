@@ -2,14 +2,26 @@
 title_en: "URBAN SPRING [PERFORMATIVE]"
 title_de: "URBAN SPRING [PERFORMATIVE]"
 
+subtitle_en: "Contemporary Dance and Improvisation for beginners"
+subtitle_de: "Zeitgenössischer Tanz und Improvisation für Anfänger"
+
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 level_en: "Beginner"
 level_de: "Anfänger"
 
-price_en: "EUR 130 / 10 classes"
-price_de: "130 EUR / 10 Kurse"
+price_en: |
+  Drop-In: EUR 10  
+  4 classes: EUR 34  
+  8 classes: EUR 64
+  12 classes: EUR 90
+
+price_de: |
+  Drop-In: 10 Euro  
+  4 Stunden: 34 Euro  
+  8 Stunden: 64 Euro  
+  12 Stunden: 90 Euro
 
 weekday_en: "Friday"
 weekday_de: "Freitag"
