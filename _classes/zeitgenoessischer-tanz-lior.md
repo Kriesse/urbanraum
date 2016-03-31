@@ -23,7 +23,7 @@ price_en: |
 price_de: |
   Einzelkurs: 10 Euro  
   10er Karte für den gesamten Kurs: 90 Euro
-  Frühbucher-Rabatt bis 10.04.2016: 80 Euro für den gesamten Kurs (10 Termine)
+    **Frühbucher-Rabatt bis 10.04.2016: 80 Euro für den gesamten Kurs (10 Termine)**
 
 
 language_en:
