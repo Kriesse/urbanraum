@@ -5,7 +5,7 @@ schedule:
     start: "12:15pm"
     end: "1:45pm"
 
-image: "class-urban-spring-02.jpg"
+image: "class-urban-spring-01.jpg"
 
 title_en: "Urban Spring [Performative]"
 title_de: "Urban Spring [Performative]"
