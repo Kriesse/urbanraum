@@ -6,8 +6,8 @@ schedule:
     end: "7:30pm"
 image: "class-contemporary-lior-01.jpg"
 
-title_en:  "Contemporary Dance (open level)"
-title_de:  "Zeitgenössischer Tanz (open level)"
+title_en:  "Contemporary Dance  | Basis 2 (ab 12.04.2016)"
+title_de:  "Zeitgenössischer Tanz  | Basis 2 (from 12.04.2016)"
 
 
 type_en: "Weekly Class"
@@ -22,7 +22,8 @@ price_en: |
 
 price_de: |
   Einzelkurs: 10 Euro  
-  10er Karte: 80 Euro
+  10er Karte für den gesamten Kurs: 90 Euro
+  Frühbucher-Rabatt bis 10.04.2016: 80 Euro für den gesamten Kurs (10 Termine)
 
 
 language_en:
@@ -34,9 +35,9 @@ trial_de: "nach Anmeldung"
 description_en:
 
 description_de: |
-  Ein Tanzkurs für alle, die schon immer tanzen wollten oder bereits Erfahrung haben. Lior bietet mit seinem Kurs einen alternativen und kreativen Weg, sich in Bewegung zu bringen und Sport zu machen. Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird.
+  Jede Stunde beginnt mit Elementen aus dem Yoga sowie Dehnungs- und Atemübungen, wodurch der gesamte Körper erwärmt wird. Aufbauend auf die ersten Grundlagen aus dem vorherigen Kurs werden wir nun längere Tanz-Kombinationen erarbeiten. Die Bewegungsgrundlagen, die wir im ersten Kurs ausprobiert haben, werden ausgebaut. Dabei benutzen wir Bodenelemente und release-Technik und bauen die Koordination von Händen, Armen, Beinen und dem ganzen Körper aus. Einzelne Bewegungssequenzen bauen aufeinander auf.
 
-  Anschließend werden Grundelemente aus dem zeitgenössischen Tanz erlernt und es entstehen einfache choreographische Kombinationen verschiedener Tanztechniken.
+Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren. Der Kurs baut auf dem Einsteiger-Kurs auf, ist aber offen für alle, ob mit oder ohne Erfahrung im Tanz.
 
-  Ein Kurs für Menschen jeden Alters, die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren.
+Am 5.4.2016 findet der letztes Termin des 1. Kurses statt. An diesem Tag ist ein Drop-In möglich.
 ---
