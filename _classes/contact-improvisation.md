@@ -16,8 +16,8 @@ subtitle_de: "ab April 2016"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-price_en: "EUR 50 monthly"
-price_de: "50 Euro monatlich"
+price_en: "EUR 50 monthly / Single class: EUR 15 / 10 classes: EUR 100"
+price_de: "50 Euro monatlich / Einzelstunde: 15 Euro / 10-erKarte: 100 Euro"
 
 language_en: "German"
 language_de: "Deutsch"
