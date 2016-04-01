@@ -9,7 +9,8 @@ website-link: "https://www.facebook.com/groups/973904225990504/"
 bio_de: |
   Lior Shneior, geboren in Israel, hat 2008 an der Essener Folkwang Hochschule die Ausbildung zum Bühnentänzer absolviert. Es folgt ein Studien-Stipendium in New York, wo er bis 2012 als selbständiger Performer und Choreograph arbeitete (Training bei David Howard und der Bill T Jones Company, Tanz in der Sokolow Theater dance company, John Byrne und Fotograf David LaChapelle).
   Seit seiner Rückkehr nach Deutschland arbeitet Lior weiterhin als Performer und Choreograph und leitet Workshops für verschiedene Zielgruppen.
-  bio_en: |
+  
+bio_en: |
   Lior Shneior (Choreographer, Dancer) was born in a kibbutz in Northern Israel and graduated from Folkwang-Hochschule, Essen, Germany.
 There he studied with Malou Airaudo, Dominique Mercy and Lutz Forster (all founding members of Tanztheater Wuppertal – Pina Bausch).
 After graduation he received a scholarship from DAAD (German Academic Exchange Service) to choreograph and train in New York City. 
