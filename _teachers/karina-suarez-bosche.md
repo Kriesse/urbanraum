@@ -2,8 +2,8 @@
 id: "karina"
 name: "Karina Suárez-Bosche"
 email: "karinasuarezbosche@riseup.net"
-phone: ""
-image: ""
+phone:
+image: "teacher-karina-suarez-bosche.jpg"
 website-title: "www.karinasuarezbosche.com"
 website-link: "http://karinasuarezbosche.com/"
 bio_de: |
