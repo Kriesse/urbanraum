@@ -16,7 +16,12 @@ Fragen zur Raum-Vermietung an Friederike Erhart: <a href="mailto:info@urbanraum.
 
 
 <blockquote data-width="100%" data-height="375" class="ricoh-theta-spherical-image" >Im Urbanraum. #theta360 - <a href="https://theta360.com/s/kDYvHz4SRw6LowLiZjtOMFMno" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
+
+<br><br>
+<blockquote data-width="100%" data-height="375" class="ricoh-theta-spherical-image" >Im Urbanraum. #theta360 - <a href="https://theta360.com/s/nLGEsnna8NxNQzL1GGyIz1iPA" target="_blank">Spherical Image - RICOH THETA</a></blockquote>
+
 <script async src="https://theta360.com/widgets.js" charset="utf-8"></script>
+
 
 <br>
 <small>&copy; <a href="http://andiweiland.de/">Andi Weiland</a><small>
