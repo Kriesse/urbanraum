@@ -9,7 +9,6 @@ image: "class-contemporary-01.jpg"
 title_en:  "Contemporary Dance"
 title_de:  "Zeitgenössischer Tanz"
 
-
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 

@@ -10,14 +10,20 @@ tags: workshops, classes
 title_en:  "Contact Improvisation, Präsenz und Wahrnehmung"
 title_de:  "Contact Improvisation, Präsenz und Wahrnehmung"
 
-subtitle_en: "from April 2016"
-subtitle_de: "ab April 2016"
+subtitle_en:
+subtitle_de: 
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-price_en: "EUR 50 monthly / Single class: EUR 15 / 10 classes: EUR 100"
-price_de: "50 Euro monatlich / Einzelstunde: 15 Euro / 10-erKarte: 100 Euro"
+price_en: |
+  EUR 50 monthly  
+  Single class: EUR 15  
+  10 classes: EUR 100
+price_de: |
+  50 Euro monatlich  
+  Einzelstunde: 15 Euro  
+  10er Karte: 100 Euro
 
 language_en: "German"
 language_de: "Deutsch"
@@ -29,5 +35,4 @@ description_de: |
 
   In diesem Kurs geht es um das Geben und das Nehmen. Darum, unsere moralischen Grenzen zu brechen und einen Dialog der Bewegung zu schaffen. Eine Arbeit, die auch eine Integration und persönliche Recherche der eigenen Bewegungssprache auslöst.
 
-  Der Kurs startet am 1. April 2016.
 ---
