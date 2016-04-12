@@ -23,11 +23,11 @@ level_de: "Open Level"
 
 price_en: |
   EUR 65  
-  EUR 60 (early pay before March 27)
+  EUR 60 (early pay before)
 
 price_de: |
   65 EUR  
-  60 EUR (Frühbucher vor 27. März)
+  60 EUR (Frühbucher)
 
 
 
