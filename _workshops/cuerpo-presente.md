@@ -1,8 +1,8 @@
 ---
 teacher: "alexander-carrillo"
 
-date_en: "April 2/3 2016"
-date_de: "2./3. April 2016"
+date_en: "May 7/8 2016"
+date_de: "7./8. Mai 2016"
 
 time: "12:00pm"
 endtime: "4:00pm"
