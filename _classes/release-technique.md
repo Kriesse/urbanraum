@@ -1,13 +1,13 @@
 ---
-teacher: "sammo"
+teacher: ""
 schedule:
-  - day: "wednesday"
-    start: "8:00pm"
-    end: "10:00pm"
-image: "class-biodanza-01.jpg"
+  - day: "monday"
+    start: "10:00am"
+    end: "11:30am"
+image: ""
 
-title_en: "Biodanza"
-title_de: "Biodanza"
+title_en: "Release Technique"
+title_de: "Release Technique"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
