@@ -1,5 +1,5 @@
 ---
-teacher: "Arianna"
+teacher: 
 schedule:
   - day: "monday"
     start: "10:00am"
