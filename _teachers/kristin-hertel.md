@@ -1,5 +1,6 @@
 ---
 id: "kristin"
-name: "Kristin Lahoop"
+name: "Kristin Hertel"
 email: "kristin@lahoop.de"
+
 ---
