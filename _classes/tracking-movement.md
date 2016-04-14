@@ -1,5 +1,5 @@
 ---
-teacher: 
+teacher: "arianna-rodeghiero"
 schedule:
   - day: "monday"
     start: "10:00am"
