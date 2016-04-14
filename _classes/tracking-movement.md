@@ -4,7 +4,7 @@ schedule:
   - day: "monday"
     start: "10:00am"
     end: "11:30am"
-image: 
+image: "class-tracking-movement-01.jpg"
 
 title_en: "Tracking movement | Contemporary Dance Training (starting in June)"
 title_de: "Tracking movement | Contemporary Dance Training (ab Juni)"

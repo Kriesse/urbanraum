@@ -4,7 +4,7 @@ schedule:
   - day: "monday"
     start: "10:00am"
     end: "11:30am"
-image: "class-release-technique-01.jpg"
+image: 
 
 title_en: "Release Technique"
 title_de: "Release Technique"
