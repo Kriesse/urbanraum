@@ -29,7 +29,7 @@ description_en:
 
   The main concepts on which we will work are:
 
--	the support of the floor while you move,
+  -	the support of the floor while you move,
 -	the connections between each body parts,
 -	the transition between each movement,
 -	finding the momentum, through the release and the redirection of each body part, to then be able to connect the movement into the space, creating dynamic.
