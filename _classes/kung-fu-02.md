@@ -1,5 +1,5 @@
 ---
-sort: "3"
+sort: "9"
 teacher: "lefte-hagen"
 schedule:
   - day: "friday"
