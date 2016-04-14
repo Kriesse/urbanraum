@@ -29,7 +29,7 @@ description_en: |
 
   The main concepts on which we will work are:
 
-  -	the support of the floor while you move,
+-	the support of the floor while you move,
 -	the connections between each body parts,
 -	the transition between each movement,
 -	finding the momentum, through the release and the redirection of each body part, to then be able to connect the movement into the space, creating dynamic.
@@ -38,10 +38,6 @@ description_en: |
   Everyday our body is different, our sensations through the body are different. For this reason, in the class, much importance is given to the physical listening of the body: we will start from the warming up that allows ourself to connect inside and with the architecture of our specific body, in his tissues, bones and articulations.Then we will collect all those elements ending with a movement phrase.
 
   We will widen our movement vocabulary enjoying dance.
-
-
-
-
 
 description_de: 
 ---
