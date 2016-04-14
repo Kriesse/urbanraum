@@ -62,7 +62,7 @@ description_de:
 
   Through simple, natural exercises that you already do, Susie brings out the power you already have as a woman and teaches you how to use it, without losing your femininity or humour!  You can be deadly and still be pretty!
 
-You will laugh. You will make friends. You will kick ass. Wirklich!
+  You will laugh. You will make friends. You will kick ass. Wirklich!
 
 
 ---
