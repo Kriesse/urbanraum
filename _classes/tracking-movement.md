@@ -23,7 +23,7 @@ price_de: |
   Einzelkurs: 7 Euro  
   10-er Karte: 50 Euro
 
-description_en:
+description_en: |
 
   The class offers a training in contemporary dance, through which we will gradually prepare our body for moving, working on the release of the tensions in the muscles and on the opening of the joints.
 
