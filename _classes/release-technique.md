@@ -1,5 +1,5 @@
 ---
-teacher: 
+teacher:
 schedule:
   - day: "monday"
     start: "10:00am"
@@ -40,7 +40,6 @@ description_en: |
 
   In my class principles of “Release Technique” are combined with improvisational tasks that brings you in a constant state of  availability and openness. Everyday our body is different, our sensations through the body are different. For this reason, in the class, much importance is given to the physical listening of the body: we will start from the warming up that allows ourself to connect inside and with the architecture of our specific body, in his tissues, bones and articulations.Then we will collect all those elements ending with a movement phrase.
   We will widen our movement vocabulary enjoying dance.
-
 
 description_de: |
 ---
