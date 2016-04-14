@@ -5,11 +5,9 @@
   menu: main
 ---
 
-{% assign classes=site.tags.classes %}
-{% assign overview=true %}
-
+{% assign classes = (site.classes | sort: 'sort') %}
 <div class="gallery">
-  {% for post in site.classes %}
+  {% for post in classes %}
     <div class="gallery__item">
       <div class="post">
         <a  class="post__link"

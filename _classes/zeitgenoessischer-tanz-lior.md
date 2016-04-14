@@ -1,4 +1,5 @@
 ---
+sort: "2"
 teacher: "lior"
 schedule:
   - day: "tuesday"

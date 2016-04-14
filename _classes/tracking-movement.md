@@ -1,4 +1,5 @@
 ---
+sort: "3"
 teacher: 
 schedule:
   - day: "monday"
@@ -17,7 +18,7 @@ level_de: "open level"
 
 price_en: |
   Single class: EUR 7  
-  10 classes: EUR 50 Euro 
+  10 classes: EUR 50 Euro
 
 price_de: |
   Einzelkurs: 7 Euro  
@@ -40,5 +41,5 @@ description_en: |
 
   We will widen our movement vocabulary enjoying dance.
 
-description_de: 
+description_de:
 ---

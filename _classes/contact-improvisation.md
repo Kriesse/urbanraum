@@ -1,4 +1,5 @@
 ---
+sort: "3"
 teacher: "karina"
 schedule:
   - day: "friday"
@@ -11,7 +12,7 @@ title_en:  "Contact Improvisation, Präsenz und Wahrnehmung"
 title_de:  "Contact Improvisation, Präsenz und Wahrnehmung"
 
 subtitle_en:
-subtitle_de: 
+subtitle_de:
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"

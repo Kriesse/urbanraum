@@ -1,4 +1,5 @@
 ---
+sort: "3"
 teacher: "karina"
 schedule:
   - day: "friday"
@@ -9,8 +10,8 @@ image: "class-yoga-02.jpg"
 title_en:  "Kreative Bewegung durch Yoga"
 title_de:  "Kreative Bewegung durch Yoga"
 
-subtitle_en: 
-subtitle_de: 
+subtitle_en:
+subtitle_de:
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"

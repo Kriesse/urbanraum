@@ -1,10 +1,11 @@
 ---
+sort: "3"
 teacher:
 schedule:
   - day: "monday"
     start: "10:00am"
     end: "11:30am"
-image: 
+image:
 
 title_en: "Release Technique"
 title_de: "Release Technique"

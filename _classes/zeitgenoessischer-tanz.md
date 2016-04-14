@@ -1,4 +1,5 @@
 ---
+sort: "1"
 teacher: "friederike"
 schedule:
   - day: "monday"
