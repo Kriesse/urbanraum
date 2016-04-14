@@ -1,5 +1,5 @@
 ---
-teacher: ""
+teacher: 
 schedule:
   - day: "monday"
     start: "10:00am"
@@ -23,7 +23,7 @@ price_de: |
   50 Euro / 10 Kurse
 
 language_en:
-language_de: 
+language_de:
 
 trial_en:
 trial_de:
