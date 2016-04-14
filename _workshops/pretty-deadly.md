@@ -1,5 +1,5 @@
 ---
-teacher: 
+teacher: "susie-kahlich"
 
 date_en: "April 24 2016"
 date_de: "24. April 2016"
