@@ -7,8 +7,8 @@ schedule:
     end: "7:30pm"
 image: "class-contemporary-lior-01.jpg"
 
-title_en:  "Contemporary Dance | Basis 2"
-title_de:  "Zeitgenössischer Tanz | Basis 2"
+title_en:  "Contemporary Dance | Lior Shneior"
+title_de:  "Zeitgenössischer Tanz | Lior Shneior"
 
 subtitle_en:  "from April 12 2016"
 subtitle_de:  "ab 12. April 2016"
