@@ -12,8 +12,8 @@ tags:
 title_en:  "HEARTS IV <3"
 title_de:  "HEARTS IV <3"
 
-subtitle_en: "by Martha Hincapié Charry"
-subtitle_de: "von Martha Hincapié Charry"
+subtitle_en: "Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016"
+subtitle_de: "Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016"
 
 price_en: "EUR 8"
 price_de: "8 Euro"
@@ -22,8 +22,6 @@ language_en:
 language_de: 
 
 description_en: |
-
-  Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016 /
 
   A huge porcentaje of dancers and choreographers based in Berlin see themselves forced to apply to the Hartz IV support offered by the German government to cover the basic surviving kit.
   These artists put their hearts in what they do and certainly would prefer to work hard in their field than to depend on this. 
@@ -35,8 +33,6 @@ description_en: |
   
 
 description_de:
-
-  Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016 /
 
   A huge porcentaje of dancers and choreographers based in Berlin see themselves forced to apply to the Hartz IV support offered by the German government to cover the basic surviving kit.
   These artists put their hearts in what they do and certainly would prefer to work hard in their field than to depend on this. 
