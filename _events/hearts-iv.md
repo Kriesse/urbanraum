@@ -2,7 +2,7 @@
 teacher: 
 
 date_en: "May 29 2016"
-date_de: "29. May 2016"
+date_de: "29. Mai 2016"
 
 time: "6:00pm"
 
@@ -34,7 +34,7 @@ description_en: |
   By and with: Martha Hincapié Charry – Perferic Berlin/Bogotá, dancers and choreographers based in Berlin.
 
   
-description_de:
+description_de: |
 
   A huge porcentaje of dancers and choreographers based in Berlin see themselves forced to apply to the Hartz IV support offered by the German government to cover the basic surviving kit.
 
