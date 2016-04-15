@@ -4,7 +4,7 @@ teacher:
 date_en: "May 29 2016"
 date_de: "29. Mai 2016"
 
-time: "6:00pm"
+time: "06:00pm"
 
 image: 
 tags: 
