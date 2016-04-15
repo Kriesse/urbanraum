@@ -23,7 +23,7 @@ language_de:
 
 description_en: |
 
-  Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016 |
+  Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016 /
 
   A huge porcentaje of dancers and choreographers based in Berlin see themselves forced to apply to the Hartz IV support offered by the German government to cover the basic surviving kit.
   These artists put their hearts in what they do and certainly would prefer to work hard in their field than to depend on this. 
@@ -36,7 +36,7 @@ description_en: |
 
 description_de:
 
-  Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016 |
+  Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016 /
 
   A huge porcentaje of dancers and choreographers based in Berlin see themselves forced to apply to the Hartz IV support offered by the German government to cover the basic surviving kit.
   These artists put their hearts in what they do and certainly would prefer to work hard in their field than to depend on this. 
