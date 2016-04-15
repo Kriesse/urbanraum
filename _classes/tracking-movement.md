@@ -7,8 +7,8 @@ schedule:
     end: "11:30am"
 image: "class-tracking-movement-01.jpg"
 
-title_en: "Tracking movement | Contemporary Dance Training (starting in June)"
-title_de: "Tracking movement | Contemporary Dance Training (ab Juni)"
+title_en: "Release Technique | Tracking the movement (starting in June)"
+title_de: "Release Technique | Tracking the movement (ab Juni)"
 
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
