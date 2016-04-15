@@ -10,7 +10,7 @@ image:
 tags: 
 
 title_en:  "HEARTS IV <3 | Premiere"
-title_de:  "HEARTS IV <3| Premiere"
+title_de:  "HEARTS IV <3 | Premiere"
 
 subtitle_en: "Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016"
 subtitle_de: "Im Rahmen des Performing Arts Festival Berlin, 23.-29. Mai 2016"
