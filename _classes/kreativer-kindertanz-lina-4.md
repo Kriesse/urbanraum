@@ -24,8 +24,8 @@ price_de: |
 language_en: "German"
 language_de: "Deutsch"
 
-trial_en: "Auf Anfrage"
-trial_de: 
+trial_en: 
+trial_de: "Auf Anfrage"
 
 description_en:
 
