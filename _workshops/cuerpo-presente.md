@@ -4,7 +4,7 @@ teacher: "alexander-carrillo"
 date_en: "May 7/8 2016"
 date_de: "7./8. Mai 2016"
 
-time: "11:00pm"
+time: "11:00am"
 endtime: "3:00pm"
 
 image: "class-cuerpo-presente_01.jpg"
