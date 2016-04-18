@@ -1,6 +1,6 @@
 ---
 sort: "1"
-teacher: 
+teacher: "lina" 
 schedule:
   - day: "tuesday"
     start: "3:30pm"
