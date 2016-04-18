@@ -30,7 +30,7 @@ trial_de:
 description_en:
 
 description_de: |
-  Beim kreativen Kindertanz wird Tanz als elementare Lern- und- Ausdrucksform vermittelt. Dabei steht die Freude am Sich- bewegen im Vordergrund.
+  Beim kreativen Kindertanz wird Tanz als elementare Lern- und- Ausdrucksform vermittelt. Dabei steht die Freude am Sich-bewegen im Vordergrund.
   Mittels bestimmter Übungen werden Fähigkeiten wie Koordination, Rhythmusgefühl, Konzentrationsfähigkeit und Ausdauer entwickelt beziehungsweise gestärkt.
   
   Einen ebenso wichtigen Bestandteil des Unterrichts bildet Improvisation, mittels derer die Kinder ihrer Fantasie freien Lauf lassen können. So verwandeln wir uns zum Beispiel in kleine Regentropfen oder Flugzeuge, spielen Katz und Maus oder machen als Schmetterlinge eine Reise in ferne Länder.
