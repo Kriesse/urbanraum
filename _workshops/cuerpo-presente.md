@@ -24,12 +24,12 @@ level_de: "Open Level"
 price_en: |
   EUR 65  
   EUR 60 (early pay before April 30th)
-  EUR 55 (for people who took part of the earlier workshops)
+    EUR 55 (for people who took part of the earlier workshops)
 
 price_de: |
   65 EUR  
   60 EUR (Frühbucher-Tarif vor dem 30. April)
-  55 EUR (für Teilnehmer der bisherigen Workshops)
+    55 EUR (für Teilnehmer der bisherigen Workshops)
 
 
 
