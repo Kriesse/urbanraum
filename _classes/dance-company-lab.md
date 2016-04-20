@@ -10,8 +10,8 @@ image: "class-contemporary-dance-workshop.jpg"
 title_en: "Dance Company Lab"
 title_de: "Tanzcompany Lab"
 
-subtitle_en: "Joining still possible"
-subtitle_de: "Achtung! Einstieg noch möglich"
+subtitle_en: "Tanzcompany Lab Showing: May, 26th | 1pm"
+subtitle_de: "Tanzcompany Lab Showing: 26. Mai | 13:00 Uhr"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
