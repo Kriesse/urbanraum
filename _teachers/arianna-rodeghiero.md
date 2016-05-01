@@ -2,7 +2,10 @@
 id: "arianna"
 name: "Arianna Rodeghiero"
 email: "ari.rodeghiero@gmail.com"
-link: "http://cargocollective.com/ariannarodeghiero"
+link: 
+website-title: "cargocollective.com"
+website-link: "http://cargocollective.com/ariannarodeghiero"
+
 image: "teacher-arianna-rodeghiero.jpg"
 bio_en: |
   Dancer, born in Milan on the 05/04/86. Her artistic education begins with theater and music, then focuses more on contemporary dance. In 2009 she graduates in D.A.M.S University for Art Music and Show in Bologna. She attended the professional course for contemporary dance Modem Atelier run by Compagnia Zappalà, in Catania, Italy. She danced in the company Vi-kap and Compagnia Laudati Danza, in Bologna. 
