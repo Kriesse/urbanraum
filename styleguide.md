@@ -28,6 +28,7 @@ Link: [Github](https://github.com/Kriesse/urbanraum/tree/gh-pages)
 
 * Beispiel für Dateinamen: class-contemporary-dancing.md
 * immer Endung ".md" anlegen
+* Event-Dateien müssen dem Muster folgen: 2016-05-28-not-red (also Jahr-Monat-Tag, immer zweistellig. Weil sie nach Datum sortiert werden)
 * Dateinamen dürfen _nicht_ enthalten: Sonderzeichen, Umlaute, Leerzeichen, Großbuchstaben
 * Am besten immer den Namen ausschreiben, Abkürzungen vermeiden (besser lesbar für Menschen und Suchmaschinen)
 
