@@ -20,11 +20,13 @@ level_en: "Adv-Inter"
 level_de: "Adv-Inter"
 
 price_en: |
-  Trial lesson (possible until June 23th): EUR 10  
-  10 classes (incl. showing on august 6th): EUR 110 | early bird discount (until may 32th): EUR 100
+  Trial lesson (possible until june 23th): EUR 10  
+  10 classes (incl. showing on august 6th): EUR 110 
+  Early bird discount (until may 32th): EUR 100
 price_de: |
   Probestunde: 10 Euro (vom 9.6.-23.6. möglich)  
-  10 Termine (inkl. Showing am 6.8.2016): 110 Euro | Frühbucher-Rabbat (bis 31.05.2016): 100 Euro
+  10 Termine (inkl. Showing am 6.8.2016): 110 Euro 
+  Frühbucher-Rabbat (bis 31.05.2016): 100 Euro
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
