@@ -4,7 +4,7 @@ teacher: "livia"
 schedule:
   - day: "thursday"
     start: "10:00am"
-    end: "12:30pm"
+    end: "12:00pm"
 image: "class-contemporary-dance-workshop.jpg"
 
 title_en: "Dance Company Lab"
