@@ -7,8 +7,8 @@ schedule:
     end: "6:15pm"
 image:
 
-title_en: "Ab Juni! Kinderyoga (ca. 8-10 J.)"
-title_de: "Ab Juni! Kinderyoga (ca. 8-10 J.)"
+title_en: "Ab Juni! Kinderyoga (8-10 J.)"
+title_de: "Ab Juni! Kinderyoga (8-10 J.)"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
