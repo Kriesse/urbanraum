@@ -5,7 +5,7 @@ schedule:
   - day: "thursday"
     start: "5:15pm"
     end: "6:15pm"
-image:
+image: "class-kinderyoga.jpg"
 
 title_en: "Ab Juni! Kinderyoga (8-10 J.)"
 title_de: "Ab Juni! Kinderyoga (8-10 J.)"
