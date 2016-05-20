@@ -10,8 +10,8 @@ image: "class-contemporary-dance-workshop.jpg"
 title_en: "Dance Company Lab"
 title_de: "Tanzcompany Lab"
 
-subtitle_en: "new block starts from June 9th"
-subtitle_de: "neues Lab beginnt am 9. Juni"
+subtitle_en: "Summer block starts from June 9th"
+subtitle_de: "Sommer-Lab beginnt am 9. Juni"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
