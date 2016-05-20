@@ -21,7 +21,7 @@ level_de: "Adv-Inter"
 
 price_en: |
   Trial lesson (possible until june 23th): EUR 12  
-  9 classes: EUR 130 /// Early bird discount (until may 32th): EUR 120
+  9 classes: EUR 130 /// Early bird discount (until may 31th): EUR 120
 price_de: |
   Probestunde: 12 Euro (vom 9.6.-23.6. möglich)  
   9 Termine: 130 Euro /// Frühbucher-Rabbat (bis 31.05.2016): 120 Euro
