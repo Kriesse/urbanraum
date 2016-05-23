@@ -1,8 +1,8 @@
 ---
 teacher: "alexander-carrillo"
 
-date_en: "May 7/8 2016"
-date_de: "7./8. Mai 2016"
+date_en: "June 11/12 2016"
+date_de: "11./12. Juni 2016"
 
 time: "11:00am"
 endtime: "3:00pm"
@@ -23,14 +23,9 @@ level_de: "Open Level"
 
 price_en: |
   EUR 65  
-  EUR 60 (early pay before April 30th)
-    EUR 55 (for people who took part of the earlier workshops)
 
 price_de: |
   65 EUR  
-  60 EUR (Frühbucher-Tarif vor dem 30. April)
-    55 EUR (für Teilnehmer der bisherigen Workshops)
-
 
 
 language_en:
