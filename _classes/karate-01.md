@@ -1,5 +1,5 @@
 ---
-sort: "8"
+order: "8"
 teacher: "malte"
 schedule:
   - day: "tuesday"
