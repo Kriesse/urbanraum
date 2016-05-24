@@ -20,28 +20,30 @@ level_en: "Adv-Inter"
 level_de: "Adv-Inter"
 
 price_en: |
-  Trial lesson (possible until june 23th): EUR 12  
-  9 classes: EUR 130 /// Early bird discount (until may 31th): EUR 120
+  Trial lesson (possible until June 23): EUR 12  
+  9 classes: EUR 130  
+  Early bird discount: EUR 120 (until May 31)
 price_de: |
   Probestunde: 12 Euro (vom 9.6.-23.6. möglich)  
-  9 Termine: 130 Euro /// Frühbucher-Rabbat (bis 31.05.2016): 120 Euro
+  9 Termine: 130 Euro  
+  Frühbucher-Rabbat: 120 Euro (bis 31.05.2016)
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
-  
+
   The idea of this course is to experience a Dance company-similar dynamic: Beginning with a dance technique class, then working on a choreographic creative process (rehearsal) to finally show the results of it.
-  
+
   In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
-  
+
   Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreichen Projekten in Deutschland, USA, Mexiko und Argentinien.
-  
+
 description_de: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
-  
+
   The idea of this course is to experience a Dance company-similar dynamic: Beginning with a dance technique class, then working on a choreographic creative process (rehearsal) to finally show the results of it.
-  
+
   In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
-  
+
   Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreichen Projekten in Deutschland, USA, Mexiko und Argentinien.
-  
+
 ---
