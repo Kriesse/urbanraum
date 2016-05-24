@@ -1,5 +1,5 @@
 ---
-id: "lina"
+identifier: "lina"
 name: "Lina Kukulis"
 image: "teacher-lina-kukulis.jpg"
 email: "info@urbanraum.com"

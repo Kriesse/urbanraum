@@ -1,5 +1,5 @@
 ---
-id: "susie-kahlich"
+identifier: "susie-kahlich"
 name: "Susie Kahlich"
 guest-teacher: true
 image: 

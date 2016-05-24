@@ -1,5 +1,5 @@
 ---
-id: "alexander-carrillo"
+identifier: "alexander-carrillo"
 name: "Alexander Carrillo"
 guest-teacher: true
 image: 

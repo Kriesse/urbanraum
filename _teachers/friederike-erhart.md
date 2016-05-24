@@ -1,5 +1,5 @@
 ---
-id: "friederike"
+identifier: "friederike"
 name: "Friederike Erhart"
 email: "info@urbanraum.com"
 link: "friederike-erhart"

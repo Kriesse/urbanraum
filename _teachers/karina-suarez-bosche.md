@@ -1,5 +1,5 @@
 ---
-id: "karina"
+identifier: "karina"
 name: "Karina Suárez-Bosche"
 email: "karinasuarezbosche@riseup.net"
 phone:

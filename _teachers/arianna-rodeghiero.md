@@ -1,5 +1,5 @@
 ---
-id: "arianna"
+identifier: "arianna"
 name: "Arianna Rodeghiero"
 email: "ari.rodeghiero@gmail.com"
 link:

@@ -1,5 +1,5 @@
 ---
-id: iliana
+identifier: iliana
 name: "Iliana Kalapotharakou"
 link: "iliana-kalapotharakou"
 image: "teacher-iliana-kalapotharakou.jpg"

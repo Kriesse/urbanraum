@@ -1,4 +1,4 @@
 ---
-id: "lefte-hagen"
+identifier: "lefte-hagen"
 name: "Lefte & Hagen"
 ---

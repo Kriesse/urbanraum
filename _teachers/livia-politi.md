@@ -1,5 +1,5 @@
 ---
-id: "livia"
+identifier: "livia"
 name: "Livia Politi"
 image: "teacher-livia-politi.jpg"
 bio_de: |

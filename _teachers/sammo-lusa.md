@@ -1,5 +1,5 @@
 ---
-id:  "sammo"
+identifier:  "sammo"
 name: "Sammo Lusa"
 email: "sammo.lusa@googlemail.com"
 phone: "0304493341"

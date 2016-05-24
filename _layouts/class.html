@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign teacher = site.teachers | where: "id", page.teacher | first %}
+{% assign teacher = site.teachers | where: "identifier", page.teacher | first %}
 
 <div class="page-content">
   <div class="wrapper wrapper--content">

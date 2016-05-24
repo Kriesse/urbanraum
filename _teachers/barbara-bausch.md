@@ -1,5 +1,5 @@
 ---
-id: "barbara"
+identifier: "barbara"
 name: "Barbara Bausch"
 email: "info@urbanraum.com"
 link: "barbara-bausch"

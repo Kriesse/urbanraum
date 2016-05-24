@@ -1,5 +1,5 @@
 ---
-id: "malte"
+identifier: "malte"
 name: "Malte Loos"
 image: "teacher-malte-loos-01.jpg"
 email: "malte@innere-stille.net"
