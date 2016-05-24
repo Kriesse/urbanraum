@@ -35,7 +35,7 @@ description_en: |
 
   In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
 
-  Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreichen Projekten in Deutschland, USA, Mexiko und Argentinien.
+  Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie-Assistentin arbeitete sie in zahlreichen Projekten in Deutschland, USA, Mexiko und Argentinien.
 
 description_de: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
@@ -44,6 +44,6 @@ description_de: |
 
   In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
 
-  Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreichen Projekten in Deutschland, USA, Mexiko und Argentinien.
+  Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie-Assistentin arbeitete sie in zahlreichen Projekten in Deutschland, USA, Mexiko und Argentinien.
 
 ---
