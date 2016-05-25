@@ -21,9 +21,9 @@ type_de: "Workshop"
 level_en: "Open Level"
 level_de: "Open Level"
 
-price_en: 'EUR 65 | Early pay before 4th of June: EUR 60'
+price_en: 'EUR 65 // Early pay before 4th of June: EUR 60'
 
-price_de: '65 EUR | Frühbucher-Rabatt bis 4. Juni: 60 Euro'
+price_de: '65 EUR // Frühbucher-Rabatt bis 4. Juni: 60 Euro'
 
 language_en:
 language_de:
@@ -44,6 +44,8 @@ description_en: |
   CUERPO PRESENTE is a monthly workshop, in July we will have a pause. Future dates will be announced.
 
 
-description_de:
+description_de: |
+  s. english description
+
 
 ---
