@@ -21,9 +21,9 @@ type_de: "Workshop"
 level_en: "Open Level"
 level_de: "Open Level"
 
-price_en: 'EUR 65'
+price_en: 'EUR 65 | Early pay before 4th of June: EUR 60'
 
-price_de: '65 EUR'
+price_de: '65 EUR | Frühbucher-Rabatt bis 4. Juni: 60 Euro'
 
 language_en:
 language_de:
@@ -40,6 +40,9 @@ description_en: |
   With themes, physical tasks, improvisation and research tools for individual and collective movement. Participants are guiding through their own experiences to perceive consciously the vital moment, and integrate their bodies and minds with time and space simultaneously. In a complement with the life as a tool of work practice. Next to the body, being a wild animal in an emotional path.
 
   This meeting ends with individual or group practices of instant composition, following proposed rules as scenography guidelines training, from the dialogues or agreements established during each sessions. In an instant composition of what we being explore.
+  
+  CUERPO PRESENTE is a monthly workshop, in July we will have a pause. Future dates will be announced.
+
 
 description_de:
 
