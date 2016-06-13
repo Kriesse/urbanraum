@@ -7,8 +7,8 @@ schedule:
     end: "4:15pm"
 image: "class-kindertanz.jpg"
 
-title_en: "Ab Juni! Kreativer Kindertanz (4-6 J.)"
-title_de: "Ab Juni! Kreativer Kindertanz (4-6 J.)"
+title_en: "Kreativer Kindertanz (4-6 J.)"
+title_de: "Kreativer Kindertanz (4-6 J.)"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
