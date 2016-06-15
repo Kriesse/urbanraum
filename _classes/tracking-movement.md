@@ -18,13 +18,13 @@ level_de: "open level"
 
 price_en: |
   Single class: EUR 10
-  Monthly: EUR 35
-  10 classes: EUR 80 Euro (valid for 3 months)
+    Monthly: EUR 35
+      10 classes: EUR 80 Euro (valid for 3 months)
 
 price_de: |
   Einzelkurs: 10 Euro  
-  Monats-Beitrag: 35 Euro
-  10-er Karte: 80 Euro (3 Monate gültig)
+    Monats-Beitrag: 35 Euro
+      10-er Karte: 80 Euro (3 Monate gültig)
 
 description_en: |
   The class offers a training in contemporary dance, through which we will gradually prepare our body for moving, working on the release of the tensions in the muscles and on the opening of the joints.
