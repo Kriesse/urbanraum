@@ -7,8 +7,8 @@ schedule:
     end: "11:30am"
 image: "class-tracking-movement-01.jpg"
 
-title_en: "Release Technique | Tracking movement (starting in June)"
-title_de: "Release Technique | Tracking movement (ab Juni)"
+title_en: "Release Technique | Tracking movement"
+title_de: "Release Technique | Tracking movement"
 
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
