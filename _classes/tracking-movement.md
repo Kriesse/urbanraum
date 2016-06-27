@@ -13,8 +13,8 @@ title_de: "Release Technique | Tracking movement (ab Juni)"
 type_en: "weekly class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "open level"
-level_de: "open level"
+level_en: "beginners"
+level_de: "Anfänger"
 
 price_en: |
   Single class: EUR 10
