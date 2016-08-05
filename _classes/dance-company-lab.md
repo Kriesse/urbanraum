@@ -10,8 +10,8 @@ image: "class-contemporary-dance-workshop.jpg"
 title_en: "Dance Company Lab"
 title_de: "Tanzcompany Lab"
 
-subtitle_en: "Autumn Dancecompany Lab 2016"
-subtitle_de: "Herbst Tanzcompany Lab 2016"
+subtitle_en: "Autumn Dancecompany Lab 2016 | showing in december"
+subtitle_de: "Herbst Tanzcompany Lab 2016 | Showing im Dezember"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
