@@ -7,8 +7,8 @@ schedule:
     end: "12:00pm"
 image: "class-contemporary-dance-workshop.jpg"
 
-title_en: "Dance Company Lab"
-title_de: "Tanzcompany Lab"
+title_en: "Dance Company Lab (from septembre 15th)"
+title_de: "Tanzcompany Lab (ab 15. September)"
 
 subtitle_en: "Autumn Dancecompany Lab 2016 | showing in december"
 subtitle_de: "Herbst Tanzcompany Lab 2016 | Showing im Dezember"
