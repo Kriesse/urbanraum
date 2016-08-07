@@ -21,11 +21,11 @@ level_de: "Adv-Inter"
 
 price_en: |
   Trial lesson: EUR 12  
-  13 classes (incl. showing): EUR 190, early bird: 180 (until september 5th)!  
+  13 classes (incl. showing): EUR 190, early bird: EUR 180 (until september 5th)!  
 
 price_de: |
   Probestunde: 12 Euro  
-  13 Termine (inkl. Showing): 190 Euro, Frühbucher-Rabatt (180 Euro) bis 5. September!  
+  13 Termine (inkl. Showing): 190 Euro, Frühbucher-Rabatt: 180 Euro (Anmeldung bis 5. September)!  
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
