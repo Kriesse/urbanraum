@@ -3,8 +3,8 @@ order: "8"
 teacher: "malte"
 schedule:
   - day: "tuesday"
-    start: "7:45pm"
-    end: "9:15pm"
+    start: "8:00pm"
+    end: "9:30pm"
 image: "class-karate-01.jpg"
 
 title_en: "Karate (Tuesday)"
