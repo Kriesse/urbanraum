@@ -3,13 +3,13 @@ order: "3"
 teacher: "iliana"
 schedule:
   - day: "friday"
-    start: "2:00pm"
-    end: "3:30pm"
+    start: "2:15pm"
+    end: "3:45pm"
 
 image: "class-urban-spring-02.jpg"
 
-title_en: "Urban Spring [Contemporaray] | yellow class"
-title_de: "Urban Spring [Contemporaray] | yellow class"
+title_en: "Urban Autumn [Contemporaray] | yellow class"
+title_de: "Urban Autumn [Contemporaray] | yellow class"
 
 subtitle_en: "Contemporary Dance and Improvisation for beginners"
 subtitle_de: "Zeitgenössischer Tanz und Improvisation für Anfänger"
@@ -21,10 +21,7 @@ level_en: "Beginner"
 level_de: "Anfänger"
 
 price_en: |
-  Drop-In: EUR 10  
-  4 classes: EUR 34  
-  8 classes: EUR 64  
-  12 classes: EUR 90
+
 
 price_de: |
   Drop-In: 10 Euro  
