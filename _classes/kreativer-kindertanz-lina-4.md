@@ -3,8 +3,8 @@ order: "1"
 teacher: "lina"
 schedule:
   - day: "tuesday"
-    start: "3:30pm"
-    end: "4:15pm"
+    start: "4:00pm"
+    end: "4:45pm"
 image: "class-kindertanz.jpg"
 
 title_en: "Kreativer Kindertanz (4-6 J.)"
