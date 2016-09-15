@@ -3,8 +3,8 @@ order: "1"
 teacher: "lina"
 schedule:
   - day: "tuesday"
-    start: "4:30pm"
-    end: "5:30pm"
+    start: "5:00pm"
+    end: "6:00pm"
 image: "class-kindertanz.jpg"
 
 title_en: "Ab Juni! Kreativer Kindertanz (6-8 J.)"
