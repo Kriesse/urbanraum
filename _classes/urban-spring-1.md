@@ -2,14 +2,14 @@
 order: "3"
 teacher: "iliana"
 schedule:
-  - day: "friday"
-    start: "12:15pm"
-    end: "1:45pm"
+  - day: "tuesday"
+    start: "6:15pm"
+    end: "7:45pm"
 
 image: "class-urban-spring-01.jpg"
 
-title_en: "Urban Spring [Performative] | blue class"
-title_de: "Urban Spring [Performative] | blue class"
+title_en: "Urban Autumn [Performative] | blue class"
+title_de: "Urban Autumn [Performative] | blue class"
 
 subtitle_en: "Contemporary Dance and Improvisation"
 subtitle_de: "Zeitgenössischer Tanz und Improvisation für Erwachsense"
@@ -27,10 +27,7 @@ price_en: |
   12 classes: EUR 90
 
 price_de: |
-  Drop-In: 10 Euro  
-  4 Stunden: 34 Euro  
-  8 Stunden: 64 Euro  
-  12 Stunden: 90 Euro
+
 
 language_en: "English"
 language_de: "Englisch"
