@@ -3,8 +3,8 @@ order: ""
 teacher: "shora"
 schedule:
   - day: "friday"
-    start: "8:30pm"
-    end: "9:45pm"
+    start: "8:30am"
+    end: "9:45am"
 image: ""
 
 title_en: "Yoga mit Shora Fallahi"
