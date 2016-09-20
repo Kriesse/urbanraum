@@ -5,7 +5,7 @@ schedule:
   - day: "wednesday"
     start: "4:30pm"
     end: "5:15pm"
-image: ".jpg"
+image: ""
 
 title_en: "From november on! Musik und kreativer Tanz für Kinder (3-4 J.)"
 title_de: "An November! Musik und kreativer Tanz für Kinder (3-4)"
