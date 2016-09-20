@@ -4,7 +4,7 @@ teacher: ""
 schedule:
   - day: "wednesday"
     start: "4:30pm"
-    end: "4:45pm"
+    end: "5:15pm"
 image: ""
 
 title_en: "Musik und Kreativer Tanz für Kinder (3-4)"
