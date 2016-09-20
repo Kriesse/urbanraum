@@ -1,5 +1,5 @@
 ---
-order: "4"
+order: ""
 teacher: ""
 schedule:
   - day: "wednesday"
@@ -30,7 +30,7 @@ language_de: "Deutsch"
 trial_en: "after registration"
 trial_de: "nach Anmeldung"
 
-description_en:
+description_en: |
 
 description_de: |
 
