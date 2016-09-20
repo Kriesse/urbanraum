@@ -8,7 +8,7 @@ schedule:
 image: ""
 
 title_en: "Musik und Kreativer Tanz für Kinder (3-4)"
-title_de: "Ab November: Musik und Kreativer Tanz für Kinder (3-4 Jahre)"
+title_de: "Ab November! Musik und Kreativer Tanz (3-4 Jahre)"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
