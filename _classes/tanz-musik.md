@@ -34,8 +34,10 @@ description_en: |
 
 description_de: |
 
-   Musik und Bewegung stehen in einer engen Wechselbeziehung zueinander. Diese auszuloten und in einem vertrauensvollen Raum mit einer Gruppe gleichaltriger Kinder phantasievoll zu erleben ist das Anliegen dieses Kurses. 
-   Es wird getanzt, erfunden, gesungen und anhand von Bodypercussion und elementarem Instrumentarium Rhythmus erlebt. Begleitet werden die Kinder durch Live Musik von Geige und Trommel.
+  Musik und Bewegung stehen in einer engen Wechselbeziehung zueinander. Diese auszuloten und in einem vertrauensvollen Raum mit einer Gruppe gleichaltriger Kinder phantasievoll zu erleben ist das Anliegen dieses Kurses. 
   
+  Es wird getanzt, erfunden, gesungen und anhand von Bodypercussion und elementarem Instrumentarium 
+Rhythmus erlebt. Begleitet werden die Kinder durch Live Musik von Geige und Trommel.
+
   Gemeinsam tanzen wir den Piraten-Parkour und singen vom großen weiten Meer.
 ---
