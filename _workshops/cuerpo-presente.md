@@ -1,16 +1,16 @@
 ---
 teacher: "alexander-carrillo"
 
-date_en: "June 11/12 2016"
-date_de: "11./12. Juni 2016"
+date_en: "October 15/16 2016"
+date_de: "15./16. Oktober 2016"
 
-time: "11:00am"
-endtime: "3:00pm"
+time: "11:00am (saturday) | 10:00am (sunday)"
+endtime: "3:00pm (saturday) | 2:00pm (sunday)"
 
 image: "class-cuerpo-presente_01.jpg"
 
-title_en: "CANCELLED!!! CUERPO PRESENTE: The Inner Beast"
-title_de: "CANCELLED!!!! CUERPO PRESENTE: The Inner Beast"
+title_en: "CUERPO PRESENTE: The Inner Beast"
+title_de: "CUERPO PRESENTE: The Inner Beast"
 
 subtitle_en: "by Alexander Carrillo"
 subtitle_de: "by Alexander Carrillo"
@@ -21,19 +21,35 @@ type_de: "Workshop"
 level_en: "Open Level"
 level_de: "Open Level"
 
-price_en: 'EUR 65 // Early pay before 4th of June: EUR 60'
+price_en: 'EUR 65 // Early pay before 5th of October: EUR 60'
 
-price_de: '65 EUR // Frühbucher-Rabatt bis 4. Juni: 60 Euro'
+price_de: '65 EUR // Frühbucher-Rabatt bis 5. Oktober: 60 Euro'
 
 language_en:
 language_de:
 
 description_en: |
-  The workshop is cancelled! There will be new dates for september soon!
+    "I believe today´s world needs art to heal, needs art to heal our bodies from our souls. Art as a tool of transformation. From our inner feeling and sensations. From our inner beast, being present. With a conscience practice. (Is not easy - for sure is fun). Then there is not past to regret of, there is not present to be disappointed of or future to be worry about. Just moments of learning. Moments of understand our own world, our inner beast, and our own life. So long, we can share and maybe understand others world life.
 
+  A present to life and future to create."
+
+  These meetings are for all levels and are open to bodies and ideas in different fields. Dancers, performers, workers, engineers, stripers, lovers and …are invited, not movement background required. Is required to have passion to explore the body, the own possibilities, frustrations and the fact of being alive:
+
+  'CUERPO PRESENTE: THE INNER BEAST' aims to help participants in a better process their organic inner sensations - listening and feeling the present moment - present them externally in clear forms, and through tasks, focus their attention in the ‘natural’ character of their movements, authenticity and conscience.
+
+  With themes, physical tasks, improvisation and research tools for individual and collective movement. Participants are guiding through their own experiences to perceive consciously the vital moment, and integrate their bodies and minds with time and space simultaneously.
+
+  In a complement with the life as a tool of work practice. Next to the body, being a wild - animal in an emotional path.
+
+  This meeting ends with individual or group practices of instant composition, following proposed rules as scenography guidelines training, from the dialogues or agreements established during each sessions. In an instant composition of what we being explore.
+
+
+
+  It's a montly workshop. Future dates will be announce.
+
+  Preregistration under: lexfre@gmail.com / info@alexande-carrillo.com
 
 description_de: |
-  s. english description
-
+  s. english descirption
 
 ---
