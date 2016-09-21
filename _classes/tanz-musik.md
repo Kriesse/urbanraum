@@ -5,7 +5,7 @@ schedule:
   - day: "wednesday"
     start: "4:30pm"
     end: "5:15pm"
-image: ""
+image: "class-tanz-musik.jpg"
 
 title_en: "Musik und Kreativer Tanz für Kinder (3-4)"
 title_de: "Ab November! Musik und Kreativer Tanz (3-4 Jahre)"
@@ -17,7 +17,7 @@ level_en:
 level_de:
 
 price_en: |
-  
+
 price_de: |
   35 Euro / Monats-Beitrag  
   Kostenfreie Probestunde nach Anmeldung
@@ -31,10 +31,10 @@ trial_de: "Kostenfreie Probestunde nach Anmeldung"
 description_en:
 
 description_de: |
-  Musik und Bewegung stehen in einer engen Wechselbeziehung zueinander. 
-  Diese auszuloten und in einem vertrauensvollen Raum mit einer Gruppe Gleichaltriger phantasievoll zu erleben ist das Anliegen dieses Kurses. 
+  Musik und Bewegung stehen in einer engen Wechselbeziehung zueinander.
+  Diese auszuloten und in einem vertrauensvollen Raum mit einer Gruppe Gleichaltriger phantasievoll zu erleben ist das Anliegen dieses Kurses.
   Es wird getanzt, erfunden, gesungen und anhand von Bodypercussion und elementarem Instrumentarium Rhythmus erlebt. Begleitet werden die Kinder durch Live Musik von Geige und Trommel.
   Gemeinsam tanzen wir den Piratenparkour und singen vom großen weiten Meer.
 
-  
+
 ---
