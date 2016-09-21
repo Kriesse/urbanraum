@@ -4,8 +4,8 @@ teacher: "alexander-carrillo"
 date_en: "October 15/16 2016"
 date_de: "15./16. Oktober 2016"
 
-time: "11:00am (saturday) | 10:00am (sunday)"
-endtime: "3:00pm (saturday) | 2:00pm (sunday)"
+time: "11:00am"
+endtime: "3:00pm"
 
 image: "class-cuerpo-presente_01.jpg"
 
