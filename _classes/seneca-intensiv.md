@@ -8,7 +8,7 @@ schedule:
 image: ""
 
 title_en: "Seneca Intensiv"
-title_de: "Zu Gast: Seneca Intensiv  | www.seneca-intesiv.de"
+title_de: "Zu Gast: Seneca Intensiv  | www.seneca-intensiv.de"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -24,8 +24,8 @@ price_de: |
 language_en: "German"
 language_de: "Deutsch"
 
-trial_en: "www.seneca-intesiv.de"
-trial_de: "www.seneca-intesiv.de"
+trial_en: "www.seneca-intensiv.de"
+trial_de: "www.seneca-intensiv.de"
 
 description_en:
 
