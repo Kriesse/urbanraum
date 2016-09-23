@@ -7,8 +7,8 @@ schedule:
     end: "5:00pm"
 image: "class-kinderyoga.jpg"
 
-title_en: "Kinderyoga (6-8 J.)"
-title_de: "Kinderyoga (6-8 J.)"
+title_en: "Kinderyoga (6-10 J.)"
+title_de: "Kinderyoga (6-10 J.)"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
