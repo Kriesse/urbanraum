@@ -7,7 +7,7 @@ schedule:
     end: "5:15pm"
 image: "class-tanz-musik.jpg"
 
-title_en: "Musik und Kreativer Tanz für Kinder (3-4)"
+title_en: "Musik und Kreativer Tanz für Kinder (3-4 Jahre)"
 title_de: "Ab November! Musik und Kreativer Tanz (3-4 Jahre)"
 
 type_en: "Weekly Class"
@@ -35,6 +35,8 @@ description_de: |
   Diese auszuloten und in einem vertrauensvollen Raum mit einer Gruppe Gleichaltriger phantasievoll zu erleben ist das Anliegen dieses Kurses.
   Es wird getanzt, erfunden, gesungen und anhand von Bodypercussion und elementarem Instrumentarium Rhythmus erlebt. Begleitet werden die Kinder durch Live Musik von Geige und Trommel.
   Gemeinsam tanzen wir den Piratenparkour und singen vom großen weiten Meer.
+  
+  Kostenfreie Probestunde nach Anmeldung.
 
 
 ---
