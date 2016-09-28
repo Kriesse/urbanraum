@@ -21,8 +21,8 @@ level_de: ""
 
 price_en: |
    10 € / Drop-In
-   80 - 100 € / 10 classes
-   30 € / month
+     80 - 100 € / 10 classes
+     30 € / month
 
 price_de: |
   10 € / Drop-In
