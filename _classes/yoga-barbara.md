@@ -33,9 +33,17 @@ description_en: |
   Bevor der Kopf sich anfüllt mit den Dingen des Tages biegen wir uns einmal von oben bis unten durch. Atmen, Lockern, in Bewegung kommen, Loslassen: Die Klasse wird nach und nach dynamisch und zum Schluss wieder ruhig - und endet natürlich mit einer Entspannung. 
 
   Als "Meditation in Bewegung" schult Yoga die Aufmerksamkeit für sich selbst und den eigenen Körper und lässt die Übenden nach und nach auch in anstrengenden Haltungen Leichtigkeit finden. Auf den Prinzipien des Ashtanga Yoga basierend orientiert sich dieser Kurs an den Bedürfnissen derer, die da sind und ist durch Variationen für alle Level geeignet.
+  
+  Barbara Bausch ist ausgebildete Yogalehrerin und freie Lektorin für Sachbuch und Belletristik. 
+  In ihrer eigenen Yogapraxis fasziniert sie das spielerische Ausprobieren neuer Bewegungen und das Erkennen alter Bewegungsmuster.
+  Ihre Yogastunden sind geprägt von einem durchgängigen Bewegungsfluss, der sich an einer tiefen und gleichmäßigen Atmung orientiert. 
 
 description_de: |
   Bevor der Kopf sich anfüllt mit den Dingen des Tages biegen wir uns einmal von oben bis unten durch. Atmen, Lockern, in Bewegung kommen, Loslassen: Die Klasse wird nach und nach dynamisch und zum Schluss wieder ruhig - und endet natürlich mit einer Entspannung. 
 
   Als "Meditation in Bewegung" schult Yoga die Aufmerksamkeit für sich selbst und den eigenen Körper und lässt die Übenden nach und nach auch in anstrengenden Haltungen Leichtigkeit finden. Auf den Prinzipien des Ashtanga Yoga basierend orientiert sich dieser Kurs an den Bedürfnissen derer, die da sind und ist durch Variationen für alle Level geeignet.
+  
+  Barbara Bausch ist ausgebildete Yogalehrerin und freie Lektorin für Sachbuch und Belletristik. 
+  In ihrer eigenen Yogapraxis fasziniert sie das spielerische Ausprobieren neuer Bewegungen und das Erkennen alter Bewegungsmuster.
+  Ihre Yogastunden sind geprägt von einem durchgängigen Bewegungsfluss, der sich an einer tiefen und gleichmäßigen Atmung orientiert. 
 ---
