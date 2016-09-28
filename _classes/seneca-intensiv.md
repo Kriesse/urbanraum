@@ -1,6 +1,5 @@
 ---
 order: "5"
-teacher: ""
 schedule:
   - day: "wednesday"
     start: "9:00am"
