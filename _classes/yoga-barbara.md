@@ -4,7 +4,7 @@ teacher: "barbara"
 schedule:
   - day: "tuesday"
     start: "8:00am"
-    end: "09:15pm"
+    end: "09:15am"
 image: ""
 
 title_en: "Yoga with Barbara Bausch"
