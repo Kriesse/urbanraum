@@ -16,18 +16,14 @@ subtitle_de: "ab 18.10.2016"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: ""
-level_de: ""
+level_en: "open level"
+level_de: "open level"
 
 price_en: |
-  10 € / Drop-In
-  80 - 100 € / 10 classes
-  30 € / monthly
+  10 € / Drop-In // 80 - 100 € / 10 classes // 30 € / monthly
 
 price_de: |
-  10 € / Drop-In
-  80 - 100 € / 10er-Karte
-  30 € / monatlich
+  10 € / Drop-In // 80 - 100 € / 10er-Karte // 30 € / monatlich
 
 description_en: |
   Bevor der Kopf sich anfüllt mit den Dingen des Tages biegen wir uns einmal von oben bis unten durch. Atmen, Lockern, in Bewegung kommen, Loslassen: Die Klasse wird nach und nach dynamisch und zum Schluss wieder ruhig - und endet natürlich mit einer Entspannung. 
