@@ -5,5 +5,9 @@ email: "info@urbanraum.com"
 link: "barbara-bausch"
 image: "teacher-barbara-bausch.jpg"
 bio_de: |
-  Barbara Bausch ist ausgebildete Yogalehrerin. Seit 2004 unterrichtet sie außerdem Tanz für Kinder und Erwachsene, weswegen in ihren Kinderyoga-Stunden immer auch Elemente aus dem Tanz und der Bewegungserfahrung einfließen. Barbara arbeitet überdies als Literaturwissenschaftlerin im Bereich Text und Kommunikation.
+  Barbara Bausch ist ausgebildete Yogalehrerin und arbeitet als Literaturwissenschaftlerin im Bereich Text und Kommunikation.
+  
+  In ihrer eigenen Yogapraxis fasziniert sie das spielerische Ausprobieren neuer Bewegungen und das Erkennen alter Bewegungsmuster. 
+  Ihre Yogastunden für Erwachsene sind geprägt von einem durchgängigen Bewegungsfluss, der sich an einer tiefen und gleichmäßigen Atmung orientiert. 
+  In ihre Yogastunden für Kinder lässt sie Elemente aus Tanz und Theater einfließen. 
 ---
