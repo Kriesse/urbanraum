@@ -9,7 +9,7 @@ endtime: "3:00pm"
 
 image: "class-cuerpo-presente_01.jpg"
 
-title_en: "CANCELLED""! CUERPO PRESENTE: The Inner Beast"
+title_en: "CANCELLED!!! CUERPO PRESENTE: The Inner Beast"
 title_de: "FÄLLT AUS!!!!! CUERPO PRESENTE: The Inner Beast"
 
 subtitle_en: "by Alexander Carrillo"
