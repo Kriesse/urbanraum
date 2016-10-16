@@ -5,7 +5,7 @@ schedule:
   - day: "tuesday"
     start: "8:00am"
     end: "09:15am"
-image: 
+image: "class-yoga-bausch.jpg"
 
 title_en: "Yoga with Barbara Bausch"
 title_de: "Yoga mit Barbara Bausch"
