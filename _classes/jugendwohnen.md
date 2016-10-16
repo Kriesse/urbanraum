@@ -4,7 +4,7 @@ schedule:
   - day: "friday"
     start: "4:00pm"
     end: "6:00pm"
-image: ""
+image: 
 
 title_en: "reserved"
 title_de: "Zu Gast: Jugendwohnen im Kiez  | geschlossene Gruppe"
@@ -16,9 +16,9 @@ level_en:
 level_de:
 
 price_en: |
-  
+
 price_de: |
-  
+
 
 language_en: "German"
 language_de: "Deutsch"
@@ -31,5 +31,5 @@ description_en:
 description_de: |
   http://www.jugendwohnen-berlin.de/startseite.0.html
 
-  
+
 ---

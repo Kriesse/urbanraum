@@ -5,7 +5,7 @@ schedule:
   - day: "friday"
     start: "8:30am"
     end: "9:45am"
-image: ""
+image: 
 
 title_en: "Yoga mit Shora Fallahi"
 title_de: "Yoga with Shora Fallahi"
@@ -17,9 +17,9 @@ level_en:
 level_de:
 
 price_en: |
-  
+
 price_de: |
-  
+
 
 language_en: "German"
 language_de: "Deutsch"
@@ -30,7 +30,7 @@ trial_de: "nach Anmeldung"
 description_en:
 
 description_de: |
- 
 
-  
+
+
 ---
