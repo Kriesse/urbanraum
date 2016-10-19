@@ -10,8 +10,8 @@ image: "class-yoga-bausch.jpg"
 title_en: "Yoga with Barbara Bausch"
 title_de: "Yoga mit Barbara Bausch"
 
-subtitle_en: "from October 18th on"
-subtitle_de: "ab 18.10.2016"
+subtitle_en: ""
+subtitle_de: ""
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -20,10 +20,14 @@ level_en: "open level"
 level_de: "open level"
 
 price_en: |
-  10 € / Drop-In // 80 - 100 € / 10 classes // 30 € / monthly
+  EUR 10 / Drop-In
+  EUR 80-100 / 10 classes
+  EUR 30 / monthly
 
 price_de: |
-  10 € / Drop-In // 80 - 100 € / 10er-Karte // 30 € / monatlich
+  10 EUR / Einzelstunde
+  80-100 EUR / 10-er Karte
+  30 EUR / Monatsbeitrag
 
 description_en: |
   Bevor der Kopf sich anfüllt mit den Dingen des Tages biegen wir uns einmal von oben bis unten durch. Atmen, Lockern, in Bewegung kommen, Loslassen: Die Klasse wird nach und nach dynamisch und zum Schluss wieder ruhig - und endet natürlich mit einer Entspannung.
