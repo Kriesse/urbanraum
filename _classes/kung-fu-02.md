@@ -3,8 +3,8 @@ order: "9"
 teacher: "lefte-hagen"
 schedule:
   - day: "friday"
-    start: "7:00pm"
-    end: "8:15pm"
+    start: "7:15pm"
+    end: "8:30pm"
 image:
 
 title_en:  "Kung Fu (Friday)"
