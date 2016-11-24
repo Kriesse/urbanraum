@@ -25,10 +25,11 @@ price_en: 'EUR 195 - EUR 225'
 
 price_de: '195-225 Euro (s.u.)'
 
-language_en:
-language_de:
+language_en: ""
+language_de: ""
 
 description_en: |
+
   Gehen, Rennen, Stolpern, Fallen, Fliegen, Folgen, Führen, Tragen, Sehen, Stehen, Bleiben, Umweg, Ausblick, Pause...
 
   Dieses generationsübergreifende Performance-Projekt richtet sich an alle, die Lust haben, ihre Erfahrung in Bewegung, Tanz und Improvisation in einer festen Gruppe zu vertiefen. Thematisch werden wir uns mit Lebenswegen beschäftigen, die uns als Inspiration für die Erarbeitung und Gestaltung von künstlerisch-tänzerischen Kompositionen dienen. 
