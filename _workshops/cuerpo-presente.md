@@ -68,5 +68,5 @@ Zum Abschluss des Projektes wird es eine öffentliche Präsentation geben, die s
   Je nach Teilnehmerzahl verändert sich der Preis (s.o.), dies wird durch die Zahlung der 2. Hälfte bei Anfang des Projektes reguliert.
 
 description_de: |
-s. german description
+  s. german description
 ---
