@@ -37,15 +37,15 @@ description_de: |
   Dieses generationsübergreifende Performance-Projekt richtet sich an alle, die Lust haben, ihre Erfahrung in Bewegung, Tanz und Improvisation in einer festen Gruppe zu vertiefen. Thematisch werden wir uns mit Lebenswegen beschäftigen, die uns als Inspiration für die Erarbeitung und Gestaltung von künstlerisch-tänzerischen Kompositionen dienen. 
   Zum Abschluss des Projektes wird es eine öffentliche Präsentation geben, die sowohl aus improvisiertem, wie auch gesetztem Material besteht.
   
-  Die 8 Wochenend-Termine beinhalten:
-  - Basisarbeit an Präsenz und Körperwahrnehmung
-  - Raum- und Gruppenwahrnehmung
-  - Erweiterung der eigenen
-  - Bewegungssprache/Bewegungsqualitäten
-  - Atmung, Stimme und Bewegung
-  - „Instant Composing“, Komponieren aus dem Moment heraus (Gruppe/Solo)
-  - thematische Beschäftigung mit (unseren) Lebenswegen, die uns als Inspiration für die künstlerisch-tänzerische Gestaltung dienen
-  - Erarbeitung von Solo- und Gruppen Kompositionen/Choreografien und einer gemeinsamen Präsentation
+  Die 8 Wochenend-Termine beinhalten:  
+  - Basisarbeit an Präsenz und Körperwahrnehmung  
+  - Raum- und Gruppenwahrnehmung  
+  - Erweiterung der eigenen  
+  - Bewegungssprache/Bewegungsqualitäten  
+  - Atmung, Stimme und Bewegung  
+  - „Instant Composing“, Komponieren aus dem Moment heraus (Gruppe/Solo)  
+  - thematische Beschäftigung mit (unseren) Lebenswegen, die uns als Inspiration für die künstlerisch-tänzerische Gestaltung dienen  
+  - Erarbeitung von Solo- und Gruppen Kompositionen/Choreografien und einer gemeinsamen Präsentation  
   
   Termine 2017, jeweils 10:30-13:30h:
   SA 13. Mai
