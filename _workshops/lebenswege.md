@@ -47,25 +47,25 @@ description_de: |
   - thematische Beschäftigung mit (unseren) Lebenswegen, die uns als Inspiration für die künstlerisch-tänzerische Gestaltung dienen  
   - Erarbeitung von Solo- und Gruppen Kompositionen/Choreografien und einer gemeinsamen Präsentation  
   
-  Termine 2017, jeweils 10:30-13:30h:
-  SA 13. Mai
-  SO 14. Mai
-  SO 28. Mai
-  SA 17. Juni
-  SA 1. Juli
-  SA 15. Juli
-  SA 22. Juli, 10:30 - 15:00
-  SO 23. Juli, 15:30 - 17:00, 18:00 Performance
+  Termine 2017, jeweils 10:30-13:30h:  
+  SA 13. Mai  
+  SO 14. Mai  
+  SO 28. Mai  
+  SA 17. Juni  
+  SA 1. Juli  
+  SA 15. Juli  
+  SA 22. Juli, 10:30 - 15:00  
+  SO 23. Juli, 15:30 - 17:00, 18:00 Performance  
   
-  Vor- Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig!
+  Vor- Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig!  
   
-  Fragen bitte an: produktion@evaburghardt.com 
-  Preis: 
-  mind. 6 Teilnehmer: 250,- (bis 15.2.2017)
-  8 Teilnehmer: 225,-
-  ab 12 Teilnehmer: 190,-
+  Fragen bitte an: produktion@evaburghardt.com   
+  Preis:   
+  mind. 6 Teilnehmer: 250,- (bis 15.2.2017)  
+  8 Teilnehmer: 225,-  
+  ab 12 Teilnehmer: 190,-  
   
-  Verbindliche Anmeldung bis zum 15.2.2017: produktion@evaburghardt.com. 
+  Verbindliche Anmeldung bis zum 15.2.2017: produktion@evaburghardt.com.   
   Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr, die 2. Hälfte ist zu Beginn des Projektes fällig. 
   Je nach Teilnehmerzahl verändert sich der Preis (s.o.), dies wird durch die Zahlung der 2. Hälfte bei Anfang des Projektes reguliert.
 ---
