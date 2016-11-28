@@ -1,18 +1,16 @@
-
 ---
-
-teacher: ""
+teacher: 
 
 date_en: "december 10th 2016"
 date_de: "10. Dezember 2016"
 
-time: "07:00pm"
+time: "7:00pm"
 
 image: ""
-tags: ""
+tags: 
 
-title_en: "AUSBRÜCHE - Ein Abend mit 3 Performances"
-title_de: "AUSBRÜCHE - Ein Abend mit 3 Performances"
+title_en:  "Ausbrüche - ein Performance-Abend im Urbanraum"
+title_de:  "Ausbrüche - ein Performance-Abend im Urbanraum"
 
 subtitle_en: ""
 subtitle_de: ""
@@ -27,5 +25,8 @@ description_en: |
 
 
 description_de: |
+
+
+
 
 ---
