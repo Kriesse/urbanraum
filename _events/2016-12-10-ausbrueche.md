@@ -29,6 +29,7 @@ description_en: |
   Choreografie: Livia Politi // Von und mit: Barbara Bausch, Lina Dornhof, Leoni Grützmacher, Lia Ishida, Zihern Lee, Elena Liesenfeld, Gesche Wattenberg.
 
   Das Stück **STRG ESC** ist in mehreren zeitgenössischen Tanzworkshops unter der choreographischen Leitung von Friederike Erhart entstanden. Gemeinsam erforschen und entwickeln die Tänzerinnen das Spannungsfeld von Schwarm, Kollektiv, Masse und Individuen.
+  
   Idee und Konzept: Team // Tanz: Lina Dornhof, Leoni Grützmacher, Larissa Rensing, Gesche Wattenberg, Julia Zarth // Choreografien: Friederike Erhart, Team
   
   Zu Gast im URBANRAUM:
@@ -48,6 +49,7 @@ description_de: |
   Choreografie: Livia Politi // Von und mit: Barbara Bausch, Lina Dornhof, Leoni Grützmacher, Lia Ishida, Zihern Lee, Elena Liesenfeld, Gesche Wattenberg.
 
   Das Stück **STRG ESC** ist in mehreren zeitgenössischen Tanzworkshops unter der choreographischen Leitung von Friederike Erhart entstanden. Gemeinsam erforschen und entwickeln die Tänzerinnen das Spannungsfeld von Schwarm, Kollektiv, Masse und Individuen.
+  
   Idee und Konzept: Team // Tanz: Lina Dornhof, Leoni Grützmacher, Larissa Rensing, Gesche Wattenberg, Julia Zarth // Choreografien: Friederike Erhart, Team
   
   Zu Gast im URBANRAUM:
