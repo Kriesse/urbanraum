@@ -5,7 +5,7 @@ teacher:
 date_en: "December 10th 2016"
 date_de: "10. Dezember 2016"
 
-time: "7:00pm"
+time: "7:00 pm"
 
 image: ""
 tags: 
