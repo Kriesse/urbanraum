@@ -1,6 +1,6 @@
 
 ---
-teacher: 
+teacher: ""
 
 date_en: "December 10th 2016"
 date_de: "10. Dezember 2016"
@@ -8,7 +8,7 @@ date_de: "10. Dezember 2016"
 time: "07:00pm"
 
 image: ""
-tags: 
+tags: ""
 
 title_en:  "AUSBRÜCHE - Ein Abend mit 3 Performances"
 title_de:  "AUSBRÜCHE - Ein Abend mit 3 Performances"
