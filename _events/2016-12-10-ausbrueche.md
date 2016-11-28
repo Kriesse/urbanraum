@@ -22,7 +22,7 @@ language_en: ""
 language_de: ""
 
 description_en: |
-  Wir laden Euch herzlich zu einem 3-teiligen Abend im URBANRAUM ein, an welchem Tänzerinnen der Klassen "Zeitgenössischer Tanz" und des "Dance Company Lab" sowie - als Gast - Artistinnen des Zirkusprojekts Zirkrobajka ihre Arbeiten präsentieren:
+  Wir laden Euch herzlich zu einem 3-teiligen Abend im URBANRAUM ein, an welchem Tänzerinnen der Klassen "Zeitgenössischer Tanz" und des "Dance Company Lab" sowie - als Gast - Artistinnen des Zirkusprojekts Zirkrobajka ihre Arbeiten präsentieren:  
   
   Das wöchentlich im Urbanraum stattfindende **DANCE COMPANY LAB** unter der Leitung der Tänzerin und Choreographin Livia Politi zeigt seine erste Präsentation im Urbanraum.
   
@@ -41,7 +41,7 @@ description_en: |
   Getränke und Essen auf Spendenbasis!
 
 description_de: |
-  Wir laden Euch herzlich zu einem 3-teiligen Abend im URBANRAUM ein, an welchem Tänzerinnen der Klassen "Zeitgenössischer Tanz" und des "Dance Company Lab" sowie - als Gast - Artistinnen des Zirkusprojekts Zirkrobajka ihre Arbeiten präsentieren:
+  Wir laden Euch herzlich zu einem 3-teiligen Abend im URBANRAUM ein, an welchem Tänzerinnen der Klassen "Zeitgenössischer Tanz" und des "Dance Company Lab" sowie - als Gast - Artistinnen des Zirkusprojekts Zirkrobajka ihre Arbeiten präsentieren:  
   
   Das wöchentlich im Urbanraum stattfindende **DANCE COMPANY LAB** unter der Leitung der Tänzerin und Choreographin Livia Politi zeigt seine erste Präsentation im Urbanraum.
   
