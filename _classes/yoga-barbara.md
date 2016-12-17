@@ -8,7 +8,7 @@ schedule:
 image: "class-yoga-bausch.jpg"
 
 title_en: "Winterbreak! Yoga with Barbara Bausch"
-title_de: "WINTERPAUSE" Yoga mit Barbara Bausch"
+title_de: "WINTERPAUSE! Yoga mit Barbara Bausch"
 
 subtitle_en: ""
 subtitle_de: ""
