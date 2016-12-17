@@ -7,8 +7,8 @@ schedule:
     end: "09:15am"
 image: "class-yoga-bausch.jpg"
 
-title_en: "Yoga with Barbara Bausch"
-title_de: "Yoga mit Barbara Bausch"
+title_en: "Winterbreak! Yoga with Barbara Bausch"
+title_de: "WINTERPAUSE" Yoga mit Barbara Bausch"
 
 subtitle_en: ""
 subtitle_de: ""
