@@ -16,7 +16,7 @@ workdays: [monday, tuesday, wednesday, thursday, friday]
       {% for class in site.classes %}
         {% for date in class.schedule %}
           {% if date.day == day %}
-            {% assign start = date.start | date: "%k%M" %}
+            {% assign start = date.start | date: "%-k%M" %}
             {% assign end = date.end | date: "%k%M" %}
             {% assign duration = end | minus: start %}
             <a  class="event time--{{start}} duration--{{duration}}"
