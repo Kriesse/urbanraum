@@ -36,6 +36,17 @@
   </li>
 {% endif %}
 
+{% if page.website-link %}
+  <li>
+    <div class="label">
+      Website
+    </div>
+    <div class="detail">
+      <a href="{{ page.website-link }}">{{ page.website-title }}</a>
+    </div>
+  </li>
+{% endif %}
+
 <li>
   <div class="label" data-en="{{ site.data.lang.contact_en }}" data-de="{{ site.data.lang.contact_de }}">{{ site.data.lang.contact_en }}</div>
   <div class="detail">
