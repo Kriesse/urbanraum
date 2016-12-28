@@ -11,15 +11,15 @@ layout: default
 
       <header class="post__header">
         <h1 class="post__title">
-            <span data-en="{{ page.title_en }}"
-                  data-de="{{ page.title_de }}">
-                  {{ page.title_en }}
-            </span>
-            <span class="post__subtitle"
-                  data-en="{{ page.subtitle_en }}"
-                  data-de="{{ page.subtitle_de }}">
-                  {{ page.subtitle_en }}
-            </span>
+          <span data-en="{{ page.title_en }}"
+                data-de="{{ page.title_de }}">
+                {{ page.title_en }}
+          </span>
+          <span class="post__subtitle"
+                data-en="{{ page.subtitle_en }}"
+                data-de="{{ page.subtitle_de }}">
+                {{ page.subtitle_en }}
+          </span>
         </h1>
 
         <p>
@@ -37,16 +37,16 @@ layout: default
             {% unless forloop.last %}, {% endunless %}
           {% endfor %}
 
-         {% if page.date_en || page.date_de %}
+          {% if page.date_en or page.date_de %}
             <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
           {% endif %}
-          <span>
-            {{ page.time | date: "%R" }}
-          </span>
-          {% if page.endtime %}
-            -
-            <span>{{ page.endtime | date: "%R" }}</span>
-          {% endif %}
+           <span>
+             {{ page.time | date: "%R" }}
+           </span>
+           {% if page.endtime %}
+             -
+             <span>{{ page.endtime | date: "%R" }}</span>
+           {% endif %}
 
         </p>
 

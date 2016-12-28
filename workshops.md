@@ -27,7 +27,7 @@
             </span>
             <div class="post__meta__hidden">
 
-              {% if post.date_en || post.date_de %}
+              {% if post.date_en or post.date_de %}
                  <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>,
                {% endif %}
                <span>{{ post.time | date: "%R" }}</span>
