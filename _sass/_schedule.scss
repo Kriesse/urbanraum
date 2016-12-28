@@ -1,10 +1,11 @@
-$height-quarter-hour: 10px;
+$height-quarter-hour: 12px;
 
 $schedule-start-hour: 800;
 $schedule-end-hour: 2200;
 $day__header-height: 32px;
 
 $h: $schedule-start-hour;
+
 @while $h < 2300 {
   $m: 0;
   @while $m < 60 {
@@ -59,12 +60,12 @@ $h: $schedule-start-hour;
   display: block;
   position: absolute;
   width: 100%;
-  padding: 2px;
+  padding: 1px 2px;
   background-color: $color-mint;
   color: $color-white;
   font-size: 11px;
   overflow: hidden;
-  transition-property: background-color, transform, color;
+  transition-property: background-color, transform, color, height;
   transition-duration: $transition-duration;
   transition-timing-function: ease-in;
   &:hover, &:focus {
@@ -73,14 +74,29 @@ $h: $schedule-start-hour;
     color: $color-white;
     transform: scale(1.2);
     z-index: 10;
+    min-height: 6 * $height-quarter-hour;
+    .event__title {
+      overflow: visible;;
+      white-space: normal;
+      text-overflow: ellipsis;
+      margin-bottom: 0;
+    }
+
   }
   @include media-query-min($on-tablet) {
-    padding: 5px;
+    padding: 2px 3px;
     font-size: 12px;
   }
   .event__time {
     font-size: 10px;
   }
+}
+
+.event__title {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-bottom: 0;
 }
 
 .event__time {
@@ -92,6 +108,16 @@ $h: $schedule-start-hour;
 }
 
 
+.duration--15 {
+  height: $height-quarter-hour;
+}
+.duration--30 {
+  height: 2 * $height-quarter-hour;
+}
+.duration--45,
+.duration--85 {
+  height: 3 * $height-quarter-hour;
+}
 .duration--100 {
   height: 4 * $height-quarter-hour;
 }
@@ -112,4 +138,46 @@ $h: $schedule-start-hour;
 }
 .duration--230 {
   height: 10 * $height-quarter-hour;
+}
+.duration--245 {
+  height: 11 * $height-quarter-hour;
+}
+.duration--300 {
+  height: 12 * $height-quarter-hour;
+}
+.duration--315 {
+  height: 13 * $height-quarter-hour;
+}
+.duration--330 {
+  height: 14 * $height-quarter-hour;
+}
+.duration--345 {
+  height: 15 * $height-quarter-hour;
+}
+.duration--400 {
+  height: 16 * $height-quarter-hour;
+}
+.duration--415 {
+  height: 17 * $height-quarter-hour;
+}
+.duration--430 {
+  height: 18 * $height-quarter-hour;
+}
+.duration--445 {
+  height: 19 * $height-quarter-hour;
+}
+.duration--500 {
+  height: 20 * $height-quarter-hour;
+}
+.duration--515 {
+  height: 21 * $height-quarter-hour;
+}
+.duration--530 {
+  height: 22 * $height-quarter-hour;
+}
+.duration--545 {
+  height: 23 * $height-quarter-hour;
+}
+.duration--600 {
+  height: 24 * $height-quarter-hour;
 }
