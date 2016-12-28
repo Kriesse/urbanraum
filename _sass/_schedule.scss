@@ -65,7 +65,7 @@ $h: $schedule-start-hour;
   color: $color-white;
   font-size: 11px;
   overflow: hidden;
-  transition-property: background-color, transform, color, height;
+  transition-property: background-color, transform, color, height, padding;
   transition-duration: $transition-duration;
   transition-timing-function: ease-in;
   &:hover, &:focus {
@@ -74,6 +74,7 @@ $h: $schedule-start-hour;
     color: $color-white;
     transform: scale(1.2);
     z-index: 10;
+    padding: 10px;
     min-height: 6 * $height-quarter-hour;
     .event__title {
       overflow: visible;;
