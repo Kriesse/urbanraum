@@ -38,16 +38,16 @@ layout: default
           {% endfor %}
 
           {% if page.date_en or page.date_de %}
-            <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>,
+            <span data-en="{{ page.date_en }}" data-de="{{ page.date_de }}">{{ page.date_en }}</span>
           {% endif %}
-           <span>
-             {{ page.time | date: "%R" }}
-           </span>
-           {% if page.endtime %}
-             -
-             <span>{{ page.endtime | date: "%R" }}</span>
-           {% endif %}
-
+          {% if page.time %}
+            ,
+            <span>{{ page.time | date: "%R" }}</span>
+          {% endif %}
+          {% if page.endtime %}
+            -
+            <span>{{ page.endtime | date: "%R" }}</span>
+          {% endif %}
         </p>
 
       </header>

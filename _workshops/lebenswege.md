@@ -4,8 +4,8 @@ teacher: "eva"
 date_en: "May - July 2017"
 date_de: "Mai - Juli 2017"
 
-time: ""
-endtime: ""
+time: 
+endtime:
 
 image: "workshop-lebenswege-01.png"
 
@@ -57,12 +57,12 @@ description_de: |
   SA 22. Juli, 10:30 - 15:00  
   SO 23. Juli, 15:30 - 17:00, 18:00 Performance  
 
-  Vorerfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig!  
+  Vorerfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig.
 
   Fragen bitte an: produktion@evaburghardt.com  
 
   Preis:   
-  mind. 6 Teilnehmer: 250 EUR (bis 15.2.2017)  
+  mind. 6 Teilnehmer: 250 EUR (bis 15. Februar 2017)  
   8 Teilnehmer: 225 EUR  
   ab 12 Teilnehmer: 190 EUR  
 

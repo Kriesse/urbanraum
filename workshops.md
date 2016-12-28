@@ -26,13 +26,17 @@
               {{ post.title_en }}
             </span>
             <div class="post__meta__hidden">
-
-              {% if post.date_en or post.date_de %}
-                 <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>,
-               {% endif %}
-               <span>{{ post.time | date: "%R" }}</span>
-               –
-               <span>{{ post.endtime | date: "%R" }}</span>
+            {% if post.date_en or post.date_de %}
+              <span data-en="{{ post.date_en }}" data-de="{{ post.date_de }}">{{ post.date_en }}</span>
+            {% endif %}
+            {% if post.time %}
+              ,
+              <span>{{ post.time | date: "%R" }}</span>
+            {% endif %}
+            {% if post.endtime %}
+              –
+              <span>{{ post.endtime | date: "%R" }}</span>
+            {% endif %}
             </div>
           </div>
         </a>
