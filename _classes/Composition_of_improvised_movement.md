@@ -4,8 +4,8 @@ teacher: ""
 schedule:
   - day: "thursday"
     start: "8:00pm"
-    end: "10:10pm"
-image: "class-yoga-bausch.jpg"
+    end: "10:00pm"
+image: ""
 
 title_en: "Composition into Performance (starting january 12th)"
 title_de: "Composition into Performance (ab 12. Januar 2017)"
