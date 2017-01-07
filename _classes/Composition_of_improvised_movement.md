@@ -27,7 +27,7 @@ price_en: |
 price_de: |
     Einzelstunde: EUR 10 / EUR 8 (ermäßigt für Studenten, Arbeitslose und Profitänzer)  
     10-er Karte: EUR 90 / EUR 70  
-    Monatsbeitrag: EUR 35  
+    Monatsbeitrag: EUR 35    
  
 
 description_en: |
