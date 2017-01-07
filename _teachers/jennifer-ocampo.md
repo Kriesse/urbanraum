@@ -3,7 +3,7 @@ identifier: jennifer-ocampo
 name: "Jennifer Ocampo Monsalve"
 email: "jocampomonsalve@gmail.com"
 website-title: "jenniferocampo.de"
-website-link: "http://www.jenniferocampo.de"
+website-link: "http://hiddentrackscompany.wordpress.com"
 bio_en: |
   Jennifer Ocampo Monsalve is a choreographer and dancer based in Berlin. She was born in Colombia and started there her professional dance studies. In 2000 she moved to Germany to continue her artistic development. Here she received her dance degree at the Folkwang, Universität der Künste, in Essen in 2004. From 2004 until 2009 she worked as dancer for the Daniel Goldin Dance Theater Company at the State Theater of Münster.
 
