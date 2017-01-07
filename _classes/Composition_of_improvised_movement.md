@@ -20,14 +20,14 @@ level_en: "open level"
 level_de: "open level"
 
 price_en: |
-  Single class: EUR 10 / EUR 8 (reduced price for students, unemployed and profi dancers)
-  10 classes: EUR 90 / EUR 70
-  Monthly: EUR 35
+  Single class: EUR 10 / EUR 8 (reduced price for students, unemployed and profi dancers)  
+  10 classes: EUR 90 / EUR 70  
+  Monthly: EUR 35  
 
 price_de: |
-    Einzelstunde: EUR 10 / EUR 8 (ermäßigt für Studenten, Arbeitslose und Profitänzer)
-    10-er Karte: EUR 90 / EUR 70
-    Monatsbeitrag: EUR 35
+    Einzelstunde: EUR 10 / EUR 8 (ermäßigt für Studenten, Arbeitslose und Profitänzer)  
+    10-er Karte: EUR 90 / EUR 70  
+    Monatsbeitrag: EUR 35  
  
 
 description_en: |
