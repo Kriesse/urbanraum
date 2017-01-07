@@ -32,9 +32,14 @@ price_de: |
 
 description_en: |
   The course/session is directed to dancers, performers and movers, who are interested on the praxis of improvisation, instant composition and performance.
-  Departing from a kinesthetic relationship with the body, we will deepen the connection between our creative being and our body/mind. Our physicality will be the medium to express it through experiencing the instant. We will focus on abilities such as:
-  listening in an expanded sense - getting a subtle sense of what we are composing at the present moment -, tuning into others -listening and sending out to fellow performers and to the space - becoming able to lead and follow - getting a sure sense of timing/rhythm/space - understanding of beginnings and endings of phrases - visualizing contexts and dramaturgy in our compositions.
+  
+  Departing from a kinesthetic relationship with the body, we will deepen the connection between our creative being and our body/mind. 
+  
+  Our physicality will be the medium to express it through experiencing the instant. We will focus on abilities such as:
+  listening in an expanded sense - getting a subtle sense of what we are composing at the present moment -, tuning into others - listening and sending out to fellow performers and to the space - becoming able to lead and follow - getting a sure sense of timing/rhythm/space - understanding of beginnings and endings of phrases - visualizing contexts and dramaturgy in our compositions.
+  
   Our intuition, imagination, our paths of moves in space and time, the resonance of our physical actions become also tools for our practice.
+  
   Inner states and qualities of movement would be also integrated in our performative research.
 
 description_de: |
