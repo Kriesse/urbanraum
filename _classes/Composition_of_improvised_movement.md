@@ -31,6 +31,8 @@ price_de: |
  
 
 description_en: |
+  FIRST SESSION on January 12th is FREE FOR EVERYBODY!!!!
+  
   The course/session is directed to dancers, performers and movers, who are interested on the praxis of improvisation, instant composition and performance.
   
   Departing from a kinesthetic relationship with the body, we will deepen the connection between our creative being and our body/mind. 
