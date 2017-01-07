@@ -1,6 +1,6 @@
 ---
 order: "3"
-teacher: ""
+teacher: "jennifer-ocampo"
 schedule:
   - day: "thursday"
     start: "8:00pm"
