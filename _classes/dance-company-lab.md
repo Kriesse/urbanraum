@@ -7,11 +7,11 @@ schedule:
     end: "12:00pm"
 image: "class-contemporary-dance-workshop.jpg"
 
-title_en: "Dance Company Lab"
-title_de: "Tanzcompany Lab"
+title_en: "Dance Company Lab (from Febuary 2nd on)"
+title_de: "Tanzcompany Lab (ab 2. Februar 2017)"
 
-subtitle_en: "Autumn Dancecompany Lab 2016 | showing in december"
-subtitle_de: "Herbst Tanzcompany Lab 2016 | Showing im Dezember"
+subtitle_en: "Spring Dancecompany Lab 2017"
+subtitle_de: "Frühling Tanzcompany Lab 2017"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -21,11 +21,11 @@ level_de: "Adv-Inter"
 
 price_en: |
   Trial lesson: EUR 12  
-  13 classes (incl. showing): EUR 190, early bird: EUR 180 (until september 5th)!  
+  13 classes (incl. showing): EUR 190, early bird: EUR 180!  
 
 price_de: |
   Probestunde: 12 Euro  
-  13 Termine (inkl. Showing): 190 Euro, Frühbucher-Rabatt: 180 Euro (Anmeldung bis 5. September)!  
+  13 Termine (inkl. Showing): 190 Euro, Frühbucher-Rabatt: 180 Euro!  
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
