@@ -16,8 +16,8 @@ subtitle_de: ""
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "open level"
-level_de: "open level"
+level_en: "Advanced"
+level_de: "Fortgeschritten"
 
 price_en: |
   Single class: EUR 10 / EUR 8 (reduced price for students, unemployed and profi dancers)  
