@@ -2,7 +2,7 @@
 identifier: jennifer-ocampo
 name: "Jennifer Ocampo Monsalve"
 email: "jocampomonsalve@gmail.com"
-website-title: "jenniferocampo.de"
+website-title: "www.hiddentracks.de"
 website-link: "http://hiddentrackscompany.wordpress.com"
 image: "teacher-jennifer-ocampo-monsalve.jpg"
 bio_en: |
