@@ -36,7 +36,9 @@ description_en: |
 
 
 description_de: |
-  Tanztechnik und Choreografie, mit einem Fokus auf zeitgenössischen Tanztechniken und Performance: Die Idee von diesem Kurs ist, eine Tanzcompany-ähnliche Dynamik zu erleben, beginnend mit einem Tanztechnik-Unterricht, an den ein choreografisch-kreativer Prozess (Probe) anschließt, um schließlich die Ergebnisse zu präsentieren. 
+  Tanztechnik und Choreografie, mit einem Fokus auf zeitgenössischen Tanztechniken und Performance: 
+  Die Idee von diesem Kurs ist, eine Tanzcompany-ähnliche Dynamik zu erleben, beginnend mit einem Tanztechnik-Unterricht, an den ein choreografisch-kreativer Prozess (Probe) anschließt, um schließlich die Ergebnisse zu präsentieren. 
+  
   Im Technikteil werden die Studenten herausgefordert, an der Ausrichtung ihres Körpers zu arbeiten und die Koordination, die Kraft und die Entwicklung von Bewusstsein und Bewegung auf mehreren räumlichen Ebenen zu erhöhen. Die Choreographie-Komponente dieses Kurses dient dem Lernen und der Entwicklung von Bewegung mit Hilfe einer Vielfalt von choreographischen Ansätzen.
 
 ---
