@@ -2,6 +2,8 @@
 identifier: "livia"
 name: "Livia Politi"
 image: "teacher-livia-politi.jpg"
+website-title: "www.liviapoliti.berlin"
+website-link: "http:/www.liviapoliti.berlin"
 bio_de: |
 
   Livia absolviert ihre Tanzausbildung an der Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreograf Assistentin und Company Trainer arbeitete sie in zahlreichen Projekte mit Regisseuren Henrietta Horn,Carlos Orta, Marco Antonio Silva, George Camerun, Michel Descombey, Gladiola Orozco u.a, in Deutschland, U.S.A, Mexiko und Argentinien.
