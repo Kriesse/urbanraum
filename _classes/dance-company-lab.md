@@ -21,11 +21,11 @@ level_de: "Adv-Inter"
 
 price_en: |
   Trial lesson: EUR 12  
-  13 classes (incl. showing): EUR 190, early bird: EUR 180!  
+  13 classes: EUR 190, early bird until January 27th: EUR 180!  
 
 price_de: |
   Probestunde: 12 Euro  
-  13 Termine (inkl. Showing): 190 Euro, Frühbucher-Rabatt: 180 Euro!  
+  13 Termine: 190 Euro, Frühbucher-Rabatt (bis 27.1.2917): 180 Euro!  
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
@@ -34,7 +34,6 @@ description_en: |
 
   In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
 
-  Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie-Assistentin arbeitete sie in zahlreichen Projekten in Deutschland, USA, Mexiko und Argentinien.
 
 description_de: |
   Tanztechnik und Choreografie, mit einem Fokus auf zeitgenössischen Tanztechniken und Performance: Die Idee von diesem Kurs ist, eine Tanzcompany-ähnliche Dynamik zu erleben, beginnend mit einem Tanztechnik-Unterricht, an den ein choreografisch-kreativer Prozess (Probe) anschließt, um schließlich die Ergebnisse zu präsentieren. 
