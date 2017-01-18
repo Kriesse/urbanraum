@@ -1,6 +1,7 @@
 ---
 identifier: "livia"
 name: "Livia Politi"
+email: "info@liviapoliti.berlin"
 image: "teacher-livia-politi.jpg"
 website-title: "www.liviapoliti.berlin"
 website-link: "http:/www.liviapoliti.berlin"
