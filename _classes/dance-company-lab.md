@@ -10,8 +10,8 @@ image: "class-contemporary-dance-workshop.jpg"
 title_en: "Dance Company Lab (2.2.-27.04.2017)"
 title_de: "Tanzcompany Lab (2.2.-27.04.2017)"
 
-subtitle_en: "Spring Dancecompany Lab 2017"
-subtitle_de: "Frühling Tanzcompany Lab 2017"
+subtitle_en: "Dancecompany Lab 2017"
+subtitle_de: "Tanzcompany Lab 2017"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
