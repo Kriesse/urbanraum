@@ -21,11 +21,11 @@ level_de: "Adv-Inter"
 
 price_en: |
   Trial lesson: EUR 12  
-  13 classes: EUR 190, early bird until January 27th: EUR 180!  
+  13 classes: EUR 190, early bird until January 27th: EUR 180  
 
 price_de: |
   Probestunde: 12 Euro  
-  13 Termine: 190 Euro, Frühbucher-Rabatt (bis 27.1.2917): 180 Euro!  
+  13 Termine: 190 Euro, Frühbucher-Rabatt (bis 27.1.2017): 180 Euro  
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
