@@ -35,7 +35,7 @@ description_en: |
   In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
 
   Dates: every thursday (10-12 pm) from February 2nd until April 27th   
-  Except April 13th, alternative class on monday, March 11th.
+  Except thursday April 13th, the class will take place on monday, March 11th.
 
 description_de: |
   Tanztechnik und Choreografie, mit einem Fokus auf zeitgenössischen Tanztechniken und Performance: 
