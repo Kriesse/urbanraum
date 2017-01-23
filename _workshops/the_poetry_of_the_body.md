@@ -57,12 +57,10 @@ description_en: |
   
   Bring comfortable clothing and a notebook.
   
-  Max. 15 particpants!  
-  Prior booking and payment is required to participate in the workshop.
+  Max. 15 particpants. Prior booking and payment is required to participate in the workshop.
   
   Please send an email to aria311291@gmail.com to book your spot.
   
-  For further questions or info dont hesitate to get in touch.
   
   "When you think -Im a dancer!- No!. -You wanna be a poet, so that you are taking people into ideas, not steps.... you just need to leave the idea. In dance we wanna se , the TRUTH"
 
