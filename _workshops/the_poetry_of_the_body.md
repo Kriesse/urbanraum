@@ -5,7 +5,7 @@ date_en: "18.02.2017"
 date_de: "18.02.2017"
 
 time: 12.00pm
-endtime: 04.30pm
+endtime: 
 
 image: "workshop-poetry-of-the-body.jpg"
 
