@@ -5,7 +5,7 @@ date_en: "18.02.2017"
 date_de: "18.02.2017"
 
 time: 12.00pm
-endtime: 16.30pm
+endtime: 04.30pm
 
 image: ""
 
@@ -48,12 +48,12 @@ description_en: |
   In this 4 hour workshop we will dive deeper in order to set ourselves free from the dictatorship of the inner critic, the logical thinking and the literal meaning; Discovering the symbolic and poetic language we all have.
   
   You’ll learn to:  
-  trust and follow yourself wherever you go,
-  lose control,  
-  follow the course of the wild,  
-  make the thinking more flexible,  
-  increase positive thinking and feeling,  
-  amplify possibilities of being and existing in the world.
+  - trust and follow yourself wherever you go,
+  - lose control,  
+  - follow the course of the wild,  
+  - make the thinking more flexible,  
+  - increase positive thinking and feeling,  
+  - amplify possibilities of being and existing in the world.
   
   Bring comfortable clothing and a notebook.
 
