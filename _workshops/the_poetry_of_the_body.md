@@ -9,8 +9,8 @@ endtime:
 
 image: "workshop-poetry-of-the-body.jpg"
 
-title_en: "The Poetry of the Body (PART II)"
-title_de: "The Poetry of the Body (PART II)"
+title_en: "The Poetry of the Body II"
+title_de: "The Poetry of the Body II"
 
 subtitle_en: "Dance/Improvisation/Actiontheater"
 subtitle_de: "Dance/Improvisation/Actiontheater"
@@ -21,8 +21,8 @@ type_de: "Workshop"
 level_en:
 level_de:
 
-price_en: 'EUR 49  
-Early bird: EUR 40, if payed before 11th of February'
+price_en: '49 Euro  
+Early bird: 40 Euro, if payed before 11th of February'
 
 price_de: '49 Euro  
 Frühbucher-Rabatt (wenn bezahlt bis 11.02.2017): 40 Euro'
