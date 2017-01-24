@@ -20,14 +20,10 @@ level_en: "Advanced"
 level_de: "Fortgeschritten"
 
 price_en: |
-  Single class: EUR 10 / EUR 8 (reduced price for students, unemployed and profi dancers)  
-  10 classes: EUR 90 / EUR 70  
-  Monthly: EUR 35  
+  Single session: 5-10 EURO
 
 price_de: |
-    Einzelstunde: EUR 10 / EUR 8 (ermäßigt für Studenten, Arbeitslose und Profitänzer)  
-    10-er Karte: EUR 90 / EUR 70  
-    Monatsbeitrag: EUR 35    
+    Einzelstunde: 5-10 EURO   
 
 
 description_en: |
