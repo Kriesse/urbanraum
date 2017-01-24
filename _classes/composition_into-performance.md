@@ -31,7 +31,7 @@ description_en: |
   The session is directed to dancers, performers and movers with experience, who are interested on the praxis of improvisation, instant composition and performance.
   
   The session is guided by Jennifer Ocampo, further on by other Performers.
-This thursday 27. January is open to musicians too!
+  This thursday 27. January is open to musicians too!
 
   02., and 09., February by Jasminka Stenz
   16., 23 February and 02., March by Jose Andrade
@@ -41,7 +41,7 @@ description_de: |
   The session is directed to dancers, performers and movers with experience, who are interested on the praxis of improvisation, instant composition and performance.
   
   The session is guided by Jennifer Ocampo, further on by other Performers.
-This thursday 27. January is open to musicians too!
+  This thursday 27. January is open to musicians too!
 
   02., and 09., February by Jasminka Stenz
   16., 23 February and 02., March by Jose Andrade
