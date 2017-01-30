@@ -1,11 +1,12 @@
 ---
 identifier: raffaella-galdi
 name: "Raffaella Galdi"
-email: "info(at)raffaellagaldi.com"
+email: "info@raffaellagaldi.com"
 website-title: "www.raffaellagaldi.com"
 website-link: "http://raffaellagaldi.com/index.html"
 image: ""
 bio_en: |
+
   Raffaella Galdi (Italy, 1973) is based in Berlin.
   She is a a teacher, a choreographer, a dancer, an artist.  
   Founder and artistic director of InCorpo, a company, a receptive ground in which contemporary dance operates in relationship to other art-forms. Her main source of inspiration is the body, the physical experience and expression. In her choreographical work dance functions as a base and bridges to sound, text-words and plastic-visual art
@@ -16,4 +17,5 @@ bio_en: |
 
  
 bio_de: |
-  ---
+
+---
