@@ -1,6 +1,6 @@
 ---
 order: "2"
-teacher: 
+teacher: "raffaella-galdi"
 schedule:
   - day: "thursday"
     start: "06:00pm"
