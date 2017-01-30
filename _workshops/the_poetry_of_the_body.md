@@ -53,7 +53,9 @@ description_en: |
   - follow the course of the wild,  
   - make the thinking more flexible,  
   - increase positive thinking and feeling,  
-  - amplify possibilities of being and existing in the world.
+  - amplify possibilities of being and existing in the world.   
+    
+    With Live music!  
 
   Bring comfortable clothing and a notebook.
 
