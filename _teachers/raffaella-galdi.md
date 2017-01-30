@@ -1,6 +1,6 @@
 ---
 identifier: raffaella-galdi
-name: "Raffaella Galdi "
+name: "Raffaella Galdi"
 email: "info(at)raffaellagaldi.com"
 website-title: "www.raffaellagaldi.com"
 website-link: "http://raffaellagaldi.com/index.html"
