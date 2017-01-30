@@ -1,6 +1,6 @@
 ---
 order: "9"
-teacher: "lefte-hagen"
+teacher: "leftehagen"
 schedule:
   - day: "friday"
     start: "7:15pm"

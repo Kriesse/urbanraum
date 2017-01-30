@@ -2,7 +2,7 @@
 identifier: "alexander-carrillo"
 name: "Alexander Carrillo"
 guest-teacher: true
-image: 
+image:
 email: lexfre@gmail.com
 phone:
 website-title: "alexander-carrillo.com"
