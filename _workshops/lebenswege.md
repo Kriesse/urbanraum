@@ -53,9 +53,9 @@ description_de: |
   SO 28. Mai  
   SA 17. Juni  
   SA 1. Juli  
-  SA 15. Juli  
-  SA 22. Juli, 10:30 - 15:00  
-  SO 23. Juli, 15:30 - 17:00, 18:00 Performance  
+  FR, 14.Juli, 20:30-22:30
+  SA 22. Juli, 10:00 - 15:00  
+  SO 23. Juli, 15:00 - 17:00, 18:00 Performance  
 
   Vorerfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig.
 
