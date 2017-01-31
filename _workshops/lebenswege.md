@@ -53,7 +53,7 @@ description_de: |
   SO 28. Mai  
   SA 17. Juni  
   SA 1. Juli  
-  FR, 14.Juli, 20:30-22:30
+  FR, 14.Juli, 20:30-22:30  
   SA 22. Juli, 10:00 - 15:00  
   SO 23. Juli, 15:00 - 17:00, 18:00 Performance  
 
