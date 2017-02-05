@@ -16,8 +16,8 @@ subtitle_de: "nur im Februar!"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "open level"
-level_de: "open level"
+level_en: "Previous dance experience is required"
+level_de: "Previous dance experience is required"
 
 price_en: |
   Single lesson: EUR 10  
