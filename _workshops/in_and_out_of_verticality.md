@@ -4,7 +4,7 @@ teacher: "raffaella"
 date_en: "11.03.2017"
 date_de: "11.03.2017"
 
-time: 12.30pm
+time: 12.30 pm
 endtime: 
 
 image: ""
@@ -30,7 +30,8 @@ language_de:
 
 description_en: |
   
-  The teaching offers a research laboratory which deeply focuses on “body weight shift - in and out of verticality”.   
+  The teaching offers a research laboratory which deeply focuses on “body weight shift - in and out of verticality”.
+  
   It is presented in 3 phases:    
   
   - training the body / working with the body, we will bring attention and awareness to the bone structure, its natural alignment and articulations  
@@ -41,19 +42,19 @@ description_en: |
   
   We consider the work as an opportunity for observing, feeling, experiencing, exchanging, confronting and dancing with joy.
 
-  For more information, please visit: http://incorpo.org/dance%20approach/workshop.html  
+  For more information, please visit: www.incorpo.org
  
-  Schedule:
-  12:30-17:30; Workshop "In and out of verticality” 
-  18h: free vegetarian soup 
-  19:30h: Showing with workshop members + “Turtle” dance performance created using the principle shared within the workshop (danced by Laura Giuntoli and Lina Kukulis). 
+  Schedule:  
+  12:30-17:30; Workshop "In and out of verticality”   
+  18h: free vegetarian soup   
+  19:30h: Showing with workshop members + “Turtle” dance performance created using the principle shared within the workshop (danced by Laura Giuntoli and Lina Kukulis).   
 
 
   Costs:  
   60€  / Register before (and not after) 1st March 2017 to:  
   Friederike Erhart: info@urbanraum.com  
 
-  Please write in your inscription e-mail a few lines describing your motivation and intentions regarding the work. Previous dance experience is required.
+  Please write in your inscription e-mail a few lines describing your motivation and intentions regarding the work. 
 
 
  
