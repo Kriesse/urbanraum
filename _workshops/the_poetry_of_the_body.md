@@ -4,8 +4,8 @@ teacher: "maria"
 date_en: "18.02.2017"
 date_de: "18.02.2017"
 
-time: 12.00pm
-endtime: 
+time: 12:00pm
+endtime:
 
 image: "workshop-poetry-of-the-body.jpg"
 
@@ -28,7 +28,7 @@ price_de: '49 Euro
 Frühbucher-Rabatt (wenn bezahlt bis 11.02.2017): 40 Euro'
 
 language_en:
-language_de: 
+language_de:
 
 description_en: |
   In this workshop we will explore how to dedicate ourselves entirely and uniquely to the present moment. Keeping ourselves engaged, interested and fascinated by our inner landscapes in a dance of becoming and disappearing. We will compose poems and short pieces using simple and joyful tasks of improvisation alone, in couples or groups. Learning how to listen to yourself and the others, flexibilize your thinking and follow your creative source and expression.
@@ -54,7 +54,7 @@ description_en: |
   - make the thinking more flexible,  
   - increase positive thinking and feeling,  
   - amplify possibilities of being and existing in the world.   
-    
+
     With Live music!  
 
   Bring comfortable clothing and a notebook.
