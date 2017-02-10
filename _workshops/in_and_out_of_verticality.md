@@ -47,7 +47,7 @@ description_en: |
   Schedule:  
   Workshop | 12:30 - 17:30  
   Break with free vegetarian soup | 18:00  
-  Showing with workshop members "Turtle" Dance Performance (danced by Laura Giuntoli and Lina Kukulis)| 19:30     
+  Showing with workshop members & "Turtle" Dance Performance (danced by Laura Giuntoli and Lina Kukulis)| 19:30     
 
 
   Costs:  
