@@ -42,12 +42,12 @@ description_en: |
 
   We consider the work as an opportunity for observing, feeling, experiencing, exchanging, confronting and dancing with joy.
 
-  For more information, please visit: www.incorpo.org
+  For more information, please visit: http://incorpo.org/dance%20approach/workshop.html
 
   Schedule:  
-  12:30-17:30; Workshop "In and out of verticality”   
-  18h: free vegetarian soup   
-  19:30h: Showing with workshop members + “Turtle” dance performance created using the principle shared within the workshop (danced by Laura Giuntoli and Lina Kukulis).   
+  Workshop | 12:30 - 17:30
+  Break with free vegetarian soup | 18:00
+  Showing with workshop members "Turtle" Dance Performance (danced by Laura Giuntoli and Lina Kukulis)| 19:30   
 
 
   Costs:  
