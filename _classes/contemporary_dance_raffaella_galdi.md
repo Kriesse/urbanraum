@@ -7,10 +7,10 @@ schedule:
     end: "07:30pm"
 image: "class-contemporaray-dance-galdi.jpg"
 
-title_en: "Contemporaray Dance Training with Raffaella Galdi (09., 16. & 22.02.2017)"
-title_de: "Contemporaray Dance Training mit Raffaella Galdi (09., 16. & 22.02.2017)"
+title_en: "Contemporaray Dance Training with Raffaella Galdi (16. & 22.02.2017)"
+title_de: "Contemporaray Dance Training mit Raffaella Galdi (16. & 22.02.2017)"
 
-subtitle_en: "Just for 3 dates in February!"
+subtitle_en: "Classes only in February!"
 subtitle_de: "nur im Februar!"
 
 type_en: "Weekly Class"
