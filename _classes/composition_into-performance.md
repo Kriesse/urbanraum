@@ -31,15 +31,8 @@ description_en: |
   The session is directed to dancers, performers and movers with experience, who are interested on the praxis of improvisation, instant composition and performance.
 
   The session is guided by Jennifer Ocampo, further on by other Performers.  
-
-  02., and 09., February by Jasminka Stenz  
   16., 23 February and 02., March by Jose Andrade  
 
-  ///
-
-  ABOUT JASMINKA STENZ:
-  Jasminka Stenz lives and works as a freelance dancer, choreograpgher and pedagogue in Berlin and in swizerland. Beside her long-standing companions, the music (violin) and the tango, Jasminka Stenz is a performer, who finished her education at TIP Bewegungs-art Freiburg. She creates own work and is to be seen as a performer in different pieces, with contemporary dance, as well as with her music. Her meinfocus is the improvisation.
-  Furthermore she acts as a directorial assistance in various productions. Jasminka Stenz works, beside the free lance activity as an artist, temporarily as a pedagogue with autistic children, body-and dance-oriented. Moreover, she leads courses in dance improvisation and Tango Argentino in Berlin. / Contact: jasminka.stenz@gmail.com
 
   ///
 
