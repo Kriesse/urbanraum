@@ -35,7 +35,8 @@ language_de: "Englisch"
 
 description_en: |
 
- Iliana's workshops are emphasizing on Contemporary Dance technique build-up and Improvisation. The focus is on floor work practice, the study of organic movement and on connectivity, fluidity and awareness. Technique is approached as a guide to efficiency in the movement of the human body. The internal structure of the classes is made to gradually deepen in the technique and develop through it. This is a long workshop, exactly for this reason.
+ Iliana's workshops are emphasizing on Contemporary Dance technique build-up and Improvisation. The focus is on floor work practice, the study of organic movement and on connectivity, fluidity and awareness. Technique is approached as a guide to efficiency in the movement of the human body. The internal structure of the classes is made to gradually deepen in the technique and develop through it.
+ This is a long workshop, exactly for this reason.
  
  The main elements studied are:
  
@@ -55,16 +56,15 @@ description_en: |
  
  At the end of the workshop long phrases will have been taught, with the possibility to be presented in public during June 2017.
  
- 
  Prior to booking you can try out Iliana's regular classes in Berlin, after registration via email:  
  
- 1. Every Tuesday @ 18.15 - 19.45 in Urbanraum  
- Urbanstr. 93, 10967 Berlin - Xberg, U bahn: Hermannplatz  
- Contemporary Dance & Improvisation, level: INTERMEDIATE
+ 1. Every Tuesday @ 18.15 - 19.45 in Urbanraum    
+ Urbanstr. 93, 10967 Berlin - Xberg, U bahn: Hermannplatz    
+ Contemporary Dance & Improvisation, level: INTERMEDIATE  
  
- 2. Every Wednesday @ 20.00 - 21.30 in ADA studio:  
- Uferstudios-studio 7. Badstr. 41A, 13357 Berlin- Wedding  
- Contemporary Dance & Floor acrobatics, level: INTERMEDIATE
+ 2. Every Wednesday @ 20.00 - 21.30 in ADA studio:    
+ Uferstudios-studio 7. Badstr. 41A, 13357 Berlin- Wedding    
+ Contemporary Dance & Floor acrobatics, level: INTERMEDIATE  
  
 description_de:
 s. english descritpion
