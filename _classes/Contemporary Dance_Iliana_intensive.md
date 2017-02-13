@@ -56,6 +56,8 @@ description_en: |
  
  At the end of the workshop long phrases will have been taught, with the possibility to be presented in public during June 2017.
  
+ Thursdays of Easter holidays excluded!
+ 
  Prior to booking you can try out Iliana's regular classes in Berlin, after registration via email:  
  
  1. Every Tuesday @ 18.15 - 19.45 in Urbanraum    
