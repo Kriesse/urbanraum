@@ -11,8 +11,8 @@ image: ""
 title_en: "Contemporary Dance Intensive Workshop: Floor Work & Improvisation"
 title_de: "Contemporary Dance Intensive Workshop: Floor Work & Improvisation"
 
-subtitle_en: "12-Thursdays workshop | MARCH 9th - JUNE 8th"
-subtitle_de: "12-Thursdays workshop | MARCH 9th - JUNE 8th"
+subtitle_en: "12-Thursdays workshop / MARCH 9th - JUNE 8th"
+subtitle_de: "12-Thursdays workshop / MARCH 9th - JUNE 8th"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -66,6 +66,8 @@ description_en: |
  Uferstudios-studio 7. Badstr. 41A, 13357 Berlin- Wedding    
  Contemporary Dance & Floor acrobatics, level: INTERMEDIATE  
  
-description_de:
-s. english descritpion
+description_de: |
+
+  s. english descritpion
+
 ---
