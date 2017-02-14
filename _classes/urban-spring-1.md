@@ -54,6 +54,6 @@ description_en: |
 
   Throughout the class fixed phrases and improvisation tasks are given, practicing the aforementioned elements. The material is highly physical and classes often end up on a longer phrase practice, built from the accumulation of smaller exercises, working also on physical strength, stamina and memory.
 
-description_de:
-s. english description
+description_de: |
+  s. english description
 ---
