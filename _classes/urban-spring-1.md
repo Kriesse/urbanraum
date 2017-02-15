@@ -21,10 +21,19 @@ level_en: "Intermediate"
 level_de: "Mittelstufe/Fortgeschritten"
 
 price_en: |
+  4-consecutive-Tuesdays: EUR 36  
+  12-consecutive-Tuesdays: EUR 100  
+  10 classes anytime anywhere: EUR 100  
+  (valid for 16 weeks, includes all other classes of Iliana's)  
+  Drop-in: EUR 12  
 
 
 price_de: |
-
+  4-consecutive-Tuesdays: EUR 36  
+  12-consecutive-Tuesdays: EUR 100  
+  10 classes anytime anywhere: EUR 100  
+  (valid for 16 weeks, includes all other classes of Iliana's)  
+  Drop-in: EUR 12
 
 language_en: "English"
 language_de: "Englisch"
