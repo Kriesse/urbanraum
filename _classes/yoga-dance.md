@@ -4,17 +4,17 @@ teacher: "maria"
 schedule:
   - day: "monday"
     start: "10:00am"
-    end: "11:30pm"
+    end: "11:30am"
   - day: "friday"
     start: "10:00am"
-    end: "11:30pm"
+    end: "11:30am"
 image: ""
 
 title_en: "Yoga Dance"
-title_de: "Yoga Dance)"
+title_de: "Yoga Dance"
 
-subtitle_en: "from march on"
-subtitle_de: "ab März"
+subtitle_en: "starting march 2017"
+subtitle_de: "ab März 2017"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
