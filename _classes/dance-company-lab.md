@@ -7,8 +7,8 @@ schedule:
     end: "12:00pm"
 image: "class-contemporary-dance-workshop.jpg"
 
-title_en: "Dance Company Lab (2.2.-27.04.2017)"
-title_de: "Tanzcompany Lab (2.2.-27.04.2017)"
+title_en: "Dance Company Lab (-27.04.2017)"
+title_de: "Tanzcompany Lab (-27.04.2017)"
 
 subtitle_en: "Dancecompany Lab 2017"
 subtitle_de: "Tanzcompany Lab 2017"
