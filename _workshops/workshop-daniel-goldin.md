@@ -22,21 +22,21 @@ level_en: "Advanced"
 level_de: "Fortgeschritten"
 
 price_en: '100 Euro / 85 Euro (reduced)    
-Early bird: 85 Euro, if payed before 27th of March'
+  Early bird: 85 Euro, if payed before 27th of March'
 
 price_de: '100 Euro / 85 Euro (ermäßigt)    
-Frühbucher-Rabatt (bezahlt bis 27.03.2017): 85 Euro'
+  Frühbucher-Rabatt (bezahlt bis 27.03.2017): 85 Euro'
 
 language_en:
 language_de:
 
 description_en: |
+
   Daniel Goldin unterrichtet eine Technik, die es dem Einzelnen ermöglicht, seine eigene Persönlichkeit mit einzubeziehen: Bewegungen, die mit dem Menschen zu tun haben, die zeigen, was den tanzenden Menschen bewegt und die die Freude an der Bewegung vermitteln.
   
   Er versteht den Trainingsprozess als kreativen Prozess, der sich nicht auf das Erlernen festgelegter Schritte oder Bewegungssequenzen begrenzt, sondern am Verständnis der Bewegung orientiert ist.
   
   Während des Workshops werden stufenweise verschiedene Bewegungsqualitäten trainiert, die auf den Elementen Ursprung, Energie und Tempo einer Bewegung aufbauen. Ein weiterer Schwerpunkt liegt in der Wahrnehmung des Raumes: der Platzierung, Projektion und Fortbewegung des Körpers im Raum.
-  
   
   Das vielseitige Training vermittelt grundlegende und weiterführende Elemente des zeitgenössischen und modernen Tanzes, aus denen kurze dynamische und raumgreifende Sequenzen entstehen.
   
@@ -49,6 +49,7 @@ description_en: |
 
  
 description_de: |
+
    Daniel Goldin unterrichtet eine Technik, die es dem Einzelnen ermöglicht, seine eigene Persönlichkeit mit einzubeziehen: Bewegungen, die mit dem Menschen zu tun haben, die zeigen, was den tanzenden Menschen bewegt und die die Freude an der Bewegung vermitteln.
   
   Er versteht den Trainingsprozess als kreativen Prozess, der sich nicht auf das Erlernen festgelegter Schritte oder Bewegungssequenzen begrenzt, sondern am Verständnis der Bewegung orientiert ist.
