@@ -5,7 +5,7 @@ date_en: "08.-09.04.2017"
 date_de: "08.-09.04.2017"
 
 time: 11:00am
-endtime: 05:00pm
+endtime: 
 
 image: ""
 
