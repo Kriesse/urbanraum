@@ -30,10 +30,10 @@ price_de: '100 Euro / 85 Euro (ermäßigt)
 language_en:
 language_de:
 
-description_en: |
+description_en: |  
 
   Daniel Goldin unterrichtet eine Technik, die es dem Einzelnen ermöglicht, seine eigene Persönlichkeit mit einzubeziehen: 
-Bewegungen, die mit dem Menschen zu tun haben, die zeigen, was den tanzenden Menschen bewegt und die die Freude an der Bewegung vermitteln.
+  Bewegungen, die mit dem Menschen zu tun haben, die zeigen, was den tanzenden Menschen bewegt und die die Freude an der Bewegung vermitteln.
 
   Er versteht den Trainingsprozess als kreativen Prozess, der sich nicht auf das Erlernen festgelegter Schritte oder Bewegungssequenzen begrenzt, sondern am Verständnis der Bewegung orientiert ist.
   
