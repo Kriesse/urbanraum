@@ -12,8 +12,8 @@ image: ""
 title_en: "Zeitgenössischer Tanz mit Daniel Goldin"
 title_de: "Zeitgenössischer Tanz mit Daniel Goldin"
 
-subtitle_en: "Körper - Choreographie - Interpretation "
-subtitle_de: "Körper - Choreographie - Interpretation "
+subtitle_en: "Körper - Choreographie - Interpretation"
+subtitle_de: "Körper - Choreographie - Interpretation"
 
 type_en: "Workshop"
 type_de: "Workshop"
