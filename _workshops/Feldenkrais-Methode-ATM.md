@@ -7,7 +7,7 @@ date_de: "25.-26.02.2017"
 time: 05:00pm
 endtime: 07:00pm 
 
-image: ""
+image: 
 
 title_en: "Feldenkrais Methode & Awareness Through Movement"
 title_de: "Feldenkrais Methode & Awareness Through Movement"
