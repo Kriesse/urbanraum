@@ -7,7 +7,7 @@ date_de: "08.-09.04.2017"
 time: 11:00am
 endtime: 05:00pm
 
-image: ""
+image: 
 
 title_en: "Zeitgenössischer Tanz mit Daniel Goldin"
 title_de: "Zeitgenössischer Tanz mit Daniel Goldin"
