@@ -8,7 +8,7 @@ schedule:
   - day: "friday"
     start: "10:00am"
     end: "11:30am"
-image: ""
+image: "class-yoga-dance.jpg"
 
 title_en: "Yoga Dance"
 title_de: "Yoga Dance"
@@ -28,7 +28,7 @@ price_de: |
 
 description_en: |
   coming soon
-  
+
 description_de: |
 
   s. english description

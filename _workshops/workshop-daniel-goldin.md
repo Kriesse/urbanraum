@@ -7,7 +7,7 @@ date_de: "08.-09.04.2017"
 time: 11:00am
 endtime: 04:00pm
 
-image: 
+image: "workshop-goldin.jpg"
 
 title_en: "Zeitgenössischer Tanz mit Daniel Goldin"
 title_de: "Zeitgenössischer Tanz mit Daniel Goldin"
@@ -32,11 +32,11 @@ language_de:
 
 description_en: |  
 
-  Daniel Goldin unterrichtet eine Technik, die es dem Einzelnen ermöglicht, seine eigene Persönlichkeit mit einzubeziehen: 
+  Daniel Goldin unterrichtet eine Technik, die es dem Einzelnen ermöglicht, seine eigene Persönlichkeit mit einzubeziehen:
   Bewegungen, die mit dem Menschen zu tun haben, die zeigen, was den tanzenden Menschen bewegt und die die Freude an der Bewegung vermitteln.
 
   Er versteht den Trainingsprozess als kreativen Prozess, der sich nicht auf das Erlernen festgelegter Schritte oder Bewegungssequenzen begrenzt, sondern am Verständnis der Bewegung orientiert ist.
-  
+
   Während des Workshops werden stufenweise verschiedene Bewegungsqualitäten trainiert, die auf den Elementen Ursprung, Energie und Tempo einer Bewegung aufbauen. Ein weiterer Schwerpunkt liegt in der Wahrnehmung des Raumes: der Platzierung, Projektion und Fortbewegung des Körpers im Raum.
 
   Das vielseitige Training vermittelt grundlegende und weiterführende Elemente des zeitgenössischen und modernen Tanzes, aus denen kurze dynamische und raumgreifende Sequenzen entstehen.
@@ -47,15 +47,15 @@ description_en: |
 
   Weitere Infos: http://www.daniel-goldin.de/home/
 
- 
+
 description_de: |
 
 
-  Daniel Goldin unterrichtet eine Technik, die es dem Einzelnen ermöglicht, seine eigene Persönlichkeit mit einzubeziehen: 
+  Daniel Goldin unterrichtet eine Technik, die es dem Einzelnen ermöglicht, seine eigene Persönlichkeit mit einzubeziehen:
   Bewegungen, die mit dem Menschen zu tun haben, die zeigen, was den tanzenden Menschen bewegt und die die Freude an der Bewegung vermitteln.
 
   Er versteht den Trainingsprozess als kreativen Prozess, der sich nicht auf das Erlernen festgelegter Schritte oder Bewegungssequenzen begrenzt, sondern am Verständnis der Bewegung orientiert ist.
-  
+
   Während des Workshops werden stufenweise verschiedene Bewegungsqualitäten trainiert, die auf den Elementen Ursprung, Energie und Tempo einer Bewegung aufbauen. Ein weiterer Schwerpunkt liegt in der Wahrnehmung des Raumes: der Platzierung, Projektion und Fortbewegung des Körpers im Raum.
 
   Das vielseitige Training vermittelt grundlegende und weiterführende Elemente des zeitgenössischen und modernen Tanzes, aus denen kurze dynamische und raumgreifende Sequenzen entstehen.
