@@ -55,7 +55,7 @@ description_en: |
    
    If you are interested to focus more on floor work, floor acrobatics and Contemporary Dance technique, while keep practicing on the principles of the "CONNECTION WORKS" Workshop, you can also book via email the
    "12-Thursdays INTENSIVE WORKSHOP":  
-   Every Thursday at 18.15-19.45 , March 9th - June 8th, 2017
+   Every Thursday at 18.15-19.45 , March 9th - June 8th, 2017  
    https://www.facebook.com/events/1859435957675557/ 
 
 
