@@ -21,11 +21,9 @@ type_de: "Workshop"
 level_en: "Open for less experienced people and more advanced movers"
 level_de: "Open for less experienced people and more advanced movers"
 
-price_en: 'Early bird (if paid by March 6th, 2017): EUR 28  
-  Workshop price: EUR 35'  
+price_en: 'Early bird (if paid by March 6th, 2017): EUR 28 // Workshop price: EUR 35'  
 
-price_de: 'Frühbucher-Rabatt (Bezahlung bis 6.3.2017): 28 Euro  
-  Preis: 35 Euro'
+price_de: 'Frühbucher-Rabatt (Bezahlung bis 6.3.2017): 28 Euro // Preis: 35 Euro'
 
 language_en: "english"
 language_de: "Englisch"
