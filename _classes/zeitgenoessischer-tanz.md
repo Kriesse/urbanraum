@@ -5,6 +5,10 @@ schedule:
   - day: "monday"
     start: "8:00pm"
     end: "9:30pm"
+    schedule:
+  - day: "tuesday"
+    start: "10:00am"
+    end: "11:30am"
 image: "class-contemporary-01.jpg"
 
 title_en:  "Contemporary Dance"
