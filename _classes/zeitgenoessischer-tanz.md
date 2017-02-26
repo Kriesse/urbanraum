@@ -1,5 +1,5 @@
 ---
-order: "2"
+order: "1"
 teacher: "friederike"
 schedule:
   - day: "monday"
@@ -11,7 +11,7 @@ schedule:
     end: "11:30am"
 image: "class-contemporary-01.jpg"
 
-title_en:  "Contemporary Dance"
+title_en:  "Zeitgenössischer Tanz"
 title_de:  "Zeitgenössischer Tanz"
 
 type_en: "Weekly Class"
