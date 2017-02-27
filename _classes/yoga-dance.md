@@ -34,7 +34,15 @@ price_en: |
 
 
 price_de: |
+  Drop-in: 12 €  
+  Probestunde: 10 €  
+  5-er Karte: 50 €  
+  10-er Karte: 90€  
+  (3 Monate gültig)
 
+  Yogi Pass:  60 €  
+  (monatlich unbegrenzt viele Klassen)
+  
 description_en: |
   María is a Dancer, Ex-Gymnast, Actress and Yoga teacher with a strong artistic passion. She followed artistic Gymnastics passionately for ten years competing on high level; concerned abuot her health at a joung age, her parents proposed a more balanced practice and so reluctantly she became an athlete competing in Velocity, Pole and Long Jump. In university she studied Theater Arts, where her big passion for movement and art guided her to Dance and to joining the professional company of Physical Theater and Dance “Rabos de Lagartija”. She later joined the “Dance Intensive Program” at Tanzfabrik Berlin where she trained in Contemporary dance, GaGa, Flying Low, Release, Balley, Improvisation, Movement Research and Instant Composition. At the moment she works in her own projects and teaches yoga, creative writing, and the series of Workshops "The Poetry of the Body - Dance/ActionTheatre/Improvisation"
 
