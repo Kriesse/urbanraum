@@ -13,8 +13,8 @@ image: "class-yoga-dance.jpg"
 title_en: "Yoga Dance"
 title_de: "Yoga Dance"
 
-subtitle_en: "starting march 2017"
-subtitle_de: "ab März 2017"
+subtitle_en: "starting march 6th 2017"
+subtitle_de: "ab 6. März 2017"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
