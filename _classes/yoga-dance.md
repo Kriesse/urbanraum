@@ -20,7 +20,7 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 level_en: "Previous experience with movement (of any kind) is recommended, but  also suitable for commited beginers"
-level_de: ""
+level_de: "Bewegungs-Erfahrung von Vorteil, aber auch Anfänger sind willkommen"
 
 price_en: |
   Drop-in: 12 €  
