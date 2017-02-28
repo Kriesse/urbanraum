@@ -51,7 +51,7 @@ description_en: |
 
 
   Costs:  
-  60€  / Register before (and not after) 1st March 2017 to:  
+  60€  / Register to:  
   Friederike Erhart: info@urbanraum.com  
 
   Please write in your inscription e-mail a few lines describing your motivation and intentions regarding the work.
