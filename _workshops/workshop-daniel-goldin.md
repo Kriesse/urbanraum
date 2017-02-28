@@ -46,6 +46,8 @@ description_en: |
   Am zweiten Tag wird es die Möglichkeit geben, eigene Bewegungsabläufe und Improvisationen durch die Variationen desselben Themas zu verändern und diese mit Anderen zu kurzen Choreografien zu verarbeiten. Komponenten wie zum Beispiel Raum und Zeit oder die Darstellung in der Gruppe und als Individuum sollen dabei variiert werden.
 
   Weitere Infos: http://www.daniel-goldin.de/home/
+  
+  Foto: Matthias Zölle
 
 
 description_de: |
@@ -65,5 +67,7 @@ description_de: |
   Am zweiten Tag wird es die Möglichkeit geben, eigene Bewegungsabläufe und Improvisationen durch die Variationen desselben Themas zu verändern und diese mit Anderen zu kurzen Choreografien zu verarbeiten. Komponenten wie zum Beispiel Raum und Zeit oder die Darstellung in der Gruppe und als Individuum sollen dabei variiert werden.
 
   Weitere Infos: http://www.daniel-goldin.de/home/
+  
+  Foto: Matthias Zölle
 
 ---
