@@ -44,6 +44,5 @@ description_de: |
   10 x Montags, 16:00 -16:45    
   Probestunde: 8 Euro  
   Eine Probestunde ist an den ersten beiden Terminen (8. & 15.5.2017) möglich.  
-  Anmeldung und weitere Infos unter http://www.contakids-berlin.de/   
-  oder Mail an: jenny.doell@freenet.de
+
 ---
