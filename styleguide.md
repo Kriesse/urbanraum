@@ -23,6 +23,7 @@ Link: [Github](https://github.com/Kriesse/urbanraum/tree/gh-pages)
 * So sieht ein Link aus: `[example link](http://example.com/)`
 * *Kursiver Text* wird so erzeugt: `*kursiver Text*`
 * **Fetter Text** wird so erzeugt: `**fetter Text**`
+* Wenn es keine zugewiesene Person (oder kein Bild): Nach dem Doppelpunkt einfach leerlassen. Keine Anführungszeichen ohne Inhalt verwenden, das verursacht Fehler. Also einfach nur: `teacher:` oder `image:`.
 
 # Neue Datei anlegen
 
