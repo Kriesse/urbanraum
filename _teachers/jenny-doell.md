@@ -4,7 +4,7 @@ name: "Jenny Döll"
 email: "jenny.doell@freenet.de"
 website-title: "www.contakids-berlin.de"
 website-link: "http://www.contakids-berlin.de/ "
-image:
+image: "teacher-jenny-doell.jpg"
 
 bio_en: |
  s. german bio
