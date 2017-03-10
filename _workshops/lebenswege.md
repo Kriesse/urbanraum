@@ -66,7 +66,7 @@ description_de: |
   8 Teilnehmer: 225 EUR  
   ab 12 Teilnehmer: 190 EUR  
 
-  Verbindliche Anmeldung bis zum 15.2.2017: produktion@evaburghardt.com.   
+  Fragen und Anmeldung bitte an: produktion@evaburghardt.com  
   Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr, die 2. Hälfte ist zu Beginn des Projektes fällig.
   Je nach Teilnehmerzahl verändert sich der Preis (s.o.), dies wird durch die Zahlung der 2. Hälfte bei Anfang des Projektes reguliert.
 ---
