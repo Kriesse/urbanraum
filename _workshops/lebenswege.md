@@ -59,8 +59,6 @@ description_de: |
 
   Vorerfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig.
 
-  Fragen bitte an: produktion@evaburghardt.com  
-
   Preis:   
   mind. 6 Teilnehmer: 250 EUR (bis 15. Februar 2017)  
   8 Teilnehmer: 225 EUR  
