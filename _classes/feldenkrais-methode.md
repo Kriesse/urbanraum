@@ -1,11 +1,11 @@
 ---
 order: "3"
-teacher: 
+teacher:
 schedule:
   - day: "monday"
     start: "05:00pm"
     end: "06:00pm"
-image: 
+image: "class-feldenkrais.jpg"
 
 title_en: "Die Magie des Körpers und die Feldenkrais Methode"
 title_de: "Die Magie des Körpers und die Feldenkrais Methode"
