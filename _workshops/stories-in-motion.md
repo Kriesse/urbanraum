@@ -36,6 +36,7 @@ language_de:
 
 description_en: |  
 
+  STORIES IN MOTION /  
   an exploration  
   of memory  
   and imagination  
@@ -62,6 +63,10 @@ description_en: |
   She trained in contemporary dance at Trinity Laban Conservatoire of Music and Dance in London and furthered her movement practice with yoga and capoeira. 
   In the search for new sources of inspiration for her artistic work, she undertook an MA in Critical & Creative Analysis across the departments of Sociology, Music and English Literature at Goldsmiths University, London. For her dissertation she invented an empirical research method informed by her background in performance. She is interested in bringing theory into practice and using performance and improvisation as a means to connect, share and discover.
     
+    Contact:  
+    Beatrix Joyce
+    beatrixjoyce@gmail.com
+    Facebook: 
     
   ‘I try to echo the way our brain shifts attention. Like the way you overhear something that makes you remember something else, or how when you’re out walking you invent scenarios around the things you see. Or the way we’ve become conduits for all these media images, which we’re unable to filter from our memories.’ - Janet Cardiff
 
