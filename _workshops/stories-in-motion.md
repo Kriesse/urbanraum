@@ -16,6 +16,10 @@ subtitle_en: "Workshop with Beatrix Joyce"
 subtitle_de: "Workshop mit Beatrix Joyce"
 
 type_en: "Workshop"
+
+language_en: english
+language_de: Englisch
+
 type_de: "Workshop"
 
 level_en: "All backgrounds and levels welcome"
