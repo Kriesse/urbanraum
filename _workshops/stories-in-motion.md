@@ -4,7 +4,7 @@ teacher:
 date_en: "15.04.2017"
 date_de: "15.04.2017"
 
-time: 12:00am
+time: 12:00pm
 endtime: 04:00pm
 
 image: 
@@ -21,10 +21,10 @@ type_de: "Workshop"
 level_en: "All backgrounds and levels welcome"
 level_de: "Alle Level und Hintergründe sind willkommen"
 
-price_en: '45 Euro      
+price_en: '45 Euro        
   Early bird: 39 Euro, if paid by April 8th, 2017'
 
-price_de: '45 Euro     
+price_de: '45 Euro       
   Frühbucher-Rabatt (wenn bezahlt bis 08.04.2017): 39 Euro'
 
 language_en:
