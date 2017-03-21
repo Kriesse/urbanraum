@@ -20,10 +20,13 @@ level_en: ""
 level_de: ""
 
 price_en: |
+  10 lessons: EUR 75  
+  Drop-in: EUR 11
 
 
-price_de: |
-
+price_de: |  
+  10-er Karte: 75 Euro
+  Einzelstunde: 11 Euro
 
 description_en: |
 
