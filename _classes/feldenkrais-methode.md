@@ -25,7 +25,7 @@ price_en: |
 
 
 price_de: |  
-  10-er Karte: 75 Euro
+  10-er Karte: 75 Euro  
   Einzelstunde: 11 Euro
 
 description_en: |
