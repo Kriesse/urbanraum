@@ -36,8 +36,12 @@ description_en: |
 
   Dates: every thursday (10-12 pm) from February 2nd until April 27th   
   Except thursday April 13th, the class will take place on tuesday, April 11th.  
+  
+  //  
 
-  The next Dance Company Lab will take place from May 4th until July 27th.
+  The next Dance Company Lab will take place from May 4th until July 27th.  
+  Price (for 13 classes): EUR 190  
+  Early bird (until April 20th): EUR 175
   
 description_de: |
   Tanztechnik und Choreografie, mit einem Fokus auf zeitgenössischen Tanztechniken und Performance: 
@@ -51,7 +55,7 @@ description_de: |
   //  
   
   Das nächste Tanzcompany Lab findet vom 4. Mai bis zum 27. Juli 2017 statt (13 Termine).   
-  Preis: 190 Euro.   
+  Preis: 190 Euro     
   Frührabatt bis 20. April: 175 Euro
 
 ---
