@@ -48,6 +48,10 @@ description_de: |
   Termine: Donnerstags, 10-12 Uhr vom 2.2.2017-27.4.2017  
   Anstatt des Termins am 13.4.2017 findet das Lab am Dienstag, den 11.4.2017 statt.  
   
-  Das nächste Tanzcompany Lab findet vom 4. Mai bis zum 27. Juli 2017 statt.
+  //  
+  
+  Das nächste Tanzcompany Lab findet vom 4. Mai bis zum 27. Juli 2017 statt (13 Termine).   
+  Preis: 190 Euro.   
+  Frührabatt bis 20. April: 175 Euro
 
 ---
