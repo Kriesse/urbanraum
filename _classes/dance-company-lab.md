@@ -21,7 +21,7 @@ level_de: "Adv-Inter"
 
 price_en: |
   Trial lesson: EUR 12  
-  Price: EUR 190
+  Price: EUR 190  
   Early bird until April 20th: EUR 175  
 
 price_de: |
