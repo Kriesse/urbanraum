@@ -43,7 +43,7 @@ description_de: |
   
   Im Technikteil werden die Studenten herausgefordert, an der Ausrichtung ihres Körpers zu arbeiten und die Koordination, die Kraft und die Entwicklung von Bewusstsein und Bewegung auf mehreren räumlichen Ebenen zu erhöhen. Die Choreographie-Komponente dieses Kurses dient dem Lernen und der Entwicklung von Bewegung mit Hilfe einer Vielfalt von choreographischen Ansätzen.  
   
-  Termine: donnerstags, 10.00-12.00
+  Termine: donnerstags, 10.00-12.00  
   Vom 4. Mai - 27. Juli 2017
 
 
