@@ -10,8 +10,8 @@ image: "class-contemporary-dance-workshop.jpg"
 title_en: "Dance Company Lab"
 title_de: "Tanzcompany Lab"
 
-subtitle_en: "until April 27th 2017"
-subtitle_de: "bis 27. April 2017"
+subtitle_en: "New block from May on"
+subtitle_de: "neuer Block ab Mai 2017"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -21,41 +21,30 @@ level_de: "Adv-Inter"
 
 price_en: |
   Trial lesson: EUR 12  
-  All classes: EUR 190, early bird until January 27th: EUR 180  
+  All classes: EUR 190, early bird until April 20th: EUR 175  
 
 price_de: |
   Probestunde: 12 Euro  
-  Alle Termine: 190 Euro, Frühbucher-Rabatt (bis 27.1.2017): 180 Euro  
+  Alle Termine: 190 Euro, Frühbucher-Rabatt (bis 20.4.2017): 175 Euro  
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
 
   The idea of this course is to experience a Dance company-similar dynamic: Beginning with a dance technique class, then working on a choreographic creative process (rehearsal) to finally show the results of it.
 
-  In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
-
-  Dates: every thursday (10-12 pm) from February 2nd until April 27th   
-  Except thursday April 13th, the class will take place on tuesday, April 11th.  
+  In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.  
   
-  //  
-
-  The next Dance Company Lab will take place from May 4th until July 27th.  
-  Price (for 13 classes): EUR 190  
-  Early bird (until April 20th): EUR 175
+  Dates: every thursday, 10.00-12.00  
+  From May 4th - July 27th 2017
   
 description_de: |
   Tanztechnik und Choreografie, mit einem Fokus auf zeitgenössischen Tanztechniken und Performance: 
   Die Idee von diesem Kurs ist, eine Tanzcompany-ähnliche Dynamik zu erleben, beginnend mit einem Tanztechnik-Unterricht, an den ein choreografisch-kreativer Prozess (Probe) anschließt, um schließlich die Ergebnisse zu präsentieren. 
   
-  Im Technikteil werden die Studenten herausgefordert, an der Ausrichtung ihres Körpers zu arbeiten und die Koordination, die Kraft und die Entwicklung von Bewusstsein und Bewegung auf mehreren räumlichen Ebenen zu erhöhen. Die Choreographie-Komponente dieses Kurses dient dem Lernen und der Entwicklung von Bewegung mit Hilfe einer Vielfalt von choreographischen Ansätzen.
+  Im Technikteil werden die Studenten herausgefordert, an der Ausrichtung ihres Körpers zu arbeiten und die Koordination, die Kraft und die Entwicklung von Bewusstsein und Bewegung auf mehreren räumlichen Ebenen zu erhöhen. Die Choreographie-Komponente dieses Kurses dient dem Lernen und der Entwicklung von Bewegung mit Hilfe einer Vielfalt von choreographischen Ansätzen.  
   
-  Termine: Donnerstags, 10-12 Uhr vom 2.2.2017-27.4.2017  
-  Anstatt des Termins am 13.4.2017 findet das Lab am Dienstag, den 11.4.2017 statt.  
-  
-  //  
-  
-  Das nächste Tanzcompany Lab findet vom 4. Mai bis zum 27. Juli 2017 statt (13 Termine).   
-  Preis: 190 Euro     
-  Frührabatt bis 20. April: 175 Euro
+  Termine: donnerstags, 10.00-12.00
+  Vom 4. Mai - 27. Juli 2017
+
 
 ---
