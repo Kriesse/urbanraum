@@ -7,7 +7,7 @@ date_de: "15.04.2017"
 time: 12:00pm
 endtime: 04:00pm
 
-image: 
+image: "stories-in-motion.jpg"
 
 title_en: "Stories In Motion"
 title_de: "Stories In Motion"
