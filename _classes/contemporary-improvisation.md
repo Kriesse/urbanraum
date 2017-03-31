@@ -34,7 +34,7 @@ description_en: |
   ///  
 
   Rachael Mauney is a freelance artist in Berlin from the United States, where she worked in both Washington D.C. and Seattle. She spent four seasons with Company Danzante (2012-2016) and worked as a freelance artist with Tectonic Marrow Society, Khambatta Dance Company, Alice Gosti, Kyoko Ruch, Robert Priore, and Marcus J. Willis.
-She is currently training with Cie. Toula Limnaios, performing with DOCK11's Video Project, Paulo Franco, and Andrea Hackl and is teaching at UrbanRaum and Lernzentrum Potsdam. 
+  She is currently training with Cie. Toula Limnaios, performing with DOCK11's Video Project, Paulo Franco, and Andrea Hackl and is teaching at UrbanRaum and Lernzentrum Potsdam. 
 
 description_de: |
 
