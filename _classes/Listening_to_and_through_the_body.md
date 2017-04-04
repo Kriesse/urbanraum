@@ -34,7 +34,7 @@ description_en: |
   This module is inspired by my long lasting passion for body awareness. It is based on my movement practice developed over 10 years researching as a contemporary dancer, choreographer and Qi-gong practitioner. The nature of the work provides a continually fresh outlook at each session through softening, observing and inquiring.
 
   The practice takes you through standing exercises, designed to help you achieve balance, towards a softer and freer exploration of your own movement in relationship to space, the group, silence and sound.
-We will work through an attentive use of the breath, incorporating elements of Qi-gong, using vibration as a tool to relax and open the articulations in order to let the energy flow freely through the body - thus facilitating the letting go of unnecessary tensions held in the body. The specific use of the eyes with visual images will allow playfulness to be part of the process.
+  We will work through an attentive use of the breath, incorporating elements of Qi-gong, using vibration as a tool to relax and open the articulations in order to let the energy flow freely through the body - thus facilitating the letting go of unnecessary tensions held in the body. The specific use of the eyes with visual images will allow playfulness to be part of the process.
 
   A process of locating joy, softness, openness, presence and stamina into the body!
   Although the 5 sessions are linked drop-in sessions are possible and welcome.
