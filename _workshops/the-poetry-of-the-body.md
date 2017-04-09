@@ -58,7 +58,7 @@ description_en: |
   - Unveil your Enthusiasm and Joy  
   - Convert the inner critic into our ally  
 
-  In this 4 hour workshop we will dive deeper in order to set ourselves free from the dictatorship of the inner critic, the logical thinking and the literal meaning; Discovering the symbolic and poetic language we all have.
+  In this 6 hour workshop we will dive deeper in order to set ourselves free from the dictatorship of the inner critic, the logical thinking and the literal meaning; Discovering the symbolic and poetic language we all have.
 
   You’ll learn to:  
   trust and follow yourself wherever you go,  
@@ -69,6 +69,12 @@ description_en: |
   amplify possibilities of being and existing in the world.  
 
   Bring comfortable clothing and a notebook.  
+  
+  ///
+  
+  Max. 14 particpants.  
+  Prior booking and payment is required to participate in the workshop.
+
 description_de: |
   s. english description
 
