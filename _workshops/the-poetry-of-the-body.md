@@ -25,10 +25,10 @@ type_de: "Workshop"
 level_en: "All backgrounds and levels welcome"
 level_de: "Alle Level und Hintergründe sind willkommen"
 
-price_en: '69 Euro          
+price_en: '69 Euro  
   Early bird: 60 Euro, if paid by April 16th, 2017'
 
-price_de: '69 Euro         
+price_de: '69 Euro           
   Frühbucher-Rabatt (wenn bezahlt bis 16.04.2017): 60 Euro'
 
 language_en:
