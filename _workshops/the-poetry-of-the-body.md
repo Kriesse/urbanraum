@@ -7,7 +7,7 @@ date_de: "23.04.2017"
 time: 12:00pm
 endtime: 06:30pm
 
-image: 
+image: "workshop-poetry-of-the-body-iii.jpg"
 
 title_en: "The Poetry of the Body (Part III)"
 title_de: "The Poetry of the Body (Part III)"
@@ -37,15 +37,15 @@ language_de:
 description_en: |  
   Dear beings, We are very happy to announce that, finally, the third part of our Workshop -The Poetry of the Body- arrived! We will dive deeper and further into the work we have been developing.
   With new material, excercises, musicians and inspiring journeys. With new fesh air, and a stronger focus into Solo work, musicality, presence and group compositions. We will dance and create POETRY IN MOVEMENT.
-  
+
   The Workshop is- Open for everyone!- even if you didnt attend previous WS you are very welcome to join.  
 
   With live music! And a no-fear atmosphere!  
 
   /////////////////////////////////////////////////////////////////////////////////////////
-  
+
   In this workshop we will explore how to dedicate ourselves entirely and uniquely to the present moment. Keeping ourselves engaged, interested and fascinated by our inner landscapes in a dance of becoming and disappearing. We will compose poems and short pieces using simple and joyful tasks of improvisation alone, in couples or groups. Learning how to listen to yourself and the others, flexibilize your thinking and follow your creative source and expression.  
-  
+
   We will study how to:
 
   - Create material when there is nothing else there (others / objects)  
@@ -69,9 +69,9 @@ description_en: |
   amplify possibilities of being and existing in the world.  
 
   Bring comfortable clothing and a notebook.  
-  
+
   ///
-  
+
   Max. 14 particpants.  
   Prior booking and payment is required to participate in the workshop.
 
