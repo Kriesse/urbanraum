@@ -3,8 +3,8 @@ order: "1"
 teacher: "wicki"
 schedule:
   - day: "wednesday"
-    start: "4:30pm"
-    end: "5:15pm"
+    start: "4:00pm"
+    end: "5:45pm"
 image: "class-tanz-musik.jpg"
 
 title_en: "Musik und Kreativer Tanz für Kinder (3-4 Jahre)"
