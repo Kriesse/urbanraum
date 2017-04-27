@@ -6,7 +6,7 @@ schedule:
     start: "08:00pm"
     end: "09:30pm"
 
-image: ""
+image: "teacher-maria-sanchez.jpg"
 
 title_en: "The Poetic Body"
 title_de: "The Poetic Body"
