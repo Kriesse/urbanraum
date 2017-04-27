@@ -48,7 +48,7 @@ description_en: |
   
   ///
   
-  “Like a baby who has not yet learned to smile  
+  *“Like a baby who has not yet learned to smile  
   but attempts everything innocently,  
   the baby has no past to measure the present.
   
@@ -64,7 +64,7 @@ description_en: |
   because the Way is mysterious“  
  
   “Your thoughts ever manifest as experience.  
-  Become the master of your response.”  
+  Become the master of your response.”*    
   
   From the Taoist Master/Dream Analist – Kari Hohne
 
