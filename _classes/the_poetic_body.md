@@ -4,7 +4,7 @@ teacher: "maria"
 schedule:
   - day: "thursday"
     start: "08:00pm"
-    end: "09:30am"
+    end: "09:30pm"
 
 image: ""
 
