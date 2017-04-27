@@ -17,7 +17,7 @@ subtitle_de: "Dance Improvisation and Composition"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "This Class is open to everyone with a sincere interest in Improvisation and Composition; Previous Art practice of any kind (poetry, music, painting…) is recomended as well as some movement experience."
+level_en: "This Class is open to everyone with a sincere interest in Improvisation and Composition. Previous Art practice of any kind (poetry, music, painting…) is recomended as well as some movement experience."
 level_de: "s. english"
 
 price_en: |
@@ -36,7 +36,7 @@ price_de: |
   
 description_en: |
 
-  Experiencing different improvisation teachniques, we will work intesively with the body and its ocean of expression, allowing the poetics of the body and it´s presence in motion to unfold; going a bit further on taking that into Compositions. Creating short pieces and “poems in movement” that are open to meaning  and interpretation. Unfolding suggestive landscapes and alive compositions.  
+  Experiencing different improvisation teachniques, we will work intensively with the body and its ocean of expression, allowing the poetics of the body and it´s presence in motion to unfold; going a bit further on taking that into Compositions. Creating short pieces and “poems in movement” that are open to meaning  and interpretation. Unfolding suggestive landscapes and alive compositions.  
   
   We will work with presence, iner visions and imagination, inner discurse/speech, decision making, braveness, vulnerability, clarity of movement, musicality and present time awareness. Using tasks and excercises related to practices like Action Theatre, Instant Composition, Dance Improvisation, Creative Writing and Butoh.  
   
