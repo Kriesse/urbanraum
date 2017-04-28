@@ -21,15 +21,16 @@ level_en: "open level"
 level_de: "open level"
 
 price_en: |
-  Full module / 5 sessions: EUR 45  
-  No drop in sessions
+  Single session: EUR 12  
+  Registration is required "the day before" at giorgiamini@yahoo.com
+  
 
 price_de: |
-  Alle Termine / 5 sessions: 45 Euro  
-  Kein Drop-in möglich
+Einzelstunde: 12 Euro  
+Anmeldung bitte jeweils am vorherigen Tag unter giorgiamini@yahoo.com.
 
 description_en: |
-  5 Thursday mornings from 08.30 to 09.40 (20th April -18th of May)  
+  5 Thursday mornings from 08.30 to 09.40 (20th April - 18th of May)  
 
   Listening to and through the body is a cycle of 5 weekly morning open level sessions suitable for anyone who has the desire and curiosity to get in touch with his/her own body and explore the potential of it’s awareness. Those who have never danced before will learn to move their bodies safely, intuitively and relaxed while professionals, dancers, actors, performers, musicians can deepen their understanding of personal practices.
   This module is inspired by my long lasting passion for body awareness. It is based on my movement practice developed over 10 years researching as a contemporary dancer, choreographer and Qi-gong practitioner. The nature of the work provides a continually fresh outlook at each session through softening, observing and inquiring.
