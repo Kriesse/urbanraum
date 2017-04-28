@@ -11,8 +11,8 @@ image: "class-listening-to-and-through-the-body-morning.jpg"
 title_en: "Listening to and through the body"
 title_de: "Listening to and through the body"
 
-subtitle_en: "MORNING CYCLE | Registration is required before the 17th of April"
-subtitle_de: "MORNING CYCLE | Registration is required before the 17th of April"
+subtitle_en: "MORNING CYCLE"
+subtitle_de: "MORNING CYCLE"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -26,8 +26,8 @@ price_en: |
   
 
 price_de: |
-Einzelstunde: 12 Euro  
-Anmeldung bitte jeweils am vorherigen Tag unter giorgiamini@yahoo.com.
+  Einzelstunde: 12 Euro  
+  Anmeldung bitte jeweils am vorherigen Tag unter giorgiamini@yahoo.com.
 
 description_en: |
   5 Thursday mornings from 08.30 to 09.40 (20th April - 18th of May)  
