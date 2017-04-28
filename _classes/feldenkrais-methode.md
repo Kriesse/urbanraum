@@ -54,4 +54,4 @@ description_de: |
   Freitag 30.06   20.45-21.45 "From Sitting to standing"  
   Freitag 07.07   20.45-21.45 "Spine as a Chain"  
   
-  ---
+---
