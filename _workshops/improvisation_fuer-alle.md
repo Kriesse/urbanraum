@@ -7,7 +7,7 @@ date_de: "18.06.2017"
 time: 04:30pm
 endtime: 07:30pm
 
-image: "workshop-improvisation-fuer-alle.jpg"
+image: 
 
 title_en: "Tanz-Improvisation für Alle"
 title_de: "Tanz-Improvisation für Alle"
