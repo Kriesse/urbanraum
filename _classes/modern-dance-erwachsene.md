@@ -5,7 +5,7 @@ schedule:
   - day: "wednesday"
     start: "06:15pm"
     end: "07:45pm"
-image: 
+image: "class-moderndance-livia.jpg"
 
 title_en: "Modern Dance"
 title_de: "Modern Dance für Erwachsene"
