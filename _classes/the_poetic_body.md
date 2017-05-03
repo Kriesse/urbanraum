@@ -37,15 +37,15 @@ price_de: |
   
 description_en: |
 
-  Experiencing different improvisation teachniques, we will work intensively with the body and its ocean of expression, allowing the poetics of the body and it´s presence in motion to unfold; going a bit further on taking that into Compositions. Creating short pieces and “poems in movement” that are open to meaning  and interpretation. Unfolding suggestive landscapes and alive compositions.  
-  
-  We will work with presence, iner visions and imagination, inner discurse/speech, decision making, braveness, vulnerability, clarity of movement, musicality and present time awareness. Using tasks and excercises related to practices like Action Theatre, Instant Composition, Dance Improvisation, Creative Writing and Butoh.  
-  
-  The class will begin with a research practice where we will explore the possibilities of  movement and dynamics, expanding our movement vocabulary, visiting thought improvisation different qualities and choices; in order to make ourselves available and potencially free in HOW we move. Here we will work on expanding, rediscovering and experiencing the HOW and WHAT we are doing. Creating our own material and aknowledging it as a dynamic constantly changing  living  thing, that has its own life, detached from our identity.  
-  
-  We will work a lot on learning how to LISTEN to ourselves and others. We will practice being constantly in present time, ready and available, like a wild cat. Creating and choreographing, phrasing the movement in order to let the material speak up and dance it with joy.  
-  
-  Taking that a bit fruther we will jump into the field of relation to others, to ourselves, and to the material we are creating, or it´s being created. Working on duos, trios, and Group compositions as well as in Solos. Taking the whole work to serve the composition, and letting it rip off you to serve the poetry and the “third body” = The composition. Practicing WHERE and WHEN we do what we do, and noticing how time and space can be modified.  
+  Experiencing different improvisation techniques, we will work intesively with the body and its ocean of expression, allowing the poetics of the body and it´s presence in motion to unfold; going a bit further on taking that into Compositions. Creating short pieces and “poems in movement” that are open to meaning  and interpretation. Unfolding suggestive landscapes and alive compositions.
+
+  We will work with presence, inner visions and imagination, inner discurse/speech, decision making, braveness, vulnerability, clarity of movement, musicality and present time awareness. Using tasks and excercises related to practices like Action Theatre, Instant Composition, Dance Improvisation, Creative Writing and Butoh.
+
+  The class will begin with a research practice where we will explore the possibilities of  movement and dynamics, expanding our movement vocabulary, visiting thought improvisation different qualities and choices; in order to make ourselves available and potencially free in HOW we move. Here we will work on expanding, rediscovering and experiencing the HOW and WHAT we are doing. Creating our own material and aknowledging it as a dynamic constantly changing  living  thing, that has its own life, detached from our identity.
+
+  We will work a lot on learning how to LISTEN to ourselves and others. We will practice being constantly in present time, ready and available, like a wild cat. Creating and choreographing, phrasing the movement in order to let the material speak up and dance it with joy.
+
+  Taking that a bit fruther we will jump into the field of relation to others, to ourselves, and to the material we are creating, or that´s being created. Working on duos, trios, and Group compositions as well as in Solos. Taking the whole work to serve the composition, and letting it rip off you to serve the poetry and the “third body” = The composition. Practicing WHERE and WHEN we do what we do, and noticing how time and space can be modified.
   
   ///
   
