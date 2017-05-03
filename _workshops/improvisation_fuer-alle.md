@@ -25,9 +25,11 @@ type_de: "Workshop"
 level_en: "All backgrounds"
 level_de: "Für alle Menschen mit unterschiedlichen Fähigkeiten"
 
-price_en: 
+price_en: |
+  EUR 30
 
-price_de: 
+price_de: |
+  30 Euro
 
 language_en:
 language_de:
@@ -41,7 +43,8 @@ description_de: |
   
   Nächster Termin: 9. Juli 2017, 15 Uhr
   
-  ///
-  Foto: Luke Sonnenglanz
+  Anmeldung unter per Email (jederkanntanzen@web.de) oder Telefon (0163-4016293). 
+  
+  /// Foto: Luke Sonnenglanz
 
 ---
