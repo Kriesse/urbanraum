@@ -17,8 +17,8 @@ bio_en: |
   She later joined the “Dance Intensive Program” at Tanzfabrik Berlin where she trained in Contemporary dance, GAGA, Flying Low, Release, Ballet, Improvisation, Movement Research and Instant Composition.
   With teachers that deeply inspire her such as Maya M.Carrol, Idan Yoav, Chandana M. Horrmann, Shai Faran among others. María keeps training continiously in all these fields and disciplines, adding also Flamenco and Butoh Dance (Atsutshi Takenouchi).
 
-Apart from the dance fields she´s deeply interested and stays in permanent contact with Jungian Physchology, Taoism, I Ching, Dream interpretation, Tarot and Psychomagic (Alejandro Jodorowsky), Poetry and Creative Writing (Natalie Goldberg-Sofía Fernández).
+  Apart from the dance fields she´s deeply interested and stays in permanent contact with Jungian Physchology, Taoism, I Ching, Dream interpretation, Tarot and Psychomagic (Alejandro Jodorowsky), Poetry and Creative Writing (Natalie Goldberg-Sofía Fernández).
 
 
-At the moment she works in her own projects, teaches yoga and Dance Improvisation; she leads a creative writing group, and teaches the series of Workshops 'The Poetry of the Body - Dance/ActionTheatre/Improvisation'. 
+  At the moment she works in her own projects, teaches yoga and Dance Improvisation; she leads a creative writing group, and teaches the series of Workshops 'The Poetry of the Body - Dance/ActionTheatre/Improvisation'. 
 ---
