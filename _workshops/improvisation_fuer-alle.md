@@ -9,11 +9,11 @@ endtime: 07:30pm
 
 image: "workshop-improvisation-für-alle.jpg"
 
-title_en: "Improvisation für Alle"
-title_de: "Improvisation für Alle"
+title_en: "Tanz-Improvisation für Alle"
+title_de: "Tanz-Improvisation für Alle"
 
-subtitle_en: "Sonntags-Workshop"
-subtitle_de: "Sonntags-Workshop"
+subtitle_en: "inklusive Sonntags-Workshops"
+subtitle_de: "inklusive Sonntags-Workshops"
 
 type_en: "Workshop"
 
@@ -38,6 +38,8 @@ description_en: |
 description_de: |
   Wir nehmen achtsam Kontakt zum Raum um uns herum, zu uns selbst und den Anderen auf und probieren in diesem geschützten Rahmen spielerisch und mit Spaß aus, welche Bewegungen mit uns selbst und den Anderen möglich sind. 
   Am Ende kommt eventuell sogar eine kleine freie Choreo heraus...
+  
+  Nächster Termin: 9. Juli 2017, 15 Uhr
   
   ///
   Foto: Luke Sonnenglanz
