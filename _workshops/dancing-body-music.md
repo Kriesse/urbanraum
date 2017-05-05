@@ -48,9 +48,7 @@ description_en: |
 
   A dancing body can also be a musical body; thanks to body percussion technique and dance improvisation (DanceAbility) in this workshop we will explore and push individual limits beyond the possibilities we normally think our body would have.
 
-  We want to create a common space for artistic expression where each person's diversity is emphasised:  
-
-  limit is the essential starting point of creative action.
+  We want to create a common space for artistic expression where each person's diversity is emphasised: limit is the essential starting point of creative action.
 
   The workshop is open to everyone, also for people with physical or cognitive disability. Dancers and musicians, or people who are just interested in exploring body language: everyone is welcome!  
 
