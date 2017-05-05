@@ -52,7 +52,7 @@ description_en: |
 
   The workshop is open to everyone, also for people with physical or cognitive disability. Dancers and musicians, or people who are just interested in exploring body language: everyone is welcome!  
 
-  Focus of the workshop:  
+  **Focus of the workshop**:  
   In the first steps we will approach the basic body percussion and dance skills separately. On one hand we will explore the wide range of sounds a body can create: we will then learn some simple grooves through coordination exercises and we will perform simple improvisations, both collective and individual.  
 
   On the other hand we want to explore the relation between body and space while dancing: we want to awaken intuitive thought and discover the pleasure of moving our body at our own pace. How do I relate to different forms and bodies? How can I open up my imagination if I change my point of view? These are some of the questions which will move our workshop.
