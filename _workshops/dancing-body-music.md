@@ -1,5 +1,5 @@
 ---
-teacher: ""
+teacher: "luisi-marinaro"
 
 date_en: "29. & 30.07.2017"
 date_de: "29. & 30.07.2017"
