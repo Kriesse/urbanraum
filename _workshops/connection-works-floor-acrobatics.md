@@ -12,8 +12,8 @@ image:
 title_en: "Connection Works and Floor Acrobatics Workshop "
 title_de: "Connection Works and Floor Acrobatics Workshop "
 
-subtitle_en: "Vol.2: Partnering"
-subtitle_de: "Vol.2: Partnering"
+subtitle_en: "Vol.2: Partnering work, Floor Acrobatics and Improvisation in Contemporary Dance"
+subtitle_de: "Vol.2: Partnering work, Floor Acrobatics and Improvisation in Contemporary Dance"
 
 type_en: "Workshop"
 
