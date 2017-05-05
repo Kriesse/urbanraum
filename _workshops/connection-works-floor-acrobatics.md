@@ -26,7 +26,7 @@ level_en: "Open for less experienced people and more advanced movers"
 level_de: "Open for less experienced people and more advanced movers"
 
 price_en: |
-  Workshop price: EUR 49
+  Workshop price: EUR 49  
   Early bird (if paid by May 25th, 2017): EUR 39  
   
 price_de: |
