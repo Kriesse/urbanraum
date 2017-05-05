@@ -55,6 +55,7 @@ description_en: |
   - Floor Work & Floor Acrobatics:  
   The dancer's relation to the floor through all movement levels will be developed, using multiple floor-work patterns and phrases. Using levers and clear pathways, building up a vocabulary that can be used in further understanding the mechanics of movement. Handstands basics, building-strength exercises and different variations of handstands will be practiced. We will work on integrating the floor acrobatics we learn into our dance in and out the floor.  
   
+  ///  
   
   Prior to booking you can try out Iliana's regular classes in Berlin, after registration via email:  
 
