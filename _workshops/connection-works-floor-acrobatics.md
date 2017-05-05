@@ -53,7 +53,30 @@ description_en: |
   Spacial and body awareness, together with connectivity practice, help to develop a unified physical and mental consciousness, thus a moving body in its full consciousness expressing itself in space and time.  
   
   - Floor Work & Floor Acrobatics:  
-  The dancer's relation to the floor through all movement levels will be developed, using multiple floor-work patterns and phrases. Using levers and clear pathways, building up a vocabulary that can be used in further understanding the mechanics of movement. Handstands basics, building-strength exercises and different variations of handstands will be practiced. We will work on integrating the floor acrobatics we learn into our dance in and out the floor.
+  The dancer's relation to the floor through all movement levels will be developed, using multiple floor-work patterns and phrases. Using levers and clear pathways, building up a vocabulary that can be used in further understanding the mechanics of movement. Handstands basics, building-strength exercises and different variations of handstands will be practiced. We will work on integrating the floor acrobatics we learn into our dance in and out the floor.  
+  
+  
+  Prior to booking you can try out Iliana's regular classes in Berlin, after registration via email:  
+
+  1. Every Tuesday @ 18.15 - 19.45 in Urbanraum  
+  Urbanstr. 93, 10967 Berlin - Xberg  
+  Contemporary Dance & Improvisation, level: intermediate  
+
+  2. Every Wednesday @ 20.00 - 21.30 in ADA studio:  
+  Uferstudios-studio 7. Badstr. 41A, 13357 Berlin- Wedding  
+  Contemporary Dance & Floor acrobatics. level: intermediate  
+
+  3. Every Thursday @ 18.15-19.45 , till June 29th, 2017  
+  Urbanraum: Urbanstr. 93, 10967 Berlin - Xberg  
+  Contemporary Dance & Improvisation, level: intermediate  
+
+  4. Saturdays at 16.00 - 17.30  
+  Papillon Tanz Studios: Gürtelstrasse 25, 10247 Berlin-Ostkreuz  
+  NOT every Saturday, only after booking on  
+  http://doodle.com/poll/erp2fp7yf77u4fgx  
+  
+  More details:  
+  https://www.facebook.com/events/250402902101798
 
 description_de: |
   s. English descritpion
