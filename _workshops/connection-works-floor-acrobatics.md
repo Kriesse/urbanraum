@@ -7,7 +7,7 @@ date_de: "24.06.2017"
 time: 03:00pm
 endtime: 07:00pm
 
-image: 
+image: "workshop-iliana-voltwo.jpg"
 
 title_en: "Connection Works and Floor Acrobatics Workshop "
 title_de: "Connection Works and Floor Acrobatics Workshop "
