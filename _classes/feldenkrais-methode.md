@@ -1,11 +1,11 @@
 ---
-order: "3"
+order: "2"
 teacher: "chrysanthi"
 schedule:
   - day: "friday"
     start: "08:45pm"
     end: "09:45pm"
-image: "class-feldenkrais.jpg"
+image: "class-feldenkrais-friday.jpg"
 
 title_en: "Die Magie des Körpers und die Feldenkrais Methode"
 title_de: "Die Magie des Körpers und die Feldenkrais Methode"
