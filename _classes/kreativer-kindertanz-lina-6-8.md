@@ -3,7 +3,7 @@ order: "1"
 teacher: "lina"
 schedule:
   - day: "tuesday"
-    start: "5:00pm"
+    start: "5:15pm"
     end: "6:00pm"
 image: "class-kindertanz.jpg"
 
@@ -17,14 +17,14 @@ level_en:
 level_de:
 
 price_en: |
-  40 / month
+  37 / month
 price_de: |
-  40 Euro / Monatsbeitrag  
+  37 Euro / Monatsbeitrag  
 
 language_en: "German"
 language_de: "Deutsch"
 
-trial_en: "Auf Anfrage"
+trial_en: "Kostenlose Probestunde nach Anmeldung"
 trial_de:
 
 description_en:
@@ -35,6 +35,5 @@ description_de: |
 
   Einen ebenso wichtigen Bestandteil des Unterrichts bildet Improvisation, mittels derer die Kinder ihrer Fantasie freien Lauf lassen können. So verwandeln wir uns zum Beispiel in kleine Regentropfen oder Flugzeuge, spielen Katz und Maus oder machen als Schmetterlinge eine Reise in ferne Länder.
   
-    Herbstferien am 18.10. und 25.10.2016!
 
 ---
