@@ -3,8 +3,8 @@ order: "1"
 teacher: "lina"
 schedule:
   - day: "tuesday"
-    start: "4:00pm"
-    end: "4:45pm"
+    start: "4:30pm"
+    end: "5:15pm"
 image: "class-kindertanz.jpg"
 
 title_en: "Kreativer Kindertanz (4-6 J.)"
@@ -30,10 +30,11 @@ trial_de: "Auf Anfrage"
 description_en:
 
 description_de: |
+  Der Kurs startet wieder ab dem 13. Juni 2017!  
+  
   Beim kreativen Kindertanz wird Tanz als elementare Lern- und Ausdrucksform vermittelt. Dabei steht die Freude am Sich-Bewegen im Vordergrund.
   Mittels bestimmter Übungen werden Fähigkeiten wie Koordination, Rhythmusgefühl, Konzentrationsfähigkeit und Ausdauer entwickelt beziehungsweise gestärkt.
 
   Einen ebenso wichtigen Bestandteil des Unterrichts bildet Improvisation, mittels derer die Kinder ihrer Fantasie freien Lauf lassen können. So verwandeln wir uns zum Beispiel in kleine Regentropfen oder Flugzeuge, spielen Katz und Maus oder machen als Schmetterlinge eine Reise in ferne Länder.
   
-  Herbstferien am 18.10. und 25.10.2016!
 ---
