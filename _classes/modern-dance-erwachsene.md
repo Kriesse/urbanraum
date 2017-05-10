@@ -8,10 +8,10 @@ schedule:
 image: "class-moderndance-livia.jpg"
 
 title_en: "Modern Dance"
-title_de: "Modern Dance für Erwachsene"
+title_de: "Modern Dance"
 
-subtitle_en: "from May 2017 on"
-subtitle_de: "ab Mai 2017"
+subtitle_en: "for adults"
+subtitle_de: "für Erwachsene"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
