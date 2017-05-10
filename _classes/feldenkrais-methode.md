@@ -28,7 +28,7 @@ price_de: |
 
   Einzelstunde: 11 Euro
 
-description_en: |
+description_de: |
   Gruppenarbeit mit der Feldenkrais Methode: In diesem Fall, mit einer Gruppe, arbeite ich durch die Art und Weise der Methode die "Bewusstheit durch Bewegung" heißt (Awareness Through Movement), wo ich durch verbale Kommunikation und bestimmte an die Gruppenmitglieder angepasste Übunge anwende.
   
   Die Methode basiert auf Judo, auf der künstlerischen Körperschulung der 1920er Jahre sowie auf Erkenntnissen der manuellen Medizin.
@@ -51,8 +51,7 @@ description_en: |
 
 description_en: |
   
-  "Awareness Through Movement" consists of verbally directed movement sequences presented primarily to groups.  
-  A lesson generally lasts from forty to sixty minutes. Each lesson is usually organized around a particular function.
+  "Awareness Through Movement" consists of verbally directed movement sequences presented primarily to groups. A lesson generally lasts from forty to sixty minutes. Each lesson is usually organized around a particular function.
   
   In Awareness Through Movement lessons, people engage in precisely structured movement explorations that involve: 
   thinking, sensing, imagining and moving.
