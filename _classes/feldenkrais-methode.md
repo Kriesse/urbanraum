@@ -20,12 +20,12 @@ level_en: ""
 level_de: ""
 
 price_en: |
-  Early Bird for 10 Lessons: 75€ (till 03.05)  
+
   Drop In for each Lesson: 11€
 
 
 price_de: |  
-  Frühbucher-Rabatt für 10-er Karte: 75 Euro (bis 3.5.2017)    
+
   Einzelstunde: 11 Euro
 
 description_en: |
@@ -35,7 +35,6 @@ description_en: |
   Im Mittelpunkt der Methode stehen Bewegungsmuster, die den Lebensalltag eines Menschen prägen, und die Möglichkeiten, diese angemessen zu variieren. Sie möchte den Menschen befähigen, über die Wahrnehmung von Bewegungsabläufen seine Bewusstheit zu erweitern und größere sensomotorische Differenziertheit zu erlangen. Nachteilige Bewegungsmuster sollen gelöst und neue Bewegungsalternativen aufgezeigt werden. Auf diese Weise kann er schließlich besser erkennen und verstehen, wie er sich selbst wahrnimmt und im täglichen Leben organisiert. Beschwerden werden zu entsprechenden Bewegungsmustern zurückverfolgt und Defizite möglichst durch andere, neu erkannte Bewegungsmöglichkeiten überbrückt. Indem sich der Lernende über das eigene Tun bewusst wird, entsteht neue Beweglichkeit für Körper und Geist.
   
   Die Methode findet insbesondere zur Wiedererlangung der vollen Mobilität nach Verletzungen in der Rehabilitation und beim Abbau von fehlende Schmerzen Anwendung. Ihrem Konzept nach können jedoch Menschen in den unterschiedlichsten Lebenssituationen von ihren Möglichkeiten profitieren. Sie soll geistige und körperliche Frische bis ins hohe Alter erhalten helfen. Auch beispielsweise für Musiker, Tänzer, Sportler und andere an Bewegung Interessierte kann sie von Nutzen sein.
-
 
   Die Methode wendet sich an alle Menschen, die unangenehme Gewohnheiten oder spezifische und bestimmte körperliche Schwierigkeiten und Schmerzen bewältigen wollen, aber auch an ALLE die sich weiter entwicklen und selbsterkennen wollen.
 
@@ -53,15 +52,12 @@ description_en: |
 description_en: |
   
   "Awareness Through Movement" consists of verbally directed movement sequences presented primarily to groups.  
-  A lesson generally lasts from forty to sixty minutes. 
-  Each lesson is usually organized around a particular function.
+  A lesson generally lasts from forty to sixty minutes. Each lesson is usually organized around a particular function.
   
   In Awareness Through Movement lessons, people engage in precisely structured movement explorations that involve: 
   thinking, sensing, imagining and moving.
   
-  Many lessons are based on developmental movements and ordinary functional activities. 
-  Some are based on more abstract explorations of joint, muscle, and postural relationships. 
-  The lessons consist of comfortable, easy movements that gradually evolve into movements of greater range and complexity. 
+  Many lessons are based on developmental movements and ordinary functional activities. Some are based on more abstract explorations of joint, muscle, and postural relationships. The lessons consist of comfortable, easy movements that gradually evolve into movements of greater range and complexity. 
   
   The Feldenkrais Method is based on principles of physics, biomechanics and an empirical understanding of learning and human development. 
   By expanding the self-image through movement sequences that bring attention to the parts of the self that are out of awareness, the Method enables you to include more of yourself in your functioning movements. Students become more aware of their habitual neuromuscular patterns and rigidities and expand options for new ways of moving. By increasing sensitivity the Feldenkrais Method assists you to live your life more fully, efficiently and comfortably.
