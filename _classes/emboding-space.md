@@ -6,7 +6,7 @@ schedule:
     start: "08:00pm"
     end: "09:30pm"
 
-image: 
+image: "class-emboding-space.jpg"
 
 title_en: "Movement Research: Emboding Space"
 title_de: "Movement Research: Emboding Space"
