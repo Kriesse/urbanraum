@@ -4,9 +4,9 @@ name: "Jennifer Ocampo Monsalve"
 email: "jocampomonsalve@gmail.com"
 website-title: "www.hiddentracks.de"
 website-link: "http://hiddentrackscompany.wordpress.com"
-website-title: "www.vimeo.com"
-website-link: "https://vimeo.com/jenniocampomonsalve"
-image: "teacher-jennifer-ocampo-monsalve.jpg"
+
+image: "teacher-jennifer-ocampo.jpg"
+
 bio_en: |
   Jennifer Ocampo Monsalve is choreographer and dancer based in Berlin Germany.  
   She was born in Colombia where she also started her professional dance studies. In 2000 she moved to Germany where she received her dance degree at the Folkwang, University of arts, in Essen in 2004. Furthermore she was selected in this period by the choreographer Pina Bausch to dance her pieces “Sacre du Printemps” and “Tannhäuser”.
