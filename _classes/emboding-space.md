@@ -36,7 +36,7 @@ description_en: |
   
   For this process of research i will give special attention to the perception of a multisensorial body that expands and make its surrounding part of itself. The extent here expresses itself through movement, which depends on the way one draws space through perception and imagination. 
 
-  *„The space is not an abstract empty but rather the product of countless concrete moments“." 
+  *„The space is not an abstract empty but rather the product of countless concrete moments.“* 
   Gordon Matta-Clark.
 
 
