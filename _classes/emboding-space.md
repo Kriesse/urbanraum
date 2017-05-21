@@ -30,11 +30,11 @@ price_de: |
 
 
 description_en: |
-  For dancers, movers and performers who want to increase their practice in the world of movement. 
-  This time i will direct the practice in the expanded body as subject for composition with movement. 
-  The work will continue focusing in composing instantly with movement, taking awarenes of each movement´s presence in space and time. 
-  
-  For this process of research i will give special attention to the perception of a multisensorial body that expands and make its surrounding part of itself. The extent here expresses itself through movement, which depends on the way one draws space through perception and imagination. 
+  Regulary sessions in Urbanraum start again!
+
+  For dancers, movers and performers who want to increase their practice in the world of movement. This time i will focus the practice on the expanded body as subject for composition with movement. 
+
+  We will base the work also in composing instantly with movement, taking awareness of each movement´s presence in space and time. For this process of research i will give special attention to the perception of a multisensorial body that expands and make its surrounding part of itself. The extent here, expresses itself through movement, which depends on the way one draws space through perception and imagination. 
 
   *„The space is not an abstract empty but rather the product of countless concrete moments.“* 
   Gordon Matta-Clark.
