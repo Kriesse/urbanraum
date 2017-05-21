@@ -8,8 +8,8 @@ schedule:
 
 image: "class-emboding-space.jpg"
 
-title_en: "Movement Research: Emboding Space"
-title_de: "Movement Research: Emboding Space"
+title_en: "Movement Research: Embodyng Space"
+title_de: "Movement Research: Embodyng Space"
 
 subtitle_en: "starting in June"
 subtitle_de: "ab Juni 2017"
