@@ -7,11 +7,11 @@ schedule:
     end: "09:45pm"
 image: "class-feldenkrais-friday.jpg"
 
-title_en: "Die Magie des Körpers und die Feldenkrais Methode"
-title_de: "Die Magie des Körpers und die Feldenkrais Methode"
+title_en: "Die Feldenkrais Methode und die Magie des Körpers"
+title_de: "Die Feldenkrais Methode und die Magie des Körpers"
 
-subtitle_en: "starting May 5th"
-subtitle_de: "Ab 5.5.2017"
+subtitle_en: ""
+subtitle_de: ""
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
