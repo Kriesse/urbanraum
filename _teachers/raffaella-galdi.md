@@ -2,8 +2,9 @@
 identifier: "raffaella"
 name: "Raffaella Galdi"
 email: "info@raffaellagaldi.com"
-website-title: "www.raffaellagaldi.com"
-website-link: "http://raffaellagaldi.com/index.html"
+links:
+  - website-title: "www.raffaellagaldi.com"
+    website-link: "http://raffaellagaldi.com/index.html"
 image: "teacher-raffaella-galdi.jpg"
 bio_en: |
 

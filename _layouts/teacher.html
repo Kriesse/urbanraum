@@ -85,10 +85,16 @@ layout: default
                     <a href="mailto:{{ site.email }}">{{ site.email }}</a>
                     <br>
                   {% endif %}
-                  {% if teacher.website-link %}
-                    <a href="{{ teacher.website-link }}">{{ teacher.website-title }}</a>
-                    <br>
+
+                  {% if teacher.links %}
+                    {% for link in teacher.links %}
+                      <a href="{{ link.website-link }}">
+                        {{ link.website-title }}
+                      </a>
+                      <br>
+                    {% endfor %}
                   {% endif %}
+
                   {% if teacher.phone %}
                     {{ teacher.phone }}
                   {% endif %}

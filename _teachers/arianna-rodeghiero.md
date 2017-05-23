@@ -2,9 +2,10 @@
 identifier: "arianna"
 name: "Arianna Rodeghiero"
 email: "ari.rodeghiero@gmail.com"
-link:
-website-title: "cargocollective.com"
-website-link: "http://cargocollective.com/ariannarodeghiero"
+link: 
+links:
+  - website-title: "cargocollective.com"
+    website-link: "http://cargocollective.com/ariannarodeghiero"
 
 image: "teacher-arianna-rodeghiero.jpg"
 bio_en: |
