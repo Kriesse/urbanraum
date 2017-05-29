@@ -11,8 +11,8 @@ image: "class-contemporaray-dance-intensive-workshop.jpg"
 title_en: "Contemporary Dance Intensive Workshop: Floor Work & Improvisation"
 title_de: "Contemporary Dance Intensive Workshop: Floor Work & Improvisation"
 
-subtitle_en: "12-Thursdays workshop / MARCH 9th - JUNE 8th (Easter holidays excluded)"
-subtitle_de: "12-Thursdays workshop / MARCH 9th - JUNE 8th (Easter holidays excluded)"
+subtitle_en: "few more dates until the end of June"
+subtitle_de: "nur noch bis Ende Juni"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
