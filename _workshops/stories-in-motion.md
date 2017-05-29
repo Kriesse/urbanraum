@@ -32,7 +32,7 @@ price_en: |
   
 price_de: |
   45 Euro  
-  Frühbucher-Rabatt: 39 Euro (Zahlungseingang: 11.06.2017)
+  Frühbucher-Rabatt: 39 Euro (Zahlungseingang: 11.06.2017)  
   Nur 10 Workshop-Plätze verfügbar.
   
 
