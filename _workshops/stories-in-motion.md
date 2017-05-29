@@ -1,5 +1,5 @@
 ---
-teacher: "iliana"
+teacher: ""
 
 date_en: "18.06.2017"
 date_de: "18.06.2017"
