@@ -11,8 +11,8 @@ image: "class-urban-spring.jpg"
 title_en: "Contemporary Dance and Improvisation | blue class"
 title_de: "Contemporary Dance and Improvisation | blue class"
 
-subtitle_en: "Urban Spring Contemporary"
-subtitle_de: "Urban Spring Contemporary"
+subtitle_en: "summer break after end of June"
+subtitle_de: "bis Juni!"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
