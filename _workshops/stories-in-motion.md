@@ -70,7 +70,11 @@ description_en: |
   - Enjoy the journey of discovery  
 
   *‘The home should be the treasure chest of living.’*  
-  Le Corbusier
+  Le Corbusier  
+  
+  
+  Graphic design: Florencia De Solminihac  
+  Sketch: Michela Filzi
   
 description_de: |
   s. English descritpion
