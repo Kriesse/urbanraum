@@ -1,5 +1,5 @@
 ---
-teacher: "luisi-marin"
+teacher: 
 
 date_en: "15. & 16.07.2017"
 date_de: "15. & 16.07.2017"
@@ -7,7 +7,7 @@ date_de: "15. & 16.07.2017"
 time: 11:00am
 endtime: 04:30pm
 
-image: 
+image: "workshop-daniel-goldin.jpg"
 
 title_en: "Zeitgenössischer Tanz mit Daniel Goldin / Workshop"
 title_de: "Zeitgenössischer Tanz mit Daniel Goldin / Workshop"
