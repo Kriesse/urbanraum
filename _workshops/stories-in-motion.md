@@ -7,7 +7,7 @@ date_de: "18.06.2017"
 time: 12:00pm
 endtime: 04:00pm
 
-image: 
+image: "workshop-stories-in-motion-june.jpg"
 
 title_en: "Stories In Motion Workshop with Beatrix Joyce"
 title_de: "Stories In Motion"
