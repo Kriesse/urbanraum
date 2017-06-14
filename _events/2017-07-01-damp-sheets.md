@@ -1,7 +1,7 @@
 ---
 teacher:
 
-date_en: "September July 1st & 2nd 2017"
+date_en: "July 1st & 2nd 2017"
 date_de: "1. & 2. Juli 2017"
 
 time: "7:30pm"
