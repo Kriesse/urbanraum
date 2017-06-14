@@ -22,9 +22,10 @@ language_en: ""
 language_de: ""
 
 description_en: |
-  "We need walls like damp sheets which lose their shapes and wed our psychological fears...To find for each person those umbilical cords that put us in communication with other suns, objects of total freedom that would be like psychoanalytic mirrors".  
-  Roberto Matta
-
+  "We need walls like damp sheets which lose their shapes and wed our psychological fears...To find for each person those umbilical cords that put us in communication with other suns, objects of total freedom that would be like psychoanalytic mirrors."  
+  Roberto Matta  
+    
+    
   Concept & Choreographie: Jennifer Ocampo Monsalve  
   Performers: Rossella Canciello, Jenny Döll, Iro Grigoriadi, Iliana Kalapotharakou, María Sánchez Alonso  
   Music & Sound Design: Alberto Lucendo  
@@ -33,7 +34,7 @@ description_en: |
   Graphic: Florencia De Solminihac  
   Produced at: Urbanraum 
   
-
+  Reservations: info@urbanraum.com
 
 description_de: |
 
