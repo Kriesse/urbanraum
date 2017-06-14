@@ -26,7 +26,7 @@ description_en: |
   Roberto Matta  
     
     
-  Concept & Choreographie: Jennifer Ocampo Monsalve  
+  Concept & Choreography: Jennifer Ocampo Monsalve  
   Performers: Rossella Canciello, Jenny Döll, Iro Grigoriadi, Iliana Kalapotharakou, María Sánchez Alonso  
   Music & Sound Design: Alberto Lucendo  
   Set Design: Jennifer Ocampo Monsalve, Charles Gonzalez  
