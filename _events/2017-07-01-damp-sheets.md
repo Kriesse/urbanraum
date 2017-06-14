@@ -36,20 +36,10 @@ description_en: |
 
 
 description_de: |
-  Imprevu# ist eine Veranstaltungsreihe, die Tänzer_innen, Performer_innen, Musiker_innen und bildenden Künstler_innen eine Plattform bietet, ihre Arbeiten aus dem Bereich Live-Improvisation und Instant Composition öffentlich zu präsentieren.   
-  
-  Pro Abend werden drei bis vier kurze Performances (à 20-30 Minuten) gezeigt.  
-  2017 wird die Imprevu#-Reihe erstmals im Urbanraum stattfinden.  
-  Die Kuratierung der Reihe haben nunmehr Eva Burghardt und Susanne Soldan übernommen.  
 
-  Weitere Infos unter:    
-  http://imprevuberlin.blogspot.de  
+  s. english description
   
-  Performanceanfragen über:  
-  imprevu.berlin@gmail.com oder https://www.facebook.com/imprevuberlin  
   
-  Foto: Luca S
-
 
 
 ---
