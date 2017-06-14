@@ -22,7 +22,7 @@ language_en: ""
 language_de: ""
 
 description_en: |
-  "We need walls like damp sheets which lose their shapes and wed our psychological fears...To find for each person those umbilical cords that put us in communication with other suns, objects of total freedom that would be like psychoanalytic mirrors."  
+  *"We need walls like damp sheets which lose their shapes and wed our psychological fears...To find for each person those umbilical* *cords that put us in communication with other suns, objects of total freedom that would be like psychoanalytic mirrors."*  
   Roberto Matta  
     
     
