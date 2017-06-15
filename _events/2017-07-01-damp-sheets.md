@@ -18,8 +18,8 @@ subtitle_de: "Eine Tanzperformance von Jennifer Ocampo Monsalve"
 price_en: "EUR 12-15"
 price_de: "12-15 Euro"
 
-language_en: ""
-language_de: ""
+language_en: 
+language_de: 
 
 description_en: |
   *"We need walls like damp sheets which lose their shapes and wed our psychological fears...To find for each person those umbilical* *cords that put us in communication with other suns, objects of total freedom that would be like psychoanalytic mirrors."*  
