@@ -11,8 +11,8 @@ image: "class-emboding-space.jpg"
 title_en: "Movement Research: Embodying Space"
 title_de: "Movement Research: Embodying Space"
 
-subtitle_en: "starting in June"
-subtitle_de: "ab Juni 2017"
+subtitle_en: "next session: July, 4th"
+subtitle_de: "nächste Session am 4. Juli"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -30,7 +30,7 @@ price_de: |
 
 
 description_en: |
-  Regulary sessions in Urbanraum start again!
+  Due to the creation process of the Urbanraum coproduction "Damp Sheets/The Expanded Being Project" the sessions on the 20th and 27th of June must be cancelled. The next session will take place on the 4th of July!
 
   For dancers, movers and performers who want to increase their practice in the world of movement. This time i will focus the practice on the expanded body as subject for composition with movement. 
 
