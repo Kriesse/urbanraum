@@ -6,7 +6,7 @@ date_de: "1. & 2. Juli 2017"
 
 time: "8:00pm"
 
-image: 
+image: "event-damp-sheets.jpg" 
 tags:
 
 title_en:  "DAMP SHEETS | Premiere"
