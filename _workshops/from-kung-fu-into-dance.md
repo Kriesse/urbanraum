@@ -17,8 +17,8 @@ subtitle_de: "A movement workshop with Kerem Shemi"
 
 type_en: "Workshop"
 
-language_en: German
-language_de: Deutsch
+language_en: English
+language_de: Englisch
 
 type_de: "Workshop"
 
