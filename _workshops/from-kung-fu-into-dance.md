@@ -7,7 +7,7 @@ date_de: "12. & 13.08.2017"
 time: 10:00am
 endtime: 01:00pm
 
-image: ""
+image: "workshop-kungfu-dance.jpg"
 
 title_en: "From Kung Fu into Dance"
 title_de: "From Kung Fu into Dance"
