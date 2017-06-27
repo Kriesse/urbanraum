@@ -1,5 +1,5 @@
 ---
-teacher: 
+teacher: "kerem"
 
 date_en: "12. & 13.08.2017"
 date_de: "12. & 13.08.2017"
