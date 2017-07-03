@@ -21,17 +21,20 @@ level_de: "Mittelstufe"
 
 price_en: |
   Trial lesson: EUR 12  
-  Monthly: EUR 45  
+  10 classes (within 3 months): EUR 120  
+  Monthly: EUR 39   
 
 price_de: |
   Probestunde: 12 Euro  
-  Monats-Beitrag: 45 Euro  
+  Zehnerkarte (3 Monate gültig): 120 Euro  
+  Monatlicher Vertrag (monatlich kündbar): 39 Euro 
 
 description_en: |
   My classes are based on the Joos-Leeder technique and,- expanded by elements from Release-, Limon- and Alexander Technique, aim at a comprehensive training of alignment, flow, joints, muscles and musicality. 
   These organisation principles support every dancer and choreographer to find his individual access to dance and creation.
 
 description_de: |
-  Mit tänzerischem warm up, coordinations und Muskeltraining, füllen wir den Raum mit Bewegung, Musikalität und Dynamik. 
-  Wir wechseln die Ebenen, die Richtungen…Mein Unterricht basiert auf der Joos-Leeder-Technik und, – erweitert durch Elemente aus der Release-, Limon- und Alexander-Technik, zielt auf ein umfassendes Training von Ausrichtung, Fluss, Gelenken, Muskeln und Musikalität und unterstützt jeden Tänzer darin, mit Hilfe dieser Organisationsprinzipien seinen individuellen Zugang zu Tanz und Kreativität zu finden.
+  Mit Ausrichtungs-Warm up, Koordinationen und Muskeltraining füllen wir den Raum mit Bewegung, Dynamik und Musikalität. Wir wechseln die Ebenen, die Richtungen...
+  Die Bewegungselemente werden zu dynamischen Choreografien zusammengefügt und mit kleinen Improvisationaufgaben ergänzt. 
+  Der Unterricht basiert auf Techniken des modernen, zeitgenössischen Tanzes. 
 ---
