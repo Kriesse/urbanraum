@@ -5,7 +5,7 @@ schedule:
   - day: "thursday"
     start: "10:00am"
     end: "12:00pm"
-image: "class-contemporary-dance-workshop.jpg"
+image: "class-dance-company-lab.jpg"
 
 title_en: "Dance Company Lab"
 title_de: "Tanzcompany Lab"
