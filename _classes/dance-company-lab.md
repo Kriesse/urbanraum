@@ -32,7 +32,7 @@ description_en: |
 
   In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches. 
   
-  Every thursday from September 7th to December 14th with one extra date on a saturday for a "work in progress" Showing.
+  Every thursday from September 7th to December 14th with one extra date on a saturday for a "work in progress" Showing.  
   No class on October 19th & 26th.
   
 
@@ -45,7 +45,7 @@ description_de: |
   Die Choreographie-Komponente dieses Kurses dient dem Erlernen und der Entwicklung von Bewegung mit Hilfe einer Vielfalt von Improvisation, Komposition und choreographischen Ansätzen.
   
     
-  Jeden Donnerstag von 7. September bis zum 14. Dezember 2017 + 1 extra Termin am Samstag für ein "work in progress" Showing.
+  Jeden Donnerstag von 7. September bis zum 14. Dezember 2017 + 1 extra Termin am Samstag für ein "work in progress" Showing.  
   Kein Unterricht am 19. und 26. Oktober.
   
 
