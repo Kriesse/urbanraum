@@ -20,10 +20,13 @@ level_en: "Adv-Inter"
 level_de: "Adv-Inter"
 
 price_en: |
+  200 Euro
+  Early bird (until August, 24th): EUR 180 
 
 
 price_de: |
-
+  200 Euro
+  Frühbucher-Preis (bis 24. August): 180 Euro
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
