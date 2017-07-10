@@ -26,17 +26,13 @@ level_en: "open to everybody, also for people with physical or cognitive disabil
 level_de: "open to everybody, also for people with physical or cognitive disability. Musicians, dancers, curious people: everyone is welcome!"
 
 price_en: |
-  85€ full price  
-  60€ for subscribers before june 7th  
-  70€ for subscribers before june 28th  
-  70€ reduced price for students or people with disability
+  free donation!  
+  Suggested donation fee is  EUR 40
 
 
 price_de: |
-  85€ full price  
-  60€ for subscribers before june 7th  
-  70€ for subscribers before june 28th  
-  70€ reduced price for students or people with disability
+  Auf Spendenbasis!  
+  Spendenempfehlung: 40 Euro
 
 
 
