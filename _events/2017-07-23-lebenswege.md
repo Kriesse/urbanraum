@@ -6,7 +6,7 @@ date_de: "23. Juli 2017"
 
 time: "7:00pm"
 
-image: "" 
+image: "event-lebenswege.jpg" 
 tags:
 
 title_en:  "LEBENSWEGE | Premiere"
