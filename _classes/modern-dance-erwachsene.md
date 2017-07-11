@@ -30,10 +30,12 @@ price_de: |
   Monatlicher Vertrag (monatlich kündbar): 39 Euro 
 
 description_en: |
+  No classes on August, 2th, 9th and 16th!  
   My classes are based on the Joos-Leeder technique and,- expanded by elements from Release-, Limon- and Alexander Technique, aim at a comprehensive training of alignment, flow, joints, muscles and musicality. 
   These organisation principles support every dancer and choreographer to find his individual access to dance and creation.
 
 description_de: |
+  Kein Unterricht am 2., 9. und 16. August 2017!  
   Mit Ausrichtungs-Warm up, Koordinationen und Muskeltraining füllen wir den Raum mit Bewegung, Dynamik und Musikalität. Wir wechseln die Ebenen, die Richtungen...
   Die Bewegungselemente werden zu dynamischen Choreografien zusammengefügt und mit kleinen Improvisationaufgaben ergänzt. 
   Der Unterricht basiert auf Techniken des modernen, zeitgenössischen Tanzes. 
