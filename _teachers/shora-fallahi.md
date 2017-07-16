@@ -1,7 +1,7 @@
 ---
 identifier: "shora"
 name: "Shora Fallahi"
-email: "info@urbanraum.com"
+email: "shorafallahi@hotmail.com"
 link: "shora-fallahi"
-image: 
+image: "teacher-shora-fallahi.jpg
 ---
