@@ -46,7 +46,8 @@ description_en: |
 description_de: |
 
   Zu Beginn tauchen wir mit einigen technischen Basics in eine vertiefte Körperwahrnehmung ein und differenzieren das Spüren unseres eigenen Körpers sowie das unserer Partner*innen. Von dort aus erweitern wir das Spektrum unserer Möglichkeiten für den CI-Tanz, indem wir verschiedene Prinzipien, sich gemeinsam zu bewegen, entweder  durch  feste Bewegungsfolgen oder mit offeneren Aufgabenstellungen erkunden. Während wir anatomischen Details nachspüren und die Architektur unseres Körpers - allein und in Kontakt mit anderen Körpern - erkunden entwickeln wir unsere CI-Praxis hin zu einer größeren Leichtigkeit im Umgang mit verschiedenen Arten von physischer Herausforderung. Technik ist für mich kein Selbstzweck sondern dient als Werkzeug, um Vielfalt zu unterstützen und unsere Entscheidungsfreiheit zu erweitern - im Tanz wie idealerweise ebenso im Alltag. Wir vermengen die technische Erkundung mit einer guten Portion profundem Blödsinn und verspielter Neugier. Wilde, verschwitzte Tänze und Präzision müssen kein Gegensatz sein! Kommt mit einer Offenheit für konzentriertes Spiel und erlebt es ein/en bewegten, spürenden, ausdrucksvollen Körper zu haben/zu sein und eine frische Tanzerfahrung mitzunehmen.  
-  Level: Mittelstufe (Basics wie Prinzipien von geteiltem Gewicht, rollendem Kontaktpunkt oder sich sicher fühlen in der niedrigen bis mittleren Ebene das volle Gewicht eines Partners zu unterstützen sollten vorhanden sein). Solltest du bezüglich deines Erfahrungslevels unsicher sein, aber sehr gern mitmachen wollen, kontaktiere mich gern.  
+  
+  Level: Mittelstufe (Basics wie Prinzipien von geteiltem Gewicht, rollendem Kontaktpunkt oder sich sicher fühlen in der niedrigen bis mittleren Ebene das volle Gewicht eines Partners zu unterstützen sollten vorhanden sein). Solltest du bezüglich deines Erfahrungslevels unsicher sein, aber sehr gern mitmachen wollen, kontaktiere mich gern.   
   
   //  
   
