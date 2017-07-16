@@ -11,8 +11,8 @@ image: "class-ci-jenny-doell.jpg"
 title_en: "Tools for conscious play - Intermediate CI class series"
 title_de: "Tools for conscious play - Intermediate CI class series"
 
-subtitle_en: "29.08.-14.10.2017: 8 Termine!"
-subtitle_de: "8 classes: 29.08. - 14.10.2017"
+subtitle_en: "29.08.-14.10.2017"
+subtitle_de: "29.08. - 14.10.2017"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -21,13 +21,13 @@ level_en: "Intermediate"
 level_de: "Mittelstufe/Fortgeschritten"
 
 price_en: |
-  All 8 classes: EUR 100 | EUR 80 if paid before 1.8.2017  
-  5 classes: EUR 70 | EUR 60 if paid before 1.8.2017  
+  All 8 classes: EUR 100 | EUR 80 if paid before 1.8.2017    
+  5 classes: EUR 70 | EUR 60 if paid before 1.8.2017    
   Drop in: EUR 16 
 
 price_de: |
-  8 Termine: 100 Euro | 80 Euro bei Bezahlung bis 1.8.2017
-  5 Termine: 70 Euro | 60 Euro bei Bezahlung bis 1.8.2017
+  8 Termine: 100 Euro | 80 Euro bei Bezahlung bis 1.8.2017  
+  5 Termine: 70 Euro | 60 Euro bei Bezahlung bis 1.8.2017  
   Drop-In: 16 Euro
 
 language_en: ""
@@ -35,8 +35,8 @@ language_de: ""
 
 description_en: |
   We depart from basic technical skills to deepen and differentiate our perception of our own and our partners’ bodies. From there we broaden our spectrum of possibilities for improvised contact dances by either exploring different principles for moving together or working with set pathways. 
-  While we investigate anatomical details and structures of our moving bodies - alone and in contact - we develop our CI-practice towards a greater ease in dealing with all sorts of physical challenges. Technique is important for me not as an end in itself, but as a tool for supporting our never ending journey towards (more) freedom of choice - in the dance as well as ideally in daily life. We will mix the technical inquiry with some profound silliness and playful curiosity. Sweaty and wild dances and precision don’t have to be opposites! Come prepared for some concentrated play and you probably get a chance to experience yourself as having/being a moving, sensing, feeling and expressing body in a fresh and new way and find satisfying as well as interesting dances.
-
+  While we investigate anatomical details and structures of our moving bodies - alone and in contact - we develop our CI-practice towards a greater ease in dealing with all sorts of physical challenges. Technique is important for me not as an end in itself, but as a tool for supporting our never ending journey towards (more) freedom of choice - in the dance as well as ideally in daily life. We will mix the technical inquiry with some profound silliness and playful curiosity. Sweaty and wild dances and precision don’t have to be opposites! Come prepared for some concentrated play and you probably get a chance to experience yourself as having/being a moving, sensing, feeling and expressing body in a fresh and new way and find satisfying as well as interesting dances.  
+  
   Level: intermediate (basics such as the principles of sharing weight, rolling point of contact or feeling comfortable supporting 100% weight of another person on low and medium level should be there). If you are insecure about your level of experience, but think that sounds so much fun that you want to do it, get in touch with me.    
 
   //  
