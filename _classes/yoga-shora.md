@@ -5,7 +5,7 @@ schedule:
   - day: "friday"
     start: "8:30am"
     end: "9:45am"
-image: 
+image: "class-somatic-yoga.JPG"
 
 title_en: "Yoga mit Shora Fallahi"
 title_de: "Yoga with Shora Fallahi"
