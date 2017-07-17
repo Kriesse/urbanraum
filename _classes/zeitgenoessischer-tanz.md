@@ -21,14 +21,14 @@ level_en: "Advanced"
 level_de: "Fortgeschritten"
 
 price_en: |
-  EUR 10 / trial class
-  EUR 12 / single class
+  EUR 10 / trial class  
+  EUR 12 / single class  
   EUR 35 / monthly
 
 price_de: |
-  10 EUR / Probestunde  
-  12 EUR / Einzelstunde
-  35 EUR / Monatsbeitrag
+  10 EUR / Probestunde    
+  12 EUR / Einzelstunde  
+  35 EUR / Monatsbeitrag  
 
 language_en: "German"
 language_de: "Deutsch"
