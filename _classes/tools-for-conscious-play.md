@@ -4,7 +4,7 @@ teacher: "jenny"
 schedule:
   - day: "tuesday"
     start: "8:00pm"
-    end: "9:30pm"
+    end: "10:00pm"
 
 image: "class-ci-jenny-doell.jpg"
 
