@@ -12,8 +12,8 @@ image: "workshop-tanzmarathon.jpg"
 title_en: "Levée des Conflits von/by Boris Charmatz"
 title_de: "Levée des Conflits von/by Boris Charmatz"
 
-subtitle_en: "Workshop für Menschen mit unterschiedlichen Fähigkeiten mit Andreas Müller "
-subtitle_de: "Workshop für Menschen mit unterschiedlichen Fähigkeiten mit Andreas Müller "
+subtitle_en: "Workshop für Menschen mit unterschiedlichen Fähigkeiten mit Andreas Müller"
+subtitle_de: "Workshop für Menschen mit unterschiedlichen Fähigkeiten mit Andreas Müller"
 
 type_en: "Workshop"
 
