@@ -1,5 +1,5 @@
 ---
-teacher: "claudia"
+teacher: 
 
 date_en: "05.09.2017"
 date_de: "05.09.2017"
@@ -7,7 +7,7 @@ date_de: "05.09.2017"
 time: 05:45pm
 endtime: 07:45pm
 
-image: ""
+image: "workshop-tanzmarathon.jpg"
 
 title_en: "Levée des Conflits von/by Boris Charmatz"
 title_de: "Levée des Conflits von/by Boris Charmatz"
