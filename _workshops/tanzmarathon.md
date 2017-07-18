@@ -47,5 +47,6 @@ description_de: |
   
   Anmeldungen per E-Mail bitte direkt an Claudia Neumayer unter: jederkanntanzen@web.de oder telefonisch: 0163-4016293. 
   ---
+---
 
 
