@@ -4,8 +4,8 @@ teacher:
 date_en: "05.09.2017"
 date_de: "05.09.2017"
 
-time: 05:45pm
-endtime: 07:45pm
+time: 5:45pm
+endtime: 7:45pm
 
 image: "workshop-tanzmarathon.jpg"
 
@@ -17,8 +17,8 @@ subtitle_de: "Workshop für Menschen mit unterschiedlichen Fähigkeiten mit Andr
 
 type_en: "Workshop"
 
-language_en: Deutsch
-language_de: Deutsch
+language_en: "Deutsch"
+language_de: "Deutsch"
 
 type_de: "Workshop"
 
@@ -33,7 +33,7 @@ price_de: |
 
 
 
-description_en: |  
+description_en: |
   s. German description
 
   
