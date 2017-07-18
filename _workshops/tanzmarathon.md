@@ -46,7 +46,7 @@ description_de: |
   Am 5. September findet im Urbanraum ein kostenloser Workshop unter der Leitung von Andreas Müller für Bewegungsinteressierte aller Level statt.  
   
   Anmeldungen per E-Mail bitte direkt an Claudia Neumayer unter: jederkanntanzen@web.de oder telefonisch: 0163-4016293. 
-  ---
+  
 ---
 
 
