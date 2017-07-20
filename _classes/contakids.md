@@ -2,16 +2,16 @@
 order: "2"
 teacher: "jenny"
 schedule:
-  - day: "monday"
+  - day: "wednesday"
     start: "04:00pm"
     end: "04:45pm"
-image: "class-contakids.jpg"
+image: "class-contakids-zwei.jpg"
 
-title_en: "ContaKids - Bewegt Kommunikazieren"
-title_de: "ContaKids - Bewegt Kommunizieren"
+title_en: "ContaKids"
+title_de: "ContaKids"
 
-subtitle_en: "Workshop (10 dates) from May 8th on"
-subtitle_de: "Workshop mit 10 Terminen ab 8. Mai 2017"
+subtitle_en: "Workshop (10 dates) from September 6th on"
+subtitle_de: "Workshop mit 10 Terminen ab 6. September 2017"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -21,11 +21,11 @@ level_de: "open level"
 
 price_en: |
   Trial lesson: EUR 8  
-  Possible on: May, 8th & May, 15th
+  Possible on: September, 6th & 13th 15th
 
 price_de: |
   Probestunde: 8 Euro  
-  Möglich am 8. und 15. Mai 2017
+  Möglich am 6. und 13. September 2017
 
 description_en: |
 
@@ -41,8 +41,8 @@ description_de: |
   - das Selbstvertrauen und die motorischen Fähigkeiten von Kindern und eine neue, vertrauensvolle Beziehung zwischen Eltern und Kind.  
   - die Eigenständigkeit und Unabhängigkeit von Kindern, während Eltern lernen, ihre Kinder in einem spielerischen Rahmen als Gleichberechtigte zu sehen, die sie bedingungslos unterstützen.
 
-  10 x Montags, 16:00 -16:45    
+  10 x Mittwochs, 16:00 -16:45    
   Probestunde: 8 Euro  
-  Eine Probestunde ist an den ersten beiden Terminen (8. & 15.5.2017) möglich.  
+  Eine Probestunde ist an den ersten beiden Terminen (6. & 13.9.2017) möglich.  
 
 ---
