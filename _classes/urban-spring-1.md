@@ -54,10 +54,12 @@ description_en: |
   Developing our relation to the floor through all movement levels, using multiple floor-work patterns and phrases. Using levers and clear pathways, building up a vocabulary that can be used in further  understanding the mechanics of movement. From basic floor-work patterns to advanced, complicated ones, floor acrobatics, handstands, coordinations.
 
   Dynamics of movement.  
+  
   Flow and organic movement. Study and use of weight, momentum, impulse, swing and flow of movement, developing the body’s kinetic intelligence. How grounding works, how to stay connected to the floor through the study of body structure (bones and joints), of weight and use of breath. Organic movement and its impact to the body, use of own body structure in the most efficient way.
 
-  Connectivity. Spacial and body awareness.  
-  Connectivity is studied both in terms of a fully connected moving body and of a mover in a state of full connection with his/her environment. How the body moves in its full awareness, connecting and interacting with its environment - the other people, the space, the floor- and its own inner state at the same time. Spacial and body awareness, together with connectivity practice, helps to develop a unified physical and mental consciousness, thus a moving body in its full consciousness expressing itself in space and time.
+  Connectivity. Spacial and body awareness.
+
+  Connectivity is studied both in terms of a fully connected moving body and of a mover in a state of full connection with their environment. How the body moves in its full awareness, connecting and interacting with its environment - the other people, the space, the floor- and its own inner state at the same time. Spacial and body awareness, together with connectivity practice, helps to develop a unified physical and mental consciousness, thus a moving body in its full consciousness expressing itself in space and time.
 
   Rhythm and musicality are studied in improvisation tasks, researching different ways to connect to the music heard and to the inner musicality of the body. Building the awareness of choices made, listening to our inner musicality and allowing it to move us in a conscious way.
 

@@ -33,7 +33,7 @@ description_en: |
 
 description_de: |
 
-  "Contakids" ist eine Methode, die auf dem Grundgedanken basiert, körperlichen Kontakt zu nutzen, um eine tiefere Kommunikation zwischen Kindern und Eltern zu entwickeln, die für beide Seiten genussvoll ist. Über die Arbeit mit Bewegung kann das Kind seine motorischen Fähigkeiten und sein Selbstvertrauen stärken, während Eltern ein neues Vertrauensverhältnis zu ihren Kleinen aufbauen. Der Kurs richtet sich an Kinder von 2 - 4 Jahren.
+  "Contakids" ist eine Methode, die auf dem Grundgedanken basiert, körperlichen Kontakt zu nutzen, um eine tiefere Kommunikation zwischen Kindern und Eltern zu entwickeln, die für beide Seiten genussvoll ist. Über die Arbeit mit Bewegung kann das Kind seine motorischen Fähigkeiten und sein Selbstvertrauen stärken, während Eltern ein neues Vertrauensverhältnis zu ihren Kleinen aufbauen. Der Kurs richtet sich an Kinder von 2-4 Jahren.
   Anstelle eines Elternteils kann natürlich auch z.B. ein Großelternteil mitmachen. Tänzerische Vorerfahrung ist nicht notwendig.
 
   "ContaKids" fördert:  
