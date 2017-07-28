@@ -10,6 +10,8 @@ trial_en: "Trial"
 trial_de: "Probestunde"
 contact_en: "Contact"
 contact_de: "Kontakt"
+news_en: "News"
+news_de: "Neuigkeiten"
 teacher_en: "Teacher"
 teacher_de: "Lehrende"
 about_en: "About"
@@ -32,6 +34,9 @@ intro_long_de: "Urbanraum ist ein Raum, an dem Kinder, Erwachsene und Profi-Tän
 
 contact_line_en: "For all questions around the room and its programme, contact Friederike Erhart."
 contact_line_de: "Fragen zur Raum-Vermietung und zum Programm an Friederike Erhart."
+
+subscribe_newsletter_en: "Subscribe to Newsletter"
+subscribe_newsletter_de: "Newsletter abonnieren"
 
 banner_en: "For questions regarding renting the space, please get in touch via e-mail: <a href='mailto:info@urbanraum.com'>info@urbanraum.com</a>."
 banner_de: "Fragen zur Raum-Vermietung bitte per Email an <a href='mailto:info@urbanraum.com'>info@urbanraum.com</a>."
