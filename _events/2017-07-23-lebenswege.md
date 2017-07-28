@@ -1,12 +1,12 @@
 ---
 teacher:
 
-date_en: "July 23th 2017"
+date_en: "July 23 2017"
 date_de: "23. Juli 2017"
 
 time: "7:00pm"
 
-image: "event-lebenswege.jpg" 
+image: "event-lebenswege.jpg"
 tags:
 
 title_en:  "LEBENSWEGE | Premiere"
@@ -18,14 +18,14 @@ subtitle_de: "Tanzprojekt-Showing"
 price_en: "free"
 price_de: "Eintritt frei"
 
-language_en: 
-language_de: 
+language_en:
+language_de:
 
 description_en: |
   s. German description
 
 description_de: |
-  Abschlusspräsentation des Tanz Performance Projektes:  
+  Abschlusspräsentation des Tanz Performance Projektes
 
   LEBENSWEGE für Menschen zwischen 16 und 96.  
 
@@ -38,8 +38,8 @@ description_de: |
 
   Wir möchten mit diesem Showing einen kleinen Einblick in die gemeinsame Arbeit geben und würden uns sehr über Euer zahlreiches Erscheinen freuen.
 
-  
-  
+
+
 
 
 ---

@@ -25,8 +25,13 @@ bio_unavailable_de: "Biographie noch nicht verfügbar."
 description_unavailable_en: "No details available yet"
 description_unavailable_de: "Noch keine weiteren Informationen verfügbar."
 intro_en: "Urbanraum is a space for dance, workshops, performances, rehearsals, and more. Contemporary, open, in Berlin Kreuzberg."
-intro_de: "Urbanraum ist ein Raum für Bewegung, Tanz und Improvisation. Zeitgenössisch, offen, in Berlin Kreuzberg.
-"
+intro_de: "Urbanraum ist ein Raum für Bewegung, Tanz und Improvisation. Zeitgenössisch, offen, in Berlin Kreuzberg."
+
+intro_long_en: "Urbanraum is a space for children, adults, professional dancers to move, to dance, to improvise. Urbanraum means high-quality, challenging, contemporary dance and movement education."
+intro_long_de: "Urbanraum ist ein Raum, an dem Kinder, Erwachsene und Profi-Tänzer einen Ort finden, sich zu bewegen, zu tanzen, zu improvisieren, zu lernen. Urbanraum steht für qualitativ hochwertigen Tanz- und Bewegungs-Unterricht."
+
+contact_line_en: "For all questions around the room and its programme, contact Friederike Erhart."
+contact_line_de: "Fragen zur Raum-Vermietung und zum Programm an Friederike Erhart."
 
 banner_en: "For questions regarding renting the space, please get in touch via e-mail: <a href='mailto:info@urbanraum.com'>info@urbanraum.com</a>."
 banner_de: "Fragen zur Raum-Vermietung bitte per Email an <a href='mailto:info@urbanraum.com'>info@urbanraum.com</a>."

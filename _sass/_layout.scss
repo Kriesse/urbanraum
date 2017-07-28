@@ -17,11 +17,11 @@ body {
   @include media-query-min($on-tablet) {
     padding-right: $spacing-unit * 1.5;
     padding-left: $spacing-unit * 1.5;
-  };
+  }
   @include media-query-min($on-laptop) {
     padding-right: $spacing-unit * 3;
     padding-left: $spacing-unit * 3;
-  };
+  }
 }
 
 .wrapper--content {
@@ -79,10 +79,15 @@ body {
   text-transform: uppercase;
   font-size: .9em;
   color: $color-text--medium;
+  @include media-query-min($on-tablet) {
+    font-size: .75rem;
+  }
+  @include media-query-min($on-laptop) {
+    font-size: .875rem;
+  }
 }
 
 .language-switch__link--active {
-  color: $color-mint;
   color: $color-text;
 }
 
@@ -157,10 +162,10 @@ body {
     margin-right: 6px;
     margin-left: 6px;
     padding: 0;
-    font-size: 12px;
+    font-size: .75rem;
   }
   @include media-query-min($on-laptop) {
-    font-size: 14px;
+    font-size: .875rem;
     margin-right: 10px;
     margin-left: 10px;
   }
@@ -189,14 +194,15 @@ body {
 }
 
 .site-footer__social {
-  @include media-query-min(650px) {
+  @include media-query-min($on-laptop) {
     float: left;
     text-align: left;
   }
 }
 
 .site-footer__address {
-  @include media-query-min(650px) {
+  font-size: .75rem;
+  @include media-query-min($on-laptop) {
     float: right;
     text-align: right;
   }
