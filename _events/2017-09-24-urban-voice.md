@@ -9,14 +9,14 @@ time: "8:30pm"
 image: "event-urbanvoice.jpg"
 tags:
 
-title_en:  "Ensemble Medulla | URBAN VOICE"
-title_de:  "Ensemble Medulla | URBAN VOICE"
+title_en:  "Ensemble Medulla ::: URBAN VOICE"
+title_de:  "Ensemble Medulla ::: URBAN VOICE"
 
 subtitle_en: "Im Rahmen von „Field Notes“ – Monat der zeitgenössischen Musik"
 subtitle_de: "Im Rahmen von „Field Notes“ – Monat der zeitgenössischen Musik"
 
-price_en: "EUR 12 | EUR 8 (reduced)"
-price_de: "12 Euro | erm. 8 Euro"
+price_en: "EUR 12 / EUR 8 (reduced)"
+price_de: "12 Euro / erm. 8 Euro"
 
 language_en:
 language_de:
