@@ -15,8 +15,8 @@ title_de:  "Ensemble Medulla | URBAN VOICE"
 subtitle_en: "Im Rahmen von „Field Notes“ – Monat der zeitgenössischen Musik"
 subtitle_de: "Im Rahmen von „Field Notes“ – Monat der zeitgenössischen Musik"
 
-price_en: ""
-price_de: ""
+price_en: "EUR 12 | EUR 8 (reduced)"
+price_de: "12 Euro | erm. 8 Euro"
 
 language_en:
 language_de:
