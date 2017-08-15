@@ -30,7 +30,7 @@ trial_de: "Auf Anfrage"
 description_en:
 
 description_de: |
-  Der Kurs startet wieder ab dem 13. Juni 2017!  
+  Der Kurs startet wieder ab dem 12. September 2017!  
   
   Beim kreativen Kindertanz wird Tanz als elementare Lern- und Ausdrucksform vermittelt. Dabei steht die Freude am Sich-Bewegen im Vordergrund.
   Mittels bestimmter Übungen werden Fähigkeiten wie Koordination, Rhythmusgefühl, Konzentrationsfähigkeit und Ausdauer entwickelt beziehungsweise gestärkt.
