@@ -33,7 +33,7 @@ description_en:
 description_de: |
   Neuer Kurs ab 11.09.2017!  
   Kinder lieben es, sich zu bewegen – zu rennen, tanzen, hüpfen, rollen.  
-  Und sie lieben es, in Bildern und Geschichten abzutauchen und dabei in andere Rollen zu schlüpfen.
+  Und sie lieben es, in Bilder und Geschichten abzutauchen und dabei in andere Rollen zu schlüpfen.
 
   Beim Kreativen Kindertanz wird diesem kindlichen Spiel- und Bewegungsdrang ein Raum gegeben, an dem die Kinder ihren Körper bewusster kennenlernen und erfahren, was sie mit ihm alles ausdrücken, darstellen und erzählen können.  
 
