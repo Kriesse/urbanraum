@@ -33,9 +33,11 @@ price_de: |
 
 
 description_en: |
+  Registrations: ephemerarts.dance@gmail.com  
   Furhter informations coming soon
   
 description_de: |
+  Anmeldung über: ephemerarts.dance@gmail.com  
   Weitere Infos in Kürze  
 ---
 
