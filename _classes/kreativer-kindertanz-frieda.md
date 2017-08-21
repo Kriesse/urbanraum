@@ -5,7 +5,7 @@ schedule:
   - day: "monday"
     start: "4:30pm"
     end: "5:15pm"
-image: "class-kindertanz.jpg"
+image: "class-tanz-musik.jpg"
 
 title_en: "Kreativer Kindertanz (3-4 J.)"
 title_de: "Kreativer Kindertanz (3-4 J.)"
