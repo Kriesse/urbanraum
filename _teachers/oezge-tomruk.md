@@ -3,7 +3,7 @@ identifier: "özge"
 name: "Özge Tomruk"
 email: "ozgecantomruk@gmail.com"
 link: "oezge-tomruk"
-image: "teacher-oezge-tomruk"
+image: "teacher-oezge-tomruk.jpg"
 links:
   - website-title: "www.impro-tomruk.de"
     website-link: "www.impro-tomruk.de"
