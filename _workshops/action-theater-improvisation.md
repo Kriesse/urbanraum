@@ -7,7 +7,7 @@ date_de: "16.09. & 14.10. & 11.11. & 16.12.2017"
 time: 10:00am
 endtime: 1:00pm
 
-image: ""
+image: "workshop-action-theatre.jpg"
 
 title_en: "Action Theater™Improvisation"
 title_de: "Action Theater™Improvisation"
