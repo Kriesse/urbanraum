@@ -22,9 +22,9 @@ language_de: "Deutsch"
 
 type_de: "Workshop"
 
-level_en: "The beginners, the explorer and the professional are all welcome.  
+level_en: "The beginners, the explorer and the professional are all welcome.    
 The number of participants is limited."
-level_de: "Anfänger_innen und Erfahrene sind willkommen.  
+level_de: "Anfänger_innen und Erfahrene sind willkommen.    
 Die Anzahl der Teilnehmer_innen ist begrenzt."
 
 price_en: |
