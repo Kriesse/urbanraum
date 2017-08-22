@@ -22,8 +22,8 @@ language_de: ""
 
 type_de: "Workshop"
 
-level_en: ""
-level_de: ""
+level_en: "open level"
+level_de: "open level"
 
 price_en: |
   EUR 50
@@ -33,12 +33,12 @@ price_de: |
 
 
 description_en: |
+  Ephemera Dance Company is a women's dance company which uses embodied memories, text and electronic music to trigger movement. This workshop invites anyone who is interested in structured improvisation, movement memory making, and instant composition. In this workshop we will create poems, create movement and share some of our company's repertory with participants. This is an opportunity to jam with professional dancers, electronic musicians and to begin to learn where and how we can exorcise our memories through movement.   
   Registrations: ephemerarts.dance@gmail.com  
-  Furhter informations coming soon
+  
   
 description_de: |
-  Anmeldung über: ephemerarts.dance@gmail.com  
-  Weitere Infos in Kürze  
+  please see English description 
 ---
 
 
