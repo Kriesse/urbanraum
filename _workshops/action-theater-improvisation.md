@@ -40,16 +40,16 @@ description_en: |
   
   This series consists of four workshops each dedicated to a topic.   
 
-  **Awareness / September 16th, 2017:**    
+  *Awareness / September 16th, 2017:*     
   We start with the awareness in the body and then we practice awareness in action in the space in contact with the others.  
 
-  **Borders / October 14th, 2017:**    
+  *Borders / October 14th, 2017:*     
   It is a research about the "border" between inside and outside of our body, reflection on the physical and social boundaries.  
 
-  **Imagination / November 11th, 2017:**    
+  *Imagination / November 11th, 2017:*      
   Movement and body are portals to the imagination and set it free. It is all about being then being “creative”. 
   
-  **Decision-making / December 16th, 2017:**    
+  *Decision-making / December 16th, 2017:*      
   Towards the end of the year there are decisions and New Year's resolutions to make. We practice letting go (of the past) and committing joyfully to what is to come with new energy. 
 
   
