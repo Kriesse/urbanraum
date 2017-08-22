@@ -4,6 +4,9 @@ name: "Özge Tomruk"
 email: "ozgecantomruk@gmail.com"
 link: "oezge-tomruk"
 image: "teacher-oezge-tomruk"
+links:
+  - website-title: "www.impro-tomruk.de"
+    website-link: "www.impro-tomruk.de"
 bio_de: |
   •	Studium Theater-, Film- und Medienwissenschaft & Genderforschung und Kommunikationswissenschaft an der Universität Wien  
   •	Promotion: Theaterwissenschaft. Titel der Dissertation: Training fürs Leben. Methoden improvisierten Theaters: Action Theater™ und Forumtheater. Aisthesis-Bewusstsein-Veränderung, Universität Wien  
