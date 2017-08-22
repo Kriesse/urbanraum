@@ -59,16 +59,16 @@ description_de: |
   
   Diese Reihe besteht aus vier Workshops jeweils zu einem Thema, die unabhängig voneinander besucht werden können. 
 
-  **Achtsamkeit / 16. September 2017:**     
+  *Achtsamkeit / 16. September 2017:*       
   Wir fangen mit der Achtsamkeit im Körper an und dann gehen wir zur achtsamen Handlung im Raum in Kontakt mit den anderen.  
   
-  **Grenzen / 14. Oktober 2017:**      
+  *Grenzen / 14. Oktober 2017:*          
   Es geht um die „Grenze“ zwischen drinnen und draußen, um körperliche und gesellschaftliche Grenzen.  
   
-  **Imagination / 11. November 2017:**     
+  *Imagination / 11. November 2017:*       
   Die Imagination entfaltet sich in Verbindung mit dem Körper und der Bewegung. Es ist leichter und einfach zu „sein“ als „kreativ“ zu sein.  
   
-  **Entscheidungen / 16. Dezember 2017:**     
+  *Entscheidungen / 16. Dezember 2017:*       
   Passend zum Jahresende beschäftigen wir uns mit Entscheidungen. Wir üben uns im Loslassen und in Entschlossenheit, um uns mit Freude und Energie auf das kommende Jahr einzulassen, indem wir in Gelassenheit das Vergangene verabschieden.
 
   
