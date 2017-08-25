@@ -11,8 +11,8 @@ image: "class-ci-jenny-doell.jpg"
 title_en: "Tools for conscious play – Intermediate CI class series"
 title_de: "Tools for conscious play – Intermediate CI class series"
 
-subtitle_en: "29.08. – 14.10.2017"
-subtitle_de: "29.08. – 14.10.2017"
+subtitle_en: "29.08. – 17.10.2017"
+subtitle_de: "29.08. – 17.10.2017"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -21,13 +21,13 @@ level_en: "Intermediate"
 level_de: "Mittelstufe/Fortgeschritten"
 
 price_en: |
-  All 8 classes: EUR 100 | EUR 80 if paid before Aug 1 2017    
-  5 classes: EUR 70 | EUR 60 if paid before Aug 1 2017    
+  All 8 classes: EUR 100      
+  5 classes: EUR 70    
   Drop in: EUR 16
 
 price_de: |
-  8 Termine: 100 Euro | 80 Euro bei Bezahlung bis 1.8.2017  
-  5 Termine: 70 Euro | 60 Euro bei Bezahlung bis 1.8.2017  
+  8 Termine: 100 Euro    
+  5 Termine: 70 Euro    
   Drop-In: 16 Euro
 
 language_en: ""
