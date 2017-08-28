@@ -5,10 +5,10 @@ schedule:
   - day: "tuesday"
     start: "08:00pm"
     end: "09:30pm"
-image: ""
+image: "class-dance-up-your-mind.jpeg"
 
-title_en: "Dance Up Your Mind"
-title_de: "Dance Up Your Mind"
+title_en: "Dance Up Your Mind | starting 24.10.2017"
+title_de: "Dance Up Your Mind | ab 24.10.2017"
 
 subtitle_en: "Improvisation and Instant Composition"
 subtitle_de: "Tanzimprovisation und Instant Composition"
@@ -17,7 +17,7 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 level_en: ""
-level_de: "Vor-Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig!"
+level_de: "Vor-Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig."
 
 price_en: |
   EUR 112 / EUR 90 (reduced)  
