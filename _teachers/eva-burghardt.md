@@ -1,7 +1,7 @@
 ---
 identifier: "eva"
 name: "Eva Burghardt"
-email: "info@urbanraum.com"
+email: "produktion@evaburghardt.com"
 link: "eva-burghardt"
 image: "teacher-eva-burghardt.jpg"
 bio_de: |
