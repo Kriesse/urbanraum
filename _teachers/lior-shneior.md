@@ -1,7 +1,7 @@
 ---
 identifier: "lior"
 name: "Lior Shneior"
-email: "liorshneiordance@gmail.com"
+email: "Contact@liorshneior.com"
 phone:
 image: "teacher-lior-shneior.jpg"
 links:
