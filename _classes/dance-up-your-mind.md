@@ -4,7 +4,7 @@ teacher: "eva"
 schedule:
   - day: "tuesday"
     start: "08:00pm"
-    end: "09:30pm"
+    end: "10:00pm"
 image: "class-dance-up-your-mind.jpeg"
 
 title_en: "Dance Up Your Mind | starting 24.10.2017"
