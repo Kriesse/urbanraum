@@ -51,11 +51,7 @@ description_de: |
   
   Anmeldung bitte bis zum 24.9.2017 an: produktion@evaburghardt.com.  
   Der Kurs findet ab mindestens 8 TLN statt und ist begrenzt auf maximal 16 TLN.  
-
-  Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr 56 Euro /45 Euro.
-  Die 2. Hälfte ist vor Anfang des Kurses zu zahlen (bis zum 24.10.2017).   
-
-  Bei Ausfall des Kurses wird der gesamte Betrag zurückerstattet. Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede/r Teilnehmer/in selbst. 
+ 
 
 ---
 
