@@ -6,7 +6,7 @@ schedule:
     start: "10:00am"
     end: "11:30am"
 
-image: "" 
+image: "class-zeitgenoessisch-lior-neu.jpg" 
 
 title_en: "Contemporary Dance with Lior | starting October, 10th"
 title_de: "Zeitgenössischer Tanz mit Lior | ab 10.10.2017"
