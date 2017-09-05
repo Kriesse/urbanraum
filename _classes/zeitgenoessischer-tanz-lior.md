@@ -35,8 +35,14 @@ language_en: "German/English"
 language_de: "Deutsch/Englisch"
 
 description_en: |
-  s. German decription
+  After having given two class sessions last year, I will start a new dance course in UrbanRaum this Autumn where I will mix different elements from modern contemporary dance.  
 
+  The Course is open to everyone, with or without previous dance experience.
+
+  The autumn session will include 10 weekly classes. Every class starts with breathing exercises and yoga elements.
+  This is followed by floor and release teaching elements, and then moves on to exercises based on Limon Technik principles.
+
+  Throughout the course we will work on a combination that we will build on every week. It is therefore recommended that participants take the course as a whole, although but dropping in is always possible.
  
 
 description_de: |
