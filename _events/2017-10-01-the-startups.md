@@ -6,7 +6,7 @@ date_de: "1. Oktober 2017"
 
 time: "8:00pm"
 
-image: ""
+image: "event-the startups.jpg"
 tags:
 
 title_en:  "The Startups"
