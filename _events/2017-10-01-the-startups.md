@@ -23,6 +23,7 @@ language_de:
 
 description_en: |
   Come and join these three young artists on this evening of sharing of new works in progress!  
+  Doors open at 7.30pm!  
 
   I  
   RACHELL BO CLARK: If You Can Imagine It, It’s Possible  
