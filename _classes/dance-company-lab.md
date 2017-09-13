@@ -7,8 +7,8 @@ schedule:
     end: "12:00pm"
 image: "class-dance-company-lab.jpg"
 
-title_en: "Dance Company Lab (starting September 7th)"
-title_de: "Tanzcompany Lab (ab 7. September 2017)"
+title_en: "Dance Company Lab"
+title_de: "Tanzcompany Lab"
 
 subtitle_en: "Dance Technique and Choreography with a focus on contemporary practices and performance"
 subtitle_de: "Tanztechnik und Choreografie mit Fokus auf zeitgenössischen Tanztechniken, Komposition und Performance"
@@ -21,12 +21,10 @@ level_de: "Adv-Inter"
 
 price_en: |
   200 Euro
-  Early bird (until August, 24th): EUR 180 
 
 
 price_de: |
   200 Euro
-  Frühbucher-Preis (bis 24. August): 180 Euro
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
