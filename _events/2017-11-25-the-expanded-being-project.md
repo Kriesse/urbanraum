@@ -9,8 +9,8 @@ time: "7:30pm"
 image: ""
 tags:
 
-title_en:  "II. Part of "The expanded being project"
-title_de:  "II. Part of "The expanded being project"
+title_en:  "II. Part of 'The expanded being project'"
+title_de:  "II. Part of 'The expanded being project'"
 
 subtitle_en: "From and with Jenny Haack, Jenny Ocampo and Eric Wong"
 subtitle_de: "von und mit Jenny Haack, Jenny Ocampo and Eric Wong"
