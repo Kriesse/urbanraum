@@ -1,8 +1,8 @@
 ---
 teacher: "özge"
 
-date_en: "16.09. & 14.10. & 11.11. & 16.12.2017"
-date_de: "16.09. & 14.10. & 11.11. & 16.12.2017"
+date_en: "14.10. & 11.11. & 16.12.2017"
+date_de: "14.10. & 11.11. & 16.12.2017"
 
 time: 10:00am
 endtime: 1:00pm
@@ -43,9 +43,6 @@ description_en: |
   
   This series consists of four workshops each dedicated to a topic.   
 
-  *Awareness / September 16th, 2017:*     
-  We start with the awareness in the body and then we practice awareness in action in the space in contact with the others.  
-
   *Borders / October 14th, 2017:*     
   It is a research about the "border" between inside and outside of our body, reflection on the physical and social boundaries.  
 
@@ -62,9 +59,6 @@ description_de: |
   
   Diese Reihe besteht aus vier Workshops jeweils zu einem Thema, die unabhängig voneinander besucht werden können. 
 
-  *Achtsamkeit / 16. September 2017:*       
-  Wir fangen mit der Achtsamkeit im Körper an und dann gehen wir zur achtsamen Handlung im Raum in Kontakt mit den anderen.  
-  
   *Grenzen / 14. Oktober 2017:*          
   Es geht um die „Grenze“ zwischen drinnen und draußen, um körperliche und gesellschaftliche Grenzen.  
   
