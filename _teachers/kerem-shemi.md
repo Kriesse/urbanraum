@@ -9,9 +9,8 @@ links:
 
 image: "teacher-kerem-shemi.jpg"
 bio_en: |
-  Kerem Shemi is a dancer, choreographer and devoted Kung Fu practitioner, born in Israel and presently living in Berlin. She received her BA in dance and choreography at the Jerusalem Academy of Music and Dance. After graduating Kerem worked as a dancer in Israel with the Choreographer Anat Shamgar.   
-  From there she continued her movement research in China exploring the Chinese martial arts, which led her to the Academy for Internal Martial Arts in Berlin, where she is learning, practicing and living.  
-  She was awarded first prize at Gertrud Kraus Choreography Competition 2014, as well as gold and silver medals in Kung Fu tournaments in China and in Berlin. Presently Kerem lives in Berlin working as a choreographer, dancer and a Kung Fu - Dance teacher.
+  Kerem Shemi is an Israeli dancer, martial artist and teacher, based in Berlin. Her daily practice consists of a unique combination of dance and martial arts, which is manifested in her teaching and choreography. 
+  Kerem received her BA in dance and choreography at the Jerusalem Academy of Music and Dance. After graduating, she has worked as a dancer in Israel with the choreographers Anat Shamgar and Ronnie Heller. She continued her movement research in China, living and training full time at the WDP school for internal Chinese martial arts of Wudang and in 2015 moved to the Academy for Internal Martial Arts in Berlin (Wudang Deutchland), where she is currently practicing, living and teaching. Kerem was awarded first prize at the Gertrud Kraus Choreography Competition in 2014 with her piece "Thoughts on material and body". She won gold and silver medals in Kung Fu tournaments taking place in China and Berlin.
 
 bio_de: |
   s. english description
