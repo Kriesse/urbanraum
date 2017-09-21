@@ -23,7 +23,9 @@ language_de:
 
 description_en: |
   After Damp Sheets, the second part of a serie of works of the choreographer Jenny Ocampo under the concept of "The expanded being project" will be release soon again in the space of Urbanraum.   
-  In this occasion the choreographers and dancers Jenny Ocampo and Jenny Haack together with the musician Eric Wong are focused on the work with time and silence, exchanging and extending their perceptions into sound and movement. 
+  In this occasion the choreographers and dancers Jenny Ocampo and Jenny Haack together with the musician Eric Wong are focused on the work with time and silence, exchanging and extending their perceptions into sound and movement.  
+  
+  ///  
   
   The Canvas  
   Concept & artistic direction: Jenny Ocampo M.  
