@@ -6,7 +6,7 @@ date_de: "17. Dezember 2017"
 
 time: "8:00pm"
 
-image: 
+image: "event-lebenswege.jpg"
 tags:
 
 title_en:  "LEBENSWEGE (Wiederaufnahme)"
