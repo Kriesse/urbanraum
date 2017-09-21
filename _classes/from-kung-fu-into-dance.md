@@ -6,7 +6,7 @@ schedule:
     start: "10:00am"
     end: "11:30am"
 
-image: "" 
+image: "workshop-kungfu-dance.jpg" 
 
 title_en: "From Kung Fu into Dance | starting October, 11th"
 title_de: "From Kung Fu into Dance | ab 11.10.2017"
