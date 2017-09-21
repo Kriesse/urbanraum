@@ -15,8 +15,8 @@ title_de:  "The Canvas"
 subtitle_en: "The expanded being Project"
 subtitle_de: "The expanded being Project"
 
-price_en: ""
-price_de: ""
+price_en: "EUR 12/10 (red.)"
+price_de: "12 Euro/10 Euro (erm.)"
 
 language_en:
 language_de:
