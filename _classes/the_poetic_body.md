@@ -21,29 +21,47 @@ level_en: "This class is open to everyone with a sincere interest in Improvisati
 level_de: "s. english"
 
 price_en: |
-  Try-out: 8 €  
   Drop-in: 12 €  
   5 Classes Card: 50 €  
   10 Classes Card: 90€  
   (Valid for 3 months)
 
 price_de: |
-  Probestunde: 8 €  
   Drop-in: 12 €  
   5-er Karte: 50 €  
   10-er Karte: 90€  
   (3 Monate gültig)
 
 description_en: |
-  Experiencing different improvisation techniques, we will work intensively with the body and its ocean of expression, allowing the poetics of the body and its presence in motion to unfold; going a bit further on taking that into Compositions. Creating short pieces and “poems in movement” that are open to meaning and interpretation. Unfolding suggestive landscapes and alive compositions.
+ 
+ /// INTRO-OFFER for OCTOBER: Try-Out: 7 EUR ///
 
-  We will work with presence, inner visions and imagination, inner discourse/speech, decision making, braveness, vulnerability, clarity of movement, musicality and present time awareness. Using tasks and exercises related to practices like Action Theatre, Instant Composition, Dance Improvisation, Creative Writing and Butoh.
+  Poetry in motion.  
+  The body takes us into journeys. Together or alone.  
+  Considering dance and movement as verses from a poem.  
+  Using movement as expressive tool.  
+  Letting the body be the guide.  
+  Art and dance.  
 
-  The class will begin with a research practice where we will explore the possibilities of movement and dynamics, expanding our movement vocabulary, visiting thought improvisation different qualities and choices; in order to make ourselves available and potentially free in HOW we move. Here we will work on expanding, rediscovering and experiencing the HOW and WHAT we are doing. Creating our own material and acknowledging it as a dynamic constantly changing living thing, that has its own life, detached from our identity.
+  ///  
+  
+  ABOUT THE CLASS:  
 
-  We will work a lot on learning how to LISTEN to ourselves and others. We will practice being constantly in present time, ready and available, like a wild cat. Creating and choreographing, phrasing the movement in order to let the material speak up and dance it with joy.
+  Experiencing different improvisation techniques, we will work intensively with the body and its ocean of expression, allowing the poetics of the body and its presence in motion to unfold; going a bit further on taking that into Compositions. Creating short pieces and “poems in movement” that are open to meaning and interpretation. Unfolding suggestive landscapes and alive compositions.  
 
-  Taking that a bit further we will jump into the field of relation to others, to ourselves, and to the material we are creating, or that’s being created. Working on duos, trios, and group compositions as well as in Solos. Taking the whole work to serve the composition, and letting it rip off you to serve the poetry and the “third body” = The composition. Practicing WHERE and WHEN we do what we do, and noticing how time and space can be modified.
+  We will work with presence, inner visions, and imagination, inner discourse/speech, decision-making, braveness, vulnerability, clarity of movement, musicality and present time awareness. Using tasks and exercises related to practices like Action Theatre, Instant Composition, Dance Improvisation, Creative Writing, and Butoh.  
+
+  The class will begin with a research practice where we will explore the possibilities of movement and dynamics, expanding our movement vocabulary, visiting thought improvisation different qualities and choices; in order to make ourselves available and potentially free in HOW we move. Here we will work on expanding, rediscovering and experiencing the HOW and WHAT we are doing. Creating our own material and acknowledging it as a dynamic constantly changing living thing, that has its own life, detached from our identity.  
+
+  We will work a lot on learning how to LISTEN to ourselves and others. We will practice being constantly in present time, ready and available, like a wildcat. Creating and choreographing, phrasing the movement in order to let the material speak up and dance it with joy.  
+
+  Taking that a bit further we will jump into the field of relation to others, to ourselves, and to the material we are creating, or that’s being created. Working on duos, trios, and group compositions as well as in Solos. Taking the whole work to serve the composition, and letting it rip off you to serve the poetry and the “third body” = The composition. Practicing WHERE and WHEN we do what we do, and noticing how time and space can be modified.  
+
+  PERFORMANCE PROJECT:  
+
+  This year the class is presented as a Performance Project. Around June, we will show a little piece based on the work we have been developing and the ideas/desires of the group. So you can have a beautiful performing experience.
+
+
 
   ///
 
