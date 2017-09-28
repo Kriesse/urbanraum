@@ -1,11 +1,11 @@
 ---
 teacher: "eva"
 
-date_en: "24.02. & 25.02.2017"
+date_en: "24.02. & 25.02.2018"
 date_de: "February, 24th & 25th"
 
 time: 10:30am
-endtime: 3:00pm
+endtime: 03:00pm
 
 image: "workshop-lebenswege-2018.jpg"
 
