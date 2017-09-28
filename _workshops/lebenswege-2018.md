@@ -1,8 +1,8 @@
 ---
 teacher: "eva"
 
-date_en: "24.02. & 25.02.2017 (1. Workshop)"
-date_de: "February, 24th & 25th (first workshop)"
+date_en: "24.02. & 25.02.2017"
+date_de: "February, 24th & 25th"
 
 time: 10:30am
 endtime: 3:00pm
@@ -72,7 +72,6 @@ description_de: |
   10 TLN: 340,-  
   ab 14 TLN: 316,-    
 
-  
 ---
 
 
