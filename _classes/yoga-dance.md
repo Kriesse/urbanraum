@@ -61,6 +61,10 @@ description_en: |
   The class encourages meeting the potential within and awaken the hidden forces, encountering and going beyond limits. Expanding and opening, uncovering and softening the body in order to meet freedom, emancipation and inner liberation. Honoring our temple, honoring the one who carries the soul. Our body.  
   
   María is a dancer, ex-gymnast, actress and yoga teacher with a strong artistic passion. She followed artistic gymnastics passionately for ten years competing on high level. Concerned about her health at a young age, her parents proposed a more balanced practice and reluctantly she became an athlete competing in velocity, pole and long jump. In university she studied Theater Arts, where her big passion for movement and art guided her to dance and to joining the professional company of Physical Theater and Dance “Rabos de Lagartija”. She later joined the “Dance Intensive Program” at Tanzfabrik Berlin where she trained in contemporary dance, GaGa, flying low, release, ballet, improvisation, movement research and instant composition. Currently she works in her own projects and teaches yoga, creative writing, and a series of workshops "The Poetry of the Body - Dance/ActionTheatre/Improvisation"
+  
+  ///   
+  
+  Picture: Michela Filzi & Beatrix Joyce
 
 
 description_de: |
