@@ -32,7 +32,7 @@ price_en: |
   EUR 316-356 (depends on how many people will register)
   
 price_de: |
-  316-356 (abhängig von der Teilnehmer_Innen-Anzahl)
+  316-356 Euro (abhängig von der Teilnehmer_Innen-Anzahl)
 
 
 
@@ -44,7 +44,7 @@ description_de: |
   Wurzeln. Wo komme ich her? Was bringe ich mit? Was lasse ich gehen? Was nehme ich mit? Was ist mir wichtig? Was gebe ich weiter? Wohin die Reise? Schritt für Schritt.
 
   Dieses generationsübergreifende Performance-Projekt richtet sich an alle, die Lust haben, ihre Erfahrung in Bewegung, Tanz und Improvisation in einer festen Gruppe zu vertiefen. Thematisch werden wir uns mit Lebenswegen beschäftigen, die uns als Inspiration für die Erarbeitung und Gestaltung von künstlerisch-tänzerischen Kompositionen dienen. 
- Zum Abschluss des Projektes wird es eine öffentliche Präsentation geben, die sowohl aus improvisiertem, wie auch gesetztem Material besteht.  
+  Zum Abschluss des Projektes wird es eine öffentliche Präsentation geben, die sowohl aus improvisiertem, wie auch gesetztem Material besteht.  
 
   Die 8 Wochenend-Termine beinhalten:  
 
