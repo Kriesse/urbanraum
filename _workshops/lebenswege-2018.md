@@ -23,10 +23,10 @@ language_de: "Deutsch"
 type_de: "Workshop"
 
 level_en: |
-
+  open level
   
 level_de: |
-
+  open level
 
 price_en: |
   EUR 316-356 (depends on how many people will register)
