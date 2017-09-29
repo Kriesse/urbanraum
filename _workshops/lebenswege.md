@@ -71,6 +71,12 @@ description_de: |
   ab 8 TLN: 356,-   
   10 TLN: 340,-  
   ab 14 TLN: 316,-    
+  
+  Teilnehmeranzahl: 8 - max. 16 Teilnehmer_innen  
+  
+  Foto: Elam Riza
+  
+  
 
 ---
 
