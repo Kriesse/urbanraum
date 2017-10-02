@@ -45,8 +45,10 @@ description_de: |
 
   Dieses generationsübergreifende Performance-Projekt richtet sich an alle, die Lust haben, ihre Erfahrung in Bewegung, Tanz und Improvisation in einer festen Gruppe zu vertiefen. Thematisch werden wir uns mit Lebenswegen beschäftigen, die uns als Inspiration für die Erarbeitung und Gestaltung von künstlerisch-tänzerischen Kompositionen dienen. 
   Zum Abschluss des Projektes wird es eine öffentliche Präsentation geben, die sowohl aus improvisiertem, wie auch gesetztem Material besteht.  
+    Vor- Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig!  
 
-  Die 8 Wochenend-Termine beinhalten:  
+
+  Die Wochenend-Termine beinhalten:  
 
   - Basisarbeit an Präsenz und Körperwahrnehmung  
   - Raum- und Gruppenwahrnehmung   
@@ -55,6 +57,7 @@ description_de: |
   - thematische Beschäftigung mit (unseren) Lebenswegen, die uns als Inspiration für die künstlerisch-tänzerische Gestaltung dienen   
   - Erarbeitung von Gruppen- und Solo Kompositionen/Choreografien und einer gemeinsamen Präsentation  
 
+  
   Termine 2018:  
 
   Februar bis Mai 2018, 5 Wochenend-Termine Sa/So, 1x Freitag  
@@ -66,6 +69,7 @@ description_de: |
   Sa: 19.05.2018, 12:00-17:00h  
   1. Performance, 19.05.2018, 19:30h  
   2. Performance, 20.05.2018, 19:30h  
+  Insg. 43 Stunden
 
   Preis:  
   ab 8 TLN: 356,-   
@@ -74,7 +78,7 @@ description_de: |
   
   Teilnehmeranzahl: 8 - max. 16 Teilnehmer_innen  
   
-  Foto: Elam Riza
+  Foto: Elma Riza
   
   
 
