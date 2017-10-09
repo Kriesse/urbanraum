@@ -24,7 +24,7 @@ language_de:
 description_en: |
   After Damp Sheets, choreographer Jenni Ocampo Monsalve presents the second part of The expanded being project in the space of Urbanraum. In this occasion, choreographers and dancers Jenni Ocampo and Jenny Haack and musician Eric Wong come together, and focus on their encounter with time and silence, exchanging and extending their perceptions into sound and movement.   
 
- The Canvas is an empty space to be filled out, a naught and silence where everything can be created from. The artists manifest their presence and absence with their bodies on it. Existence and death of every emotion trace on an infinite space memories of what they are, of what they decided to be and how they are transformed in the future.  
+  The Canvas is an empty space to be filled out, a naught and silence where everything can be created from. The artists manifest their presence and absence with their bodies on it. Existence and death of every emotion trace on an infinite space memories of what they are, of what they decided to be and how they are transformed in the future.  
 
   Concept & artistic direction: Jenni Ocampo Monsalve  
 
