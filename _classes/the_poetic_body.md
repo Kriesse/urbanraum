@@ -34,8 +34,8 @@ price_de: |
 
 description_en: |
  
- /// INTRO-OFFER for OCTOBER: Try-Out: 7 EUR ///
-
+  No class on October, 26th!  
+  
   Poetry in motion.  
   The body takes us into journeys. Together or alone.  
   Considering dance and movement as verses from a poem.  
