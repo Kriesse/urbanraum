@@ -23,10 +23,10 @@ language_de: "Englisch"
 type_de: "Workshop"
 
 level_en: |
-
+  open level
   
 level_de: |
-
+  open level
 
 price_en: |
   EUR 90 
@@ -37,6 +37,9 @@ price_de: |
 
 
 description_en: |
+  15.11.2017, 12-00-16.00  
+  16.11.2017, 12-00-18.00  
+  
   This research is a combination of our particular practices MINDCROSS and the Intuitive body -and our search for movement possibilities in situations of body interaction.
   In the workshop we explore partnering elements, and we bring the same to be applied in trios, quartets, quintets, groups and masses.
   We work under the premise of empathy as a communication tool, term that should not be confused with condescension or indifference. Through the game of empathy we come to the study of three basic actions to the work of body interaction: to follow, to resist, to transform.
