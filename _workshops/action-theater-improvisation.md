@@ -1,8 +1,8 @@
 ---
 teacher: "özge"
 
-date_en: "14.10. & 11.11. & 16.12.2017"
-date_de: "14.10. & 11.11. & 16.12.2017"
+date_en: "11.11. & 16.12.2017"
+date_de: "11.11. & 16.12.2017"
 
 time: 10:00am
 endtime: 1:00pm
@@ -59,9 +59,6 @@ description_de: |
   
   Diese Reihe besteht aus vier Workshops jeweils zu einem Thema, die unabhängig voneinander besucht werden können. 
 
-  *Grenzen / 14. Oktober 2017:*          
-  Es geht um die „Grenze“ zwischen drinnen und draußen, um körperliche und gesellschaftliche Grenzen.  
-  
   *Imagination / 11. November 2017:*       
   Die Imagination entfaltet sich in Verbindung mit dem Körper und der Bewegung. Es ist leichter und einfach zu „sein“ als „kreativ“ zu sein.  
   
