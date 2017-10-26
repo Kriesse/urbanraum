@@ -8,8 +8,8 @@ schedule:
 
 image: "workshop-kungfu-dance.jpg" 
 
-title_en: "From Kung Fu into Dance | starting October, 11th"
-title_de: "From Kung Fu into Dance | ab 11.10.2017"
+title_en: "From Kung Fu into Dance"
+title_de: "From Kung Fu into Dance"
 
 subtitle_en: "Only 11 classes!"
 subtitle_de: "11 Termine!"
