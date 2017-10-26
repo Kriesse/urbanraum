@@ -4,7 +4,7 @@ teacher: ""
 date_en: "28. & 29.11.2017"
 date_de: "28. & 29.11.2017"
 
-time: 12:00am
+time: 12:00pm
 endtime: 4:00pm
 
 image: "workshop-rgww.jpg"
