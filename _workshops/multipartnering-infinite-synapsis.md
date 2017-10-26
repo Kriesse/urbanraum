@@ -37,8 +37,8 @@ price_de: |
 
 
 description_en: |
-  15.11.2017, 12-00-16.00  
-  16.11.2017, 12-00-18.00  
+  14.11.2017, 12-00-16.00  
+  15.11.2017, 12-00-18.00  
   
   This research is a combination of our particular practices MINDCROSS and the Intuitive body -and our search for movement possibilities in situations of body interaction.
   In the workshop we explore partnering elements, and we bring the same to be applied in trios, quartets, quintets, groups and masses.
