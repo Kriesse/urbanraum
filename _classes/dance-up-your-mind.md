@@ -7,8 +7,8 @@ schedule:
     end: "10:00pm"
 image: "class-dance-up-your-mind.jpeg"
 
-title_en: "Dance Up Your Mind | starting 24.10.2017"
-title_de: "Dance Up Your Mind | ab 24.10.2017"
+title_en: "Dance Up Your Mind"
+title_de: "Dance Up Your Mind"
 
 subtitle_en: "Improvisation and Instant Composition"
 subtitle_de: "Tanzimprovisation und Instant Composition"
