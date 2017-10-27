@@ -23,10 +23,11 @@ language_de: "Englisch"
 type_de: "Workshop"
 
 level_en: |
+  intermediate/advanced movers (comfortable with improvisation and creating movement)
 
   
 level_de: |
-
+  Mittelstufe/Fortgeschrittene (Erfahrung mit Improvisation)
 
 price_en: |
   EUR 40 
