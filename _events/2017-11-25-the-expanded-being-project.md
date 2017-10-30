@@ -6,7 +6,7 @@ date_de: "25. & 26. November 2017"
 
 time: "7:30pm"
 
-image: 
+image: "event-canvas.jpg"
 tags:
 
 title_en:  "The Canvas"
