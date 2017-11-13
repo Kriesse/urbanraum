@@ -6,7 +6,7 @@ date_de: "9. Dezember 2017"
 
 time: "8:00pm"
 
-image: "event-bestandsaufnahme.jpg"
+image: "event-bestandsaufnahme.JPG"
 tags:
 
 title_en: "Bestandsaufnahme # 9 Gravitations-Feld"
