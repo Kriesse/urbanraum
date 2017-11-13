@@ -7,7 +7,7 @@ date_de: "12.2.-2.3.2018"
 time: 
 endtime: 
 
-image: "workshop-the-world-is-sound.JPG"
+image: "workshop-the-world-is-sound.jpg"
 
 title_en: "The WORLD is SOUND"
 title_de: "The WORLD is SOUND"
