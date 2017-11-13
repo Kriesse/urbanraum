@@ -40,7 +40,7 @@ description_en: |
   - 3 teachers  
   - 16 participants  
   - 90 hours  
-  - individual mentoring | group research  
+  - individual mentoring / group research  
 
   THE WORLD IS SOUND is a 3-week immersive program dedicated to the exploration of the human voice as medium for physical expression in contemporary performance. Three voice artists share with the group of participants their own research and working tools from different perspectives.  
 
