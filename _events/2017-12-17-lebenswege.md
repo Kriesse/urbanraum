@@ -35,7 +35,7 @@ description_de: |
 
   Nach dem großen Erfolg des ersten Showings im Juli 2017, möchten wir mit der Wiederaufnahme eine weitere Möglichkeit geben, einen Einblick in die gemeinsame Arbeit des generationsübergreifenden Performance Projektes zu geben. Es ist eine Suche, ein Anfang, ein Stück eines gemeinsamen Weges zwischen Improvisation und Festlegung.  
 
-  Von und mit: Heike Bohlmann, Barbara Bunte, Ulli Enders, Maryam Gensch, Petra Liegener, Sarah Müller, Heidemarie Rohdewohld, Mechtild Römer, Katrin Schulz, Christian Schwanke, Gabriela Steinicke, Michael Steppat, Christoph Wendt, Christine Wermerskirch-Appl, Andreas Wirfler, Klas Yngborn  
+  Von und mit: Heike Bohlmann, Barbara Bunte, Ulli Enders, Maryam Gensch, Petra Liegener, Sarah Müller, Heidemarie Rohdewohld, Mechtild Römer, Katrin Schulz, Christian Schwanke, Gabriela Steinicke, Michael Steppat, Christoph Wendt, Andreas Wirfler  
 
   Projektleitung: Eva Burghardt
 ---
