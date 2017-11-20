@@ -59,16 +59,16 @@ description_de: |
 
   
   Termine 2018:  
-
-  Februar bis Mai 2018, 5 Wochenend-Termine Sa/So, 1x Freitag  
+  Februar bis Mai 2018, 5 Wochenend-Termine Sa/So, 1x Freitag   
   Sa/So: 24./25.02.2018, 10:30-15:00h  
   Sa/So: 24./25.03.2018, 10:30-15:00h  
   Sa/So: 28./29.04. 2018, 10:30-15:00h  
-  Sa/So: 12./13.05.2018, 10:30-15:00h  
-  Fr: 18.05.2018, 20:30-22.30h  
-  Sa: 19.05.2018, 12:00-17:00h  
-  1. Performance, 19.05.2018, 19:30h  
-  2. Performance, 20.05.2018, 19:30h  
+  Sa/So: 19./20.05.2018, 10:30-15:00h  
+  Fr: 25.05.2018, 20:30-22.30h  
+  Sa: 26.05.2018, 12:00-17:00h  
+
+  Performance, 26.05.2018, 20:30h  
+  Performance, 27.05.2018, 19:30h  
   Insg. 43 Stunden
 
   Preis:  
