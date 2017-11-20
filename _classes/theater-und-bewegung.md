@@ -5,10 +5,10 @@ schedule:
   - day: "thursday"
     start: "04:00pm"
     end: "05:30pm"
-image: ""
+image: 
 
-title_en: "Theater und Bewegung für Kinder (7-10 Jahre)"
-title_de: "Theater und Bewegung für Kinder (7-10 Jahre)"
+title_en: "Theater und Bewegung (7-10 Jahre)"
+title_de: "Theater und Bewegung (7-10 Jahre)"
 
 subtitle_en: "November 2017 - February 2018"
 subtitle_de: "November 2017 - Februar 2018"
