@@ -1,11 +1,11 @@
 ---
-teacher: ""
+teacher: 
 
 date_en: "12.2.-2.3.2018"
 date_de: "12.2.-2.3.2018"
 
-time: 
-endtime: 
+time:
+endtime:
 
 image: "workshop-the-world-is-sound.jpg"
 
@@ -24,12 +24,12 @@ type_de: "Workshop"
 
 level_en: |
 
-  
+
 level_de: |
 
 price_en: |
   EUR 900-1.000
-  
+
 price_de: |
   900-1.000 Euro
 
@@ -70,12 +70,10 @@ description_en: |
   For inquiries write at info@the-world-is-sound.com  
 
   www.the-world-is-sound.com  
-  
+
 description_de: |
   s. English description
 
- 
-  
+
+
 ---
-
-
