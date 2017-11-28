@@ -3,6 +3,9 @@ order: "1"
 teacher: "friederike"
 schedule:
   - day: "monday"
+    start: "3:30pm"
+    end: "4:15pm"
+  - day: "monday"
     start: "4:30pm"
     end: "5:15pm"
 image: "class-tanz-musik.jpg"
@@ -31,7 +34,6 @@ description_en:
   s. German description
 
 description_de: |
-  Herbstferien am 23. und 30. Oktober 2017.  
   
   Kinder lieben es, sich zu bewegen – zu rennen, tanzen, hüpfen, rollen.  
   Und sie lieben es, in Bilder und Geschichten abzutauchen und dabei in andere Rollen zu schlüpfen.
