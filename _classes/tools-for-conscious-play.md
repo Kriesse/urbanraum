@@ -6,7 +6,7 @@ schedule:
     start: "08:00pm"
     end: "10:00pm"
 
-image: "class-ci.JPG" 
+image: "class-ci.jpg" 
 
 title_en: "Tools for conscious play - Intermediate 'Contact Improvisation' class series"
 title_de: "Tools for conscious play - Intermediate 'Contact Improvisation' class series"
