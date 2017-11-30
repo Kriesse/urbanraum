@@ -23,10 +23,12 @@ language_de: "Englisch"
 type_de: "Workshop"
 
 level_en: |
+  middle/advanced
 
 
 level_de: |
-
+  Mittelstufe/Fortgeschritten
+  
 price_en: |
   EUR 900-1.000
 
