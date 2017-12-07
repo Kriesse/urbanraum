@@ -15,8 +15,8 @@ title_de:  "LEBENSWEGE (Wiederaufnahme)"
 subtitle_en: "Ein Tanz Performance Projekt für Menschen zwischen 16 und 96"
 subtitle_de: "Ein Tanz Performance Projekt für Menschen zwischen 16 und 96"
 
-price_en: "EUR 6-12 (sliding scale)"
-price_de: "6-12 Euro"
+price_en: "EUR 5-8 (sliding scale)"
+price_de: "5-8 Euro"
 
 language_en:
 language_de:
