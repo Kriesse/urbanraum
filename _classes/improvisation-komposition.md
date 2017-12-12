@@ -5,7 +5,7 @@ schedule:
   - day: "friday"
     start: "10:00am"
     end: "11:30am"
-image: "class-improvisation-komposition.jpg"
+image: "class-improvisation-komposition.JPG"
 
 title_en: "Tanzimprovisation und Komposition"
 title_de: "Tanzimprovisation und Komposition"
