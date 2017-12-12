@@ -10,6 +10,9 @@ image: "class-improvisation-komposition.JPG"
 title_en: "Tanzimprovisation und Komposition"
 title_de: "Tanzimprovisation und Komposition"
 
+subtitle_en: "5.01. - 16.02.18  "
+subtitle_de: "5.01. - 16.02.18  "
+
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
