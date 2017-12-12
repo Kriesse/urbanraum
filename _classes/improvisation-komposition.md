@@ -14,7 +14,7 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 level_en: |
-open for everybody with some kind of movement experience
+  open for everybody with some kind of movement experience
 level_de: |
   Offen für Alle mit Bewegungserfahrung
 
@@ -35,7 +35,7 @@ trial_en:
 trial_de: 
 
 description_en: |
-  Fridays: 10-11:30am from 5.01.-16.02.18
+  Fridays: 10-11:30am from 5.01.-16.02.18  
   This course focuses on the individual engagement with contemporary dance and the fluid transition from improvisation to composition. It's about the game of exploring, defining and resolving or transforming movement material. Classes begin with warm-up training, where the body will be perceived, relaxed, aligned and placed. Yoga elements will be included to  stretch and strengthen the body and mind. Based on the warm up we will start with the dance improvisation and the exploration of movement possibilities. Given tasks lead us to composition in a playful way, whereby the different concepts: space, time, dynamics and movement quality will become important.  
   Everyone should find out for themselves how these concepts can be implemented individually but also in the group.
 
