@@ -26,7 +26,7 @@ price_en: |
 
 price_de: |
   112 Euro / 90 Euro ermäßigt  
-  Für neue Interessenten: Probestunde am 24.10., Preis: 8 Euro     
+  Für neue Interessenten: Probestunde am 4.1.2018, Preis: 8 Euro     
   (Ermäßigungen für Schüler, Studenten, Hartz IV bei Vorlage einer Bescheinigung!)
 
 description_en: |
