@@ -21,12 +21,12 @@ level_en: ""
 level_de: "Vor-Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig."
 
 price_en: |
-  EUR 112 / EUR 90 (reduced)  
-  For new people: Trial lesson on October, 24th, price: EUR 8   
+  EUR 112 / red. EUR 90  
+  Trial lesson possible on 4.1.18, price: EUR 8
 
 price_de: |
-  112 Euro / 90 Euro ermäßigt.  
-  Für neue Interessenten: Probestunde am 24.10., Preis: 8 Euro   
+  112 Euro / 90 Euro ermäßigt  
+  Für neue Interessenten: Probestunde am 24.10., Preis: 8 Euro     
   (Ermäßigungen für Schüler, Studenten, Hartz IV bei Vorlage einer Bescheinigung!)
 
 description_en: |
