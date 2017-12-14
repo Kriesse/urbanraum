@@ -2,9 +2,10 @@
 order: "2"
 teacher: "eva"
 schedule:
-  - day: "tuesday"
-    start: "08:00pm"
-    end: "10:00pm"
+
+  - day: "thursday"
+    start: "06:00pm"
+    end: "08:00pm"
 image: "class-dance-up-your-mind.jpeg"
 
 title_en: "Dance Up Your Mind"
@@ -44,13 +45,14 @@ description_de: |
 
   Wir wollen uns ernsthaft dem Spielen widmen, uns selbst überraschen und die Balance zwischen Freiheit und Festlegung erforschen...  
   
-  8 Termine, Beginn: 24.10.2017  
-  (24.10., 31.10., 7.11., 14.11., 21.11., 28.11., 5.12., 12.12.)  
+  8 Termine, Beginn: 4.1.2018   
+  Donnerstag, 18-20h  
+  4./11./18. Januar, 1./8./15. Februar, 1./8. März 
   
   ///  
   
-  Anmeldung bitte bis zum 24.9.2017 an: produktion@evaburghardt.com.  
-  Der Kurs findet ab mindestens 8 TLN statt und ist begrenzt auf maximal 16 TLN.  
+  Anmeldung bitte bis zum 22.12.2017 an: produktion@evaburghardt.com  
+  Der Kurs findet ab mindestens 8 TLN statt und ist begrenzt auf maximal 16 TLN.
  
 
 ---
