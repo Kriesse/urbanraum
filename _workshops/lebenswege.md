@@ -1,8 +1,8 @@
 ---
 teacher: "eva"
 
-date_en: "Begins: February, 24th & 25th => further dates see below"
-date_de: "Start: 24.02. & 25.02.2018 => weitere Termine s. unten"
+date_en: "Begins: February, 24th & 25th (=> further dates see below)"
+date_de: "Start: 24.02. & 25.02.2018 (=> weitere Termine s. unten)"
 
 time: 10:30am
 endtime: 03:00pm
