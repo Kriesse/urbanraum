@@ -34,6 +34,7 @@ price_de: |
 
 description_en: |
  
+  Back from christimas holidays on January, 11th!   
   Poetry in motion.  
   The body takes us into journeys. Together or alone.  
   Considering dance and movement as verses from a poem.  
