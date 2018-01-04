@@ -5,14 +5,17 @@ schedule:
   - day: "wednesday"
     start: "10:00am"
     end: "11:30am"
+- day: "monday"
+start: "10:00am"
+end: "11:30am"
 
 image: "workshop-kungfu-dance.jpg" 
 
 title_en: "From Kung Fu into Dance"
 title_de: "From Kung Fu into Dance"
 
-subtitle_en: "Only 11 classes!"
-subtitle_de: "11 Termine!"
+subtitle_en: ""
+subtitle_de: ""
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
