@@ -6,8 +6,8 @@ schedule:
     start: "10:00am"
     end: "11:30am"
   - day: "monday"
-  start: "10:00am"
-  end: "11:30am"
+    start: "10:00am"
+    end: "11:30am"
 
 image: "workshop-kungfu-dance.jpg" 
 
