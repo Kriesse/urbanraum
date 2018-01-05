@@ -1,5 +1,5 @@
 ---
-order: "1"
+order: "3"
 teacher: "jenny"
 schedule:
   - day: "wednesday"
@@ -10,8 +10,8 @@ image: "class-contakids-drei.jpg"
 title_en: "ContaKids"
 title_de: "ContaKids"
 
-subtitle_en: "Workshop (8 dates) from January 10th on"
-subtitle_de: "Workshop mit 8 Terminen ab 10. Januar 2017"
+subtitle_en: "no free spots / only waiting list"
+subtitle_de: "Nur noch Plätze auf der Warteliste"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
