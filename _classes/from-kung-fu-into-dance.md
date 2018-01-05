@@ -58,9 +58,7 @@ description_en: |
   -	Kung Fu way of practice (duration work)  
   -	Hard and soft (yin and yang expression)   
   -	Partner work  
-
-  
-    From January, 2018 on there will be 2 classes (monday and wednesday, 10am)!    
+ 
     Further infos you can find here: https://www.facebook.com/events/762968143888366/
   
 description_de: |
