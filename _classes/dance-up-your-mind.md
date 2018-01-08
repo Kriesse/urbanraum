@@ -22,11 +22,11 @@ level_de: "Vor-Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation is
 
 price_en: |
   EUR 112 / red. EUR 90  
-  Trial lesson possible on 4.1.18, price: EUR 8
+  Trial lesson: EUR 8
 
 price_de: |
   112 Euro / 90 Euro ermäßigt  
-  Für neue Interessenten: Probestunde am 4.1.2018, Preis: 8 Euro     
+  Probestunde: 8 Euro     
   (Ermäßigungen für Schüler, Studenten, Hartz IV bei Vorlage einer Bescheinigung!)
 
 description_en: |
@@ -49,10 +49,7 @@ description_de: |
   Donnerstag, 18-20h  
   4./11./18. Januar, 1./8./15. Februar, 1./8. März 
   
-  ///  
-  
-  Anmeldung bitte bis zum 22.12.2017 an: produktion@evaburghardt.com  
-  Der Kurs findet ab mindestens 8 TLN statt und ist begrenzt auf maximal 16 TLN.
+ 
  
 
 ---
