@@ -15,8 +15,8 @@ title_de:  "IM GEWINDE (Premiere)"
 subtitle_en: "Ein Tanz Performance Projekt"
 subtitle_de: "Ein Tanz Performance Projekt"
 
-price_en: ""
-price_de: ""
+price_en: "sliding scale"
+price_de: "sliding scale"
 
 language_en:
 language_de:
