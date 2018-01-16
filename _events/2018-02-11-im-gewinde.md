@@ -1,8 +1,8 @@
 ---
 teacher: "Frieda"
 
-date_en: "February, 11th & 12th "
-date_de: "11. und 12. Februar 2018"
+date_en: "February, 11th & 17th "
+date_de: "11. und 17. Februar 2018"
 
 time: "7:00pm bzw. 8:00pm"
 
