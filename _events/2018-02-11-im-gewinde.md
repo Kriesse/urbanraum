@@ -31,11 +31,11 @@ description_de: |
 
   Wir laden Euch herzlich zu einer zeitgenössischen Tanzperformance im URBANRAUM ein. In mehreren Tanzworkshops und unter der choreographischen Leitung von Friederike Erhart entwickelten und erforschten die Tänzerinnen gemeinsam in musikalischer Zusammenarbeit mit Frille Wrobel das Stück IM GEWINDE.
 
-  Idee und Konzept: Team  
-  Tanz: Lina Dornhof, Leoni Grützmacher, Josephine Heide, Kristin Kaufmann, Tina Koch, Gesche Wattenberg, Julia Zarth  
-  Choreografien: Friederike Erhart und Tänzerinnen  
-  Musik: Frille Wrobel  
-  Kostüm: Judith Fischer, Lina Dornhof, Tina Koch  
+  *Idee und Konzept*: Team  
+  *Tanz*: Lina Dornhof, Leoni Grützmacher, Josephine Heide, Kristin Kaufmann, Tina Koch, Gesche Wattenberg, Julia Zarth  
+  *Choreografien*: Friederike Erhart und Tänzerinnen  
+  *Musik*: Frille Wrobel  
+  *Kostüm*: Judith Fischer, Lina Dornhof, Tina Koch  
 
   ///  
 
