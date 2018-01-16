@@ -4,7 +4,7 @@ teacher: "Frieda"
 date_en: "February, 11th & 12th "
 date_de: "11. und 12. Februar 2018"
 
-time: "7:00pm"
+time: "7:00pm bzw. 8:00pm"
 
 image: "event-im-gewinde.jpg"
 tags:
