@@ -23,7 +23,7 @@ language_de: "Deutsch"
 type_de: "Workshop"
 
 level_en: |
-  For all curious people with some kind of movement experience
+  For all curious people with some kind of movement experience.
   
 level_de: |
   Für Alle Neugierigen mit etwas Bewegungs-Erfahrung.      
@@ -51,7 +51,6 @@ description_de: |
 
   Daniel Goldin leitete von 1996 bis 2012 seine eigene Tanztheater-Compagnie am Theater in Münster. Er studierte modernen und klassischen Tanz in Buenos Aires und war Mitglied bei Nucleodanza und der Grupo de Danza Contemporánea del Teatro San Martín. 1987 kam er nach Deutschland und wurde Tänzer im Folkwang Tanzstudio Essen. Er arbeitete unter anderem mit Pina Bausch und dem Wuppertaler Tanztheater sowie Künstlern wie Carolyn Carlson, Urs Dietrich, Raffaella Giordano und Susanne Linke.  
 
-  www.daniel-goldin.de  
 
   ///  
 
