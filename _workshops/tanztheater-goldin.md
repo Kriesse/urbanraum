@@ -1,6 +1,6 @@
 ---
 
-teacher: ""
+teacher: "daniel"
 
 date_en: "14. & 15.04.2018"
 date_de: "14. & 15.04.2018"
@@ -18,7 +18,7 @@ subtitle_de: "Körper - Choreographie - Komposition"
 
 type_en: "Workshop"
 
-language_en: "Deutsch"
+language_en: "German (English and Spanish also possible)"
 language_de: "Deutsch"
 
 type_de: "Workshop"
