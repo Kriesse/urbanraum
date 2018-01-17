@@ -1,4 +1,5 @@
 ---
+
 teacher: ""
 
 date_en: "14. & 15.04.2018"
@@ -39,7 +40,7 @@ price_de: |
 
 
 description_en: |
-s. German description
+  s. German description
   
 description_de: |
   Der argentinische Tänzer und Tanztheater-Choreograph Daniel Goldin unterrichtet eine Technik, die es dem Einzelnen ermöglicht, seine eigene Persönlichkeit mit einzubeziehen:
