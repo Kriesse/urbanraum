@@ -4,8 +4,8 @@ teacher: "daniel"
 date_en: "14. & 15.04.2018"
 date_de: "14. & 15.04.2018"
 
-time: 10:00am
-endtime: 1:00pm
+time: 11:00am
+endtime: 5:00pm
 
 image: "workshop-daniel-goldin.jpg"
 
@@ -23,7 +23,7 @@ language_de: "Deutsch"
 type_de: "Workshop"
 
 level_en: |
-    For all curious people with some kind of movement experience
+  For all curious people with some kind of movement experience
   
 level_de: |
   Für Alle Neugierigen mit etwas Bewegungs-Erfahrung.      
