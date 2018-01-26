@@ -1,8 +1,8 @@
 ---
 teacher: "özge"
 
-date_en: "16.12.2017"
-date_de: "16.12.2017"
+date_en: "17.02. & 18.03. & 14.04.2018"
+date_de: "17.02. & 18.03. & 14.04.2018"
 
 time: 10:00am
 endtime: 1:00pm
@@ -31,10 +31,10 @@ level_de: |
   Die Anzahl der Teilnehmer_innen ist begrenzt.
 
 price_en: |
-  EUR 20 to 40 (according to self-estimation)
+  EUR 30 (reduction on request)
   
 price_de: |
-  20 bis 40 Euro (nach Selbsteinschätzung)
+  30 Euro (Ermäßigung auf Anfrage)
 
 
 
@@ -43,8 +43,9 @@ description_en: |
   
   This series consists of four workshops each dedicated to a topic.   
 
-  *Decision-making / December 16th, 2017:*      
-  Towards the end of the year there are decisions and New Year's resolutions to make. We practice letting go (of the past) and committing joyfully to what is to come with new energy. 
+  *Change / February 17th, 2018*  
+  *Memory / March 18th, 2018*  
+  *Resonance / April 14th, 2018*  
 
   
 description_de: |
@@ -53,9 +54,10 @@ description_de: |
   
   Diese Reihe besteht aus vier Workshops jeweils zu einem Thema, die unabhängig voneinander besucht werden können. 
 
-  *Entscheidungen / 16. Dezember 2017:*       
-  Passend zum Jahresende beschäftigen wir uns mit Entscheidungen. Wir üben uns im Loslassen und in Entschlossenheit, um uns mit Freude und Energie auf das kommende Jahr einzulassen, indem wir in Gelassenheit das Vergangene verabschieden.
-
+  *Veränderung / 17. Februar 2018*    
+  *Erinnerung / 18. März 2018*  
+  *Resonanz / 14. April 2018*
+  
   
 ---
 
