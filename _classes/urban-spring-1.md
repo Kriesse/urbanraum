@@ -6,7 +6,7 @@ schedule:
     start: "6:15pm"
     end: "7:45pm"
 
-image: "class-urban-spring.jpg"
+image: "class-blue.jpg"
 
 title_en: "Contemporary Dance and Improvisation | blue class"
 title_de: "Contemporary Dance and Improvisation | blue class"
