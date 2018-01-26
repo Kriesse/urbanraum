@@ -54,9 +54,14 @@ description_de: |
   
   Diese Reihe besteht aus versch. Workshops jeweils zu einem Thema, die unabhängig voneinander besucht werden können. 
 
-  *Veränderung / 17. Februar 2018*    
+  *Veränderung / 17. Februar 2018*  
+  Es geht um Bemerken von Gewohnheiten und Widerständen, dann kommt die Veränderung des Selbst und der Handlung abrupt oder almählich.  
+  
   *Erinnerung / 18. März 2018*  
-  *Resonanz / 14. April 2018*
+  Der Körper erinnert sich jetzt und wir lassen uns im gegenwärtigen Moment von Vergangenheit (Biographie) und Zukunft (Vision) inspirieren.  
+  
+  *Resonanz / 14. April 2018*  
+  Jeder Moment vereint drei Aspekte einer Handlung: merken, erfahren, antworten. Als eine Maßnahme gegen Entfremdung bauen wir eine Antwortbeziehung auf.  
   
   
 ---
