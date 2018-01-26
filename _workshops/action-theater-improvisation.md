@@ -41,7 +41,7 @@ price_de: |
 description_en: |
   Action Theater™ is an improvisational physical theater training and performance method. It addresses perception, awareness and the process of change. It integrates body and mind and promotes spontaneous and conscious expression. We follow the changing contents of our inner and outer awareness and respond to it through movement, vocalization, and speech. Fundamental to the practice of Action Theater™  to achieve more presence on stage and in life.  
   
-  This series consists of four workshops each dedicated to a topic.   
+  This series consists of different workshops each dedicated to a topic.   
 
   *Change / February 17th, 2018*  
   *Memory / March 18th, 2018*  
@@ -52,7 +52,7 @@ description_de: |
 
   Die körper- und bewegungsorientierte Action Theater™ Improvisationsmethode arbeitet mit Wahrnehmung, Bewusstsein und dessen Veränderungsprozesse. Sie integriert Körper und Geist und fördert den spontanen und bewussten Ausdruck. Wir folgen den wechselnden Inhalten unserer inneren und äußeren Wahrnehmung und antworten auf sie durch körperliche, stimmliche und/oder sprachliche Handlungen (actions). Ein Ziel dieser Methode ist mehr Präsenz auf der Bühne und im Leben zu erreichen.  
   
-  Diese Reihe besteht aus vier Workshops jeweils zu einem Thema, die unabhängig voneinander besucht werden können. 
+  Diese Reihe besteht aus versch. Workshops jeweils zu einem Thema, die unabhängig voneinander besucht werden können. 
 
   *Veränderung / 17. Februar 2018*    
   *Erinnerung / 18. März 2018*  
