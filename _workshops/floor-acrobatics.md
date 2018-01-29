@@ -8,7 +8,7 @@ date_de: "18.03.2018"
 time: 3:00pm
 endtime: 7:00pm
 
-image: "workshop-iliana"
+image: "workshop-iliana.jpg"
 
 title_en: "Connection Works & Floor Acrobatics"
 title_de: "Connection Works & Floor Acrobatics"
