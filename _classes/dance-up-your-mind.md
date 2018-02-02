@@ -6,6 +6,9 @@ schedule:
   - day: "thursday"
     start: "06:00pm"
     end: "08:00pm"
+      - day: "tuesday"
+    start: "08:00pm"
+    end: "10:00pm"
 image: "class-dance-up-your-mind.jpeg"
 
 title_en: "Dance Up Your Mind"
@@ -33,6 +36,8 @@ description_en: |
   s. German description
 
 description_de: |
+  Ab März 2018: Neuer Kurs am Dienstag um 20.00!  
+  
   *Raum - Zeit - Körper - Präsenz - Hören - Spielen - Tanzen - Sein*   
 
   Dieser wöchentliche Kurs ist als regelmässiges BASISTRAINING für Improvisation und Instant Composition in einer festen Gruppe gedacht. 
@@ -45,9 +50,16 @@ description_de: |
 
   Wir wollen uns ernsthaft dem Spielen widmen, uns selbst überraschen und die Balance zwischen Freiheit und Festlegung erforschen...  
   
-  8 Termine, Beginn: 4.1.2018   
-  Donnerstag, 18-20h  
-  4./11./18. Januar, 1./8./15. Februar, 1./8. März 
+  Donnerstag, 18-20h      
+  08., 15. Februar, 1./8. März  
+  Ein neuer Block-Kurs startet am 14.3.2018  
+  
+  NEU!!!  
+  Dienstag, 20-22h   
+  6.3. - 8.5.2018  
+  (nicht am 1.5.2018)
+  
+  
   
  
  
