@@ -7,8 +7,8 @@ schedule:
     end: "12:00pm"
 image: "class-dance-company-lab.jpg"
 
-title_en: "Dance Company Lab"
-title_de: "Tanzcompany Lab"
+title_en: "Dance Company Lab (starting April 2018)"
+title_de: "Tanzcompany Lab (ab April 2018)"
 
 subtitle_en: "Dance Technique and Choreography with a focus on contemporary practices and performance"
 subtitle_de: "Tanztechnik und Choreografie mit Fokus auf zeitgenössischen Tanztechniken, Komposition und Performance"
@@ -29,7 +29,7 @@ price_de: |
   Frühbucher-Rabatt: 185 Euro
 
 description_en: |
-  04.01.2018 - 22.03.2018  
+  5.4. - 28.6.2018!  
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
 
   The idea of this course is to experience a Dance company-similar dynamic: Beginning with a dance technique class, then working on a choreographic creative process to finally show the results of it.
@@ -41,7 +41,7 @@ description_en: |
 
   
 description_de: |
-  04.01.2018 - 22.03.2018  
+  5.4. - 28.6.2018!  
   Die Idee von diesem Kurs ist, eine Tanzcompany-ähnliche Dynamik zu erleben, beginnend mit einem Tanztechnik-Unterricht, an den ein choreografisch-kreativer Prozess anschließt. 
   
   Im Technikteil werden die Studenten herausgefordert, an der Ausrichtung ihres Körpers zu arbeiten und die Koordination, die Kraft und die Entwicklung von Bewusstsein und Bewegung auf mehreren räumlichen Ebenen zu erhöhen. 
