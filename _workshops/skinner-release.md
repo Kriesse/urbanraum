@@ -48,15 +48,15 @@ description_en: |
   Practicing the different releasing principles individually, with a partner or a group provides the experience of dynamic and multi-dimensional alignment; one gains strength and flexibility and finds more freedom, effortlessness and presence in movement.  
 
   These 5 morning classes are designed to progressively offer insights into the basic principles of SRT. Participating in the entire series allows you to deepen and refine your experience and process. However, you are also welcome to participate in single classes.  
-
-  The classes are open to advanced movers, professional dancers, teachers, somatic practitioners and anybody else with an interest in movement and dance. 
+ 
+  ///    
   
-  Bettina Neuhaus is an Amsterdam-based dance artist and certified Skinner Releasing (SRT) teacher at both Introductory and Ongoing levels. She studied contemporary dance at the Theaterschool Amsterdam und holds a Masters in Creative Practice Dance from Independent Dance and Trinity Laban Conservatoire of Music and Dance in London. Her choreographic and performative work centers around Instant Composition including collaborations with musicians, visual artists, poets and philosophers. Bettina teaches SRT and Instant Composition extensively at major academies, festivals and studios across Europe and South America.
+  BETTINA NEUHAUS is an Amsterdam-based dance artist and certified Skinner Releasing (SRT) teacher at both Introductory and Ongoing levels. She studied contemporary dance at the Theaterschool Amsterdam und holds a Masters in Creative Practice Dance from Independent Dance and Trinity Laban Conservatoire of Music and Dance in London. Her choreographic and performative work centers around Instant Composition including collaborations with musicians, visual artists, poets and philosophers. Bettina teaches SRT and Instant Composition extensively at major academies, festivals and studios across Europe and South America.
 
-  "My practice and work as dance artist, researcher and teacher are propelled by my ongoing fascination of the dancing body with its inherent imagination and intelligence, its poetry and musicality and its infinite possibilities of transformation and expression through which we connect to the world."
+  *"My practice and work as dance artist, researcher and teacher are propelled by my ongoing fascination of the dancing body with its inherent imagination and intelligence, its poetry and musicality and its infinite possibilities of transformation and expression through which we connect to the world."*
 
   
-  Info & registration: Bettina Neuhaus, info@bettinaneuhaus.com , Tel. +49 (0) 171 100 9122 , www.bettinaneuhaus.com  
+  Info & registration: Bettina Neuhaus, info@bettinaneuhaus.com , Tel. +49 (0) 171 100 9122, www.bettinaneuhaus.com  
   http://www.skinnerreleasingnetwork.org/classes/class-in-berlin-by-bettina-neuhaus-0
 
 
