@@ -56,7 +56,9 @@ description_en: |
   *"My practice and work as dance artist, researcher and teacher are propelled by my ongoing fascination of the dancing body with its inherent imagination and intelligence, its poetry and musicality and its infinite possibilities of transformation and expression through which we connect to the world."*
 
   
-  Info & registration: Bettina Neuhaus, info@bettinaneuhaus.com , Tel. +49 (0) 171 100 9122, www.bettinaneuhaus.com  
+  Info & registration:  
+  Bettina Neuhaus  
+  info@bettinaneuhaus.com , Tel. +49 (0) 171 100 9122, www.bettinaneuhaus.com    
   http://www.skinnerreleasingnetwork.org/classes/class-in-berlin-by-bettina-neuhaus-0
 
 
