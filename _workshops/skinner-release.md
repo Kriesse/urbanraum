@@ -4,7 +4,7 @@ teacher:
 date_en: "26.-30.03.2018"
 date_de: "26.-30.03.3.2018"
 
-time: 12.00am
+time: 12.00pm
 endtime: 02.30pm
 
 image: "workshop-skinner-release.jpg"
