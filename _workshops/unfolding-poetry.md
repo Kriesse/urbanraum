@@ -57,6 +57,14 @@ description_en: |
 
   The Workshop is OPEN TO EVERYONE with a sincere interest in the matter. Please feel very welcome to join if you desire so.
   And of course specifically directed to poets, writers, dancers, performers, actors/actresses, theatre artists, singers, musicians, multidisciplinary artist... that wanna expand their practice and try out new approaches and practices.
+  
+  ///  
+  
+  Prior Booking and Payment is required to participate in the Workshop. Limited spots.  
+
+  CONTACT:  
+  danceverses@gmail.com  
+
 
 description_de: |
   s. English description
