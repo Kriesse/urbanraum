@@ -2,10 +2,10 @@
 teacher: "maria"
 
 date_en: "25.02.2018"
-date_de: "25.2.2018"
+date_de: "25.02.2018"
 
-time: 04.00pm
-endtime: 08.00pm
+time: 4:00pm
+endtime: 8:00pm
 
 image: "workshop-maria-februar.jpg"
 
