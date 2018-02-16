@@ -59,7 +59,14 @@ description_en: |
   Info & registration:  
   Bettina Neuhaus  
   info@bettinaneuhaus.com , Tel. +49 (0) 171 100 9122, www.bettinaneuhaus.com    
-  http://www.skinnerreleasingnetwork.org/classes/class-in-berlin-by-bettina-neuhaus-0
+  http://www.skinnerreleasingnetwork.org/classes/class-in-berlin-by-bettina-neuhaus-0  
+  
+  ///  
+  
+  Photo: Ellen van der Kooij
+
+
+
 
 
 description_de: |
