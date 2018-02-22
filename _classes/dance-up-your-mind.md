@@ -6,9 +6,6 @@ schedule:
   - day: "thursday"
     start: "06:00pm"
     end: "08:00pm"
-  - day: "tuesday"
-    start: "08:00pm"
-    end: "10:00pm"  
     
 image: "class-dance-up-your-mind.jpeg"
 
