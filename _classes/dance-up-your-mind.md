@@ -25,19 +25,17 @@ level_en: ""
 level_de: "Vor-Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig."
 
 price_en: |
-  EUR 112 / red. EUR 90  
-  Trial lesson: EUR 8
+1st block (7 dates in march/april, see below): EUR 100 / EUR 80   
+2nd block (6 dates in may/june, see below): EUR 86 / EUR 69 
 
 price_de: |
-  112 Euro / 90 Euro ermäßigt  
-  Probestunde: 8 Euro     
-  (Ermäßigungen für Schüler, Studenten, Hartz IV bei Vorlage einer Bescheinigung!)
+1. Block (7 Termine, März/April, s.u.): 100 Euro / 80 Euro   
+2. Block (6 Termine, Mai/Juni, s.u.): 86 Euro / 69 Euro 
 
 description_en: |
   s. German description
 
 description_de: |
-  Ab März 2018: Neuer Kurs am Dienstag um 20.00!  
   
   *Raum - Zeit - Körper - Präsenz - Hören - Spielen - Tanzen - Sein*   
 
@@ -51,14 +49,10 @@ description_de: |
 
   Wir wollen uns ernsthaft dem Spielen widmen, uns selbst überraschen und die Balance zwischen Freiheit und Festlegung erforschen...  
   
-  Donnerstag, 18-20h      
-  08., 15. Februar, 1./8. März  
-  Ein neuer Block-Kurs startet am 14.3.2018  
-  
-  NEU!!!  
-  Dienstag, 20-22h   
-  6.3. - 8.5.2018  
-  (nicht am 1.5.2018)
+  Donnerstag, 18-20h        
+  1. Block, 7 Termine: 15./22./29. März, 5./12./19./26. April    
+  2. Block, 6 Termine: 17./24./31. Mai, 7./14./21. Juni
+ 
   
   
   
