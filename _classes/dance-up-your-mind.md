@@ -22,12 +22,12 @@ level_en: ""
 level_de: "Vor-Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig."
 
 price_en: |
-1st block (7 dates in march/april, see below): EUR 100 / EUR 80   
-2nd block (6 dates in may/june, see below): EUR 86 / EUR 69 
+  1st block (7 dates in march/april, see below): EUR 100 / EUR 80     
+  2nd block (6 dates in may/june, see below): EUR 86 / EUR 69 
 
 price_de: |
-1. Block (7 Termine, März/April, s.u.): 100 Euro / 80 Euro   
-2. Block (6 Termine, Mai/Juni, s.u.): 86 Euro / 69 Euro 
+  1. Block (7 Termine, März/April, s.u.): 100 Euro / 80 Euro     
+  2. Block (6 Termine, Mai/Juni, s.u.): 86 Euro / 69 Euro 
 
 description_en: |
   s. German description
