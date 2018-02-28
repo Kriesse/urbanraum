@@ -5,7 +5,7 @@ schedule:
 
   - day: "thursday"
     start: "06:00pm"
-    end: "08:00pm"
+    end: "07:45pm"
     
 image: "class-dance-up-your-mind.jpeg"
 
@@ -19,7 +19,7 @@ type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
 level_en: ""
-level_de: "Vor-Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig."
+level_de: "open level"
 
 price_en: |
   1st block (7 dates in march/april, see below): EUR 100 / EUR 80     
