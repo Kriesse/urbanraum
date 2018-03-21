@@ -26,7 +26,7 @@ price_en: |
 
 price_de: |
   13 Termine: 165 Euro  
-  Frühbucher-Rabatt bis 28.03.2017: 150 Euro.
+  Frühbucher-Rabatt bis 28.03.2018: 150 Euro.
 
 description_en: |
   5.4. - 28.6.2018!  
