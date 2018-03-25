@@ -37,11 +37,11 @@ description_de: |
   ContaKids Kurse für Anfänger und mit Vorerfahrungen  
   Für Kids von 2-4 Jahren & ein (Groß-)Elternteil (oder einer anderen vertrauten Bezugsperson). Oma, Opa, Freunde, Babysitter etc... alle herzlich Willkommen!  
 
-  Was ist ContaKids?  
+  *Was ist ContaKids?*  
 
   “Contakids” ist eine Methode, die auf dem Grundgedanken basiert, körperlichen Kontakt zu nutzen, um eine tiefere Kommunikation zwischen Kindern und Eltern zu entwickeln, die für beide Seiten genussvoll ist. Über die Arbeit mit Bewegung kann das Kind seine motorischen Fähigkeiten und sein Selbstvertrauen stärken, während Eltern ein neues Vertrauensverhältnis zu ihren Kleinen aufbauen. Der Kurs richtet sich an Kinder von 2-4 Jahren. Anstelle eines Elternteils kann natürlich eine andere nahe Bezugsperson mitmachen. Tänzerische Vorerfahrung ist nicht notwendig.  
 
-  “ContaKids” fördert:  
+  *“ContaKids” fördert:*  
 
   · die Entwicklung einer tieferen Kommunikation zwischen Erwachsenen und Kindern, die für beide genussvoll ist: über die Arbeit mit dem eigenen Körper, mit Bewegung und körperlichem Kontakt.  
 
@@ -50,7 +50,7 @@ description_de: |
   · die Eigenständigkeit und Unabhängigkeit von Kindern, während Eltern lernen, ihre Kinder in einem spielerischen Rahmen als Gleichberechtigte zu sehen, die sie bedingungslos unterstützen.  
 
 
-  Ablauf:  
+  *Ablauf:*  
 
   Wir starten mit einem kleinen Warm-Up, das übergeht in einfache Übungen und Spiele. Bei vielen Übungen können Eltern und Kinder die Rollen tauschen - mal initiieren, mal folgen. Durch gemeinsames Bewegen tauchen wir in die kindliche Bewegungswelt ein und lernen kleine aber aufregende Bewegungsabläufe gemeinsam mit unseren Kindern, die wir auch in alltägliche Situationen - wie Heben und Absetzen des Kindes - integrieren können. Die gemeinsame Zeit soll als ein erfrischender Ansatz für die Kommunikation zwischen Eltern und Kindern verstanden werden. Eins ist dabei sicher: ​alle werden davon etwas mit nach Hause nehmen können.
   
