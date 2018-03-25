@@ -5,7 +5,7 @@ schedule:
   - day: "wednesday"
     start: "04:0pm"
     end: "04:45pm"
- - day: "wednesday"
+  - day: "wednesday"
     start: "05:00pm"
     end: "05:45pm"
 image: "class-contakids-drei.jpg"
