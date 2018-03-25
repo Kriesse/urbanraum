@@ -1,5 +1,5 @@
 ---
-order: "3"
+order: "1"
 teacher: "jenny"
 schedule:
   - day: "wednesday"
@@ -39,7 +39,7 @@ description_de: |
 
   Was ist ContaKids?  
 
-  “Contakids” ist eine Methode, die auf dem Grundgedanken basiert, körperlichen Kontakt zu nutzen, um eine tiefere Kommunikation zwischen Kindern und Eltern zu entwickeln, die für beide Seiten genussvoll ist. Über die Arbeit mit Bewegung kann das Kind seine motorischen Fähigkeiten und sein Selbstvertrauen stärken, während Eltern ein neues Vertrauensverhältnis zu ihren Kleinen aufbauen. Der Kurs richtet sich an Kinder von 2-4 Jahren. Anstelle eines Elternteils kann natürlich eine andere nahe Bezugsperson mitmachen. Tänzerische Vorerfahrung ist nicht notwendig.
+  “Contakids” ist eine Methode, die auf dem Grundgedanken basiert, körperlichen Kontakt zu nutzen, um eine tiefere Kommunikation zwischen Kindern und Eltern zu entwickeln, die für beide Seiten genussvoll ist. Über die Arbeit mit Bewegung kann das Kind seine motorischen Fähigkeiten und sein Selbstvertrauen stärken, während Eltern ein neues Vertrauensverhältnis zu ihren Kleinen aufbauen. Der Kurs richtet sich an Kinder von 2-4 Jahren. Anstelle eines Elternteils kann natürlich eine andere nahe Bezugsperson mitmachen. Tänzerische Vorerfahrung ist nicht notwendig.  
 
   “ContaKids” fördert:  
 
@@ -56,6 +56,7 @@ description_de: |
   
     
   Ab 11.4.2018 10 mal Mittwochs:  
+  
   16-16:45 (plus 15 Minuten zum freien Spiel, ausklingen): FORTGESCHRITTENENKURS  
   17-17:45 (plus 15 Minuten zum freien Spiel, ausklingen): Anfänger*innen/Offenes Level  
   Schnupperstunde am 11.4. (nur mit Anmeldung!) möglich, danach wird es eine feste Gruppe. Eine Schnupperstunde kostet 8 €.
