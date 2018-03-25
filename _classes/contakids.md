@@ -8,7 +8,7 @@ schedule:
   - day: "wednesday"
     start: "05:00pm"
     end: "05:45pm"
-image: "class-contakids-drei.jpg"
+image: "class-contakids-4.jpg"
 
 title_en: "ContaKids"
 title_de: "ContaKids"
