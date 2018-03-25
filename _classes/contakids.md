@@ -14,7 +14,7 @@ title_en: "ContaKids"
 title_de: "ContaKids"
 
 subtitle_en: ""
-subtitle_de: ""
+subtitle_de: "ContaKids Kurse für Anfänger und mit Vorerfahrungen"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -34,7 +34,6 @@ description_en: |
 
 description_de: |
 
-  ContaKids Kurse für Anfänger und mit Vorerfahrungen  
   Für Kids von 2-4 Jahren & ein (Groß-)Elternteil (oder einer anderen vertrauten Bezugsperson). Oma, Opa, Freunde, Babysitter etc... alle herzlich Willkommen!  
 
   *Was ist ContaKids?*  
