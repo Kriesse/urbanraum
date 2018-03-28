@@ -14,8 +14,8 @@ image: "workshop-kungfu-dance.jpg"
 title_en: "From Kung Fu into Dance"
 title_de: "From Kung Fu into Dance"
 
-subtitle_en: "10.01- 02.04.2018"
-subtitle_de: "10.01- 02.04.2018"
+subtitle_en: ""
+subtitle_de: ""
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -24,32 +24,26 @@ level_en: "open level"
 level_de: "für Alle mit und ohne Bewegungserfahrung"
 
 price_en: |
-  12 classes: 100 Euro (one class per week)    
-  24 classes: 150 euro (two classes per week)  
   Drop in: 12 Euro  
+  5 classes card: EUR 50    
+  10 classes card: EUR 85 (valid for 3 months) 
+
   
 price_de: |
-  12 Klassen: 100 Euro (1 Klasse/Woche)    
-  24 Klassen: 150 euro (2 Klassen/Woche)  
   Drop in: 12 Euro  
+  5-er Karte: 50 Euro  
+  10-er Karte: 85 Euro (3 Monate gültig)   
+
 
 
 language_en: "English"
 language_de: "Englisch"
 
 description_en: |
-  In the course we will engage with movement principles and elements drawn from internal Chinese martial arts. These principles will be our tools for deepening our kinaesthetic body understanding, expanding movement possibilities and learning how this knowledge can lead us into creative movement and dance.  
-
-  This course spans a total of three months consisting of two different classes per week, emphasising different elements. The two classes complement one another, but can also be taken individually.  
-
-  Monday class (technique):   
-  The aim of this class is to develop a deeper understanding of the specific physicality that is offered by the martial arts, establish a solid physical foundation and broaden the spectrum of our awareness in movement. We will work with instructions and exercises inspired by soft martial arts.  
-
-  Wednesday class (research):   
-  In this class we will apply elements from the martial arts into creative movement and dance, providing a platform for individual research and exploration (the elements will be correlated to the material from Monday class). We will use tools from improvisation techniques, explore new movement possibilities and observe each other’s work.  
- 
+  We will engage with movement principles and elements drawn from internal Chinese martial arts. These principles will be the tools used in order to deepen our understanding of the kinaesthetic body, therefore increasing our awareness of movement possibilities which will lead us into creative movement and dance. Each class consists of two main parts: the first part focuses on instructed movements and exercises inspired by martial arts. The second part is taking these principles into guided improvisation, providing a platform for individual research and exploration.  
 
   Physical themes that will be explored in the course, among others are:  
+
   -	Concept of centre/ core   
   -	Body structure  
   -	Body connections    
@@ -58,8 +52,9 @@ description_en: |
   -	Kung Fu way of practice (duration work)  
   -	Hard and soft (yin and yang expression)   
   -	Partner work  
+
  
-    Further infos you can find here: https://www.facebook.com/events/762968143888366/
+    Further infos you can find here: https://www.facebook.com/events/946516018831676/
   
 description_de: |
   s. English description
