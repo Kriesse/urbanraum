@@ -6,7 +6,7 @@ date_de: "26. & 27. Mai 2018"
 
 time: "8:30pm (saturday) & 7:30pm (sunday)"
 
-image: ""
+image: "event-lebenswege-dez.jpg"
 tags:
 
 title_en:  "LEBENSWEGE"
