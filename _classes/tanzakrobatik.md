@@ -35,6 +35,8 @@ description_en: |
    ///  
    
    Jule Förster (*1988) studied theater, media and dance in Hildesheim and Berlin. Her background as an artistic gymnast brought her to the interface of acrobatics and performance. Since more than 10 years she acts in different contexts on and behind the stage. She teaches dance and acrobatics in circus, dance schools and other socio-cultural projects. 
+   
+   Further informations: julia.foerster@arcor.de
 
 description_de: |
   moving. slighting. jumping.  
@@ -43,7 +45,9 @@ description_de: |
 
    ///  
    
-   Jule Förster (*1988) studied theater, media and dance in Hildesheim and Berlin. Her background as an artistic gymnast brought her to the interface of acrobatics and performance. Since more than 10 years she acts in different contexts on and behind the stage. She teaches dance and acrobatics in circus, dance schools and other socio-cultural projects. 
+   Jule Förster (*1988) studied theater, media and dance in Hildesheim and Berlin. Her background as an artistic gymnast brought her to the interface of acrobatics and performance. Since more than 10 years she acts in different contexts on and behind the stage. She teaches dance and acrobatics in circus, dance schools and other socio-cultural projects.  
+   
+   Weitere Informationen: julia.foerster@arcor.de
 
 
 
