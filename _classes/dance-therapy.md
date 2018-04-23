@@ -8,7 +8,7 @@ schedule:
 
 image: ""
 
-title_en: "Dance Therpay (closed group)"
+title_en: "Dance Therapy (closed group)"
 title_de: "Tanztherapie (geschlossene Gruppe)"
 
 subtitle_en: "with Hadas Fischer-Oren"
