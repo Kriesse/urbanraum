@@ -7,8 +7,8 @@ schedule:
     end: "11:30am"
 image: "class-dance-company-lab.jpg"
 
-title_en: "Dance Company Lab SPRING (starting April, 12th 2018)"
-title_de: "Tanzcompany Lab FRÜHLING (ab 12. April 2018)"
+title_en: "Dance Company Lab SPRING"
+title_de: "Tanzcompany Lab FRÜHLING"
 
 subtitle_en: "Dance Technique and Choreography, with a focus on contemporary practices and performance"
 subtitle_de: "Tanztechnik und Choreografie mit Fokus auf zeitgenössischen Tanztechniken, Komposition und Performance"
@@ -21,12 +21,10 @@ level_de: "Adv-Inter"
 
 price_en: |
   13 classes: EUR 165  
-  Early-bird (until march 28th): EUR 150
 
 
 price_de: |
   13 Termine: 165 Euro  
-  Frühbucher-Rabatt bis 28.03.2018: 150 Euro.
 
 description_en: |
   12.4. - 5.7.2018!  
