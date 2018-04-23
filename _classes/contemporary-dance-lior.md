@@ -7,10 +7,10 @@ schedule:
     end: "09:30pm"
 
 image: "class-zeitgenoessisch-lior-neu.jpg.jpg"
-"
+
 
 title_en: "Contemporary Dance"
-title_de: "Zeitgenössischer Tant"
+title_de: "Zeitgenössischer Tanz"
 
 subtitle_en: "with Lior Shneior // 10 classes from May, 8th on!"
 subtitle_de: "mit Lior Shneior // 10 Termine ab 8.5.2018"
