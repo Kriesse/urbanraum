@@ -6,7 +6,8 @@ schedule:
     start: "08:0pm"
     end: "09:30pm"
 
-image: ""
+image: "class-zeitgenoessisch-lior-neu.jpg.jpg"
+"
 
 title_en: "Contemporary Dance"
 title_de: "Zeitgenössischer Tant"
@@ -29,6 +30,7 @@ price_de: |
   120 Euro für den ganzen Kurs (10 Termine)  
   Frühbucherrabatt: 90 Euro (bei Buchung bis 27.04)  
   Einzelstunde: 14 Euro (“Drop in” immer möglich)
+  
 description_en: |
 
   After having given three class sessions last year, I will start a new dance course in UrbanRaum this Spring/Sumer where I will mix different elements from modern contemporary dance.  
@@ -40,6 +42,7 @@ description_en: |
   This is followed by floor and release teaching elements, and then moves on to exercises based on Limon Technik principles.
 
   Throughout the course we will work on a combination that we will build on every week. It is therefore recommended that participants take the course as a whole, although but dropping in is always possible.
+  
 description_de: |
 
   10 Termine ab 8.5.2018!!  
@@ -48,3 +51,4 @@ description_de: |
 
   Ein Kurs für alle die Lust haben, die Freude an der Bewegung zu finden und mit ihrem Körper zu experimentieren. Der Kurs ist offen für alle, ob mit oder ohne Erfahrung im Tanz.  
 
+---
