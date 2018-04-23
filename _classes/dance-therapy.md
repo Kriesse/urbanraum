@@ -6,7 +6,7 @@ schedule:
     start: "12:00pm"
     end: "01:30pm"
 
-image: ""
+image: 
 
 title_en: "Dance Therapy (closed group)"
 title_de: "Tanztherapie (geschlossene Gruppe)"
