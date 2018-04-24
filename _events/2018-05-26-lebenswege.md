@@ -4,7 +4,7 @@ teacher: "Eva"
 date_en: "May, 26th & 27th "
 date_de: "26. & 27. Mai 2018"
 
-time: "8:30pm (saturday) & 7:30pm (sunday)"
+time: ""
 
 image: "event-lebenswege-dez.jpg"
 tags:
