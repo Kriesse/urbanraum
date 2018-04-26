@@ -4,10 +4,10 @@ teacher: ""
 date_en: "23.06.2018"
 date_de: "23.06.2018"
 
-time: 10:00am
-endtime: 1:00pm
+time: 11:00am
+endtime: 3:00pm
 
-image: "workshop-dancing-the-moment.jpg"
+image: "workshop-dancing-the-moment.JPG"
 
 title_en: "Dancing The Moment"
 title_de: "Dancing The Moment"
