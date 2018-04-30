@@ -4,7 +4,7 @@ teacher: ""
 date_en: "June, 10th"
 date_de: "10. Juni 2018"
 
-time: "12.00pm"
+time: "12:00pm"
 
 image: "event-solos.jpeg"
 tags:
