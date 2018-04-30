@@ -6,7 +6,7 @@ date_de: "10. Juni 2018"
 
 time: "12.00 und 15.00"
 
-image: "event-solos.JPG"
+image: "event-solos.jpeg"
 tags:
 
 title_en:  "SUDNAY SOLOS"
