@@ -4,7 +4,7 @@ teacher: ""
 date_en: "June, 10th"
 date_de: "10. Juni 2018"
 
-time: "12.00 und 15.00"
+time: "12.00pm"
 
 image: "event-solos.jpeg"
 tags:
@@ -22,11 +22,13 @@ language_en:
 language_de:
 
 description_en: |
-  with  Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!   
+  12.00 & 15.00!  
+  With  Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!   
   Further informations coming soon!
   
 description_de: |
-  mit Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!  
+    12.00 & 15.00!  
+  Mit Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!  
   Weitere Informationen in Kürze!  
 ---
 
