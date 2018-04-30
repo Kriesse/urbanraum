@@ -9,8 +9,8 @@ time: "12:00pm"
 image: "event-solos.jpeg"
 tags:
 
-title_en:  "SUDNAY SOLOS"
-title_de:  "SUDNAY SOLOS"
+title_en:  "SUNDAY SOLOS"
+title_de:  "SUNDAY SOLOS"
 
 subtitle_en: "in the frame of PERFORMING ARTS FESTIVAL (PAF)"
 subtitle_de: "im Rahmen des Performing Arts Festivals (PAF)"
@@ -27,7 +27,7 @@ description_en: |
   Further informations coming soon!
   
 description_de: |
-    12.00 & 15.00!  
+  12.00 & 15.00!  
   Mit Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!  
   Weitere Informationen in Kürze!  
 ---
