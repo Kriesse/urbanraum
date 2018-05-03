@@ -26,6 +26,7 @@ description_en: |
   With  Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!   
   Further informations coming soon!  
   
+  ///  
   Picture:  
   Iliana Kalapotharakou  
   in: "Damp Sheets" von Jenny Ocampo  
@@ -37,6 +38,7 @@ description_de: |
   Mit Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!  
   Weitere Informationen in Kürze!  
   
+  ///  
   Foto:  
   Iliana Kalapotharakou  
   in: "Damp Sheets" von Jenny Ocampo  
