@@ -26,8 +26,10 @@ description_en: |
 
   Saturday, June 2nd at 20:00  
   Sunday, June 3th at 18:00  
+  
+  ///  
 
-  STILL LIFE  
+  *STILL LIFE*  
 
   Concept, direction and dance: Irene Cortina González  
   Music: Paul Dill  
@@ -38,7 +40,8 @@ description_en: |
 
   ///  
   
-  AUGURY  
+  *AUGURY*
+  
   Choreography and performance: Andrea Krohn  
   Music: Henrique Iwao  
   Duration: 20 Min  
@@ -47,7 +50,8 @@ description_en: |
 
   ///  
   
-  UNKN_OWN BODY  
+  *UNKN_OWN BODY*
+  
   Choreography and performer: Karina Suárez Bosche  
   Duration: 15 minutes  
   With kindly support of: Lake Studios  
