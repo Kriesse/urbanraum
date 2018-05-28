@@ -24,8 +24,8 @@ language_de:
 description_en: |
   We are glad to present our repertoire from solo works: PARAR/Immersive Performance Art & Cía Irene Cortina in Urbanraum, Berlin.  
 
-  Saturday, June 2nd at 20:00  
-  Sunday, June 3th at 18:00  
+  Saturday, June 3nd at 20:00  
+  Sunday, June 4th at 18:00  
   
   ///  
 
