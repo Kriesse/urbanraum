@@ -15,8 +15,8 @@ title_de:  "Performance Project 2018 - triple bill!"
 subtitle_en: "a weekend of Contemporary Dance and Improvisation performances"
 subtitle_de: "a weekend of Contemporary Dance and Improvisation performances"
 
-price_en: "EUR 10-15 (sliding scale)"
-price_de: "10-15 Euro (sliding scale)"
+price_en: "EUR 10-16 (sliding scale)"
+price_de: "10-16 Euro (sliding scale)"
 
 language_en:
 language_de:
