@@ -27,7 +27,7 @@ description_en: |
 
   Die „SUNDAY SOLOS“ zeigen verschiedene zeitgenössische Solo-Tanz- und Performance-Arbeiten von in Berlin lebenden Tänzer*innen und Choreograf*innen. In dichter Abfolge lässt das Showcase ein Kaleidoskop ganz unterschiedlicher ästhetischer Handschriften entstehen.
 
-Sunday Solos present contemporary solo dance performances by different dancers and choreographers living in Berlin who have collaborated with Urbanraum in different ways before. The show will take place during the day.
+  Sunday Solos present contemporary solo dance performances by different dancers and choreographers living in Berlin who have collaborated with Urbanraum in different ways before. The show will take place during the day.
 
   DUAL - Choreography and dance: Iliana Kalapotharakou  
   (work in progess)  
@@ -73,10 +73,10 @@ Sunday Solos present contemporary solo dance performances by different dancers a
   www.urbanraum.com  
 
   ///  
+  
   Picture: dancer Jenny Ocampo  
   Photographer: Menelaos Liondos
-  
-  ///  
+
 
   
 description_de: |
