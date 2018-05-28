@@ -31,7 +31,7 @@ description_en: |
   /////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 
 
-  1. "OR NOT"  
+  A. "OR NOT"  
   Contemporary dance & Improvisation, Performance Project 2018 Showing, by Iliana Kalapotharakou  
   
   Six people are exposed to the relations created between them. They are affected from each other, they make choices for themselves, they affect each other.  
@@ -56,14 +56,14 @@ description_en: |
   /////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 
 
-  2. "THE POETIC BODY"  
+  B. "THE POETIC BODY"  
   Direction and choreography: María Sanchez Alonso  
   More information coming soon!  
 
   /////////////////////////////////////////////////////////////////////////////////////////////////////////////  
  
 
-  3. PURE IMPROVISATION PERFORMANCE  
+  C. PURE IMPROVISATION PERFORMANCE  
 
   We are celebrating Improvisation! The “Pure Improvisation” performance is an open improvisation space with LIVE MUSIC, offered to professional dancers and performance artists of all kinds. Embracing all possibilities and inviting interaction, we offer the circumstance for Improvisation to occur. Both musicians and performers improvise, composing in the moment, but also interacting with each other.  
 
