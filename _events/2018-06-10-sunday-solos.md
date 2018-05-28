@@ -85,7 +85,7 @@ description_de: |
 
   Weitere Information s. englische Beschreibung!
   
-    ///  
+  ///  
   Picture: dancer Jenny Ocampo  
   Photographer: Menelaos Liondos
   
