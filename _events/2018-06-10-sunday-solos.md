@@ -25,7 +25,7 @@ description_en: |
   12.00 & 15.00!  
   With  Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Roberta Ricci/Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!   
 
-  Die „SUNDAY SOLOS“ zeigen verschiedene zeitgenössische Solo-Tanz- und Performance-Arbeiten von in Berlin lebenden Tänzer*innen und Choreograf*innen. In dichter Abfolge lässt das Showcase ein Kaleidoskop ganz unterschiedlicher ästhetischer Handschriften entstehen.
+  Die „SUNDAY SOLOS“ zeigen verschiedene zeitgenössische Solo-Tanz- und Performance-Arbeiten von in Berlin lebenden Tänzer_innen und Choreograf_innen. In dichter Abfolge lässt das Showcase ein Kaleidoskop ganz unterschiedlicher ästhetischer Handschriften entstehen.
 
   Sunday Solos present contemporary solo dance performances by different dancers and choreographers living in Berlin who have collaborated with Urbanraum in different ways before. The show will take place during the day.
 
@@ -83,7 +83,7 @@ description_de: |
   12.00 & 15.00!  
   Mit Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!  
 
-Weitere Information s. englsiche Seite!
+  Weitere Information s. englische Beschreibung!
   
     ///  
   Picture: dancer Jenny Ocampo  
