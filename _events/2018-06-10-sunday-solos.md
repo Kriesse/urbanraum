@@ -49,7 +49,7 @@ description_en: |
   DER REBELLISCHE KÖRPER - Regie/Choreographie: Daniela Lucato / Tanz: Roberta Ricci  
   Angeregt von der Lektüre und Diskussion des Aufsatzes von Silvia Federici, Der große Caliban: der Kampf gegen den rebellisch Körper, und basierend auf Sara Fortunas Skript, setzt das zweite Kapitel der oben erwähnten Trilogie eine choreographische Interpretation der Kontrolle und Unterwerfung des Körpers in Mittelpunkt. In diesem Rahmen gilt der Lernprozess des menschlichen Körpers innerhalb der Montagekette als zentrales Moment gilt: Was passiert mit dem Körper, wenn er Objekt einer Rationalisierung wird, die ihn in ein Stück einer Maschine verwandelt?  
 
- ///  
+  ///  
   ROOT - Choreography & Dance: María Sánchez Alonso  
   "I am humid earth. Root. I am the echo of the Aurora. I am the dawn and the sunset. I am wood. Steel on my teeth. I'm the horizon. The fate. A flame, that lights in the wheat. The foliage of the forest." Natural phenomena unfolding, through poetic expression, from the body into space. The dancer shakes out an inner landscape of missing, the scream of her own root, letting it rip out to sweetly touch, ground.  
   Sound and Music by Jan Youssef  
@@ -80,6 +80,7 @@ description_en: |
 
   
 description_de: |
+  
   12.00 & 15.00!  
   Mit Kerem Shemi, Iliana Kalapotharakou, Jenny Ocampo, Carmen Volpe, Karina Suárez Bosche, Daniela Lucato, Maria Sanchez Alonso, Laura Giuntoli/Raffaella Galdi!  
 
