@@ -6,7 +6,7 @@ date_de: "10. Juni 2018"
 
 time: "12:00pm"
 
-image: "event-solos.jpeg"
+image: "Jenny Ocampo_(c) Menelaos Liondos.JPG"
 tags:
 
 title_en:  "SUNDAY SOLOS"
