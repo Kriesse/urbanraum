@@ -26,7 +26,7 @@ price_en: |
   EUR 15 single class
   
 price_de: |
-    40 Euro/Monat
+    40 Euro/Monat  
     15 Euro/ Einzelstunde
 
 
