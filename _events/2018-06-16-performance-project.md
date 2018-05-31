@@ -6,7 +6,7 @@ date_de: "16. und 17. Juni"
 
 time: ""
 
-image: 
+image: "event-triple.jpg"
 tags:
 
 title_en:  "Performance Project 2018 - triple bill!"
