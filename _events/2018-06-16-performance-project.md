@@ -89,7 +89,7 @@ description_en: |
 
   Participants of the Pure Improvisation performance are invited to the triple event with a reduced ticket of 3€ for operational costs.  
 
-  doors open: 7.30pm  
+  Doors open: 7.30pm  
   Show starts: 8.00pm  
   Drinks in the foyer too!  
 
