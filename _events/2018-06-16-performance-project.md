@@ -26,7 +26,7 @@ description_en: |
 
   Each evening the program will consist of 3 events:  
   The first two showings are Contemporary Dance pieces made from Iliana Kalapotharakou (OR NOT) and María Sanchez Alonso (THE POETIC BODY) and performed by their group of workshop participants.The third event each evening is a "Pure Improvisation performance", a dance improvisation session with live music, following the given structure (read below).
-Participants of the Pure Improvisation performance can be professional dancers and performance artists of any kind. You are welcome.
+  Participants of the Pure Improvisation performance can be professional dancers and performance artists of any kind. You are welcome.
 
   To perform please subscribe by email to the curators of the event, (Iliana: lynnkalapotharakou@gmail.com ), describing with a few words yourself artistically and indicating the date(s) during which you want to participate. We are looking forward to your registrations!!  
 
