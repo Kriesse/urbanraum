@@ -36,8 +36,10 @@ description_en: |
 
   ///  
   
-  DRUNKEN STYLE - Choreography and dance: Kerem Shemi  
-  The dance deals with actions of unravelling and emptying familiar movement patterns in a situation of placing them out of their context. Coming from a background of both martial arts and dance, it interests me what happens when a movement discipline with clear physical principles, emerges out of its original framework. Exercises and techniques drawn from the martial arts, such as “hardening the body”, sending force, rooting, step work, are examined detached from the martial context, and sending the dancer on a journey of empting their inherent content and revealing new possibly expressions and meanings, which are folded within.  
+  RADIO DANCE - Choreography and dance: Kerem Shemi  
+  The dance embodies actions of unravelling and emptying movement patterns that have been imprinted into the body, by bringing them out of their context. 
+  With a background in martial arts and dance, the performer raises questions about the validity of physical technique once it has exceeded its own set of rules. Techniques from martial arts that have been inscribed into her body by repeating them over and over again, are stripped from their original “function” and become echoes of the subjective physical experience. While the search of a song on the radio becomes the musical composition itself, as in John Cage’s Radio Music, the shuffle of the body between/in its physical memories becomes the dance. 
+
   (only one show at 15.00)
 
   ///  
