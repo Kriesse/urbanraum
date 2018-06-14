@@ -30,7 +30,7 @@ description_en: |
   The third event, "Pure Improvisation performance", is a dance improvisation session with live music, following a given structure (read below). Participants of the Pure Improvisation performance can be professional dancers and performance artists of any kind. You are welcome.  
 
   To perform at this last event please register via email to the curators of the event: (Iliana: lynnkalapotharakou@gmail.com), describing with a few words your artistic practice and indicating the date(s) you would like to participate. We are looking forward to your registrations!!  
-For further information please read below.  
+  For further information please read below.  
 
   /////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 
