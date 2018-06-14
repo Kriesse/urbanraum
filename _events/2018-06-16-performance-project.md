@@ -36,7 +36,7 @@ description_en: |
 
   Evening Program – 16 June & 17 June - 20:00  
 
-  1. "OR NOT" - Contemporary dance & Improvisation piece, Performance Project 2018 Showing, by Iliana Kalapotharakou  
+  A. "OR NOT" - Contemporary dance & Improvisation piece, Performance Project 2018 Showing, by Iliana Kalapotharakou  
 
   "Six people are exposed to the relations created between them. They are affected from each other, they make choices for themselves, they affect each other. They are alone and they are together. They come together and they separate. They collaborate, they celebrate, they disagree, they work things out. Or not. They are all together. They are all alone.  
 
@@ -54,10 +54,11 @@ description_en: |
 
   Set design: Robin Kötzle  
   Duration: 25 min.  
-  ______________________________________________________  
+
+  ///  
 
 
-  2. "WE GHOSTS" - "The Poetic Body" Performance Project 17-18 showing, by María Sánchez Alonso  
+  B. "WE GHOSTS" - "The Poetic Body" Performance Project 17-18 showing, by María Sánchez Alonso  
 
   “We. Old seeds that shaked under the obscure earth. Entities that became human, souls that wear, costumes. An inner journey through past memories and forgotten gestures. Those that we were. Those that had been. Love and care. Dust and desire, knitted with matter and space, in a scream, or a call, for depth; Visiting the broken landscapes of the past, we enter zero, acknowledging each other, acknowledging that this is just another skin we carry. Blind like ghosts that belong to other places, pure like nature, present, like the body.”  
 
@@ -67,12 +68,12 @@ description_en: |
 
   Set design: Robin Kötzle  
   Duration: 20 min  
-  ______________________________________________________  
 
+  ///
 
   (15 min Intermission) – Drinks at the bar available to be purchased.  
-
-  ______________________________________________________  
+  
+  ///
 
 
   3. "PURE IMPROVISATION PERFORMANCE"  
