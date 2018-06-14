@@ -76,7 +76,7 @@ description_en: |
   ///
 
 
-  3. "PURE IMPROVISATION PERFORMANCE"  
+  C. "PURE IMPROVISATION PERFORMANCE"  
 
   We are celebrating Improvisation!  
   The “Pure Improvisation performance” is an open improvisation space with LIVE MUSIC by Alberto Lucendo (Guitar, Synthesizer) and Maria Reich (Viola). Participation in this performance is offered to professional dancers and performance artists of all kinds (Please register in advance - read below).  
