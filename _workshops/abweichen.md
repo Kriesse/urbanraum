@@ -50,10 +50,13 @@ description_de: |
   WIE:   
   Es wird sowohl im Studio als auch in öffentlichen Räumen gearbeitet. Die Arbeit im Studio soll vor allem dazu dienen, den Teilnehmer_innen verschiedene Herangehensweisen an Bewegung, Text und Schauspiel zu ermöglichen, um sich dann mit den urbanen Räumen auseinanderzusetzen. Mit dieser Voraussetzung werden anschließend Manifestationen und Exkursionen in öffentlichen Räumen entworfen und erprobt. Im Fokus stehen der Dialog und die gemeinsame Reflexion eigener Wahrnehmungen und Erfahrungen, sowie eine gemeinsame Bewegungsrecherche, die am Ende der Woche zu einem Showing führen soll.  
 
-  Keine Tanz- und Theatererfahrung erforderlich// Der Workshop ist kostenlos und mit Anmeldung!  
+  Keine Tanz- und Theatererfahrung erforderlich!  
+  Der Workshop ist kostenlos und mit Anmeldung!  
 
-  Montag bis Sonntag_ 15:00 bis 18:00 Uhr    
-  Showing_ Sonntag 18:00 bis 20:00 Uhr  
+  ///  
+  23.-29.07.2018  
+  Montag bis Sonntag: 15:00 bis 18:00 Uhr    
+  Showing: Sonntag 18:00 bis 20:00 Uhr  
 
   ANMELDUNG: info.plasticity@gmail.com  
   
