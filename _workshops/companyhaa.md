@@ -7,7 +7,7 @@ date_de: "12.-13.07.2018"
 time: 
 endtime: 
 
-image: ""
+image: "workshop-company-haa.jpg"
 
 title_en: "Company HAA Workshop"
 title_de: "Company HAA Workshop"
