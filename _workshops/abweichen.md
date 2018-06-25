@@ -7,7 +7,7 @@ date_de: "23.-29.07.2018"
 time: 
 endtime: 
 
-image: 
+image: "workshop-abweichen.jpg"
 
 title_en: "ABWEICHEN_"
 title_de: "ABWEICHEN_"
