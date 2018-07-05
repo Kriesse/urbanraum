@@ -3,8 +3,8 @@ order: "1"
 teacher: ""
 schedule:
   - day: "friday"
-    start: "02:0pm"
-    end: "04:00pm"
+    start: "03:30pm"
+    end: "05:30pm"
 
 image: "class-eat-sleep-dance.jpg"
 
