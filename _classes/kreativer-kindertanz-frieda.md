@@ -34,6 +34,7 @@ description_en:
   s. German description
 
 description_de: |
+  Neue Kurse starten am 20.08.2018. Anmeldung zur Probestunde: info@urbanraum.com  
   
   Kinder lieben es, sich zu bewegen – zu rennen, tanzen, hüpfen, rollen.  
   Und sie lieben es, in Bilder und Geschichten abzutauchen und dabei in andere Rollen zu schlüpfen.
