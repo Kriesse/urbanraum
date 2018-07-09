@@ -8,7 +8,7 @@ schedule:
   - day: "wednesday"
     start: "05:00pm"
     end: "05:45pm"
-image: "class-contakids-4.jpg"
+image: "class-contakids-2018.2.jpg"
 
 title_en: "ContaKids"
 title_de: "ContaKids"
@@ -33,8 +33,20 @@ description_en: |
   see german description
 
 description_de: |
+  Ab 29.08.2018!  
 
   Für Kids von 2-4 Jahren & ein (Groß-)Elternteil (oder einer anderen vertrauten Bezugsperson). Oma, Opa, Freunde, Babysitter etc... alle herzlich Willkommen!  
+
+  16-16:45 (plus 15 Minuten zum freien Spiel, ausklingen):  
+  FORTGESCHRITTENENKURS  
+  17-17:45 (plus 15 Minuten zum freien Spiel, ausklingen):  
+  Anfänger*innen/Offenes Level  
+
+  Schnupperstunde am 29.8. (nur mit Anmeldung!) möglich, je nach Anzahl der Anmeledungen auch noch später. Danach wird es eine feste Gruppe. Eine Schnupperstunde kostet 8 €.  
+
+  Anmeldung: Bitte per Mail an jenny.doell@freenet.de  
+
+  Bitte Beachten, dass Teilnahme am 16:00-Kurs nur nach Besuch eines vorhergehenden Kursblocks bei Christina oder mir möglich ist!  
 
   *Was ist ContaKids?*  
 
@@ -48,21 +60,24 @@ description_de: |
 
   · die Eigenständigkeit und Unabhängigkeit von Kindern, während Eltern lernen, ihre Kinder in einem spielerischen Rahmen als Gleichberechtigte zu sehen, die sie bedingungslos unterstützen.  
 
-
   *Ablauf:*  
 
-  Wir starten mit einem kleinen Warm-Up, das übergeht in einfache Übungen und Spiele. Bei vielen Übungen können Eltern und Kinder die Rollen tauschen - mal initiieren, mal folgen. Durch gemeinsames Bewegen tauchen wir in die kindliche Bewegungswelt ein und lernen kleine aber aufregende Bewegungsabläufe gemeinsam mit unseren Kindern, die wir auch in alltägliche Situationen - wie Heben und Absetzen des Kindes - integrieren können. Die gemeinsame Zeit soll als ein erfrischender Ansatz für die Kommunikation zwischen Eltern und Kindern verstanden werden. Eins ist dabei sicher: ​alle werden davon etwas mit nach Hause nehmen können.
-  
-    
-  Ab 11.4.2018 10 mal Mittwochs:  
-  
-  16-16:45 (plus 15 Minuten zum freien Spiel, ausklingen): FORTGESCHRITTENENKURS  
-  17-17:45 (plus 15 Minuten zum freien Spiel, ausklingen): Anfänger*innen/Offenes Level  
-  Schnupperstunde am 11.4. (nur mit Anmeldung!) möglich, danach wird es eine feste Gruppe. Eine Schnupperstunde kostet 8 €.
+  Wir starten mit einem kleinen Warm-Up, das übergeht in einfache Übungen und Spiele. Bei vielen Übungen können Eltern und Kinder die Rollen tauschen - mal initiieren, mal folgen. Durch gemeinsames Bewegen tauchen wir in die kindliche Bewegungswelt ein und lernen kleine aber aufregende Bewegungsabläufe gemeinsam mit unseren Kindern, die wir auch in alltägliche Situationen - wie Heben und Absetzen des Kindes - integrieren können. Die gemeinsame Zeit soll als ein erfrischender Ansatz für die Kommunikation zwischen Eltern und Kindern verstanden werden. Eins ist dabei sicher: ​alle werden davon etwas mit nach Hause nehmen können.  
 
-  Anmeldung: Bitte per Mail an jenny.doell@freenet.de  
+  *Termine:*  
+  29.8. / 5.9. / 12.9. / 19.9. / 26.9. / 10.10. / 17.10. / 7.11. / 14.11. / 21.11.  
 
-  Bitte Beachten, dass Teilnahme am 16:00-Kurs nur nach Besuch eines vorhergehenden Kursblocks bei Christina oder mir möglich ist!
+  ////////////////////////////////////////////////  
+
+  *Über Jenny Döll:*  
+
+  - Studium Musik- und Bewegungspädagogik (Rhythmik) an der Folkwang Hochschule Essen und UdK Berlin
+  - Ausbildung Neuer Tanz, Improvisation und Performance bei bewegungs-art Freiburg (heute: TIP Schule für Tanz, Improvisation und Performance)  
+  - Praktiziert Contact Improvisation seit 2002  
+  - Arbeit mit Kindern, Jugendlichen und Erwachsenen seit 2002  
+Unterrichtet CI seit 2010   
+  - Pilates Mattentrainerin/BASI Pilates (Body Arts and Science International)  
+  - Zertifizierte ContaKids Lehrerin  
 
 
 
