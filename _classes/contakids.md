@@ -75,7 +75,7 @@ description_de: |
   - Ausbildung Neuer Tanz, Improvisation und Performance bei bewegungs-art Freiburg (heute: TIP Schule für Tanz, Improvisation und Performance)  
   - Praktiziert Contact Improvisation seit 2002  
   - Arbeit mit Kindern, Jugendlichen und Erwachsenen seit 2002  
-Unterrichtet CI seit 2010   
+  Unterrichtet CI seit 2010   
   - Pilates Mattentrainerin/BASI Pilates (Body Arts and Science International)  
   - Zertifizierte ContaKids Lehrerin  
 
