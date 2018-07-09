@@ -37,17 +37,6 @@ description_de: |
 
   Für Kids von 2-4 Jahren & ein (Groß-)Elternteil (oder einer anderen vertrauten Bezugsperson). Oma, Opa, Freunde, Babysitter etc... alle herzlich Willkommen!  
 
-  16-16:45 (plus 15 Minuten zum freien Spiel, ausklingen):  
-  FORTGESCHRITTENENKURS  
-  17-17:45 (plus 15 Minuten zum freien Spiel, ausklingen):  
-  Anfänger*innen/Offenes Level  
-
-  Schnupperstunde am 29.8. (nur mit Anmeldung!) möglich, je nach Anzahl der Anmeledungen auch noch später. Danach wird es eine feste Gruppe. Eine Schnupperstunde kostet 8 €.  
-
-  Anmeldung: Bitte per Mail an jenny.doell@freenet.de  
-
-  Bitte Beachten, dass Teilnahme am 16:00-Kurs nur nach Besuch eines vorhergehenden Kursblocks bei Christina oder mir möglich ist!  
-
   *Was ist ContaKids?*  
 
   “Contakids” ist eine Methode, die auf dem Grundgedanken basiert, körperlichen Kontakt zu nutzen, um eine tiefere Kommunikation zwischen Kindern und Eltern zu entwickeln, die für beide Seiten genussvoll ist. Über die Arbeit mit Bewegung kann das Kind seine motorischen Fähigkeiten und sein Selbstvertrauen stärken, während Eltern ein neues Vertrauensverhältnis zu ihren Kleinen aufbauen. Der Kurs richtet sich an Kinder von 2-4 Jahren. Anstelle eines Elternteils kann natürlich eine andere nahe Bezugsperson mitmachen. Tänzerische Vorerfahrung ist nicht notwendig.  
@@ -66,6 +55,20 @@ description_de: |
 
   *Termine:*  
   29.8. / 5.9. / 12.9. / 19.9. / 26.9. / 10.10. / 17.10. / 7.11. / 14.11. / 21.11.  
+  
+  
+  16-16:45 (plus 15 Minuten zum freien Spiel, ausklingen):  
+  FORTGESCHRITTENENKURS  
+  
+  17-17:45 (plus 15 Minuten zum freien Spiel, ausklingen):  
+  Anfänger*innen/Offenes Level  
+
+  Schnupperstunde am 29.8. (nur mit Anmeldung!) möglich, je nach Anzahl der Anmeledungen auch noch später. Danach wird es eine feste Gruppe.  
+  Eine Schnupperstunde kostet 8 €.  
+
+  Anmeldung: Bitte per Mail an jenny.doell@freenet.de  
+
+  Bitte Beachten, dass Teilnahme am 16:00-Kurs nur nach Besuch eines vorhergehenden Kursblocks bei Christina oder mir möglich ist!  
 
   ////////////////////////////////////////////////  
 
