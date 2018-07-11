@@ -30,36 +30,31 @@ description_en: |
   s. German description
 
 description_de: |
-  
-  
-  *Raum - Zeit - Körper - Präsenz - Hören - Spielen - Tanzen - Sein*   
-
-  Dieser wöchentliche Kurs ist als regelmässiges BASISTRAINING für Improvisation und Instant Composition in einer festen Gruppe gedacht. 
-
-  Die Stunde beginnt mit verschiedenen Aufwärm-Übungen, in denen Präsenz und Körperwahrnehmung geschult wird und sich die Aufmerksamkeit auf das JETZT fokussiert. Schwerkraft, Raum, Dynamik und Zeit werden erforscht, die Verbindung von Atem, Stimme und Bewegung erkundet. 
-
-  Improvisation wird im ersten Schritt dazu dienen, die eigenen Bewegungsmöglichkeiten zu erweitern und sich von vorgeschriebenen Formen zu lösen. Im weiteren Verlauf werden die TeilnehmerInnen in komplexere Strukturen der Solo- und Gruppenimprovisation eingeführt.
-
-  Im Mittelpunkt der Arbeit steht das Listening_Hören: auf sich selbst, auf die Gruppe, auf den Raum, auf die uns umgebenen Geräusche, auf das, was IST. Dieses HÖREN dient als Inspiration und lässt uns Impulse aufgreifen, darauf reagieren und den Moment bewusst gestalten. Aus Improvisationen entstehen Kompositionen aus dem Moment heraus, allein und in der Interaktion mit einem Partner oder der Gruppe. 
-
-  Wir wollen uns ernsthaft dem Spielen widmen, uns selbst überraschen und die Balance zwischen Freiheit und Festlegung erforschen...  
-
-  Probestunde jederzeit möglich! Bitte um Voranmeldung.  
-  
-  Block I, AUG-OKT  
-  23, 30. August  
-  6., 13., 20., 27. September  
-  4., 11., 18. Oktober  
-
-  Block II, NOV-DEZ  
-  15., 22., 29. November  
-  6., 13., 20. Dezember  
+ NEUER KURS AB 23. AUGUST 2018!!!  
  
-  
-  
-  
+ *Raum - Zeit - Körper - Präsenz - Hören – Spielen - Tanzen - Sein*   
+  Dieser wöchentliche Kurs ist als regelmäßiges BASISTRAINING für Improvisation und Instant Composition in einer festen Gruppe gedacht.
+  Die Stunde beginnt mit verschiedenen Aufwärm-Übungen, in denen Präsenz und Körperwahrnehmung geschult wird und sich die Aufmerksamkeit auf das JETZT fokussiert. Schwerkraft, Raum, Dynamik und Zeit werden erforscht, die Verbindung von Atem, Stimme und Bewegung erkundet.
+  Improvisation wird im ersten Schritt dazu dienen, die eigenen Bewegungsmöglichkeiten zu erweitern und sich von vorgeschriebenen Formen zu lösen.
+
+  Im weiteren Verlauf werden die TeilnehmerInnen in komplexere Strukturen der Solo- und Gruppenimprovisation eingeführt. Im Mittelpunkt der Arbeit steht das Listening_Hören: auf sich selbst, auf die Gruppe, auf den Raum, auf die uns umgebenen Geräusche, auf das, was IST. Dieses HÖREN dient als Inspiration und lässt uns Impulse aufgreifen, darauf reagieren und den Moment bewusst gestalten. Aus Improvisationen entstehen Kompositionen aus dem Moment heraus, allein und in der Interaktion mit einem Partner oder der Gruppe.
+
+  Wir wollen uns ernsthaft dem Spielen widmen, uns selbst überraschen und die Balance zwischen Freiheit und Festlegung erforschen…  
+  Vor- Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig!
+
  
- 
+  Donnerstag, 18-19:45h  
+  1. Block, (9 Termine): 23, 30. Aug./6, 13, 20, 27. Sept./ 4, 11, 18. Okt  
+  2. Block, (6 Termine): 15, 22, 29. Nov./6, 13, 20. Dezember  
+
+  9 Termine: 125,- € / 100,- € erm. (in 2 Raten zahlbar)  
+  6 Termine: 86,- € / 69,- € erm. (in 2 Raten zahlbar)  
+  (Ermäßigungen für Schüler, Studenten, Hartz IV bei Vorlage einer Bescheinigung!)  
+
+  Für neue Interessenten:  
+  Probestunde jederzeit möglich. Bitte um Voranmeldung! Preis: 8 €  
+
+  Anmeldung: produktion@evaburghardt.com  
 
 ---
 
