@@ -39,11 +39,9 @@ description_en: |
   
 description_de: |
   30.8. - 20.12.2018! Probestunde zum Spezialpreis von 7 Euro am 23. 08.2018!    
-  Die Idee von diesem Kurs ist, eine Tanzcompany-ähnliche Dynamik zu erleben, beginnend mit einem Tanztechnik-Unterricht, an den ein choreografisch-kreativer Prozess anschließt.  
-
-  Im Technikteil werden die Studenten herausgefordert, an der Ausrichtung ihres Körpers zu arbeiten und die Koordination, die Kraft und die Entwicklung von Bewusstsein und Bewegung auf mehreren räumlichen Ebenen zu erhöhen.
-
-  Die Choreographie-Komponente dieses Kurses dient dem Erlernen und der Entwicklung von Bewegung mit Hilfe einer Vielfalt von Improvisation, Komposition und choreographischen Ansätzen.
+  Modern/Contemporary: In diesem Kurs werden die TeilnehmerInnen herausgefordert, an der Ausrichtung ihres Körpers zu arbeiten und die Koordination, die Kraft und die Entwicklung von Bewegung auf mehreren räumlichen Ebenen zu erhöhen, Die Choreographie-Komponente dient dem Erlernen und der Entwicklung von Bewegung mit Hilfe einer Vielfalt von Improvisation, Komposition und choreographischen Ansätzen.  
+  Liebhaber von Yoga, Bewusster Bewegung, Zeitgenössischem Tanz und Tanztheater fühlen sich bei diese sanften aber energetische Ganzkörpertraining wohl.
+  Empfehlenswert als morgendliches Training oder Weiterbildung.
     
 
   
