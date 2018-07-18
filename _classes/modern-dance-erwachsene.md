@@ -34,6 +34,5 @@ description_en: |
   These organisation principles support every dancer and choreographer to find their individual access to dance and creation.
 
 description_de: |
-  I diesem Kurs werden die Teilnehmer*innen herausgefordert, an der Ausrichtung ihres Körpers zu arbeiten und die Koordination, die Kraft und die Entwicklung von Bewegung auf mehreren räumlichen Ebenen zu erhöhen. Die Choreographie-Komponente dient dem Erlernen und der Entwicklung von Bewegung mit Hilfe einer Vielfalt von Improvisation, Komposition und choreographischen Ansätzen.
-  Liebhaber von Yoga, Bewusste Bewegung, Zeitgenössischem Tanz und Tanztheater fühlen sich bei diese sanften aber energetische Ganzkörpertraining wohl.
+  Mit Ausrichtungs-Warm up, Koordination und Muskeltraining füllen wir den Raum mit Bewegung, Dynamik und Musikalität. Wir wechseln die Ebenen, die Richtungen, die Bewegungselemente werden zu dynamischen Choreografien zusammengefügt und mit kleinen Improvisationaufgaben ergänzt. Der Unterricht basiert auf Techniken des modernen, zeitgenössischen Tanzes.
 ---
