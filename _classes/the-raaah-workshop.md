@@ -2,11 +2,11 @@
 order: "1"
 teacher: ""
 schedule:
-  - day: "tuesday"
-    start: "06:15pm"
-    end: "07:45pm".jpg
+day: "tuesday"
+start: "06:15pm"
+end: "07:45pm"
   
-image: "class-the raaah-workshop"
+image: "class-the raaah-workshop.jpg"
 
 title_en: "The RAAAH workshop"
 title_de: "The RAAAH workshop"
