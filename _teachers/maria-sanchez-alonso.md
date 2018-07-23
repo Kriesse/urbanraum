@@ -3,9 +3,7 @@ identifier: "maria"
 name: "María Sánchez Alonso"
 email: "aria311291@gmail.com"
 image: "teacher-maria-sanchez.jpg"
-links:
-  - website-title: ""
-    website-link: ""
+
 bio_de: |
   s. english
 
