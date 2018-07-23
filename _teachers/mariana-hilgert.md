@@ -3,7 +3,7 @@ identifier: "mariana"
 name: "Mariana Hilgert"
 email: "marianahilgert@gmail.com"
 link: "mariana-hilgert"
-image: "teacher-mariana-hilgert"
+image: "teacher-mariana-hilgert.jpg"
 links:
   - website-title: "www.marianahilgert.com"
     website-link: "http://marianahilgert.com/"
