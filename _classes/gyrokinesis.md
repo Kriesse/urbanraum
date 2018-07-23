@@ -10,8 +10,8 @@ image: "class-gyrokinesis.jpg"
 title_en: "GYROKINESIS® with Rossella Canciello"
 title_de: "GYROKINESIS® mit Rossella Canciello"
 
-subtitle_en: "from February on"
-subtitle_de: "ab Februar 2018"
+subtitle_en: ""
+subtitle_de: ""
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -30,8 +30,6 @@ price_de: |
   10-er-Karte: 80 Euro 
 
 description_en: |
-
-  New weekly class with Rossella Canciello starting february, 6th in URBANRAUM!  
 
   About GYROKINESIS® Method:  
   “It is a total-body conditioning and balancing system of movement that encourages the spine and joints to stay open and strong. The work stimulates the anatomy’s major organ systems and incorporates special breathing techniques, particular to each group of exercises within the methodology. Fluidity of motion while performing the moves is also a key premise.  
