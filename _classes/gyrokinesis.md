@@ -5,7 +5,7 @@ schedule:
   - day: "tuesday"
     start: "10:00am"
     end: "11:15am"
-image: "class-gyrokinesis-neu.jpg"
+image: "class-gyrokinesis-neu.JPG"
 
 title_en: "GYROKINESIS® with Rossella Canciello"
 title_de: "GYROKINESIS® mit Rossella Canciello"
