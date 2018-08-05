@@ -4,8 +4,8 @@ teacher:
 schedule:
   - day: "tuesday"
     start: "10:00am"
-    end: "11:00am"
-image: "class-gyrokinesis.jpg"
+    end: "11:15am"
+image: "class-gyrokinesis-neu.jpg"
 
 title_en: "GYROKINESIS® with Rossella Canciello"
 title_de: "GYROKINESIS® mit Rossella Canciello"
