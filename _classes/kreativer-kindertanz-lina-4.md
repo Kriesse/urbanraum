@@ -30,7 +30,7 @@ trial_de: "Auf Anfrage"
 description_en:
 
 description_de: |
-    Der neue Kurs startet am 21.08.2018!  
+  Der neue Kurs startet am 21.08.2018!  
 
   Anmeldung zur Probestunde unter: info@urbanraum.com  
   
