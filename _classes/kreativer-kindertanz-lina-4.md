@@ -1,6 +1,6 @@
 ---
 order: "1"
-teacher: "lina"
+teacher: "carmen"
 schedule:
   - day: "tuesday"
     start: "4:30pm"
@@ -30,7 +30,9 @@ trial_de: "Auf Anfrage"
 description_en:
 
 description_de: |
-  Herbstferien am 24. und 31. Oktober 2017.
+    Der neue Kurs startet am 21.08.2018!  
+
+  Anmeldung zur Probestunde unter: info@urbanraum.com  
   
   Beim kreativen Kindertanz wird Tanz als elementare Lern- und Ausdrucksform vermittelt. Dabei steht die Freude am Sich-Bewegen im Vordergrund.
   Mittels bestimmter Übungen werden Fähigkeiten wie Koordination, Rhythmusgefühl, Konzentrationsfähigkeit und Ausdauer entwickelt beziehungsweise gestärkt.
