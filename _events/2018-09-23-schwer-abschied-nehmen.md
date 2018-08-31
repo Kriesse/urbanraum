@@ -1,12 +1,12 @@
 ---
-teacher: 
+teacher:
 
 date_en: "September 23rd 2018"
 date_de: "23. September 2018"
 
 time: "08:00pm"
 
-image: 
+image:
 tags:
 
 title_en:  "Schwer Abschied nehmen wenn ich Taschentuch sehe (premiere)"
@@ -22,7 +22,7 @@ language_en:
 language_de:
 
 description_en: |
-  
+
   Change happens with and through movement. A consistent flow from here till somewhere else and back. Arriving, without really arriving. Moving on. Inspired by land-art artist Richard Long and his sculptural works, Luisa Rüster investigates into the correlation between personal perception, actual physical movement and the eternal movement of nature. She focuses on the change of time and operates with Longs continuously repeated concept of spiral, circle and line.
   In our longing for constancy we continuously realize how ephemeral constancy really is. Change is omnipresent. What is blown away or continues to flow is not lost or completely gone. It just materializes in another form. Movement stands for alteration, transience, transformation and renewal. The beginning is often the end. From the end we start again. Saying goodbye and getting together anew.
 
@@ -33,10 +33,9 @@ description_en: |
   COSTUME Vera Thallinger  
   INSTALLATION & LIGHT Yigit Daldikler  
   DRAMATURGICAL ASSISTANCE Lisa-Johanna Schindlbeck  
-  
+
   Reservation: info@urbanraum.com
-  
-  
+
 description_de: |
 
   Wenn wir es wiedersehen.  
@@ -61,7 +60,7 @@ description_de: |
   COSTUME Vera Thallinger  
   INSTALLATION & LIGHT Yigit Daldikler  
   DRAMATURGICAL ASSISTANCE Lisa-Johanna Schindlbeck  
-  
+
   Reservierung: info@urbanraum.com
-  
-  ---
+
+---
