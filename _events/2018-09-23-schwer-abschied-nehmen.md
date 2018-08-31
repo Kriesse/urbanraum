@@ -6,7 +6,7 @@ date_de: "23. September 2018"
 
 time: "08:00pm"
 
-image: ""
+image: 
 tags:
 
 title_en:  "Schwer Abschied nehmen wenn ich Taschentuch sehe (premiere)"
@@ -38,6 +38,7 @@ description_en: |
   
   
 description_de: |
+
   Wenn wir es wiedersehen.  
   Wenn wir uns wiedersehen.  
   Wenn wir es anders wiedersehen.  
