@@ -26,6 +26,8 @@ description_en: |
   Change happens with and through movement. A consistent flow from here till somewhere else and back. Arriving, without really arriving. Moving on. Inspired by land-art artist Richard Long and his sculptural works, Luisa Rüster investigates into the correlation between personal perception, actual physical movement and the eternal movement of nature. She focuses on the change of time and operates with Longs continuously repeated concept of spiral, circle and line.
   In our longing for constancy we continuously realize how ephemeral constancy really is. Change is omnipresent. What is blown away or continues to flow is not lost or completely gone. It just materializes in another form. Movement stands for alteration, transience, transformation and renewal. The beginning is often the end. From the end we start again. Saying goodbye and getting together anew.
 
+  ///  
+  
   CONCEPT, TEXT & CHOREOGRAPHY Luisa Rüster, in collaboration with the performers  
   PERFORMANCE Jenny Ocampo, Vivien Estelle Roos, Luisa Rüster  
   LIVE-MUSIC & COMPOSITION Thomas Nicholson  
@@ -35,7 +37,9 @@ description_en: |
   DRAMATURGICAL ASSISTANCE Lisa-Johanna Schindlbeck  
 
   Reservation: info@urbanraum.com
-  
+    
+    ///  
+    
   *ABOUT THE ARTISTS*    
   
   LUISA RÜSTER  
@@ -93,6 +97,8 @@ description_de: |
   DRAMATURGICAL ASSISTANCE Lisa-Johanna Schindlbeck  
 
   Reservierung: info@urbanraum.com  
+    
+    ///  
   
     *ABOUT THE ARTISTS*    
   
