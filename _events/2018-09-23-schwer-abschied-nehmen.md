@@ -1,5 +1,5 @@
 ---
-teacher: ""
+teacher: 
 
 date_en: "September 23rd 2018"
 date_de: "23. September 2018"
