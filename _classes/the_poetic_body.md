@@ -21,20 +21,24 @@ level_en: "This class is open to everyone with a sincere interest in Improvisati
 level_de: "s. english"
 
 price_en: |
-  Drop-in: 12 €  
-  5 Classes Card: 50 €  
-  10 Classes Card: 90€  
+  Drop-in: EUR 12   
+  5 Classes Card: EUR 50   
+  (Valid for 2 Months)  
+
+  10 Classes Card: EUR 90  
   (Valid for 3 months)
 
+
 price_de: |
-  Drop-in: 12 €  
-  5-er Karte: 50 €  
-  10-er Karte: 90€  
+  Drop-in: 12 Euro  
+  5-er Karte: 50 Euro 
+  (2 Monate gültig)
+  10-er Karte: 90 Euro  
   (3 Monate gültig)
 
 description_en: |
  
-  No class on thursday, march, 8th.  
+  Starting again: September, 27th!  
   
   Poetry in motion.  
   The body takes us into journeys. Together or alone.  
@@ -56,11 +60,6 @@ description_en: |
   We will work a lot on learning how to LISTEN to ourselves and others. We will practice being constantly in present time, ready and available, like a wildcat. Creating and choreographing, phrasing the movement in order to let the material speak up and dance it with joy.  
 
   Taking that a bit further we will jump into the field of relation to others, to ourselves, and to the material we are creating, or that’s being created. Working on duos, trios, and group compositions as well as in Solos. Taking the whole work to serve the composition, and letting it rip off you to serve the poetry and the “third body” = The composition. Practicing WHERE and WHEN we do what we do, and noticing how time and space can be modified.  
-
-  PERFORMANCE PROJECT:  
-
-  This year the class is presented as a Performance Project. Around June, we will show a little piece based on the work we have been developing and the ideas/desires of the group. So you can have a beautiful performing experience.
-
 
 
   ///
