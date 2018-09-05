@@ -2,7 +2,7 @@
 order: "5"
 teacher: "shora"
 schedule:
-  - day: "friday"
+  - day: "thursday"
     start: "8:30am"
     end: "9:45am"
 image: "class-somatic-yoga.JPG"
