@@ -7,7 +7,7 @@ date_de: "14.10. & 4.11. & 2.12.2018"
 time: 
 endtime: 
 
-image: ""
+image: "workshop-action-theatre.jpg"
 
 title_en: "Action Theater™ Improvisation "
 title_de: "Action Theater™ Improvisation "
