@@ -8,7 +8,7 @@ schedule:
   - day: "wednesday"
     start: "12:00pm"
     end: "01:45pm"
-    - day: "thursday"
+  - day: "thursday"
     start: "12:00pm"
     end: "01:45pm"
 image: "class-axis-syllabus.jpg"
