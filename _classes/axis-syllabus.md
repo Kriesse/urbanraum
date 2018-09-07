@@ -17,7 +17,7 @@ title_en: "Axis Syllabus"
 title_de: "Axis Syllabus"
 
 subtitle_en: "regular training"
-subtitle_de: ""
+subtitle_de: "regelmäßiges Training"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
