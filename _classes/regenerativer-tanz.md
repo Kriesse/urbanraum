@@ -34,15 +34,11 @@ description_en: |
   s. German description
 
 description_de: |
-  Der „Regenerative Tanz“ ist eine Weiterentwicklung der Bewegungstherapie. Durch die Mittel des Tanzes und anderer kreativer Anwendungen innerhalb der Gruppe, wird ein
-Prozess gestartet, der das eigene Körperbewusstsein ausbildet und die regenerativen Kräfte des Körpers und des Geistes aktiviert.
-Basis dieses Bildungsprozesses sind verschiedene Methoden des Zeitgenössischen Tanzes und der Tanztherapie. In den gemeinsamen Stunden werden wir einen Raum der
-Geborgenheit schaffen, frei von Ängsten und Blockaden die uns daran hindern uns auszudrücken und uns durch diese Selbsterfahrung mit unserem Körper und Geist zu
-verbinden.  
-  Dafür benötigt Niemand Erfahrung im Tanzen, denn wir werden unsere eigene authentische Art uns zu bewegen finden. Aber auch erfahrenen Tänzern hilft der Kurs die
-eigene Psyche weiter zu entschlüsseln und das eigene Körperbewusstsein besser zu nutzen.  
+  Der „Regenerative Tanz“ ist eine Weiterentwicklung der Bewegungstherapie. Durch die Mittel des Tanzes und anderer kreativer Anwendungen innerhalb der Gruppe, wird ein Prozess gestartet, der das eigene Körperbewusstsein ausbildet und die regenerativen Kräfte des Körpers und des Geistes aktiviert.  
+  Basis dieses Bildungsprozesses sind verschiedene Methoden des Zeitgenössischen Tanzes und der Tanztherapie. In den gemeinsamen Stunden werden wir einen Raum der Geborgenheit schaffen, frei von Ängsten und Blockaden die uns daran hindern uns auszudrücken und uns durch diese Selbsterfahrung mit unserem Körper und Geist zu verbinden.  
+  Dafür benötigt Niemand Erfahrung im Tanzen, denn wir werden unsere eigene authentische Art uns zu bewegen finden. Aber auch erfahrenen Tänzern hilft der Kurs die eigene Psyche weiter zu entschlüsseln und das eigene Körperbewusstsein besser zu nutzen.  
 
-Die Gruppe wird auf maximal 10 Personen beschränkt sein.
+  Die Gruppe wird auf maximal 10 Personen beschränkt sein.
 
 ---
 
