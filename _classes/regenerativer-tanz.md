@@ -26,7 +26,7 @@ price_en: |
   sliding scale: EUR 8-12
 
 price_de: |
-  Probestunde: 5 Euro
+  Probestunde: 5 Euro, 
   Voranmeldung wichtig!  
   Sliding scale: 8-12 Euro
   
