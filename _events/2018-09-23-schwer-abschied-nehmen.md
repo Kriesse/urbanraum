@@ -33,7 +33,7 @@ description_en: |
   LIVE-MUSIC & COMPOSITION Thomas Nicholson  
   STAGE Maria Färber  
   COSTUME Vera Thallinger  
-  INSTALLATION & LIGHT Jingjing Du
+  INSTALLATION & LIGHT Jingjing Du  
   DRAMATURGICAL CONSULTANCY Lisa-Johanna Schindlbeck  
 
   Reservation: info@urbanraum.com
