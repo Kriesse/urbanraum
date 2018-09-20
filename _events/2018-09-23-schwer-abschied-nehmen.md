@@ -33,8 +33,8 @@ description_en: |
   LIVE-MUSIC & COMPOSITION Thomas Nicholson  
   STAGE Maria Färber  
   COSTUME Vera Thallinger  
-  INSTALLATION & LIGHT Yigit Daldikler  
-  DRAMATURGICAL ASSISTANCE Lisa-Johanna Schindlbeck  
+  INSTALLATION & LIGHT Jingjing Du
+  DRAMATURGICAL CONSULTANCY Lisa-Johanna Schindlbeck  
 
   Reservation: info@urbanraum.com
     
@@ -62,7 +62,7 @@ description_en: |
   VERA THALLINGER was born 1993 in Munich and graduated 2015 from Esmod Berlin, where she studied fashion design and patternmaking. Since then she has been collecting atelier experiences in fashion houses such as Viktor&Rolf and Kaviar Gauche.
   Currently she is working in a position as Stylist at Chloé where she has been gaining insights into customer requests and needs and has been fully immersed into the codes of this French maison. Alongside she is following her passion, creating custom-made garments and costumes with a focus on textures and patternmaking. Her garments are intended to give the wearer an individual confidence based on the outstanding textiles and unique craftmanship.  
   
-    YIGIT DALDIKLER was born in 1988 in Ankara, Turkey. He studied Social Policy, Computer Engineering and finally Performing Arts as main field. His works encompasses performance, video, installation and sound as well as realizing performances in social context and participatory art practice. He has also worked as project coordinator and artistic advisor at iDANS (Istanbul International Contemporary Dance and Performance Festival) between 2011-2013 in Istanbul. Currently he is living in Berlin and pursuing his art education at Berlin University of the Arts in the department of Art and Media.  
+  JINGJING DU was born in Nanjing, China. She studied at the Hochschule Anhalt in Dessau, where she received a master degree in integrated design and further a bachelor of architecture at TU- Berlin. Recently she participated in the group exhibition going underground of the Studierendenwerk Berlin. In 2017 she collaborated with Lisa-Johanna Schindlbeck for a research project on space and tourism in Venice at the chair of visual arts, TU-Berlin.   
   
   LISA-JOHANNA SCHINDLBECK worked as a directing assistant for Sabine Herken at Berlin University of the Arts and as an assistant for stage designer Hartmut Meyer at the Volksbühne am Rosa-Luxemburg Platz. She studies Architecture at TU-Berlin, student of Donatella Fioretti (architect) and Stefanie Bürkle (scenographer).
 
