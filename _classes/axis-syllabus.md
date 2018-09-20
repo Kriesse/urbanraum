@@ -49,6 +49,8 @@ description_en: |
   
   Infos & questions: axissyllabusberlin@gmail.com  
   
+  ///  
+  
   Teaching Schedule  
 
   SEPTEMBER  
@@ -82,6 +84,8 @@ description_de: |
   Die Klassen sind offen fuer alle! Wenn du noch neu in den Tanz- und Bewegungskünsten bist empfehlen wir über einen laengeren Zeitraum am Training teilzunehmen.  
   
   Weitere Infos/Fragen unter: axissyllabusberlin@gmail.com  
+  
+  ///  
   
   Teaching schedule:
   
