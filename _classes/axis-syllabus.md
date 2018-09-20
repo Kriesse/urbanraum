@@ -47,7 +47,30 @@ description_en: |
   
   This is an ongoing drop-in training and all levels are welcome, however if you are a beginner in dance and movement we recommend to be able to commit to a longer period. 
   
-  Infos & questions: axissyllabusberlin@gmail.com
+  Infos & questions: axissyllabusberlin@gmail.com  
+  
+  Teaching Schedule  
+
+  SEPTEMBER  
+  18-20 Kira  
+  25-27 Francesca  
+
+  OCTOBER  
+  2-4 Filippo  
+  9-11 Diana  
+  16-18 Antoine  
+  23-25 Kira  
+  30–1 nov Kira  
+
+  NOVEMBER  
+  6-8 Filippo  
+  13-15 Antoine  
+  20-22 Fra  
+  27-29 to be confirmed  
+
+  DECEMBER  
+  11-13 Frey  
+  18-20 Diana  
 
 description_de: |
   Das Axis Syllabus (AS) Training Berlin zieht in den Urbanraum!!!  
@@ -58,7 +81,30 @@ description_de: |
   
   Die Klassen sind offen fuer alle! Wenn du noch neu in den Tanz- und Bewegungskünsten bist empfehlen wir über einen laengeren Zeitraum am Training teilzunehmen.  
   
-  Weitere Infos/Fragen unter: axissyllabusberlin@gmail.com
+  Weitere Infos/Fragen unter: axissyllabusberlin@gmail.com  
+  
+  Teaching schedule:
+  
+  SEPTEMBER  
+  18-20 Kira  
+  25-27 Francesca  
+
+  OKTOBER  
+  2-4 Filippo  
+  9-11 Diana  
+  16-18 Antoine  
+  23-25 Kira  
+  30–1 nov Kira  
+
+  NOVEMBER  
+  6-8 Filippo  
+  13-15 Antoine  
+  20-22 Fra  
+  27-29 to be confirmed  
+
+  DEZEMBER  
+  11-13 Frey  
+  18-20 Diana  
 
 
 
