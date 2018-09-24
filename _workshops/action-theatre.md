@@ -45,12 +45,16 @@ description_de: |
   14.10.2018
 
   Wir geben unsere Stimme, uns versagt die Stimme, unsere Stimmung ist betrübt. Die Stimme kann als Instrument dienen oder direkt die Kommunikation beeinflussen. Wir erkennen die Gemütslage des Gegenübers an der Stimme. Vor oder nach einem anstrengenden Gespräch wird unsere Stimme heiser. Höchste Zeit, dass wir uns diesem wichtigen Ausdrucksmittel widmen. Spielerisch, experimentell und individuell.  
+  
+  ///  
 
   Sprache I  
   4.11.2018  
 
   Die gesprochene und geschriebene Sprache als Musikalität erleben, den Inhalt und die Form zusammenführen, wie ein Baby die Sprache neu entdecken, sich selbst unterbrechende Pausen einlegen, Wortschöpfungen kreieren, im Alltäglichen versteckte Poesie erfahren und somit überraschende Effekte erleben. Dies sind die Ziele dieses Workshops.  
 
+   ///  
+   
   Erzählen I  
   2.12.2018  
 
