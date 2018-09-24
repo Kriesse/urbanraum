@@ -7,7 +7,7 @@ date_de: "9.-10. Februar 2019"
 time: "11am"
 endtime: "3pm"
 
-image: "workshop-dancing-the-moment.jpg"
+image: "workshop-dancing-the-moment.JPG"
 
 title_en: "Dancing the Moment"
 title_de: "Dancing the Moment"
@@ -29,9 +29,9 @@ level_de: |
   offen für alle Level  
   
 price_en: |
-  
+  see below
 price_de: |
-
+  s.u.
 
 description_en: |
   "Dancing The Moment" is a workshop open to anyone searching for a deeper connection with themselves and the present moment through movement.  
