@@ -1,7 +1,7 @@
 ---
 teacher:
 
-date_en: "September 13th 2018"
+date_en: "October 13th 2018"
 date_de: "13. Oktober 2018"
 
 time: "07:30pm"
