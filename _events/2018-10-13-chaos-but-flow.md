@@ -12,8 +12,8 @@ tags:
 title_en:  "Chaos but Flow"
 title_de:  "Chaos but Flow"
 
-subtitle_en: "A performance evening by and with Charlotte Pauwelyn & Natsuko"
-subtitle_de: "Ein Performance-Abend von und mit Charlotte Pauwelyn & Natsuko"
+subtitle_en: "A performance evening by and with Charlotte Pauwelyn & Natsuko Tezuka"
+subtitle_de: "Ein Performance-Abend von und mit Charlotte Pauwelyn & Natsuko Tezuka"
 
 price_en: "EUR 7-14 (sliding scale)"
 price_de: "7-14 Euro (sliding scale)"
@@ -45,7 +45,7 @@ description_en: |
   ///  
 
   } Wander {  
-
+  by Natsuko Tezuka
   Even the next room can not be found Unstable days  
   Walking in an empty plain  
   I have the feeling I have to hurry up for something  
@@ -58,7 +58,7 @@ description_en: |
 
   I live in Berlin since just a few months. People in Berlin do not get tired of seeing it. Everyone lives a life-size life in their honesty while struggling. I would like to observe that and try out what kind of waves will happen to me.  
 
-  Dancer & choreographer: Natsuko  
+  Dance & choreography: Natsuko Tezuka  
 
   ///  
   
