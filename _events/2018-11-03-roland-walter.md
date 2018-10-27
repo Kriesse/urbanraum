@@ -22,7 +22,7 @@ language_en:
 language_de:
 
 description_en: |
-  1. Chair chain roland skate ailin carpeta floor sticks wall  
+  A. Chair chain roland skate ailin carpeta floor sticks wall  
 
   What tension arises between objects and bodies? How are strength and resistance explored? Ailin Formia and Roland Walter follow this question in the performance.  
 
@@ -31,7 +31,7 @@ description_en: |
 
   ///  
 
-  2. La práctica del Guerrero Interior  
+  B. La práctica del Guerrero Interior  
   (Die Übung des inneren Kriegers)  
   Work in Progress  
 
