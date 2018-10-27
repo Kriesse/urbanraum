@@ -6,7 +6,7 @@ date_de: "3. November 2018"
 
 time: "08:00pm"
 
-image: ""
+image: "event-roland.jpg"
 tags:
 
 title_en:  "Chair chain roland skate ailin carpeta floor sticks wall & La práctica del Guerrero Interior"
