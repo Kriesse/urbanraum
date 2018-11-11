@@ -6,7 +6,7 @@ schedule:
     start: "10:00am"
     end: "11:30am"
 
-image: "class-gentile.jpg"
+image: "class-gentile.jpeg"
 
 title_en: "Dance class series"
 title_de: "Dance class series"
