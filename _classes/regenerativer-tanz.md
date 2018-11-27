@@ -7,7 +7,7 @@ schedule:
     start: "12:00pm"
     end: "02:00pm"
     
-image: "class-regenerativer-tanz.jpeg"
+image: "class-regenerativer-tanz (3).jpeg"
 
 title_en: "Regenerativer Tanz"
 title_de: "Regenerativer Tanz"
