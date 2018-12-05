@@ -2,13 +2,11 @@
 order: "1"
 teacher: "jenny"
 schedule:
-  - day: "wednesday"
-    start: "04:0pm"
-    end: "04:45pm"
-  - day: "wednesday"
-    start: "05:00pm"
-    end: "05:45pm"
-image: "class-contakids-2018.2.jpg"
+  - day: "thursday"
+    start: "04:30pm"
+    end: "05:15pm"
+
+image: "class-contakids-2019.jpg"
 
 title_en: "ContaKids"
 title_de: "ContaKids"
@@ -33,7 +31,9 @@ description_en: |
   see german description
 
 description_de: |
-  Ab 29.08.2018!  
+  Schnupperstunde am 10.1.2019 (nur mit Anmeldung!) möglich, je nach Anzahl der Anmeledungen auch noch später.  
+  Danach wird es eine feste Gruppe. Eine Schnupperstunde kostet 8 €.  
+  Anmeldung: Bitte per Mail an jenny.doell@freenet.de  
 
   Für Kids von 2-4 Jahren & ein (Groß-)Elternteil (oder einer anderen vertrauten Bezugsperson). Oma, Opa, Freunde, Babysitter etc... alle herzlich Willkommen!  
 
