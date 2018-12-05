@@ -12,7 +12,7 @@ title_en: "ContaKids"
 title_de: "ContaKids"
 
 subtitle_en: ""
-subtitle_de: "ContaKids Kurse für Anfänger und mit Vorerfahrungen"
+subtitle_de: "neuer Kursblock ab Januar 2019"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
