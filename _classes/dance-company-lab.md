@@ -5,7 +5,7 @@ schedule:
   - day: "thursday"
     start: "10:00am"
     end: "11:30am"
-    - day: "friday"
+  - day: "friday"
     start: "10:00am"
     end: "11:30am"
     
