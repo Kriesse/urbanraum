@@ -9,7 +9,7 @@ schedule:
     start: "10:00am"
     end: "11:30am"
     
-image: ""
+image: "class-dance-company-2019.jpg"
 
 title_en: "Dance Company Lab // Choreography Project"
 title_de: "Tanz Company Lab // Choreografie Projekt"
