@@ -40,7 +40,7 @@ description_en: |
   Performance 26. January (in the evening)  
   At least 5 participants  
   Level: Intermediate / Advanced, Dance students and performers of all disciplines  
-  Fee 80 Euro // Trial lesson: 12 Euro
+  Fee 80 Euro // Trial lesson: 12 Euro  
   Discount for dance students and prof. 60 euro  
   
 
@@ -58,10 +58,10 @@ description_de: |
   Tanzcompany Lab - weitere Informationen:  
   IM JANUAR: donnerstags und freitags von 10:00-11:30 Uhr  
   Termine: 10.,11., 17.,18., 24., 25. Januar 2019  
-  Performance: 26. Januar (abends)  
+  Performance: 26. Januar (abends)    
   Mindestens ab 5 Teilnehmer_innen  
   Level: Mittelstufe/ Fortgeschritten, Tanz-Student*innen, Darsteller_innen, Künstler_innen  
-  Preis 80 Euro // Probestunde: 12 Euro  
+  Preis 80 Euro // Probestunde: 12 Euro    
   Ermäßigung für Tanzstudent_innen und Prof. 60 Euro  
 
   
