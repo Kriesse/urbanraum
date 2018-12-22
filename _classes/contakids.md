@@ -42,33 +42,14 @@ description_de: |
   “Contakids” ist eine Methode, die auf dem Grundgedanken basiert, körperlichen Kontakt zu nutzen, um eine tiefere Kommunikation zwischen Kindern und Eltern zu entwickeln, die für beide Seiten genussvoll ist. Über die Arbeit mit Bewegung kann das Kind seine motorischen Fähigkeiten und sein Selbstvertrauen stärken, während Eltern ein neues Vertrauensverhältnis zu ihren Kleinen aufbauen. Der Kurs richtet sich an Kinder von 2-4 Jahren. Anstelle eines Elternteils kann natürlich eine andere nahe Bezugsperson mitmachen. Tänzerische Vorerfahrung ist nicht notwendig.  
 
   *“ContaKids” fördert:*  
-
   · die Entwicklung einer tieferen Kommunikation zwischen Erwachsenen und Kindern, die für beide genussvoll ist: über die Arbeit mit dem eigenen Körper, mit Bewegung und körperlichem Kontakt.  
-
   · das Selbstvertrauen und die motorischen Fähigkeiten von Kindern und eine neue, vertrauensvolle Beziehung zwischen Eltern und Kind.  
-
   · die Eigenständigkeit und Unabhängigkeit von Kindern, während Eltern lernen, ihre Kinder in einem spielerischen Rahmen als Gleichberechtigte zu sehen, die sie bedingungslos unterstützen.  
 
   *Ablauf:*  
+  Wir starten mit einem kleinen Warm-Up, das übergeht in einfache Übungen und Spiele. Bei vielen Übungen können Eltern und Kinder die Rollen tauschen - mal initiieren, mal folgen. Durch gemeinsames Bewegen tauchen wir in die kindliche Bewegungswelt ein und lernen kleine aber aufregende Bewegungsabläufe gemeinsam mit unseren Kindern, die wir auch in alltägliche Situationen - wie Heben und Absetzen des Kindes - integrieren können. Die gemeinsame Zeit soll als ein erfrischender Ansatz für die Kommunikation zwischen Eltern und Kindern verstanden werden. Eins ist dabei sicher: Alle werden davon etwas mit nach Hause nehmen können.  
 
-  Wir starten mit einem kleinen Warm-Up, das übergeht in einfache Übungen und Spiele. Bei vielen Übungen können Eltern und Kinder die Rollen tauschen - mal initiieren, mal folgen. Durch gemeinsames Bewegen tauchen wir in die kindliche Bewegungswelt ein und lernen kleine aber aufregende Bewegungsabläufe gemeinsam mit unseren Kindern, die wir auch in alltägliche Situationen - wie Heben und Absetzen des Kindes - integrieren können. Die gemeinsame Zeit soll als ein erfrischender Ansatz für die Kommunikation zwischen Eltern und Kindern verstanden werden. Eins ist dabei sicher: ​alle werden davon etwas mit nach Hause nehmen können.  
-
-  *Termine:*  
-  29.8. / 5.9. / 12.9. / 19.9. / 26.9. / 10.10. / 17.10. / 7.11. / 14.11. / 21.11.  
-  
-  
-  16-16:45 (plus 15 Minuten zum freien Spiel, ausklingen):  
-  FORTGESCHRITTENENKURS  
-  
-  17-17:45 (plus 15 Minuten zum freien Spiel, ausklingen):  
-  Anfänger*innen/Offenes Level  
-
-  Schnupperstunde am 29.8. (nur mit Anmeldung!) möglich, je nach Anzahl der Anmeledungen auch noch später. Danach wird es eine feste Gruppe.  
-  Eine Schnupperstunde kostet 8 €.  
-
-  Anmeldung: Bitte per Mail an jenny.doell@freenet.de  
-
-  Bitte Beachten, dass Teilnahme am 16:00-Kurs nur nach Besuch eines vorhergehenden Kursblocks bei Christina oder mir möglich ist!  
+  Termine: 10.1. (Schnuppern) 17., 24. 31.1. (Pause am 7.2. in den Winterferien), danach durchgehend Donnerstags bis zum 28.3.2019  
 
   ////////////////////////////////////////////////  
 
