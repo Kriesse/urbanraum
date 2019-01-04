@@ -7,7 +7,7 @@ date_de: "27. Januar 2019"
 time: "10am"
 endtime: "5pm"
 
-image: "workshop-the-raaah.jpg"
+image: "workshop-raaah.jpg"
 
 title_en: "The RAAAH | movement and creativity"
 title_de: "The RAAAH | movement and creativity"
