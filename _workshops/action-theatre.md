@@ -1,8 +1,8 @@
 ---
 teacher: "özge"
 
-date_en: "17.02. & 17.33. & 07.04.2019"
-date_de: "17.02. & 17.33. & 07.04.2019"
+date_en: "17.02. & 17.03. & 07.04.2019"
+date_de: "17.02. & 17.03. & 07.04.2019"
 
 time: 10.30am
 endtime: 1.30pm
@@ -38,6 +38,7 @@ description_en: |
 
   
 description_de: |
+  17.02. & 17.03. & 07.04.2019, jeweils 10.30-13.30!  
   Neue Infos in Kürze!  
  
 ---
