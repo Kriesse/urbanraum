@@ -1,11 +1,11 @@
 ---
 teacher: "özge"
 
-date_en: "14.10. & 4.11. & 2.12.2018"
-date_de: "14.10. & 4.11. & 2.12.2018"
+date_en: "17.02. & 17.33. & 07.04.2019"
+date_de: "17.02. & 17.33. & 07.04.2019"
 
-time: 
-endtime: 
+time: 10.30am
+endtime: 1.30pm
 
 image: "workshop-action-theatre.jpg"
 
@@ -38,27 +38,8 @@ description_en: |
 
   
 description_de: |
-
-  Workshops 2018 / 2019: Sonntags 10:30 bis 13:30 Uhr  
-
-  Stimme I  
-  14.10.2018
-
-  Wir geben unsere Stimme, uns versagt die Stimme, unsere Stimmung ist betrübt. Die Stimme kann als Instrument dienen oder direkt die Kommunikation beeinflussen. Wir erkennen die Gemütslage des Gegenübers an der Stimme. Vor oder nach einem anstrengenden Gespräch wird unsere Stimme heiser. Höchste Zeit, dass wir uns diesem wichtigen Ausdrucksmittel widmen. Spielerisch, experimentell und individuell.  
-  
-  ///  
-
-  Sprache I  
-  4.11.2018  
-
-  Die gesprochene und geschriebene Sprache als Musikalität erleben, den Inhalt und die Form zusammenführen, wie ein Baby die Sprache neu entdecken, sich selbst unterbrechende Pausen einlegen, Wortschöpfungen kreieren, im Alltäglichen versteckte Poesie erfahren und somit überraschende Effekte erleben. Dies sind die Ziele dieses Workshops.  
-
-   ///  
-   
-  Erzählen I  
-  2.12.2018  
-
-  Ich musste mal einen Test in einer Fremdsprache machen. 20 verschiedene Begriffe waren vorgegeben, mit denen man einzelne Sätze bilden oder die Begriffe erklären sollte. Letztendlich habe ich eine Geschichte geschrieben, in der alle Begriffe vorkamen. Die Prüferin fragte: Wie hast du das gemacht? Die Antwort könnt Ihr bei diesem Workshop selbst erfahren. 
+  Neue Infos in Kürze!  
+ 
 ---
 
 
