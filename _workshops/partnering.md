@@ -52,7 +52,16 @@ description_en: |
   She understands choreography as a natural process in which everything takes its own and natural development, which is a kind of instability and unfolding of the extraordinary character of human actions and emotions. Her method, based on improvisation, links the perception of the inner and outer world to dance and performance.  
 
   www.jennieocampo.com  
-  https://vimeo.com/jennieocampo 
+  https://vimeo.com/jennieocampo  
+  
+  
+  ///  
+  Picture:  
+  DAMP SHEETS (2017)  
+  Choreography / Jenny Ocampo  
+  Dance / Rossella Canciello, Jenny Döll, Iro Grigoriadi, Iliana Kalapotharakou, María Sánchez Alonso  
+  Music / Alberto Lucendo  
+  Foto © Menelaos Liontos  
   
 description_de: |
   please see English description
