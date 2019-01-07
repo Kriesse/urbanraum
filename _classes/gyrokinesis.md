@@ -20,14 +20,14 @@ level_en: "open level"
 level_de: "open level"
 
 price_en: |
-  Tryout: 5 Euro  
-  Normal class: 10 Euro  
-  10 Classes Card: 80 Euro 
+  Tryout: 8 Euro  
+  Normal class: 12 Euro  
+  10 Classes Card: 100 Euro   
 
 price_de: |
-  Probestunde: 5 Euro  
-  Einzelstunde: 10 Euro  
-  10-er-Karte: 80 Euro 
+  Probestunde: 8 Euro  
+  Einzelstunde: 12 Euro  
+  10-er-Karte: 100 Euro 
 
 description_en: |
 
