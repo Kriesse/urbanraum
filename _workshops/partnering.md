@@ -7,7 +7,7 @@ date_de: "16. & 17.02.2019"
 time: 
 endtime: 
 
-image: "workshop-partnering.jpg"
+image: "workshop-partnering.JPG"
 
 title_en: "Partnering"
 title_de: "Partnering"
