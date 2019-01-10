@@ -63,7 +63,7 @@ description_de: |
   
   //  
 
-  *Atem & Stimme I* 
+  *Atem & Stimme I*   
   17.Februar 2019, 10:30-13:30  
 
   Der Atem ist die Basis allen körperlichen, seelischen und geistigen Geschehens des Menschen. In diesem Workshop erforschen wir den Zusammenhang von Atem und Stimme, den Übergang vom Atem zum Klang und zur Bewegung.  
