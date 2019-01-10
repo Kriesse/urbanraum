@@ -41,7 +41,7 @@ description_en: |
 
   The breath is the basis of all physical, emotional and mental events of human beings. In this workshop, we explore the relationship between breath and voice, the transition from breath to sound and movement.  
 
-  *Voice & Expression I* 
+  *Voice & Expression I*   
   March 17, 2019, 10:30-13:30
 
   You can recognize the identity, the origin or the mood of a person by their voice. The power of the voice is also exposed in the expression. This workshop is about the relationship between the voice and the expression.  
