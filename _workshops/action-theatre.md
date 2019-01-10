@@ -29,9 +29,9 @@ level_de: |
   offen für alle Level  
   
 price_en: |
-  
+  EUR 30
 price_de: |
-
+  30 Euro
 
 description_en: |
   Action Theater™ is an improvisational physical theater training and performance method. It addresses perception, awareness and the process of change. It integrates body and mind and promotes spontaneous and conscious expression. We follow the changing contents of our inner and outer awareness and respond to it through movement, vocalization, and speech. Fundamental to the practice of Action Theater™  to achieve more presence on stage and in life. My work focuses on the applications of this method in other fields of life. Playful, experimental and individual. Therefore, everybody regardless of performance experience can attend the classes.  
