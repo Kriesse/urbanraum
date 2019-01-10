@@ -61,10 +61,7 @@ description_de: |
   Die körper- und bewegungsorientierte Action Theater™ Improvisationsmethode arbeitet mit Wahrnehmung, Bewusstsein und dessen Veränderungsprozesse. Sie integriert Körper und Geist und fördert den spontanen und bewussten Ausdruck. Wir folgen den wechselnden Inhalten unserer inneren und äußeren Wahrnehmung und antworten auf sie durch körperliche, stimmliche und/oder sprachliche Handlungen (actions). Ein Ziel dieser Methode ist mehr Präsenz auf der Bühne und im Leben zu erreichen. Mein Fokus liegt auf der Anwendbarkeit dieser Methode in anderen Lebensbereiche also "Applied" Action Theater™. Spielerisch, experimentell und individuell.  
   Also: JEDE/R ist willkommen!  
   
-  ///  
-  17.02. & 17.03. & 07.04.2019, jeweils 10.30-13.30!    
-  
-    
+
   *Atem & Stimme I* 
   17.Februar 2019, 10:30-13:30  
 
