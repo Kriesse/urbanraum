@@ -64,21 +64,21 @@ description_de: |
   //  
 
   Atem & Stimme I     
-  17. Februar 2019, 10:30-13:30  
+  Sonntag, 17. Februar 2019, 10:30-13:30  
 
   Der Atem ist die Basis allen körperlichen, seelischen und geistigen Geschehens des Menschen. In diesem Workshop erforschen wir den Zusammenhang von Atem und Stimme, den Übergang vom Atem zum Klang und zur Bewegung.  
 
   //  
   
   Stimme & Ausdruck I    
-  17. März 2019, 10:30-13:30  
+  Sonntag, 17. März 2019, 10:30-13:30  
 
   An der Stimme erkennen wir die Person, die Zugehörigkeit oder die Gemütslage. Ihre Macht ist auch in dem Ausdruck zu erkennen.    
   In diesem Workshop geht es um die Beziehung von der Stimme mit dem Ausdruck.
 
   //  
   Ausdruck & Eindruck I     
-  7. April 2019, 10:30-13:30 
+  Sonntag, 7. April 2019, 10:30-13:30 
 
   Welchen Eindruck hinterlässt unser Ausdruck? Die Verbindung zwischen diesen Vorgängen stellt den Fokus dieses Workshops dar. Wir erforschen Phänomene wie die sogenannte Transparenz und Authentizität.  
 ---
