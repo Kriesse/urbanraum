@@ -4,8 +4,8 @@ teacher: "özge"
 date_en: "17.02. & 17.03. & 07.04.2019"
 date_de: "17.02. & 17.03. & 07.04.2019"
 
-time: 10.30am
-endtime: 1.30pm
+time: 10.30 am
+endtime: 1.30 pm
 
 image: "workshop-action-theatre.jpg"
 
