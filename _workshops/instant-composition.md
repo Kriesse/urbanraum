@@ -7,7 +7,7 @@ date_de: "28.-30. Juni 2019"
 time: ""
 endtime: ""
 
-image: "workshop-dancing-the-moment.JPG"
+image: "workshop-instant.jpg"
 
 title_en: "Instant Composition: Space and imagination"
 title_de: "Instant Composition: Space and imagination"
@@ -32,7 +32,7 @@ price_en: |
   90€ Early Bird Price (before 1st of June) and Students  
   110€ Full Price
 price_de: |
-  90€ Early-Bird (bis 1.6.2019) sowie Student*innen
+  90€ Early-Bird (bis 1.6.2019) sowie StudentInnen
   110€ Normal-Preis
 
 description_en: |
