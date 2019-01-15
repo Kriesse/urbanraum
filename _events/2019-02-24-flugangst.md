@@ -6,14 +6,14 @@ date_de: "24. Februar 2019"
 
 time: "05:00pm"
 
-image: ""
+image: "event-flugangst.jpg"
 tags:
 
 title_en:  "zuGANG zu fluGANGst"
 title_de:  "zuGANG zu fluGANGst"
 
 subtitle_en: "by GANG Ensemble"
-subtitle_de: "GANZ Ensemble"
+subtitle_de: "GANG Ensemble"
 
 price_en: "EUR 8-12 (sliding scale) for the performance"
 price_de: "8-12 Euro (sliding scale) für die Performance"
@@ -36,13 +36,12 @@ description_de: |
   Lies übers GANG Ensemble hier.  
 
   24.02.19 – 17-20h  
-	17h – Workshop // 18h – fluGANGst Aufführung // 19h – Publikumsgespräch  
+  17h – Workshop // 18h – fluGANGst Aufführung // 19h – Publikumsgespräch  
 
   Das Vermittlungsformat ist kostenlos. Wir bitten um Anmeldung um kontakt@mariaferrara.net  
   Eintritt (Aufführung): 8-12€ gleitende Skala  
 
   Es ist möglich, nur die Aufführung zu besuchen. Dennoch freuen wir uns über die Teilnahme am Vermittlungsformat, um engeren Kontakt zum Publikum zu bekommen!  
-
 
   Konzept: María Ferrara. Von und mit GANG: Jagna Anderson, Jenny Döll, María Ferrara, Susanne Soldan.  
 
