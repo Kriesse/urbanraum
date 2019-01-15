@@ -7,7 +7,7 @@ date_de: "Februar - Juli 2019"
 time: ""
 endtime: ""
 
-image: "workshop-dancing-the-moment.JPG"
+image: "workshop-mirar.jpg"
 
 title_en: "MIRAR_Performance Projekt_Situational Choreography"
 title_de: "MIRAR_Performance Projekt_Situational Choreography"
