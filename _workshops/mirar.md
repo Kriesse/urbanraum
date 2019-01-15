@@ -7,7 +7,7 @@ date_de: "Februar - Juli 2019"
 time: ""
 endtime: ""
 
-image: "workshop-mirar.jpg"
+image: "workshop-mirar.JPG"
 
 title_en: "MIRAR_Performance Projekt_Situational Choreography"
 title_de: "MIRAR_Performance Projekt_Situational Choreography"
