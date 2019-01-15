@@ -29,17 +29,17 @@ level_de: |
   offen für alle Level  
   
 price_en: |
-  90€ Early Bird Price (before 1st of June) and Students  
+  90€ Early Bird Price (before 1st of June) and Students    
   110€ Full Price
 price_de: |
-  90€ Early-Bird (bis 1.6.2019) sowie StudentInnen
+  90€ Early-Bird (bis 1.6.2019) sowie StudentInnen  
   110€ Normal-Preis
 
 description_en: |
   The work is focused on the practice of instant composition as a specific form of art to create dances and performances. This clear intention of study makes the approach to the movement direct and pragmatic and, at the same time, makes it open and sensitive to the research of own personal poetic. The construction of choreographies, as well as their interpretation, takes place in the continuous flow of the present moment: choreographer and performer coexist, alternate and overlap in the creation of movements and dance phrases in the immediacy of the instant.
 
-  The aim of this workshop is to improve the techniques of improvisation related to the perception and use of space: 
-space as a mass of air that envelops the body; space as a concept useful for the creation of movements; space as a place with which to relate to the other; space as a possibility to perceive, imagine and concretize their own dance.   
+  The aim of this workshop is to improve the techniques of improvisation related to the perception and use of space:   
+  space as a mass of air that envelops the body; space as a concept useful for the creation of movements; space as a place with which to relate to the other; space as a possibility to perceive, imagine and concretize their own dance.   
 
   The proposed material includes a clear focus on the body’s anatomy as well a deep observation of the cognitive and emotional processes behind any movement: from the perception and dynamic of body weight, to the aware choices that the performer must take in the immediacy of the present moment. Through an active use of spontaneity and intuition, the participants will deepen their listening and reading of movement, as well as confidence to compose phrases and choreographies instantly. The classes are open to dancers, actors, musicians and anyone who wants to use the body’s movement to make dances and physics poems in the flow of present time.
 
