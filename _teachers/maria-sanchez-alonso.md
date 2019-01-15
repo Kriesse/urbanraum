@@ -2,7 +2,7 @@
 identifier: "maria"
 name: "María Sánchez Alonso"
 email: "aria311291@gmail.com"
-image: "teacher-maria-sanchez.jpg"
+image: "teacher-maria-sanchez-neu.jpg"
 
 bio_de: |
   s. english
@@ -21,5 +21,9 @@ bio_en: |
 
   At the moment she works in her own projects, trains/learns further by taking part in classes and Workshops. Teaches Yoga, Dance Improvisation & Composition. Teaches/leads two Poetry writing groups.
 
-  Apart from the dance field, she’s deeply interested and stays in permanent contact with Jungian Psychology, Taoism, I Ching, Dream interpretation, Poetry, and Creative Writing.
+  Apart from the dance field, she’s deeply interested and stays in permanent contact with Jungian Psychology, Taoism, I Ching, Dream interpretation, Poetry, and Creative Writing.  
+  
+  ///  
+  
+  Picture: Menelaos Liondos - at "Damp Sheets" Choreographed by Jenni Ocampo
 ---
