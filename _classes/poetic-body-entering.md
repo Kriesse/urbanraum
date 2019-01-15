@@ -60,24 +60,23 @@ description_en: |
   The class is also conceived as a PERFORMANCE PROJECT. Around May-June, if desired, participants of the class, under the direction and guidance of the teacher, will perform a piece that will be created on these sessions and on possibly, extended hours of rehearsals. Last year participants of THE POETIC BODY  performed on a weekend event (2 Shows) at Urbanraum the piece "We Ghosts" ; a 35-40min dance piece performed by the whole group (ten participants). Looking forward to this year!
 
   ///  
+  *Like a baby who has not yet learned to smile*  
+  *but attempts everything innocently,*  
+  *the baby has no past to measure the present.*
 
-  *Like a baby who has not yet learned to smile  
-  but attempts everything innocently,  
-  the baby has no past to measure the present.  
+  *Go beyond the idea of right and wrong*  
+  *Never forget that you are a child of nature.*
 
-  Go beyond the idea of right and wrong  
-  Never forget that you are a child of nature.  
+  *Because every day is new,*  
+  *you have never arrived*  
+  *and cannot expect to understand.*  
+  *So let it go.*  
 
-  Because every day is new,    
-  you have never arrived  
-  and cannot expect to understand.  
-  So let it go.  
+  *Be gracious in times of confusion*  
+  *because the Way is mysterious*
 
-  Be gracious in times of confusion  
-  because the Way is mysterious  
-
-  Your thoughts ever manifest as experience.  
-  Become the master of your response.*  
+  *Your thoughts ever manifest as experience.*  
+  *Become the master of your response.*  
 
   From the Taoist Master/Dream Analyst – Kari Hohne
 
