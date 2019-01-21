@@ -22,8 +22,23 @@ language_en:
 language_de:
 
 description_en: |  
-  s. German description
-  
+  zuGANG zu fluGANGst (access to fluGANGst) is an event that mediates a studio version of the piece fluGANGst.  
+
+  fluGANGst is the second piece by the GANG ensemble. This work is based on movements, activities and time/space patterns observed at airports. These elements have been stripped from narrative and dramatic meaning and have been treated as dance in different combinations. The choreography is a score for improvisation within which the dancers all use a common vocabulary.  
+
+  In zuGANG zu fluGANGst participants are invited to experience the making-of of different parts of the piece. The conversation after the performance is an exchange between participants which the dancers moderate. The participants share their experiences from the introductory workshop and their perceptions of the performance in order to develop together a personal understanding of the piece. zuGANG zu fluGANGst facilitates a self-reliant and collaborative appropriation of the piece and creates a social event around the performance.
+
+  Urbanraum – Urbanstr. 93. Berlin-Kreuzberg.  
+  24.02.19 – 17-20h
+
+  17h – Workshop // 18h – fluGANGst Performance// 19h – Audience talk  
+
+  The mediation format is free of charge. Please register to take part.  
+  Entrance (Performance): 8-12€ sliding scale.  
+  It’s possible to attend the performance only. However, we will be very happy to have ample participation in the mediation format and get the chance to come into closer contact with the audience!
+
+  Conzept: María Ferrara.  
+By and with GANG: Jagna Anderson, Jenny Döll, María Ferrara, Susanne Soldan.    
 description_de: |
   zuGANG zu fluGANGst ist eine Veranstaltung, die eine Studiofassung des Stückes fluGANGst vermittelt.  
 
