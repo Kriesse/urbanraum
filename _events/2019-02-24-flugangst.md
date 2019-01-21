@@ -31,9 +31,9 @@ description_de: |
 
   In zuGANG zu fluGANGst werden die TeilnehmerInnen das Making-of unterschiedlicher Teile des Stückes praktisch erfahren. Das Gespräch nach der Aufführung ist ein Austausch zwischen TeilnehmerInnen, das die Tänzerinnen moderieren. Die TeilnehmerInnen teilen ihre Erfahrungen aus dem einführenden Workshop und ihre Wahrnehmungen der Aufführung und schaffen gemeinsam ihr eigenes Verständnis des Stücks. zuGANG zu fluGANGst befähigt die ZuschauerInnen zur selbständigen, kollaborativen Aneignung des Stücks und erstellt ein gemeinschaftliches Ereignis um die Aufführung herum.
 
-  Lies über fluGANGst hier.  
-  Schau den fluGANGst Teaser hier.  
-  Lies übers GANG Ensemble hier.  
+  Über fluGANGst: https://mariaferrara.net/flugangst-de/  
+  Schau den fluGANGst Teaser hier: https://vimeo.com/278047175
+  Lies übers GANG Ensemble: https://mariaferrara.net/gang-das-ensemble/
 
   24.02.19 – 17-20h  
   17h – Workshop // 18h – fluGANGst Aufführung // 19h – Publikumsgespräch  
