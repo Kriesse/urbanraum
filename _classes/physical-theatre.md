@@ -9,11 +9,11 @@ schedule:
     
 image: ""
 
-title_en: ""
-title_de: ""
+title_en: "Physical theatre"
+title_de: "Physical theatre"
 
-subtitle_en: ""
-subtitle_de: "
+subtitle_en: "Physisches, performatives & transdisziplinäres Theater"
+subtitle_de: "Physisches, performatives & transdisziplinäres Theater"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
