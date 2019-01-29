@@ -7,7 +7,7 @@ schedule:
     end: "10:00pm"
  
     
-image: ""
+image: "class-physical-theatre.jpg"
 
 title_en: "Physical theatre"
 title_de: "Physical theatre"
