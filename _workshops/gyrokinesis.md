@@ -57,7 +57,7 @@ description_en: |
   Rossella Canciello, Italian born and currently based in Berlin, is a choreographer and dancer. Over the years she's worked with international dance companies and theatres like Goldoni Theater, Deutsche Oper, Staatsoper Im Schiller Theater, Arabesque Company, Ensemble Ballet, Borderline dance Company. She collaborates with Susanne Linke, being involved in several projects and recently as an assistant for her workshops. As an educator she teaches contemporary technique, composition and improvisation. Besides her dancing work she also teaches GYROKINESIS® method.
   
 description_de: |
-
+  s. English description, please
 ---
 
 
