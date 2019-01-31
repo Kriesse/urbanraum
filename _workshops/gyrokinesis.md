@@ -7,7 +7,7 @@ date_de: "16.03.2019"
 time: 11am
 endtime: 1pm
 
-image: ""
+image: "class-gyrokinesis-neu.JPG"
 
 title_en: "GYROKINESIS® Method"
 title_de: "GYROKINESIS® Method"
