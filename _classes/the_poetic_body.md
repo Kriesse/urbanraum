@@ -21,19 +21,21 @@ level_en: "s. below"
 level_de: "s. english"
 
 price_en: |
-  Drop-in: EUR 12   
-  5 Classes Card: EUR 50   
+  Try-Out: EUR 12
+  Drop-in: EUR 14
+  5 Classes Card: EUR 60   
   (Valid for 2 Months)  
 
-  10 Classes Card: EUR 90  
+  10 Classes Card: EUR 100  
   (Valid for 3 months)
 
 
 price_de: |
-  Drop-in: 12 Euro  
-  5-er Karte: 50 Euro 
+  Probestunde: 12 Euro
+  Drop-in: 14 Euro  
+  5-er Karte: 60 Euro 
   (2 Monate gültig)
-  10-er Karte: 90 Euro  
+  10-er Karte: 100 Euro  
   (3 Monate gültig)
 
 description_en: |
