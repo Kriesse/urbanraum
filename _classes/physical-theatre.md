@@ -23,11 +23,11 @@ level_de: "offen"
 
 price_en: |
   EUR 14/Drop-in  
-  5 classes:
+  5 classes: EUR 63
 
 price_de: |
   Drop-in: 14 Euro  
-  5-er Karte:
+  5-er Karte: 63 Euro
   
 description_en: |
   In this Physical Theatre course we explore and experiment with the diversity of possibilities of contemporary theatre: between playfulness and depth, collective arrangement and inner experience, vitality and form, etc. Theatre, dance or performance? We propose a hybrid training where boundaries become blurred and where the body is at the centre. The training aims to reflect the reality of contemporary stages and nowadays creative processes.  
