@@ -7,7 +7,7 @@ date_de: "16.03.2019"
 time: 10am
 endtime: 2pm
 
-image: ""
+image: "workshop-kerem.jpg"
 
 title_en: "The Spiral Motion"
 title_de: "The Spiral Motion"
