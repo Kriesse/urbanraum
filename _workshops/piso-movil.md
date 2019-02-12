@@ -17,15 +17,15 @@ subtitle_de: "Theory and Practice for the Floor-Body-Air Trajectory"
 
 type_en: "Workshop"
 
-language_en: "English/Spanish"
-language_de: "Englisch/Spanisch"
+language_en: "English"
+language_de: "Englisch"
 
 type_de: "Workshop"
 
 level_en: |
-  
+  open
 level_de: |
-  
+  offen
 price_en: |
   EUR 70 // Early-bird price (until 15.02.): EUR 60
   
