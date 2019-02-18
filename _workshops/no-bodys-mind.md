@@ -4,8 +4,8 @@ teacher: ""
 date_en: "16.03.2019
 date_de: "16.03.2019"
 
-time: 3pm
-endtime: 6pm
+time: "3pm"
+endtime: "6pm"
 
 image: "workshop-dakota.jpg"
 
