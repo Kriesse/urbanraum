@@ -12,8 +12,8 @@ image: "workshop-dakota.jpg"
 title_en: "Contemporary Workshop"
 title_de: "Contemporary Workshop"
 
-subtitle_en: "No body's Mind” with Dakota Comín"
-subtitle_de: "No body's Mind” with Dakota Comín"
+subtitle_en: "No body's Mind with Dakota Comín"
+subtitle_de: "No body's Mind with Dakota Comín"
 
 type_en: "Workshop"
 
