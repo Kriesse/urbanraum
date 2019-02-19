@@ -4,7 +4,7 @@ teacher:
 schedule:
   - day: "thursday"
     start: "06:00pm"
-    end: "07:45am"
+    end: "07:45pm"
 image: "class-dance-up-your-mind.jpeg"
 
 title_en: "Dance Up Your Mind"
