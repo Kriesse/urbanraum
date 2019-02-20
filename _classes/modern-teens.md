@@ -2,9 +2,9 @@
 order: "2"
 teacher: "livia"
 schedule:
-- day: "wednesday"
-  start: "5:00pm"
-  end: "6:00pm"
+  - day: "wednesday"
+    start: "05:00pm"
+    end: "06:00pm"
 image: "class-modern-teens.jpg"
 
 title_en: "Modern Dance / Contemporary"
