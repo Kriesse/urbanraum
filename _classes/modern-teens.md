@@ -20,10 +20,12 @@ level_en: "open"
 level_de: "offen"
 
 price_en: | 
-  Monthly: EUR 37   
+  Monthly: EUR 37  
+  Trial lesson: 5 Euro
 
 price_de: |
-  Monatlicher Vertrag (monatlich kündbar): 37 Euro
+  Monatlicher Vertrag (monatlich kündbar): 37 Euro  
+  Probestunde: 5 Euro
 
 description_en: |  
   s. German description  
