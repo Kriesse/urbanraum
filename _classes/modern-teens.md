@@ -26,7 +26,7 @@ price_de: |
   Monatlicher Vertrag (monatlich kündbar): 37 Euro
 
 description_en: |  
-s. German description  
+  s. German description  
 
 description_de: |
   NEUER KURS ab März 2019!  
