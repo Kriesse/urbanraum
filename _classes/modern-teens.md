@@ -35,5 +35,4 @@ description_de: |
   Wir werden tänzerische Grundlagen des Modern und Zeitgenössischen Tanz durch Spaß und Freude vermitteln: Ausrichtung, Kraft und Bewegungsqualitäten, Boden Arbeit, Rythmus und  Koordination Entwicklung. Kurze Choreografien zu erstellen  durch Improvisation und Komposition sind auch Teil dieses Kurses.   
   Das Lernen von Choreografie fördert nicht nur die Tanzfähigkeiten, sondern auch Konzentration, Koordination und Gedächtnis.
 
-
-  ---
+---
