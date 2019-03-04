@@ -38,6 +38,8 @@ description_de: |
 
   Vor- Erfahrung in den Bereichen Tanz/Bewegung/Theater/Improvisation ist erwünscht, aber nicht zwingend notwendig!  
   
+  Da sich Eva Burghardt in Elternzeit befindet, wird der Kurs zurzeit von Jasminka Stenz und Stefania Petrarca vertreten.  
+  
   Block 1, März-Mai (8 Termine):  
   14./21./28. März, 4./11. April, 2./9./16. Mai (kein Unterricht in den Osterferien)  
   Preis: € 112,- / €91,-  
