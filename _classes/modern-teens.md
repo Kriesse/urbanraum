@@ -1,5 +1,5 @@
 ---
-order: "2"
+order: "1"
 teacher: "livia"
 schedule:
   - day: "wednesday"
@@ -7,8 +7,8 @@ schedule:
     end: "06:00pm"
 image: "class-modern-teens.jpg"
 
-title_en: "Modern Dance / Contemporary"
-title_de: "Modern Dance / Zeitgenössischer Tanz"
+title_en: " FOR TEENS! Modern Dance / Contemporary"
+title_de: "FÜR JUGENDLICHE! Modern Dance / Zeitgenössisch"
 
 subtitle_en: "for teens"
 subtitle_de: "für Jugendliche"
@@ -21,11 +21,11 @@ level_de: "offen"
 
 price_en: | 
   Monthly: EUR 37  
-  Trial lesson: 5 Euro
+  Trial lesson (after registration): 5 Euro
 
 price_de: |
   Monatlicher Vertrag (monatlich kündbar): 37 Euro  
-  Probestunde: 5 Euro
+  Probestunde (nach Voranmeldung): 5 Euro
 
 description_en: |  
   s. German description  
