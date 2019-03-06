@@ -26,7 +26,7 @@ price_en: |
 
 price_de: |
   42 Euro / Monatsbeitrag  
-  12 EUro / Probestunde
+  12 Euro / Probestunde
 description_en: |
   s. German description
   
