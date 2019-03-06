@@ -10,8 +10,8 @@ image: "class-moderndance-livia.jpg"
 title_en: "Modern Dance / Contemporary"
 title_de: "Modern Dance / Zeitgenössischer Tanz"
 
-subtitle_en: "for adults"
-subtitle_de: "für Erwachsene"
+subtitle_en: "with Livia Politi"
+subtitle_de: "mit Livia Politi"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
