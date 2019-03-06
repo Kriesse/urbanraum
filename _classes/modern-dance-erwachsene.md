@@ -20,12 +20,12 @@ level_en: "Intermediate"
 level_de: "Mittelstufe"
 
 price_en: |
-  Trial lesson: EUR 12  
+  Trial lesson (after registration): EUR 12  
   10 classes (within 3 months): EUR 120  
   Monthly: EUR 39   
 
 price_de: |
-  Probestunde: 12 Euro  
+  Probestunde (nach Voranmeldung): 12 Euro  
   Zehnerkarte (3 Monate gültig): 120 Euro  
   Monatlicher Vertrag (monatlich kündbar): 39 Euro
 
