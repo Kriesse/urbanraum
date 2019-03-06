@@ -21,11 +21,11 @@ level_en: "Adv-Inter"
 level_de: "Adv-Inter"
 
 price_en: |
-  EUR 42/month
+  EUR 42/month  
   EUR 12/trial class (after registration)
 
 price_de: |
-  42 Euro / Monatsbeitrag  
+  42 Euro / Monatsbeitrag    
   12 Euro / Probestunde (nach Voranmeldung)
 description_en: |
   s. German description
