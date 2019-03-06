@@ -5,9 +5,6 @@ schedule:
   - day: "thursday"
     start: "10:00am"
     end: "11:30am"
-  - day: "friday"
-    start: "10:00am"
-    end: "11:30am"
     
 image: "class-dance-company-2019.jpg"
 
