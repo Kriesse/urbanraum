@@ -47,7 +47,7 @@ description_de: |
   In Block 1 werden die Klassen abwechselnd von Jasminka Stenz und Stefania Petrarca geleitet, beginnend mit Jasminka am 14.03.2019.  
 
   Block 2, Mai-Juni (5 Termine):   
-  24./31. Mai, 6./13./20. Juni, Preis: €70,- / €57,-    
+  23./30. Mai, 6./13./20. Juni, Preis: €70,- / €57,-    
   bei Jasminka Stenz: jasminka.stenz@gmail.com  
 
   Block 3, August (4 Termine):   
