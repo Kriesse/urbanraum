@@ -7,8 +7,8 @@ schedule:
     end: "06:00pm"
 image: "class-modern-teens.jpg"
 
-title_en: " FOR TEENS! Modern Dance / Contemporary"
-title_de: "FÜR JUGENDLICHE! Modern Dance / Zeitgenössisch"
+title_en: "Summer 2019! FOR TEENS! Modern Dance / Contemporary"
+title_de: "FÜR JUGENDLICHE! Ab Sommer 2019: Modern Dance / Zeitgenössisch"
 
 subtitle_en: "for teens"
 subtitle_de: "für Jugendliche"
@@ -31,7 +31,7 @@ description_en: |
   s. German description  
 
 description_de: |
-  NEUER KURS ab März 2019!  
+  NEUER KURS ab Sommer 2019! Nähere Infos per Email: info@urbanraum.com    
 
   In dem Kurs stehen Kreativität und Technik im Gleichgewicht.  
   Wir werden tänzerische Grundlagen des Modern und Zeitgenössischen Tanz durch Spaß und Freude vermitteln: Ausrichtung, Kraft und Bewegungsqualitäten, Boden Arbeit, Rythmus und  Koordination Entwicklung. Kurze Choreografien zu erstellen  durch Improvisation und Komposition sind auch Teil dieses Kurses.   
