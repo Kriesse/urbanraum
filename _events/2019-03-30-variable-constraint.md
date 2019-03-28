@@ -6,7 +6,7 @@ date_de: "30. März 2019"
 
 time: "08:00pm"
 
-image: ""
+image: "event-The Variable Constraint.jpg"
 tags:
 
 title_en:  "The Variable Constraint"
