@@ -39,7 +39,7 @@ price_de: |
   (3 Monate gültig)
 
 description_en: |
-
+  Dear interested people. "The poetic Body" class is right now closed. We are working on a piece, as part of the performance project the class offers, and the group is not anymore open for drop-in. It will be open again in September/Oktober 2019. Stay tuned and thanks for your interest. Looking forward to welcome you all.
   
   Poetry in motion.  
   The body takes us into journeys. Together or alone.  
@@ -94,5 +94,5 @@ description_en: |
   From the Taoist Master/Dream Analist – Kari Hohne
 
 description_de: |
-  s. english description
+  Liebe Leute, die sich für den Kurs interessieren: Die POETIC BODY-Klasse ist zur Zeit geschlossen. Wir arbeiten an einem Stück als Teil des Performance-Projekts, und es sind zur Zeit keine Drop-Ins möglich. Ab September / Oktober 2019 wird der Kurs wieder offen für neue Teilnehmer_innen sein. Vielen Dank für Euer Verständnis!
 ---
