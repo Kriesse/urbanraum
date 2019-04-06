@@ -4,7 +4,7 @@ teacher:
 date_en: "15.04.-18.04.2019"
 date_de: "15.04.-18.04.2019"
 
-time: 02.30m
+time: 02.30pm
 endtime: 05.30pm
 
 image: "wokshop-bewegungstheater.jpg"
