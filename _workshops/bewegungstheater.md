@@ -7,7 +7,7 @@ date_de: "15.04.-18.04.2019"
 time: 2.30m
 endtime: 5.30pm
 
-image: ""
+image: "wokshop-bewegungstheater.jpg"
 
 title_en: "Ferien-Workshop BEWEGUNGSTHEATER"
 title_de: "Ferien-Workshop BEWEGUNGSTHEATER"
