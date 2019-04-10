@@ -5,10 +5,10 @@ schedule:
   - day: "thursday"
     start: "08:00pm"
     end: "09:30pm"
-image: "class-the raaah-workshop.jpg"
+image: "class-the-raaaah.jpeg"
 
-title_en: "The Raaah!"
-title_de: "The Raaah!"
+title_en: "The Raaah! Starting May, 9th"
+title_de: "The Raaah! Ab 9. Mai 2019"
 
 subtitle_en: "New class with Mariana Hilgert"
 subtitle_de: "Neuer Kurs mit Mariana Hilgert"
@@ -47,6 +47,11 @@ description_en: |
   RAAAH is based on the eye-stretching method, i.e. every game aims to expand our capacity of seeing things beyond their usual meanings.   
 
   Creativity is an outcome from a eye-stretching practice. It is a skill we can learn. RAAAH is the room for this learning process. RAAAH is an activator for a creative life.  
+  
+  STUFF TO BRING: comfortable clothes, pen + paper   
+
+  SIGN UP   
+  Please email marianahilgert@gmail.com to reserve your spot.   
 
 description_de: |
   s. English description
