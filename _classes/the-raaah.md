@@ -5,7 +5,7 @@ schedule:
   - day: "thursday"
     start: "08:00pm"
     end: "09:30pm"
-image: ""
+image: "class-the raaah-workshop.jpg"
 
 title_en: "The Raaah!"
 title_de: "The Raaah!"
