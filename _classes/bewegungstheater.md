@@ -11,8 +11,8 @@ image: "wokshop-bewegungstheater.jpg"
 title_en: "Bewegungstheater"
 title_de: "Bewegungstheater"
 
-subtitle_en: "für Kinder ab 10 Jahren"
-subtitle_de: "for kids 10+"
+subtitle_en: "for kids 10+"
+subtitle_de: "für Kinder ab 10 Jahren"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
