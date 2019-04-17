@@ -29,9 +29,10 @@ description_en: |
   s. German description
   
 description_de: |
-  Wer in den Osterferien Lust hat, in andere Rollen zu schlüpfen, verrückte Ideen zu spinnen und mit Stimme, Mimik und Körper Geschichten zu erzählen, ist in dem Ferienworkshop Bewegungstheater genau richtig. Wir werden laut und auch mal leise, wir rebellieren und kokettieren, wir stampfen auf den Boden und schweben wie eine Feder. In jedem Fall sammeln wir Themen, die uns beschäftigen, und erforschen diese auf unsere eigene und kreative Art.
+  Wer Lust hat, nach einem Schultag in andere Rollen zu schlüpfen, verrückte Ideen zu spinnen und mit Stimme, Mimik und Körper Geschichten zu erzählen, ist in dem Ferienworkshop Bewegungstheater genau richtig. Wir werden laut und auch mal leise, wir rebellieren und kokettieren, wir stampfen auf den Boden und schweben wie eine Feder. In jedem Fall sammeln wir Themen, die uns beschäftigen, und erforschen diese auf unsere eigene und kreative Art.
 
-  Der Kurs richtet sich an Kinder zwischen 10 und 12 Jahren (mit und ohne Vorkenntnisse). Kinder mit Behinderung sind herzlich willkommen.  
+  Der Kurs richtet sich an Kinder zwischen 10 und 12 Jahren (mit und ohne Vorkenntnisse).  
+  Kinder mit Behinderung sind herzlich willkommen.  
 
   Zeitraum: 8. Mai - 12. Juni 2019  
   Uhrzeit: jeden Mittwoch von 16.00-17.30    
