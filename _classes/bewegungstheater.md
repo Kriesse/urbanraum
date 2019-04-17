@@ -2,9 +2,9 @@
 order: "1"
 teacher: 
 schedule:
-  - day: "wednesday"
-    start: "04:00pm"
-    end: "05:30pm"
+  day: "wednesday"
+  start: "04:00pm"
+  end: "05:30pm"
     
 image: "wokshop-bewegungstheater.jpg"
 
