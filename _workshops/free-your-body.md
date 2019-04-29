@@ -2,7 +2,7 @@
 teacher: 
 
 date_en: "18.05.2019"
-date_de: "15.05.2019"
+date_de: "18.05.2019"
 
 time: "1pm"
 endtime: "5pm"
