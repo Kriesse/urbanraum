@@ -61,7 +61,9 @@ description_en: |
 
   No former experience needed! We don't study choreographies!;)  
 
-  Helin Pachali graduated in March 2017 at the Tanztherapiezentrum Berlin to become a facilitator for “Heilpädagogischen Tanz” and is now since 4 years dedicated to the exploration of movement, somatic approaches, emotions, expression, contemporary Improvisation and “Performed Improvisation”. A special affair to her heart is to show other people their way into their body and through that into joy:)
+  Helin Pachali graduated in March 2017 at the Tanztherapiezentrum Berlin to become a facilitator for “Heilpädagogischen Tanz” and is now since 4 years dedicated to the exploration of movement, somatic approaches, emotions, expression, contemporary Improvisation and “Performed Improvisation”. A special affair to her heart is to show other people their way into their body and through that into joy:)  
+  
+  Registration & Questions: helin.pachali@gmail.com
   
 description_de: |
   Fühlst Du Dich auch oft...  
@@ -91,6 +93,7 @@ description_de: |
   Es braucht KEIN Vorwissen! Es werden keine Choreografieren einstudiert!   
 
   Helin Pachali hat ihre Ausbildung zur „Anleiterin für Heilpädagogischen Tanz“ im März  2017 am Tanztherapiezentrum Berlin  erfolgreich abgeschlossen und widmet sich nun seit vier Jahren intensiv der Erforschung von Bewegung, somatischer Körperarbeit, Emotionen, Ausdruck, zeitgenössischer Improvisation und „Performed Improvisation“. Besondere Herzensangelegenheit ist es ihr, anderen Menschen einen Weg in ihren Körper und damit in die Freude aufzuzeigen.  
+  Anmeldung & Fragen an: helin.pachali@gmail.com  
   
 ---
 
