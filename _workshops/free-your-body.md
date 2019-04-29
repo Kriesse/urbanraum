@@ -12,8 +12,8 @@ image: "workshop-free-your-body.jpg"
 title_en: "Free YOUR BODY and GROW INTO YOUR REAl SELF"
 title_de: "Free YOUR BODY and GROW INTO YOUR REAl SELF"
 
-subtitle_en: "Workshop with Helin Pchali"
-subtitle_de: "Workshop mit Helin Pchali"
+subtitle_en: "Workshop with Helin Pachali"
+subtitle_de: "Workshop mit Helin Pachali"
 
 type_en: "Workshop"
 
