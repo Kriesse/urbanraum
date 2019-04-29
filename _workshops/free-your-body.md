@@ -7,7 +7,7 @@ date_de: "15.05.2019"
 time: "1pm"
 endtime: "5pm"
 
-image: "workshop-dakota.jpg"
+image: "workshop-free-your-body.jpg"
 
 title_en: "Free YOUR BODY and GROW INTO YOUR REAl SELF"
 title_de: "Free YOUR BODY and GROW INTO YOUR REAl SELF"
