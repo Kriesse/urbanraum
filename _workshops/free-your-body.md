@@ -29,7 +29,7 @@ level_de: |
   offen für alle Level  
   
 price_en: |
-  EUR 60
+  EUR 60  
   EUR 50 for people with small income  
   EUR 45 (Hartz 4)
 price_de: |
@@ -55,7 +55,7 @@ description_en: |
   - raise your body perception and consciousness  
   - broaden your functional mobility, your movement repertoire and your ability to express  
   - find access to your emotions, to move and express them and find balance  
- -  and especially to show you a way of being yourself and enjoy yourself in your dance  
+  - and especially to show you a way of being yourself and enjoy yourself in your dance  
 
   „Free your body, allow pleasure and grow into your REAL SELF“, thats the main topic of this workshop.  
 
@@ -78,7 +78,6 @@ description_de: |
 
   Wenn nur einer dieser Punkte auf Dich zutrifft, dann bist Du hier genau richtig!  
 
-
   In einer Mischung aus verschiedenen somatischen Ansätzen, geleiteter Improvisation und Körperarbeit werden:  
 
   - Körperwahrnehmung und -bewusstsein geschult  
@@ -91,7 +90,8 @@ description_de: |
 
   Es braucht KEIN Vorwissen! Es werden keine Choreografieren einstudiert!   
 
-  Helin Pachali hat ihre Ausbildung zur „Anleiterin für Heilpädagogischen Tanz“ im März  2017 am Tanztherapiezentrum Berlin  erfolgreich abgeschlossen und widmet sich nun seit vier Jahren intensiv der Erforschung von Bewegung, somatischer Körperarbeit, Emotionen, Ausdruck, zeitgenössischer Improvisation und „Performed Improvisation“. Besondere Herzensangelegenheit ist es ihr, anderen Menschen einen Weg in ihren Körper und damit in die Freude aufzuzeigen.
+  Helin Pachali hat ihre Ausbildung zur „Anleiterin für Heilpädagogischen Tanz“ im März  2017 am Tanztherapiezentrum Berlin  erfolgreich abgeschlossen und widmet sich nun seit vier Jahren intensiv der Erforschung von Bewegung, somatischer Körperarbeit, Emotionen, Ausdruck, zeitgenössischer Improvisation und „Performed Improvisation“. Besondere Herzensangelegenheit ist es ihr, anderen Menschen einen Weg in ihren Körper und damit in die Freude aufzuzeigen.  
+  
 ---
 
 
