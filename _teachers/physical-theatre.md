@@ -2,7 +2,7 @@
 identifier: "physicaltheatre"
 name: "Physical Theatre"
 email: "pt.collactive@gmail.com"
-image: "teacher-physical-theatre.jpg"
+image: "teacher-physical-theatre.jpg.jpg"
 links:
   - website-title: "www.physicaltheatre-collactive.net"
     website-link: "https://physicaltheatre-collactive.net/"
