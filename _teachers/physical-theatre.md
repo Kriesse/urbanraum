@@ -10,7 +10,7 @@ links:
 bio_en: |  
   Das KOLLAKTIV was founded in Berlin in 2017 by Rosalin Hertrich, Marc Carrera and Sophie Ketteniß to further develop a teaching and artistic concept for a contemporary Physical Theatre. All three are currently engaged in an ongoing discussion on the possibilities, directions, formats, spaces and materials of a nowadays physical theatre.  
   
-  Marc Carrera studied philosophy at the University Barcelona and holds a MA in Performance Studies by the University Hamburg. 
+  Marc Carrera studied philosophy at the University Barcelona and holds a MA in Performance Studies by the University Hamburg.
   Practicing Physical Theatre and dance (Butoh & contemporary) since 2002. He works as choreographer, performer, and body-artist
 between Berlin and Hamburg. (www.mdvz.eu)  
 
