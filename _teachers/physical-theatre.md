@@ -1,11 +1,11 @@
 ---
-identifier: "phtheatre"
+identifier: "phth"
 name: "Physical Theatre"
 email: "pt.collactive@gmail.com"
 image: "teacher-physical-theatre.jpg.jpg"
 links:
   - website-title: "www.physicaltheatre-collactive.net"
-    website-link: "https://physicaltheatre-collactive.net/"
+    website-link: "https://physicaltheatre-collactive.net"
     
 bio_de: |
 
