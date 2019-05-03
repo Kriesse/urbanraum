@@ -38,7 +38,7 @@ description_en: |
 description_de: |
   *Integrative Körperarbeit mit Tanz* 
 
-  - Bewegung für Körper und Geist -  
+  Bewegung für Körper und Geist:  
   Beim Regenerativen Tanz geht es darum seine Energie zu reinigen und zu regenerieren. Er inspiriert zur Erforschung der eigenen Psyche und des Körpers. Frei von Bewertung und Stress bietet er eine wunderbare Möglichkeit für Selbsterfahrungsprozesse und der Identifikation von körperlichen Blockaden. Dabei werden wir mit verschiedenen Methoden der Tanztherapie, des zeitgenössischen Tanzes und anderer Kreativ-Techniken uns selbst entdecken und einen Raum der Geborgenheit schaffen, frei von Ängsten und Blockaden, die uns daran hindern uns auszudrücken und unsere Grenzen zu erweitern.  
 
   Der Fokus des Workshops liegt auf der eigenen Körperwahrnehmung. Er vertieft diesen Aspekt des Regenerativen Tanzes. Dafür sind Grundkenntisse der Anatomie die nützlichsten Instrumente ein besseres Bewusstsein für den eigenen Körper zu entwickeln und diesen besser zu verstehen. Weshalb wir uns auch ein wenig mit der Anatomie beschäftigen werden. Mit einfachen und praktischen Übungen, welche wir in unseren Alltag integrieren können, wollen wir einen Schritt auf dem Weg zur Selbstbehandlung finden.  
