@@ -7,7 +7,7 @@ date_de: "12.05.2019"
 time: "3pm"
 endtime: "6pm"
 
-image: ""
+image: "workshop-regerativer-tanz.jpg"
 
 title_en: "Regenerativer Tanz"
 title_de: "Regenerativer Tanz"
