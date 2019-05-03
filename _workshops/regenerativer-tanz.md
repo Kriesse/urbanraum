@@ -36,7 +36,7 @@ price_de: |
 description_en: |
   s. German description 
 description_de: |
-  >>> Integrative Körperarbeit mit Tanz <<<  
+  *Integrative Körperarbeit mit Tanz* 
 
   - Bewegung für Körper und Geist -  
   Beim Regenerativen Tanz geht es darum seine Energie zu reinigen und zu regenerieren. Er inspiriert zur Erforschung der eigenen Psyche und des Körpers. Frei von Bewertung und Stress bietet er eine wunderbare Möglichkeit für Selbsterfahrungsprozesse und der Identifikation von körperlichen Blockaden. Dabei werden wir mit verschiedenen Methoden der Tanztherapie, des zeitgenössischen Tanzes und anderer Kreativ-Techniken uns selbst entdecken und einen Raum der Geborgenheit schaffen, frei von Ängsten und Blockaden, die uns daran hindern uns auszudrücken und unsere Grenzen zu erweitern.  
