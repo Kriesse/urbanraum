@@ -39,7 +39,7 @@ description_en: |
   In this experimental choir project, we discover the vocal sound as a material (sonic) flow that precedes us and transcends our individual voices. Accordingly, the ear is the main instrument. Listening is learned in its many interrelationships with the environment and the body (its position, aligment, motility and movement) and as part of the functional circuit between ear and larynx. The self-organization of the sound is in the foreground of our interest and we are surprised by the music that arises between us and the urban noise environment.  
   We work with movement, touch, recording device and common reading of texts about listening, noise, sound, flow, multiples and mingled bodies (i.a. by Michel Serres and Pauline Oliveros). After 6 meetings an open rehearsal / showing is planned.  
 
-  Dates:
+  Dates:  
   24 May, 5pm - 7pm / Urbanraum  
   31 May, 3pm - 5pm / Meeting Point Urbanraum-Innenhof  
   7 June, 5pm - 7pm / Urbanraum  
@@ -57,12 +57,13 @@ description_de: |
   Voices, cries, tears, thunderings, rumblings, whistles and crashes, breaths, blasts, grindings, blows, chains and beats, cracklings and sounds, growling and waves, moans that die away ... the river of noise carries along a thousand tonalities.  
   (Michel Serres, Genesis)  
 
-  In diesem experimentellen Chorprojekt entdecken wir den vokalen Klang als materiellen (Schall)Fluss, der uns vorausgeht und der unsere individuellen Stimmen überschreitet. Entsprechend ist das Ohr das Hauptinstrument. Erprobt und erlernt wird das Hören in seinen vielseitigen Wechselbeziehungen zur Umgebung und zum Körper (dessen Lage, Ausrichtung, Bewegtheit und Bewegung) sowie als Teil des Funktionskreislaufs zwischen Ohr und Kehlkopf. Die Selbstorganisation des Klangs steht im Vordergrund des Interesses und wir lassen uns überraschen von der Musik, die zwischen uns und der urbanen Geräuschumgebung entsteht. Wir arbeiten mit Bewegung, Berührung, Aufnahmegerät und gemeinsamer Lektüre von Texten über Hören, Geräusch, Klang, Fluss, Gemengen und Gemische (u.a. von Michel Serres und Pauline Oliveros).   
+  In diesem experimentellen Chorprojekt entdecken wir den vokalen Klang als materiellen (Schall)Fluss, der uns vorausgeht und der unsere individuellen Stimmen überschreitet. Entsprechend ist das Ohr das Hauptinstrument. Erprobt und erlernt wird das Hören in seinen vielseitigen Wechselbeziehungen zur Umgebung und zum Körper (dessen Lage, Ausrichtung, Bewegtheit und Bewegung) sowie als Teil des Funktionskreislaufs zwischen Ohr und Kehlkopf. Die Selbstorganisation des Klangs steht im Vordergrund des Interesses und wir lassen uns überraschen von der Musik, die zwischen uns und der urbanen Geräuschumgebung entsteht. Wir arbeiten mit Bewegung, Berührung, Aufnahmegerät und gemeinsamer Lektüre von Texten über Hören, Geräusch, Klang, Fluss, Gemengen und Gemische (u.a. von Michel Serres und Pauline Oliveros).  
+  
   Nach 6 Treffen ist eine offene Probe / Showing geplant.  
 
   Der Kurs findet wöchentlich immer Freitags von 17 - 19 Uhr statt! Am 31. Mai, 14. Juni und 28. Juni findet der Kurs im Stadtraum statt, Treffpunkt - im Urbanraum-Innenhof.  
 
-  Termine:  
+  Termine:    
   24. Mai, 17 - 19 Uhr / Urbanraum  
   31. Mai, 15 - 17 Uhr / Treffpunkt Urbanraum-Innenhof  
   7. Juni, 17 - 19 Uhr / Urbanraum  
