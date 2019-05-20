@@ -8,7 +8,7 @@ links:
   - website-title: "Facebook"
     website-link: "https://www.facebook.com/groups/556937364674090/"
 bio_en: |
-    Currently I'm based in Berlin and working on several projects as dancer and choreographer, beside my commitment as dance teacher, I’m also teaching GYROKINESIS® method.  
+  Currently I'm based in Berlin and working on several projects as dancer and choreographer, beside my commitment as dance teacher, I’m also teaching GYROKINESIS® method.  
   In 1993 I graduated in Ballet and Modern dance in Italy. Till 2002 I kept increasing my knowledge with teachers such as D. Zambrano, I. Wolfe, C. Carlson and S. Linke.  
   In 2004 I was involved in the new production "Macht das Was?" created by Susanne Linke for Versiliadanza company. From 2005 to 2007 I took part of the evening Solos choreographed by us, as company's dancers, and coached by S. Linke.  
   I worked in several dance companies, but since 1999 I've been involved as dancer, choreographer and now as guest in the "BorderLine Danza" contemporary dance company.  
