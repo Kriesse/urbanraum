@@ -1,5 +1,5 @@
 ---
-order: "1"
+order: "2"
 teacher: 
 schedule:
   - day: "tuesday"
@@ -51,28 +51,7 @@ description_en: |
   
   ///  
   
-  Teaching Schedule  
-
-  SEPTEMBER  
-  18-20 Kira  
-  25-27 Francesca  
-
-  OCTOBER  
-  2-4 Filippo  
-  9-11 Diana  
-  16-18 Antoine  
-  23-25 Kira  
-  30–1 nov Kira  
-
-  NOVEMBER  
-  6-8 Filippo  
-  13-15 Antoine  
-  20-22 Fra  
-  27-29 to be confirmed  
-
-  DECEMBER  
-  11-13 Frey  
-  18-20 Diana  
+  
 
 description_de: |
   Das Axis Syllabus (AS) Training Berlin zieht in den Urbanraum!!!  
@@ -85,31 +64,6 @@ description_de: |
   
   Weitere Infos/Fragen unter: axissyllabusberlin@gmail.com  
   
-  ///  
-  
-  Teaching schedule:
-  
-  SEPTEMBER  
-  18-20 Kira  
-  25-27 Francesca  
-
-  OKTOBER  
-  2-4 Filippo  
-  9-11 Diana  
-  16-18 Antoine  
-  23-25 Kira  
-  30–1 nov Kira  
-
-  NOVEMBER  
-  6-8 Filippo  
-  13-15 Antoine  
-  20-22 Fra  
-  27-29 to be confirmed  
-
-  DEZEMBER  
-  11-13 Frey  
-  18-20 Diana  
-
 
 
 ---
