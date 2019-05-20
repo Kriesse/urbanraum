@@ -11,8 +11,8 @@ image: "class-sonic-flux.jpg"
 title_en: "Chor-Projekt ::: Sonic Flux and the Soft Listening Machines"
 title_de: "Chor-Projekt ::: Sonic Flux and the Soft Listening Machines"
 
-subtitle_en: "mit Jagna Anderson"
-subtitle_de: "with Jagna Anderson"
+subtitle_en: "with Jagna Anderson"
+subtitle_de: "mit Jagna Anderson"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -22,11 +22,12 @@ level_de: "offen"
 
 price_en: |
   Drop in: 12 Euro  
-  6-er Karte: 60 Euro / 9-er Karte: 80 Euro  
-  
+  6 classes: EUR 60 / 9 classes: EUR 80
+
 price_de: |
   Drop in: 12 Euro  
-  6 classes: EUR 60 / 9 classes: EUR 80  
+  6-er Karte: 60 Euro / 9-er Karte: 80 Euro  
+
   
 
 description_en: |
@@ -39,7 +40,6 @@ description_en: |
   We work with movement, touch, recording device and common reading of texts about listening, noise, sound, flow, multiples and mingled bodies (i.a. by Michel Serres and Pauline Oliveros). After 6 meetings an open rehearsal / showing is planned.  
 
   Dates:
-  17 May, 5pm - 7pm / Urbanraum   
   24 May, 5pm - 7pm / Urbanraum  
   31 May, 3pm - 5pm / Meeting Point Urbanraum-Innenhof  
   7 June, 5pm - 7pm / Urbanraum  
@@ -63,7 +63,6 @@ description_de: |
   Der Kurs findet wöchentlich immer Freitags von 17 - 19 Uhr statt! Am 31. Mai, 14. Juni und 28. Juni findet der Kurs im Stadtraum statt, Treffpunkt - im Urbanraum-Innenhof.  
 
   Termine:  
-  17. Mai, 17 - 19 Uhr / Urbanraum   
   24. Mai, 17 - 19 Uhr / Urbanraum  
   31. Mai, 15 - 17 Uhr / Treffpunkt Urbanraum-Innenhof  
   7. Juni, 17 - 19 Uhr / Urbanraum  
