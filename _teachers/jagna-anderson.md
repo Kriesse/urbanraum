@@ -2,7 +2,7 @@
 identifier: jagna
 name: "Jagna Anderson"
 link: "jagna-anderson"
-image: 
+image: "teacher-jagna-anderson.jpg"
 email: "jagna@posteo.de"
 links:
   - website-title: "www.jagna-anderson.de"
