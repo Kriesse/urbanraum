@@ -3,7 +3,6 @@ identifier: "rossella"
 name: "Rossella Canciello"
 email: "rossellyna@hotmail.com"
 link: "rossella-canciello"
-image: "teacher-rossella-canciello.jpg"
 
 bio_de: |
   Currently I'm based in Berlin and working on several projects as dancer and choreographer, beside my commitment as dance teacher, I’m also teaching GYROKINESIS® method.  
@@ -14,5 +13,6 @@ bio_de: |
 
   I also worked and working at Deutsche Oper and Staatsoper Im Schiller Theater for several projects. Next to my dance activity as choreographer and dancer, I constantly teach contemporary technique, composition and improvissation. Since 2013 I’ve been working with S. Linke as assistant and interpreter during her workshops across Europe. With my projects, coached by her, I performed in several Festivals(100grad Berlin,Tanznacht Berlin, Die Lange Nacht der Opern und Theater, 638 Kilo Tanz Festival ).
   Since April 2015 I've been involved, together with other colleagues, in the "Inner Suspension" project, which is the S. Linke's technique. 
-  This education-project will give me the possibility to get a certification and be authorized to teach the Inner Suspension technique.
+  This education-project will give me the possibility to get a certification and be authorized to teach the Inner Suspension technique.  
+  
   ---
