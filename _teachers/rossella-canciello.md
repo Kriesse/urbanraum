@@ -3,7 +3,7 @@ identifier: "rossella"
 name: "Rossella Canciello"
 email: "rossellyna@hotmail.com"
 link: "rossella-canciello"
-image: "teacher-rossella-canciello"
+image: "teacher-rossella-canciello.jpg"
 
 bio_de: |
   Currently I'm based in Berlin and working on several projects as dancer and choreographer, beside my commitment as dance teacher, I’m also teaching GYROKINESIS® method.  
