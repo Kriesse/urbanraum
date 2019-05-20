@@ -2,7 +2,7 @@
 identifier: rossella
 name: "Rossella Canciello"
 link: "rossella-canciello"
-image: "teacher-jagna-anderson.jpg"
+image: "teacher-rossella-canciello.jpg"
 email: "rossellyna@hotmail.com"
 links:
   - website-title: "Facebook"
