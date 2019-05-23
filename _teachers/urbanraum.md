@@ -2,7 +2,7 @@
 identifier: urbanraum
 name: "URBANRAUM"
 link: "urbanraum"
-image: ""
+image: 
 email: "info@urbanraum.com"
 links:
   - website-title: "www.urbanraum.com"
