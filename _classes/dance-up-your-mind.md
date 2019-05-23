@@ -1,6 +1,6 @@
 ---
 order: "1"
-teacher: 
+teacher: "urbanraum"
 schedule:
   - day: "thursday"
     start: "06:00pm"
