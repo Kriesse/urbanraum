@@ -7,7 +7,7 @@ date_de: "6. Juli 2019"
 time: "10am"
 endtime: "2pm"
 
-image: ""
+image: "workshop-yin-yang.jpg"
 
 title_en: "Kung Fu Dance Workshop"
 title_de: "Kung Fu Dance Workshop"
