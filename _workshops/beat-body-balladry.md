@@ -57,9 +57,9 @@ description_en: |
   13.7 - 11:00-16:00 including one hour break.   
   14.7 - 11:00 - 17:00 including one hour break and showing open to an audience.   
 
-  **The showing to the audience will take place at 16:30-17:00, you are welcome to invite your friends, entrance is free of charge!  
+  The showing to the audience will take place at 16:30-17:00, you are welcome to invite your friends, entrance is free of charge!  
 
-  * To sign up please contact: Ayam44854485@gmail.com  
+  To sign up please contact: Ayam44854485@gmail.com  
   
   ///  
   
@@ -71,8 +71,8 @@ description_en: |
   In Berlin she works and collaborated with : Christin Bonansea Saulut, Yoriko Maeno, Sandra Man and Moriz Majce, Jadi Carboni, Sasa Pavic, Alessio Travisanni(LTT Company), Jagna Anderson, WielandMoeller, Minagawa Takushi, Gábor Hartyáni, Eldar Baruch, and more.
 
 
-www.Ayamam.Art
-https://www.facebook.com/Composing-Motion-503593806660064/
+  www.Ayamam.Art  
+  https://www.facebook.com/Composing-Motion-503593806660064/
 
 description_de: |
   s. English description
