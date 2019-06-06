@@ -1,5 +1,5 @@
 ---
-teacher:
+teacher: "urbanraum"
 
 date_en: "13.7.-14.7.2019"
 date_de: "13.7.-14.7.2019"
