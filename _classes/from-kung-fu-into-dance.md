@@ -40,6 +40,7 @@ language_en: "English"
 language_de: "Englisch"
 
 description_en: |
+  SUMMER BREAK IN AUGUST!  
   We will engage with movement principles and elements drawn from internal Chinese martial arts. These principles will be the tools used in order to deepen our understanding of the kinaesthetic body, therefore increasing our awareness of movement possibilities which will lead us into creative movement and dance. Each class consists of two main parts: the first part focuses on instructed movements and exercises inspired by martial arts. The second part is taking these principles into guided improvisation, providing a platform for individual research and exploration.  
 
   Physical themes that will be explored in the course, among others are:  
