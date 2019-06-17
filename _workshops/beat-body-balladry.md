@@ -1,8 +1,8 @@
 ---
 teacher: "urbanraum"
 
-date_en: "13.7.-14.7.2019"
-date_de: "13.7.-14.7.2019"
+date_en: "5.-6.10.2019"
+date_de: "5.-6.10.2019"
 
 time: 
 endtime: 
@@ -29,10 +29,10 @@ level_de: |
   offen für alle Level  
   
 price_en: |
-  65 € Early Bird price (available till 6.7)  
+  65 € Early Bird price  
   75€ Normal price
 price_de: |
-  65 Euro Early Bird-Preis (bis 6.7.2019)  
+  65 Euro Early Bird-Preis  
   75 Euro Normalpreis
 
 description_en: |
@@ -52,12 +52,6 @@ description_en: |
 
   For who is this laboratory?  
   This laboratory is for everyone who is interested to explore and deepen the research on the sounding body in a performance context.  
-
-  Time table:   
-  13.7 - 11:00-16:00 including one hour break.   
-  14.7 - 11:00 - 17:00 including one hour break and showing open to an audience.   
-
-  The showing to the audience will take place at 16:30-17:00, you are welcome to invite your friends, entrance is free of charge!  
 
   To sign up please contact: Ayam44854485@gmail.com  
   
