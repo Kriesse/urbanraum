@@ -1,5 +1,5 @@
 ---
-teacher:
+teacher: "urbanraum"
 
 date_en: "June, 28th - 30th"
 date_de: "28.-30. Juni 2019"
