@@ -1,5 +1,5 @@
 ---
-teacher:
+teacher: "urbanraum"
 
 date_en: "February - July 2019"
 date_de: "Februar - Juli 2019"
