@@ -4,7 +4,7 @@ teacher: "urbanraum"
 date_en: "July, 27th"
 date_de: "27. Juli 2019"
 
-time: "1om"
+time: "1pm"
 endtime: "5pm"
 
 image: "workshop-free-your-body.jpg"
