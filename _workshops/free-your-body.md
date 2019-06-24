@@ -10,7 +10,7 @@ endtime: "5pm"
 image: "workshop-free-your-body.jpg"
 
 title_en: "Free your Body"
-title_de: "Free your Bod"
+title_de: "Free your Body"
 
 subtitle_en: "And grow into your real self"
 subtitle_de: "And grow into your real self"
