@@ -9,7 +9,7 @@ schedule:
 image: "wokshop-bewegungstheater.jpg"
 
 title_en: "Bewegungstheater"
-title_de: "Bewegungstheater"
+title_de: "Bewegungstheater (ab August 2019)"
 
 subtitle_en: "for kids 10+"
 subtitle_de: "für Kinder ab 10 Jahren"
@@ -21,29 +21,28 @@ level_en: "open level"
 level_de: "offen"
 
 price_en: |
-  sliding scale (EUR 120 - EUR 150)
-
+  EUR 42-50 
 price_de: |
-  nach eigenem Ermessen zwischen 120 € und 150 €
-description_en: |
+  42-50 Euro (s.u.)
+  description_en: |
   s. German description
   
 description_de: |
-  Wer Lust hat, nach einem langen Schultag in andere Rollen zu schlüpfen, verrückte Ideen zu spinnen und mit Stimme, Mimik und Körper Geschichten zu erzählen, ist in dem Kurs Bewegungstheater genau richtig. Wir werden laut und auch mal leise, wir rebellieren und kokettieren, wir stampfen auf den Boden und schweben wie eine Feder. In jedem Fall sammeln wir Themen, die uns beschäftigen, und erforschen diese auf unsere eigene und kreative Art.
 
-  Der Kurs richtet sich an Kinder zwischen 10 und 12 Jahren (mit und ohne Vorkenntnisse).  
+  Wer Lust hat, nach einem langen Schultag in andere Rollen zu schlüpfen, verrückte Ideen zu spinnen und mit Stimme, Mimik und Körper Geschichten zu erzählen, ist in dem Kurs Bewegungstheater genau richtig. Wir werden laut und auch mal leise, wir rebellieren und kokettieren, wir stampfen auf den Boden und schweben wie eine Feder. In jedem Fall sammeln wir Themen, die uns beschäftigen, und erforschen diese auf unsere eigene, kritische und kreative Art.  
+
+  Der Kurs richtet sich an Kinder zwischen 9 und 13 Jahren (mit und ohne Vorkenntnisse).  
   Kinder mit Behinderung sind herzlich willkommen.  
 
-  Zeitraum: 8. Mai - 12. Juni 2019  
-  Uhrzeit: jeden Mittwoch von 16.00-17.30    
-  Aufführung: Samstag, 15. Juni ab 19.00    
+  Kursbeginn: Mittwoch, 07.08.2019  
+  Uhrzeit: jeden Mittwoch von 16.00-17.30 Uhr  
 
-  Über Melina Stadtler:  
-  Ich bin ausgebildete Kulturpädagogin B.A. und Tanzwissenschaftlerin M.A. und arbeite seit 2010 als freischaffende Tanz- und Theaterpädagogin vor allem an Schulen und in der offenen Jugendarbeit.
-  In meiner theaterpädagogischen und tanzwissenschaftlichen Arbeit interessiere ich mich für politische und gesellschaftskritische Themen wie Rassismus und Exotismus, Gender, Inklusion und Empowerment.
 
-  Anmeldung und Fragen an melina@posteo.de  
-  Anmeldefrist: 5. Mai 2019
+  Kosten: nach eigenem Ermessen zwischen 42 Euro und 50 Euro/Monatsbeitrag (Materialkosten z.B. für Aufführungen inklusive)  
+  Der Vertrag ist monatlich mit einer Frist von 4 Wochen kündbar.  
+  Der Kurs ist fortlaufend und der Einstieg jederzeit möglich. Eine Probestunde (nach Anmeldung!) kostet 10 Euro.  
+  In den Berliner Schulferien findet der Kurs nicht statt.  
+
 
 
 ---
