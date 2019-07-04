@@ -39,9 +39,11 @@ description_de: |
   Uhrzeit: jeden Mittwoch von 16.00-17.30 Uhr  
 
 
-  Kosten: nach eigenem Ermessen zwischen 42 Euro und 50 Euro/Monatsbeitrag (Materialkosten z.B. für Aufführungen inklusive)  
+  Kosten: nach eigenem Ermessen zwischen 42 Euro und 50 Euro/Monatsbeitrag (Materialkosten z.B. für Aufführungen inklusive).    
   Der Vertrag ist monatlich mit einer Frist von 4 Wochen kündbar.  
-  Der Kurs ist fortlaufend und der Einstieg jederzeit möglich. Eine Probestunde (nach Anmeldung!) kostet 10 Euro.  
+  
+  Der Kurs ist fortlaufend und der Einstieg jederzeit möglich.  
+  Eine Probestunde (nach Anmeldung!) kostet 10 Euro.    
   In den Berliner Schulferien findet der Kurs nicht statt.  
 
 
