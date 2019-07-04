@@ -1,5 +1,5 @@
 ---
-order: "1"
+order: "3"
 teacher: "melina"
 schedule:
   - day: "wednesday"
@@ -24,7 +24,8 @@ price_en: |
   EUR 42-50 
 price_de: |
   42-50 Euro (s.u.)
-  description_en: |
+  
+description_en: |
   s. German description
   
 description_de: |
