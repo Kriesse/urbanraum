@@ -32,6 +32,7 @@ description_en: |
   
 description_de: |
   ! Einstieg jederzeit möglich !  
+  Zurück aus der Sommerpause am 1.8.2019!  
 
   Die Ausrichtung des Skeletts und die Muskelaktivität, die wir zum Bewegen benötigen, wird das einleitende Warm-up in diesem Workshop. Mein Training basiert auf der Folkwang-Tanztechnik, die durch Elemente der Limon- und Alexander-Technik bereichert wird. Der Raum wird sich dann mit fließenden Bewegungen, wechselnden Ebenen und Texturen ausfüllen. Von dieser Basis ausgehend ergänzen wir die Arbeit mit Improvisations- und “decision making”-Übungen und erstellen kurze Choreografien.
   Liebhaber von Yoga, Bewusste Bewegung, Zeitgenössischem Tanz und Tanztheater fühlen sich bei diese sanften aber energetische Ganzkörpertraining wohl.
