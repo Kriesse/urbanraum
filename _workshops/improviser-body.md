@@ -7,7 +7,7 @@ date_de: "8.7.-12.7.2019"
 time: ""
 endtime: ""
 
-image: "workshop-improviser.jpg"
+image: "workshop-improviser.jpg.jpg"
 
 title_en: "Improviser Body/Collective Praxis"
 title_de: "Improviser Body/Collective Praxis"
