@@ -1,19 +1,19 @@
 ---
 teacher: "jenny"
 
-date_en: ""
-date_de: "6. Juli 2019"
+date_en: "8.7.-12.7.2019"
+date_de: "8.7.-12.7.2019"
 
 time: ""
 endtime: ""
 
-image: ""
+image: "workshop-improviser.jpg"
 
-title_en: "Kung Fu Dance Workshop"
-title_de: "Kung Fu Dance Workshop"
+title_en: "Improviser Body/Collective Praxis"
+title_de: "Improviser Body/Collective Praxis"
 
-subtitle_en: ""
-subtitle_de: ""
+subtitle_en: "with Jenny Ocampo"
+subtitle_de: "mit Jenny Ocampo"
 
 type_en: "Workshop"
 
@@ -36,7 +36,9 @@ price_de: |
 description_en: |
   This is a one week Praxis for movers, dancers, performers and actors, interested in the praxis of improvisation and movement composition.  
 
-  Fr.  12- 13.30
+  10.07 from 14.30 - 16.00  
+  11.07 from 14.30 - 16.00  
+  12.07 from 12 - 14  
 
   Cost: 6-8 €  (1 Session)  
 
