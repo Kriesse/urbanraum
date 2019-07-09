@@ -39,7 +39,7 @@ price_de: |
   
 description_en: |
 
-  The regular Axis Syllabus (AS) Training is moving into Urbanraum!!!  
+  SUMMERBREAK in July 2019!  
   
   We are exited to start a new season of ongoing classes on September 18th, taught by an international teachers team that share the AS as their common lense to investigate and transmit dance and movement. In addition each teacher brings a diverse backround which allows to enter shared information from different viewpoints and offers various movement emphasis. This provides a continuous and connective yet dynamic training approach.
 
@@ -54,7 +54,7 @@ description_en: |
   
 
 description_de: |
-  Das Axis Syllabus (AS) Training Berlin zieht in den Urbanraum!!!  
+  SOMMERPAUSE BIS ENDE JULI 2019!  
   
   Wir freuen uns auf die neue Saison und das regelmäßige Angebot von Klassen, die am 18.September starten. Das internationale Team der Kursleiter_innen verbindet AS als gemeinsamer Ansatz zur Bewegungs-, Tanz- und Trainingsforschung und die jahrelange Zusammenarbeit. Zusätzlich bringt jede_r einen vielfältigen Hintergrund und beleuchtet das Tanztraining von verschiedenen Seiten bzw. bietet verschiedene Bewegungsschwerpunkte was für einen abwechslungsreichen aber in sich aufbauenden Trainingsansatz sorgt.  
 
