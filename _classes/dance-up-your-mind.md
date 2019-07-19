@@ -40,16 +40,6 @@ description_de: |
   
   Da sich Eva Burghardt in Elternzeit befindet, wird der Kurs zurzeit von Jasminka Stenz und Stefania Petrarca vertreten.  
   
-  Block 1, März-Mai (8 Termine):  
-  14./21./28. März, 4./11. April, 2./9./16. Mai (kein Unterricht in den Osterferien)  
-  Preis: € 112,- / €91,-  
-  Anmeldung bis zum 8.3.2019 an: petraxstef@gmail.com  
-  In Block 1 werden die Klassen abwechselnd von Jasminka Stenz und Stefania Petrarca geleitet, beginnend mit Jasminka am 14.03.2019.  
-
-  Block 2, Mai-Juni (5 Termine):   
-  23./30. Mai, 6./13./20. Juni, Preis: €70,- / €57,-    
-  bei Jasminka Stenz: jasminka.stenz@gmail.com  
-
   Block 3, August (4 Termine):   
   8./15./ 22./ 29. August, Preis: €56,- / €46,-   
   bei Stefania Petrarca: petraxstef@gmail.com  
@@ -58,8 +48,6 @@ description_de: |
 
   Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr für:  
 
-  Block 1 bis zum 8.3.2019. Die zweite Hälfte ist bis zum 1.4.2019 zu zahlen.  
-  Block 2 bis zum 1.5.2019. Die zweite Hälfte ist bis zum 6.6.2019 zu zahlen.  
   Block 3 bis zum 15.7.2019. Die zweite Hälfte ist bis zum 22.8.2019 zu zahlen.   
   => Kontonummer auf Anfrage  
   Bei Ausfall des Kurses wird der gesamte Betrag zurückerstattet. Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede_r Teilnehmer_in selbst.
