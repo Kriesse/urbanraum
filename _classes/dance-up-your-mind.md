@@ -41,7 +41,7 @@ description_de: |
   Da sich Eva Burghardt in Elternzeit befindet, wird der Kurs zurzeit von Jasminka Stenz und Stefania Petrarca vertreten.  
   
   Block 3, August (4 Termine):   
-  8./15./ 22./ 29. August, Preis: €56,- / €46,-   
+  15./ 22./ 29. August, 5. September 2019 // Preis: €56,- / €46,-   
   bei Stefania Petrarca: petraxstef@gmail.com  
 
   Die Kurse finden ab mindestens 8 TLN statt und sind begrenzt auf maximal 16 TLN.  
