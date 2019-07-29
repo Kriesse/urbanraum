@@ -10,8 +10,8 @@ schedule:
     end: "5:15pm"
 image: "class-tanz-musik.jpg"
 
-title_en: "Kreativer Kindertanz (3-4 J.)"
-title_de: "Kreativer Kindertanz (3-4 J.)"
+title_en: "Kreativer Kindertanz (3-4 J.) & (5-6 J.)"
+title_de: "Kreativer Kindertanz (3-4 J.) & (5-6 J.)"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -34,8 +34,9 @@ description_en:
   s. German description
 
 description_de: |
-  Neue Kurse starten am 20.08.2018. Anmeldung zur Probestunde: info@urbanraum.com  
-  
+  15.30-16.15: für 3-4-Jährige  
+  16.30-17.15: für 5-6-Jährige (zur Zeit voll)  
+
   Kinder lieben es, sich zu bewegen – zu rennen, tanzen, hüpfen, rollen.  
   Und sie lieben es, in Bilder und Geschichten abzutauchen und dabei in andere Rollen zu schlüpfen.
 
