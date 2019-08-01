@@ -17,9 +17,9 @@ level_en:
 level_de:
 
 price_en: |
-  37 / month
+  37-42 / month
 price_de: |
-  37 Euro / Monatsbeitrag  
+  37-42 Euro / Monatsbeitrag  
 
 language_en: "German"
 language_de: "Deutsch"
