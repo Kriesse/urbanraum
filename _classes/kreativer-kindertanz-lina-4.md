@@ -7,8 +7,8 @@ schedule:
     end: "5:15pm"
 image: "class-kindertanz.jpg"
 
-title_en: "Kreativer Kindertanz (4-6 J.)"
-title_de: "Kreativer Kindertanz (4-6 J.)"
+title_en: "Kreativer Kindertanz (4-6 J. & 6-8 J.)"
+title_de: "Kreativer Kindertanz (4-6 J. & 6-8 J.)"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -30,7 +30,9 @@ trial_de: "Auf Anfrage"
 description_en:
 
 description_de: |
-  Der neue Kurs startet am 21.08.2018!  
+  Ab August 2019!  
+  16.00-16.45: Kinder von 4-6 Jahren  
+  17.00-18.00: Kinder von 6-8 Jahren  
 
   Anmeldung zur Probestunde unter: info@urbanraum.com  
   
