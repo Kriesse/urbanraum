@@ -2,7 +2,7 @@
 identifier: carmen
 name: "Carmen Volpe"
 link: "carmen-volpe"
-image: "teacher-carmen-volpe.jpg"
+image: "teacher-carmen.jpg"
 email: "bailoporquevivo@gmail.com"
 links:
   - website-title: "www.carmenvolpe.com"
