@@ -7,10 +7,10 @@ date_de: "5.-6.10.2019"
 time: 
 endtime: 
 
-image: "workshop-beat-body.jpg"
+image: "workshop-attentive-bodies.jpg"
 
-title_en: "Beat Body Balladry"
-title_de: "Beat Body Balladry"
+title_en: "Attentive Bodies"
+title_de: "Attentive Bodies"
 
 subtitle_en: "An intensiv Weekend laboratory of Improvisation and composition"
 subtitle_de: "An intensiv Weekend laboratory of Improvisation and composition"
