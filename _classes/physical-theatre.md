@@ -7,10 +7,10 @@ schedule:
     end: "10:00pm"
  
     
-image: "class-physical-theatre.jpg"
+image: "class-after-future.jpg"
 
-title_en: "Physical theatre"
-title_de: "Physical theatre"
+title_en: "Performance-Project AFTER FUTURE /// Physical theatre"
+title_de: "Performance-Projekt AFTER FUTURE /// Physical theatre"
 
 subtitle_en: "Physisches, performatives & transdisziplinäres Theater"
 subtitle_de: "Physisches, performatives & transdisziplinäres Theater"
@@ -30,6 +30,15 @@ price_de: |
   5-er Karte: 63 Euro
   
 description_en: |
+  In August, Physical Theatre has summer break and is not taking place.  
+
+  AFTER FUTURE |  Performance Project  |  Starting on 3rd of September  
+  In September & October, the performance project AFTER FUTURE is taking place in the frame of the regular Physical Theatre course.   During these two months, drop-in won’t be possible.  
+
+  INFO & REGISTRATION for the project AFTER FUTURE: https://physicaltheatre-collactive.net/  
+
+  ///  
+  
   In this Physical Theatre course we explore and experiment with the diversity of possibilities of contemporary theatre: between playfulness and depth, collective arrangement and inner experience, vitality and form, etc. Theatre, dance or performance? We propose a hybrid training where boundaries become blurred and where the body is at the centre. The training aims to reflect the reality of contemporary stages and nowadays creative processes.  
 
   *Body / Experience*    
@@ -54,7 +63,16 @@ description_en: |
 
   
 description_de: |
+  
+  Im August ist das Physical Theatre in der Sommerpause und findet nicht statt.  
 
+  AFTER FUTURE |  Performance Projekt  |  Start am 3. September  
+  Im September & Oktober bieten wir im Rahmen des regulären Physical Theatre Kurses das Performance Projekt AFTER FUTURE an. In dieser     Zeit ist kein Drop-in möglich.  
+
+  INFOS & ANMELDUNG zum Projekt AFTER FUTURE: https://physicaltheatre-collactive.net/ 
+  
+  ///  
+  
   Im Physical Theatre entdecken wir die Vielfalt der Möglichkeiten im zeitgenössischen Theater und experimentieren damit. Zwischen Spiel und Tiefe, kollektivem Arrangement und innerer Erfahrung, Lebendigkeit und Form ect. Theater, Tanz oder Performance? In diesem hybrid-Training ist alles möglich, die Grenzen verschwimmen, der Körper rückt ins Zentrum. Das Training spiegelt die Realität zeitgenössischer Bühnen, sowie aktuelle kreative Prozesse wieder.  
 
   Körper / Erfahrung  
