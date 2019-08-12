@@ -1,11 +1,11 @@
 ---
 teacher: "urbanraum"
 
-date_en: "July, 27th"
-date_de: "27. Juli 2019"
+date_en: "August, 18th"
+date_de: "18. August 2019"
 
-time: "1pm"
-endtime: "5pm"
+time: "2pm"
+endtime: "6pm"
 
 image: "workshop-free-your-body.jpg"
 
