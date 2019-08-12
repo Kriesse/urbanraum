@@ -9,11 +9,11 @@ endtime:
 
 image: "workshop-instant.jpg"
 
-title_en: "Instant Composition: Space and imagination"
-title_de: "Instant Composition: Space and imagination"
+title_en: "Workshop with Paolo Cingolani"
+title_de: "Workshop mit Paolo Cingolani"
 
-subtitle_en: "Workshop with Paolo Cingolani"
-subtitle_de: "Workshop mit Paolo Cingolani"
+subtitle_en: ""
+subtitle_de: ""
 
 type_en: "Workshop"
 
