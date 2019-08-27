@@ -10,8 +10,8 @@ image: "class-gyrokinesis-neu.JPG"
 title_en: "GYROKINESIS® Class with Rossella Canciello"
 title_de: "GYROKINESIS® Klasse mit Rossella Canciello"
 
-subtitle_en: ""
-subtitle_de: ""
+subtitle_en: "GYROKINESIS® is a registered trademark of GYROTONIC® Sales Corp and is used with their permission."
+subtitle_de: "GYROKINESIS® is a registered trademark of GYROTONIC® Sales Corp and is used with their permission."
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
