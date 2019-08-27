@@ -7,8 +7,8 @@ schedule:
     end: "11:15am"
 image: "class-gyrokinesis-neu.JPG"
 
-title_en: "GYROKINESIS® with Rossella Canciello"
-title_de: "GYROKINESIS® mit Rossella Canciello"
+title_en: "GYROKINESIS® Class with Rossella Canciello"
+title_de: "GYROKINESIS® Klasse mit Rossella Canciello"
 
 subtitle_en: ""
 subtitle_de: ""
