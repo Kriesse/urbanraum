@@ -11,8 +11,8 @@ image: "wokshop-bewegungstheater.jpg"
 title_en: "Bewegungstheater"
 title_de: "Bewegungstheater (ab August 2019)"
 
-subtitle_en: "for kids 9+"
-subtitle_de: "für Kinder ab 9 Jahren"
+subtitle_en: "for kids 10-13"
+subtitle_de: "für Kinder von 10-13 Jahren"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -32,7 +32,7 @@ description_de: |
 
   Wer Lust hat, nach einem langen Schultag in andere Rollen zu schlüpfen, verrückte Ideen zu spinnen und mit Stimme, Mimik und Körper Geschichten zu erzählen, ist in dem Kurs Bewegungstheater genau richtig. Wir werden laut und auch mal leise, wir rebellieren und kokettieren, wir stampfen auf den Boden und schweben wie eine Feder. In jedem Fall sammeln wir Themen, die uns beschäftigen, und erforschen diese auf unsere eigene, kritische und kreative Art.  
 
-  Der Kurs richtet sich an Kinder zwischen 9 und 13 Jahren (mit und ohne Vorkenntnisse).  
+  Der Kurs richtet sich an Kinder zwischen 10 und 13 Jahren (mit und ohne Vorkenntnisse).  
   Kinder mit Behinderung sind herzlich willkommen.  
 
   Kursbeginn: Mittwoch, 07.08.2019  
