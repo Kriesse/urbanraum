@@ -29,11 +29,9 @@ level_de: |
   offen für alle Level  
   
 price_en: |
-  65 € Early Bird price  
-  75€ Normal price
+  85€ Normal price
 price_de: |
-  65 Euro Early Bird-Preis  
-  75 Euro Normalpreis
+  85 Euro Normalpreis
 
 description_en: |
   Would you like to experience your voice and soundscapes, dive into an inner journey, and learn to integrate it in your dance and performance making?   
