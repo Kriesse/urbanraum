@@ -1,11 +1,11 @@
 ---
-teacher: "anouk"
+teacher: "urbanraum"
 
 date_en: "Ocotber, 12th-13th"
 date_de: "12.-13.10.2019"
 
-time: ""
-endtime: ""
+time: 
+endtime: 
 
 image: "workshop-belonging.jpg"
 
@@ -39,7 +39,7 @@ description_en: |
   TIME: Saturday 10.00h-14.00h & Sunday 11.00h-15.00h  
   EARLY-BIRD REGISTRATION UNTIL SEPTEMBER 15th: 75,00€  
   FULL PRICE: 90,00€  
-  * Limited places available *  
+  Limited places available!  
 
   INFO & REGISTRATION: anouk.froidevaux@gmail.com   
 
