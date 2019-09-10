@@ -6,7 +6,7 @@ schedule:
     start: "10:00am"
     end: "11:30pm"
 
-image: "class-narrative-body.jpg"
+image: "class-narrative-body.jpeg"
 
 title_en: "Narrative Body"
 title_de: "Narrative Body"
