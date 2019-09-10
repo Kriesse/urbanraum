@@ -4,7 +4,7 @@ teacher: "urbanraum"
 schedule:
   - day: "tuesday"
     start: "10:00am"
-    end: "11:30pm"
+    end: "11:30am"
 
 image: "class-narrative-body.jpeg"
 
