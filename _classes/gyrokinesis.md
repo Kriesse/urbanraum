@@ -10,8 +10,8 @@ image: "class-gyrokinesis-neu.JPG"
 title_en: "GYROKINESIS® Class with Rossella Canciello"
 title_de: "GYROKINESIS® Klasse mit Rossella Canciello"
 
-subtitle_en: "GYROKINESIS® is a registered trademark of GYROTONIC® Sales Corp and is used with their permission."
-subtitle_de: "GYROKINESIS® is a registered trademark of GYROTONIC® Sales Corp and is used with their permission."
+subtitle_en: ""
+subtitle_de: ""
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -37,7 +37,7 @@ description_en: |
   The system’s unique movement signature is “three-dimensional, using gentle repetitive circling, spiraling and undulating exercises in a set rhythm. Most importantly, an energetic polarity is encouraged by simultaneously reaching in opposite directions, creating both internal balance and support. Through the constant ebb-and-flow and push-and-pull movements, connective tissues are prompted to maintain their suppleness.”  
   Master Trainer Magali Messac  
 
-  GYROKINESIS® is a registered trademark of GYROTONIC® Sales Corp and is used with their permission. 
+  **GYROKINESIS®** is a registered trademark of **GYROTONIC®** Sales Corp and is used with their permission. 
 description_de: |
   see English description  
 
