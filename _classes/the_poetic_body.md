@@ -6,7 +6,7 @@ schedule:
     start: "8:00pm"
     end: "9:30pm"
 
-image: "class-poetic-body-deepening-neu.jpg"
+image: "class-poetic-body-deepening-2019.jpg"
 
 title_en: "The Poetic Body III - Deepening"
 title_de: "The Poetic Body III - Deepening"
