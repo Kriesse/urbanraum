@@ -6,7 +6,7 @@ schedule:
     start: "8:00pm"
     end: "9:30pm"
 
-image: "class-poetic-body-deepening.jpg"
+image: "class-poetic-body-deepening-neu.jpg"
 
 title_en: "The Poetic Body III - Deepening"
 title_de: "The Poetic Body III - Deepening"
@@ -26,7 +26,7 @@ price_en: |
   5 Classes Card: EUR 60   
   (Valid for 2 Months)  
 
-  10 Classes Card: EUR 100  
+  10 Classes Card: EUR 110  
   (Valid for 3 months)
 
 
@@ -35,7 +35,7 @@ price_de: |
   Drop-in: 14 Euro  
   5-er Karte: 60 Euro 
   (2 Monate gültig)
-  10-er Karte: 100 Euro  
+  10-er Karte: 110 Euro  
   (3 Monate gültig)
 
 description_en: |
