@@ -30,8 +30,8 @@ price_de: |
   5-er Karte: 63 Euro
   
 description_en: |
-  In August, Physical Theatre has summer break and is not taking place.  
-
+  Drop-ins are welcome again from november on!  
+  
   AFTER FUTURE |  Performance Project  |  Starting on 3rd of September  
   In September & October, the performance project AFTER FUTURE is taking place in the frame of the regular Physical Theatre course.   During these two months, drop-in won’t be possible.  
 
@@ -64,8 +64,8 @@ description_en: |
   
 description_de: |
   
-  Im August ist das Physical Theatre in der Sommerpause und findet nicht statt.  
-
+  Drop in im Physical Theatre ist wieder ab November 2019 möglich!  
+  
   AFTER FUTURE |  Performance Projekt  |  Start am 3. September  
   Im September & Oktober bieten wir im Rahmen des regulären Physical Theatre Kurses das Performance Projekt AFTER FUTURE an. In dieser     Zeit ist kein Drop-in möglich.  
 
