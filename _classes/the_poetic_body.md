@@ -91,7 +91,9 @@ description_en: |
   *Your thoughts ever manifest as experience.*  
   *Become the master of your response.*    
 
-  From the Taoist Master/Dream Analist – Kari Hohne
+  From the Taoist Master/Dream Analist – Kari Hohne  
+  
+  Picture: Micaela Masetto
 
 description_de: |
   s. Englische Beschreibung
