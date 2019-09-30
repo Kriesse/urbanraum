@@ -15,7 +15,7 @@ title_en: "Bewegungstheater (8-10 & 10-13 years)"
 title_de: "Bewegungstheater (8-10 & 10-13 Jahre)"
 
 subtitle_en: "for kids from 8-10 and 10-13 years"
-subtitle_de: "für Kinder von 8-10 Jahren & 10-13 Jahren"
+subtitle_de: "für Kinder von 8-10 & 10-13 Jahren"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
