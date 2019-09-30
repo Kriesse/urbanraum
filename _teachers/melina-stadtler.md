@@ -2,7 +2,7 @@
 identifier: "melina"
 name: "Melina Stadtler"
 email: "melina@posteo.de"
-image: "teacher-melina-stadtler.jpg"
+image: "teacher-melina-stadtler-neu.jpg"
 links:
   - website-title: ""
     website-link: ""
