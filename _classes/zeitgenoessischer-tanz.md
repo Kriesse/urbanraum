@@ -15,8 +15,8 @@ title_de:  "Zeitgenössischer Tanz"
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-level_en: "Advanced"
-level_de: "Fortgeschritten"
+level_en: "open level with some movement experience"
+level_de: "open level mit Bewegungserfahrung"
 
 price_en: |
   EUR 10 / trial class  
