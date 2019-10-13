@@ -41,4 +41,5 @@ description_de:
   Trainingszeiten:  
   Montag 18.15 bis 19.45    
   Freitags 19.15 bis 20.30  
+  
 ---
