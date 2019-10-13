@@ -28,7 +28,7 @@ language_en:
 language_de:
 
 description_en:
-description_de: |  
+description_de:|  
   K U N G O
   In der Tradition der „School of Chinese Martial Art“ lehren wir südchinesisches Kung Fu.  
   Unser Lehrer heißt Martin Brucks.  
