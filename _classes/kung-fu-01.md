@@ -24,7 +24,7 @@ price_en: |
   Monthly EUR 45
   
 price_de: |
-  Monatsbeitrag: 45 Euro 
+  Monatsbeitrag: 45 Euro   
   Probestunde kostenlos
 language_en:
 language_de:
