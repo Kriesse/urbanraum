@@ -10,8 +10,8 @@ schedule:
     end: "8:30pm"
 image:
 
-title_en:  "Kung Fu "KUNGO""
-title_de:  "Kung Fu "KUNGO""
+title_en:  "Kung Fu KUNGO"
+title_de:  "Kung Fu KUNGO"
 
 subtitle_en:
 subtitle_de:
