@@ -22,6 +22,7 @@ type_de: "Wöchentlicher Kurs"
 
 price_en: |
   Monthly EUR 45
+  
 price_de: |
   Monatsbeitrag: 45 Euro 
   Probestunde kostenlos
@@ -29,7 +30,7 @@ language_en:
 language_de:
 
 description_en:
-description_de:|  
+description_de: |  
   K U N G O
   In der Tradition der „School of Chinese Martial Art“ lehren wir südchinesisches Kung Fu.  
   Unser Lehrer heißt Martin Brucks.  
