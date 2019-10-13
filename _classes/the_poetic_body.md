@@ -21,22 +21,15 @@ level_en: "s. below"
 level_de: "s. english"
 
 price_en: |
-  Try-Out: EUR 12
-  Drop-in: EUR 14
-  5 Classes Card: EUR 60   
-  (Valid for 2 Months)  
-
-  10 Classes Card: EUR 110  
-  (Valid for 3 months)
+  TRY-OUT EUR 12  
+  MONTHLY EUR 50  
+  DROP-IN EUR 14 (This is a regular course and a performance project; more an in-depth continious study than a series of classes)
 
 
 price_de: |
-  Probestunde: 12 Euro
-  Drop-in: 14 Euro  
-  5-er Karte: 60 Euro 
-  (2 Monate gültig)
-  10-er Karte: 110 Euro  
-  (3 Monate gültig)
+  Probestunde 12 Euro  
+  Monatsbeitrag 50 Euro  
+  Drop-in 14 Euro 
 
 description_en: |
 
