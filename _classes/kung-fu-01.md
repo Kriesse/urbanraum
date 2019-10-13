@@ -5,9 +5,7 @@ schedule:
   - day: "monday"
     start: "6:15pm"
     end: "7:45pm"
-  - day: "friday"
-    start: "7:15pm"
-    end: "8:30pm"
+
 image:
 
 title_en:  "Kung Fu KUNGO"
