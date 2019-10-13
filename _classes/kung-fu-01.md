@@ -9,7 +9,7 @@ schedule:
     start: "7:15pm"
     end: "8:30pm"
     
-image:
+image: "class-kungo.jpg"
 
 title_en:  "Kung Fu KUNGO"
 title_de:  "Kung Fu KUNGO"
@@ -32,10 +32,9 @@ language_de:
 description_en:
 description_de: |  
   K U N G O
-  In der Tradition der „School of Chinese Martial Art“ lehren wir südchinesisches Kung Fu.  
-  Unser Lehrer heißt Martin Brucks.  
+  In der Tradition der „School of Chinese Martial Art“ lehren wir südchinesisches Kung Fu. Unser Lehrer heißt Martin Brucks.    
   Anfänger und Fortgeschrittene trainieren miteinander.  
-  Probestunde ist kostenlos.
+  Eine Probestunde ist kostenlos.
   
   Trainingsinhalte sind:
   Körperkoordination - Beweglichkeit – Kondition – Ausdruck - Konzentration + Kraft -  Selbstverteidigung - Grundstellungen - Formen + Waffenformen (Stock-Säbel+Schwert).  
