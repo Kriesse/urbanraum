@@ -8,6 +8,7 @@ schedule:
   - day: "friday"
     start: "7:15pm"
     end: "8:30pm"
+    
 image:
 
 title_en:  "Kung Fu KUNGO"
@@ -19,9 +20,9 @@ subtitle_de:
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
 
-price_en:
+price_en: |
   Monthly EUR 45
-price_de:
+price_de: |
   Monatsbeitrag: 45 Euro 
   Probestunde kostenlos
 language_en:
