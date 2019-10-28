@@ -5,7 +5,7 @@ schedule:
 
   - day: "friday"
     start: "12:00pm"
-    end: "02:00pm"
+    end: "01:30pm"
     
 image: "class-regenerativer-tanz (3).jpg"
 
