@@ -5,7 +5,7 @@ schedule:
   - day: "thursday"
     start: "06:00pm"
     end: "07:45pm"
-image: "DANCE UP YOUR MIND(1).jpg"
+image: "class-vibrazioni.jpg"
 
 title_en: "DANCE UP YOUR MIND meets VIBRAZIONI"
 title_de: "DANCE UP YOUR MIND meets VIBRAZIONI"
