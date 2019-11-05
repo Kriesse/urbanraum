@@ -3,12 +3,12 @@ order: "1"
 teacher: "carmen"
 schedule:
   - day: "tuesday"
-    start: "4:30pm"
-    end: "5:15pm"
+    start: "4:00pm"
+    end: "4:45pm"
 image: "class-kindertanz.jpg"
 
-title_en: "Kreativer Kindertanz (4-6 J. & 6-8 J.)"
-title_de: "Kreativer Kindertanz (4-6 J. & 6-8 J.)"
+title_en: "Kreativer Kindertanz (4-6 Jahre)"
+title_de: "Kreativer Kindertanz (4-6 Jahre)"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -17,24 +17,21 @@ level_en:
 level_de:
 
 price_en: |
-  37-42 / month
+  EUR 37 / month
 price_de: |
-  37-42 Euro / Monatsbeitrag  
+  37 Euro / Monatsbeitrag  
 
 language_en: "German"
 language_de: "Deutsch"
 
-trial_en:
-trial_de: "Auf Anfrage"
+trial_en: "please register"
+trial_de: "nach Anmeldung"
 
 description_en:
 
 description_de: |
-  Ab August 2019!  
-  16.00-16.45: Kinder von 4-6 Jahren  
-  17.00-18.00: Kinder von 6-8 Jahren  
 
-  Anmeldung zur Probestunde unter: info@urbanraum.com  
+  Anmeldung zur kostenfreien Probestunde unter: info@urbanraum.com  
   
   Beim kreativen Kindertanz wird Tanz als elementare Lern- und Ausdrucksform vermittelt. Dabei steht die Freude am Sich-Bewegen im Vordergrund.
   Mittels bestimmter Übungen werden Fähigkeiten wie Koordination, Rhythmusgefühl, Konzentrationsfähigkeit und Ausdauer entwickelt beziehungsweise gestärkt.
