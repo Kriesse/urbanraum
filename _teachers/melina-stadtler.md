@@ -7,7 +7,13 @@ links:
   - website-title: ""
     website-link: ""
 bio_de: |
-  Ich bin ausgebildete Kulturpädagogin B.A. und Tanzwissenschaftlerin M.A. und arbeite seit 2010 als freischaffende Tanz- und Theaterpädagogin vor allem an Schulen und in der offenen Jugendarbeit. In meiner theaterpädagogischen und tanzwissenschaftlichen Arbeit interessiere ich mich für politische und gesellschaftskritische Themen wie Rassismus und Exotismus, Gender, Inklusion und Empowerment.  
+
+  Ich bin ausgebildete Kulturpädagogin B.A. (Schwerpunkt Theater) und Tanzwissenschaftlerin M.A.  
+  2011 habe ich die 1-jährige Fortbildung “Tanzpädagogische Kompetenz” Seneca intensiv im Dock 11, Berlin absolviert. Seitdem arbeite ich als freischaffende Tanz- und Theaterpädagogin an Grundschulen (Projekte, AGs), am OSZ (Schulfach Darstellendes Spiel), in Werkstätten für Menschen mit Behinderungen und psychischen Erkrankungen und in offenen Jugendkultureinrichtungen (u.a. mit Fokus auf die interkulturelle Sozialarbeit mit Mädchen und Frauen).  
+  Die Leidenschaft zum Tanzen lernte ich mit 6 Jahren durch Klassisches Ballett kennen, als Jugendliche wechselte ich zu Jazz, Modern und Tap Dance. Ich besuche regelmäßig Trainings und Workshops in Contemporary Dance, Tanzimprovisation und Gaga und habe an verschiedenen Berliner Tanzprojekten mitgewirkt.  
+  Seit dem 16. Lebensjahr spiele ich Theater und konnte in meinem Studium sowie in Fortbildungen und Workshops verschiedene Techniken und Methoden ausprobieren und vertiefen.  
+  Sowohl in meiner künstlerischen, pädagogischen und tanzwissenschaftlichen Arbeit als auch im alltäglichen Leben interessiere ich mich für politische und gesellschaftskritische Zusammenhänge wie Rassismus, Exotismus, Gender und Feminismus.  
+  Als Theateraktivistin versuche ich stets Empowerment, Inklusion und Diversität im Auge zu behalten und diese in meine pädagogische und künstlerische Arbeit einzubinden.  
 
   Anmeldung und Fragen an melina@posteo.de
 
