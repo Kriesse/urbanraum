@@ -7,7 +7,7 @@ date_de: "17. November 2019"
 time: "4pm"
 endtime: "6pm" 
 
-image: "workshop-voice-release.jpg"
+image: "workshop-voice-release.jpeg"
 
 title_en: "Stimme verkörpern / voice release "
 title_de: "Stimme verkörpern / voice release "
