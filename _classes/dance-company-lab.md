@@ -2,8 +2,8 @@
 teacher: "livia"
 schedule:
   - day: "thursday"
-    start: "12:00pm"
-    end: "1:30pm"
+    start: "10:00am"
+    end: "11:30am"
 image: "class-contemporary-dance-workshop.jpg"
 
 title_en: "Dance Company Lab Winter 2020 "
