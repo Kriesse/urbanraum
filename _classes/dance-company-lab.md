@@ -34,7 +34,7 @@ description_de: |
   Die Ausrichtung des Skeletts und die Muskelaktivität, die wir zum Bewegen benötigen, wird das einleitende Warm-up.   
   Mein Training basiert auf der Folkwang-Tanz Tradition, die durch Elemente der Limon- und Alexander-Technik bereichert wird. Der Raum wird sich dann mit fließenden Bewegungen, wechselnden Ebenen und Texturen ausfüllen. Von dieser Basis ausgehend ergänzen wir die Arbeit mit Improvisation- und “decision making”-Übungen.  
   Liebhaber von bewusster Bewegung, Zeitgenössischem Tanz und Tanztheater fühlen sich bei diesem sanften, aber energetischen Ganzkörpertraining wohl.  
-Empfehlenswert als morgendliches Training oder Weiterbildung für Tanz- und Theater-DozentInnen, Tanz-StudentenInnen sowie ChoreografenInnen. 
+  Empfehlenswert als morgendliches Training oder Weiterbildung für Tanz- und Theater-DozentInnen, Tanz-StudentenInnen sowie ChoreografenInnen. 
 
   
   //  
