@@ -8,8 +8,8 @@ schedule:
     
 image: "class-dance-company-2019.jpg"
 
-title_en: "Dance Company Lab Winter 2020 "
-title_de: "Tanz Company Lab Winter 2020 "
+title_en: "Dance Company Lab Winter 2020 (9.1.-27.2.2020)"
+title_de: "Tanz Company Lab Winter 2020 (9.1.-27.2.2020)"
 
 subtitle_en: "Back to the basics: Tanz-Technik als kreatives Werkzeug"
 subtitle_de: "Back to the basics: Tanz-Technik als kreatives Werkzeug"
@@ -30,6 +30,7 @@ description_en: |
   s. German description
   
 description_de: |
+  9.1.-27.2.2020!  
   In diesem Block fokussieren wir uns darauf, Elemente der Tanztechnik (basierend auf der Folkwang-Tradition) die beim Improvisieren und Komponieren nützlich sind als Werkzeuge, zu entdecken und anzuwenden.   
   Die Ausrichtung des Skeletts und die Muskelaktivität, die wir zum Bewegen benötigen, wird das einleitende Warm-up.   
   Mein Training basiert auf der Folkwang-Tanz Tradition, die durch Elemente der Limon- und Alexander-Technik bereichert wird. Der Raum wird sich dann mit fließenden Bewegungen, wechselnden Ebenen und Texturen ausfüllen. Von dieser Basis ausgehend ergänzen wir die Arbeit mit Improvisation- und “decision making”-Übungen.  
