@@ -6,11 +6,11 @@ schedule:
     end: "1:30pm"
 image: "class-contemporary-dance-workshop.jpg"
 
-title_en: "Dance Company Lab"
-title_de: "Tanzcompany Lab"
+title_en: "Dance Company Lab Winter 2020 "
+title_de: "Tanzcompany Lab Winter 2020 "
 
-subtitle_en: "Joining still possible"
-subtitle_de: "Achtung! Einstieg noch möglich"
+subtitle_en: "Back to the basics: Tanz-Technik als kreatives Werkzeug"
+subtitle_de: "Back to the basics: Tanz-Technik als kreatives Werkzeug"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -19,11 +19,9 @@ level_en: "Advanced"
 level_de: "Fortgeschritten/Mittelstufe"
 
 price_en: |
-  Drop-in: EUR 10  
-  12 classes: EUR 90
+  8 classes: EUR 90
 price_de: |
-  Drop-in: 10 Euro  
-  12 Termine: 90 Euro
+  8 Termine: 90 Euro
 
 description_en: |
   Dance Technique and Choreography, with a focus on contemporary practices and performance:
@@ -33,7 +31,10 @@ description_en: |
   In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
 
 description_de: |
-  Livia absolviert ihre Tanzausbildung an der renommierten Folkwang Universität der Künste in Essen unter der Leitung von Pina Bausch. Als Tänzerin, Choreografin und Choreografie Assistentin arbeitete sie in zahlreichen Projekten in Deutschland, USA, Mexiko und Argentinien.
+  In diesem Block fokussieren wir uns darauf, Elemente der Tanztechnik (basierend auf der Folkwang-Tradition) die beim Improvisieren und Komponieren nützlich sind als Werkzeuge, zu entdecken und anzuwenden.   
+  Die Ausrichtung des Skeletts und die Muskelaktivität, die wir zum Bewegen benötigen, wird das einleitende Warm-up.  
+  Mein Training basiert auf der Folkwang-Tanz Tradition, die durch Elemente der Limon- und Alexander-Technik bereichert wird. Der Raum wird sich dann mit fließenden Bewegungen, wechselnden Ebenen und Texturen ausfüllen. Von dieser Basis ausgehend ergänzen wir die Arbeit mit Improvisation- und “decision making”-Übungen. -Liebhaber von Bewusste Bewegung, Zeitgenössischem Tanz und Tanztheater fühlen sich bei diese sanften aber energetische Ganzkörpertraining wohl.    
+  Empfehlenswert als morgendliches Training oder Weiterbildung für Tanz- und Theater-DozentInnen sowie Tanz-StudentInnen und ChoreografenInnen. 
 
   Die erfahrene Tanzdozentin unterrichtet u.a. an den Dock11 Studios Berlin, Bildungsjahr Tanz von Seneca-Intensiv und assistiert beim Masterstudiengang für Choreografie der Udk Berlin.
 ---
