@@ -24,11 +24,7 @@ price_de: |
   8 Termine: 90 Euro
 
 description_en: |
-  Dance Technique and Choreography, with a focus on contemporary practices and performance:
-
-  This is an ongoing course divided into trimester blocks, at the end of each block a Studio Performance will be presented. The idea of this course is to experience a Dance company-similar dynamic: Beginning with a dance technique warm up, then working on a choreographic creative process (rehearsal) to finally show the results of it.
-
-  In technique, the students will be challenged to work on their body’s alignment and increase coordination and strength abilities, developing awareness and motion in multiple spatial planes. The choreography component of this course is about learning and developing movement with a range of choreographic approaches.
+  Please see German descriptopn
 
 description_de: |
   In diesem Block fokussieren wir uns darauf, Elemente der Tanztechnik (basierend auf der Folkwang-Tradition) die beim Improvisieren und Komponieren nützlich sind als Werkzeuge, zu entdecken und anzuwenden.   
