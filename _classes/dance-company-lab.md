@@ -8,11 +8,11 @@ schedule:
     
 image: "class-dance-company-2019.jpg"
 
-title_en: "Dance Company Lab"
-title_de: "Tanz Company Lab"
+title_en: "Dance Company Lab Winter 2020 "
+title_de: "Tanz Company Lab Winter 2020 "
 
-subtitle_en: ""
-subtitle_de: ""
+subtitle_en: "Back to the basics: Tanz-Technik als kreatives Werkzeug"
+subtitle_de: "Back to the basics: Tanz-Technik als kreatives Werkzeug"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -21,24 +21,21 @@ level_en: "Adv-Inter"
 level_de: "Adv-Inter"
 
 price_en: |
-  EUR 42/month  
-  EUR 12/trial class (after registration)
+  8 classes: EUR 90 
 
 price_de: |
-  42 Euro / Monatsbeitrag    
-  12 Euro / Probestunde (nach Voranmeldung)
+  8 Termine: 90 Euro
+  
 description_en: |
   s. German description
   
 description_de: |
-  ! Einstieg jederzeit möglich !  
-  Zurück aus der Sommerpause am 1.8.2019!  
+  In diesem Block fokussieren wir uns darauf, Elemente der Tanztechnik (basierend auf der Folkwang-Tradition) die beim Improvisieren und Komponieren nützlich sind als Werkzeuge, zu entdecken und anzuwenden.   
+  Die Ausrichtung des Skeletts und die Muskelaktivität, die wir zum Bewegen benötigen, wird das einleitende Warm-up.   
+  Mein Training basiert auf der Folkwang-Tanz Tradition, die durch Elemente der Limon- und Alexander-Technik bereichert wird. Der Raum wird sich dann mit fließenden Bewegungen, wechselnden Ebenen und Texturen ausfüllen. Von dieser Basis ausgehend ergänzen wir die Arbeit mit Improvisation- und “decision making”-Übungen.  
+  Liebhaber von bewusster Bewegung, Zeitgenössischem Tanz und Tanztheater fühlen sich bei diesem sanften, aber energetischen Ganzkörpertraining wohl.  
+Empfehlenswert als morgendliches Training oder Weiterbildung für Tanz- und Theater-DozentInnen, Tanz-StudentenInnen sowie ChoreografenInnen. 
 
-  Die Ausrichtung des Skeletts und die Muskelaktivität, die wir zum Bewegen benötigen, wird das einleitende Warm-up in diesem Workshop. Mein Training basiert auf der Folkwang-Tanztechnik, die durch Elemente der Limon- und Alexander-Technik bereichert wird. Der Raum wird sich dann mit fließenden Bewegungen, wechselnden Ebenen und Texturen ausfüllen. Von dieser Basis ausgehend ergänzen wir die Arbeit mit Improvisations- und “decision making”-Übungen und erstellen kurze Choreografien.
-  Liebhaber von Yoga, Bewusste Bewegung, Zeitgenössischem Tanz und Tanztheater fühlen sich bei diese sanften aber energetische Ganzkörpertraining wohl.
-  Zu empfehlen als morgendliches Training oder als Weiterbildung.
-  
-  Level: Mittelstufe/Fortgeschritten, Tanz-Student_innen, Darsteller_innen, Künstler_innen  
   
   //  
   
