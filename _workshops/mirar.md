@@ -7,7 +7,7 @@ date_de: "Februar  Juli 2020"
 time: "11am"
 endtime: "2pm" 
 
-image: "workshop-mirar.jpg"
+image: "workshop-mirar.JPG"
 
 title_en: "MIRAR_Performance Projekt in OPEN SPACE"
 title_de: "MIRAR_Performance Projekt in OPEN SPACE"
