@@ -26,12 +26,13 @@ level_en: |
   movement experience welcome  
 level_de: |
   Vor-Erfahrung in Bewegungsimprovisation ist erwünscht  
+  
 price_en: |
   see below
 price_de: |
   s.u.  
 description_en: |
- s. German description
+  s. German description
 
 
 description_de: |
@@ -51,7 +52,8 @@ description_de: |
   Fragen und Anmeldung  
   Anmeldung bitte bis zum 15.2.2020 bei: produktion@evaburghardt.com 
 
-  Der Kurs findet ab mindestens 6 TLN statt und ist begrenzt auf maximal 16 TLN. Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr, die 2. Hälfte ist vor Beginn des WS fällig. Bei Ausfall des WS wird der gesamte Betrag zurückerstattet. Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede*r Teilnehmer*in selbst.  
+  Der Kurs findet ab mindestens 6 TLN statt und ist begrenzt auf maximal 16 TLN. Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr, die 2. Hälfte ist vor Beginn des WS fällig. Bei Ausfall des WS wird der gesamte Betrag zurückerstattet.
+  Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede*r Teilnehmer_in selbst.  
 
   Weitere Informationen:   
   www.evaburghardt.com   
