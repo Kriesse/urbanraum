@@ -7,7 +7,7 @@ date_de: "19.2. & 21.3. & 18.4. & 16.5.2020"
 time: "10am"
 endtime: "3pm" 
 
-image: "workshop-begegnungen.jpg"
+image: "workshop-begegnungen.JPG"
 
 title_en: "Begegnungen"
 title_de: "Begegnungen"
