@@ -31,13 +31,14 @@ price_en: |
   see below
 price_de: |
   s.u.  
+  
 description_en: |
   s. German description
 
 
 description_de: |
   Diese Workshopreihe widmet sich der Tanzimprovisation in Verbindung mit anderen künstlerischen Ausdrucksformen aus Bildender Kunst, Musik und Literatur. Wie können sich diese verschiedenen Künste begegnen, ergänzen, herausfordern und neue Spielräume eröffnen?  
-  Vor-Erfahrung in Bewegungsimprovisation ist erwünscht. Als Block oder einzeln buchbar.   
+  Vor-Erfahrung in Bewegungsimprovisation ist erwünscht. Als Block oder einzeln buchbar.     
 
   Tanz und Raum, 29. Februar, 10 – 15h   
   Tanz und Sound, 21. März, 10 – 15h (zu Gast: Sebastian Flaig)  
@@ -53,7 +54,7 @@ description_de: |
   Anmeldung bitte bis zum 15.2.2020 bei: produktion@evaburghardt.com 
 
   Der Kurs findet ab mindestens 6 TLN statt und ist begrenzt auf maximal 16 TLN. Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr, die 2. Hälfte ist vor Beginn des WS fällig. Bei Ausfall des WS wird der gesamte Betrag zurückerstattet.
-  Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede*r Teilnehmer_in selbst.  
+  Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede_r Teilnehmer_in selbst.  
 
   Weitere Informationen:   
   www.evaburghardt.com   
