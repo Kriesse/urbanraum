@@ -49,8 +49,8 @@ description_de: |
 
   Kosten:   
   1 x 60€, 2 x 115€, 3 x 170€, 4 x 220€  
-  + 20€ Live Musik (Tanz und Sound)  
-  + 10€ Material (Tanz und Farbe)  
+  plus 20€ Live Musik (Tanz und Sound)  
+  plus 10€ Material (Tanz und Farbe)  
 
   Fragen und Anmeldung  
   Anmeldung bitte bis zum 15.2.2020 bei: produktion@evaburghardt.com 
