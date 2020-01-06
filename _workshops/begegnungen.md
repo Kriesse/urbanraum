@@ -58,8 +58,9 @@ description_de: |
   Der Kurs findet ab mindestens 6 TLN statt und ist begrenzt auf maximal 16 TLN. Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr, die 2. Hälfte ist vor Beginn des WS fällig. Bei Ausfall des WS wird der gesamte Betrag zurückerstattet.
   Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede_r Teilnehmer_in selbst.  
   
-  Weitere Informationen:   
- 
+  Weitere Informationen:  
+  www.evaburghardt.com  
+  Foto: Barbara Günther
 ---
 
 
