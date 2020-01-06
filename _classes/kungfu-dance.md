@@ -20,11 +20,11 @@ level_en: "open level"
 level_de: "open level"
 
 price_en: |
-  Drop in: 15 Euro
+  Drop in: 15 Euro  
   5 time card: 55 Euro 
 
 price_de: |
-  Drop in: 15 Euro
+  Drop in: 15 Euro  
   5-er Karte: 55 Euro
 
 description_en: |
