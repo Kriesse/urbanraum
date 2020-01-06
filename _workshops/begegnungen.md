@@ -1,5 +1,5 @@
 ---
-teacher: "urbanraum"
+teacher: "eva"
 
 date_en: "19.2. & 21.3. & 18.4. & 16.5.2020"
 date_de: "19.2. & 21.3. & 18.4. & 16.5.2020"
