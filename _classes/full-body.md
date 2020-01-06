@@ -17,10 +17,10 @@ level_en: open level, curiosity and an open mind are welcome
 level_de: open level, curiosity and an open mind are welcome
 
 price_en: |
-  Trial lesson 9€  
-  Single lesson 12€  
-  5 classes card 55€  
-  10 classes card 100€  
+  Trial lesson 9€    
+  Single lesson 12€    
+  5 classes card 55€    
+  10 classes card 100€    
 
 price_de: |
   Probestunde 9€  
@@ -35,7 +35,7 @@ language_de: "Englisch"
 description_en:
   January: Wednesday, 10-11.30am  
   February: Wednesday and Friday, 10-11.30am  
-
+  
   My main interest is the physical body and it’s various movement possibilities. Through specific physical exercises (strength/coordination/limitations etc.) for each body part we will expand our understanding and knowledge of the potential movement material and widen our movement vocabulary. Starting from a more local, specific and technical layer we will later use this knowledge and experience to translate it in a more global picture of the whole body. We want to get to know the physical body and use it fully as the instrument we were born with. The main tool we will work with is improvisation in which we are aiming for physical complexity, big capacity of coordination, musicality and full body awareness.  
   I want us to work hard but joyfully. I want us to get physical to dance. Since I experience a lot of satisfaction in long term processes I recommend continuous participation.   
   
