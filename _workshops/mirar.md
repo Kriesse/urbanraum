@@ -55,14 +55,14 @@ description_en: |
   February to July (Saturdays and some Sundays)  
   From 11 to 14 hrs.  
 
-  Saturday 22.02.2020
-  Sonntag 15.03.2020
-  Samstag 02.05.2020
-  Sonntag 03.05.2020
-  Samstag 23.05.2020
-  27.06.2020 
-  28.06.2020 (performance presentation)
-  This last day: rehearsal from 14 to 17 and presentation from 19 to 20hrs.  
+  Saturday 22.02.2020  
+  Sonntag 15.03.2020  
+  Samstag 02.05.2020  
+  Sonntag 03.05.2020  
+  Samstag 23.05.2020  
+  27.06.2020   
+  28.06.2020 (performance presentation)  
+  This last day: rehearsal from 14 to 17 and presentation from 19 to 20hrs.    
 
   Prices:
   260 € for the whole Projekt  
