@@ -1,7 +1,7 @@
 ---
 identifier: "karina"
 name: "Karina Suárez-Bosche"
-email: "karinasuarezbosche@riseup.net"
+email: "contact@karinasuarezbosche.com"
 phone:
 image: "teacher-karina-suarez-bosche.jpg"
 links:
