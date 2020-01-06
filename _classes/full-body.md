@@ -32,7 +32,7 @@ language_en: "English"
 language_de: "Englisch"
 
 
-description_en:
+description_en: |
   January: Wednesday, 10-11.30am  
   February: Wednesday and Friday, 10-11.30am  
   
