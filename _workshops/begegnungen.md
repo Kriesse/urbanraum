@@ -1,5 +1,5 @@
 ---
-teacher: "eva"
+teacher: "urbanraum"
 
 date_en: "19.2. & 21.3. & 18.4. & 16.5.2020"
 date_de: "19.2. & 21.3. & 18.4. & 16.5.2020"
@@ -23,12 +23,14 @@ language_de: ""
 type_de: "Workshop"
 
 level_en: |
-  movement experience welcome  
+  movement experience welcome
+  
 level_de: |
   Vor-Erfahrung in Bewegungsimprovisation ist erwünscht  
   
 price_en: |
   see below
+  
 price_de: |
   s.u.  
   
@@ -55,12 +57,10 @@ description_de: |
 
   Der Kurs findet ab mindestens 6 TLN statt und ist begrenzt auf maximal 16 TLN. Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr, die 2. Hälfte ist vor Beginn des WS fällig. Bei Ausfall des WS wird der gesamte Betrag zurückerstattet.
   Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede_r Teilnehmer_in selbst.  
-
+  
   Weitere Informationen:   
-  www.evaburghardt.com   
-  www.urbanraum.com  
-  Foto: Barbara Günther  
-  ---
+ 
+---
 
 
 
