@@ -29,13 +29,12 @@ level_de: |
   offen für alle Level  
   
 price_en: |
-
+  Sliding Scale 30–60 Euro
 price_de: |
-
+  Sliding Scale 30–60 Euro
 
 description_en: |
-  Mit diesem Impulsworkshop möchten wir dir einen Einblick in die Bewegungsarbeit mit Stöcken geben.  
-  Einfache Techniken aus der philippinischen Stockkampfkunst, Körperarbeit und tänzerische Elemente lassen dich in deine Lebendigkeit, deine Kraft und in Kontakt mit dir und Anderen kommen.  
+  Mit diesem Impulsworkshop möchten wir dir einen Einblick in die Bewegungsarbeit mit Stöcken geben. Einfache Techniken aus der philippinischen Stockkampfkunst, Körperarbeit und tänzerische Elemente lassen dich in deine Lebendigkeit, deine Kraft und in Kontakt mit dir und Anderen kommen.  
   Für Alle, die Lust an Bewegung haben.  
   Da wir nur zwölf Plätze zu vergeben haben, bitten wir um Anmeldung.  
   
