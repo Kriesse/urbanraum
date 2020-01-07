@@ -4,7 +4,7 @@ teacher: "urbanraum"
 date_en: "February, 1st"
 date_de: "1. Februar 2020"
 
-time: "12am"
+time: "12pm"
 endtime: "2pm" 
 
 image: "workshop-urban-somatics.jpg"
