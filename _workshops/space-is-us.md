@@ -4,7 +4,7 @@ teacher: "kerem"
 date_en: "22.02.2020"
 date_de: "22.02.2020"
 
-time: "2:300m"
+time: "2:30pm"
 endtime: "5:30pm" 
 
 image: "workshop-space.png"
