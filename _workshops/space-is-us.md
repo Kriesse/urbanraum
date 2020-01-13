@@ -7,7 +7,7 @@ date_de: "22.02.2020"
 time: "2:300m"
 endtime: "5:30pm" 
 
-image: "workshop-space.jpg"
+image: "workshop-space.png"
 
 title_en: "The Space that is Us"
 title_de: "The Space that is Us"
