@@ -7,7 +7,7 @@ date_de: "1. März 2020"
 time: "1pm"
 endtime: "5pm" 
 
-image: "workshop--free-your-body.jpg"
+image: "workshop-free-your-body.jpg"
 
 title_en: "Free your Body and Grow into your Real Self"
 title_de: "Free your Body and Grow into your Real Self"
