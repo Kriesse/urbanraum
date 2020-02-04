@@ -42,12 +42,9 @@ description_en: |
   Previous experiences of dance/movement/movement/theatre/improvisation are welcome, but not necessary.  
 
 
-  BLOCK B (November-December)
-  7.,14.,21.,28.11. & 5.,12.12. & Aufführung  am 15.12. um 17.00!  
-  EUR 84 / 69 - Early Birds till 30.10.19   
 
   BLOCK C (January-February)  
-  16.,23.,30.1. & 13., 20., 27.2.  
+  16.,23.,30.1. & 06. 13., 20.02.2020
   84 EUR / 69 - Early Birds till 7.01.19  
 
   The course take place with at least 7 participants and is limited to a maximum of 16.     
