@@ -26,3 +26,10 @@ $(function() {
   $("body").addClass("lang-loaded");
 
 });
+
+$(function() {
+	$('button.modal-close').click(function() {
+		$('div.modal-backdrop').hide();
+		$('div.modal').hide();
+	});
+});
