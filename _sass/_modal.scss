@@ -19,7 +19,10 @@
 .modal {
   margin: auto;
   position: relative;
-  max-width: 36rem;
+  max-width: 18rem;
+  @include media-query-min($on-tablet) {
+    max-width: 32rem;
+  }
   h1 {
     font-size: 1.5rem;
   }
@@ -41,16 +44,22 @@
 
 .modal-visual {
   position: absolute;
-  width: 20rem;
+  width: 16rem;
   top: -3rem;
   left: -2rem;
   z-index: 2;
   animation-name: zoom-out;
   animation-duration: .5s;
   animation-timing-function: ease-in-out;
+  @include media-query-min($on-tablet) {
+    width: 20rem;
+  }
   img {
     display: block;
-    width: 20rem;
+    width: 16rem;
+    @include media-query-min($on-tablet) {
+      width: 20rem;
+    }
   }
 }
 
