@@ -127,6 +127,7 @@
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 3em;
+  align-items: flex-end;
 }
 
 .gallery__item {
@@ -148,13 +149,6 @@
   font-size: 24px;
   clear: both;
   position: relative;
-  img {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    transition-property: filter;
-    transition-duration: $transition-duration;
-    transition-timing-function: ease-in-out;
-  }
 }
 
 .post__link:hover {
@@ -166,10 +160,18 @@
 
 .post__img {
   width: 100%;
+  display: flex;
+  img {
+    filter: grayscale(100%);
+    transition-property: filter;
+    transition-duration: $transition-duration;
+    transition-timing-function: ease-in-out;
+    align-self: flex-end;
+  }
 }
 
 .post__img--teacher {
-  height: 200px
+  max-height: 280px
 }
 
 .post__meta {
