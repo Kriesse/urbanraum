@@ -21,19 +21,15 @@ level_en: "Intermediate"
 level_de: "Mittelstufe"
 
 price_en: |
-  Tryal class: EUR 12  
-  8 classes: EUR 90 
+  Drop-in: EUR 12  
 
 price_de: |
-  Probestunde: 12 Euro  
-  8 Termine: 90 Euro
+  Drop-in: 12 Euro  
   
 description_en: |
   s. German description
   
 description_de: |
-  Probestunde: 12 Euro
-
   Die Ausrichtung des Skeletts und die Muskelaktivität, die wir zum Bewegen benötigen, wird das einleitende Warm-up.
   Livias Training basiert auf der Folkwang-Tanz Tradition und zielt - erweitert um Elemente aus der Release-, Limon- und AlexanderTechnik - auf ein umfassendes Training von Ausrichtung, Fluss, Gelenken, Muskeln und Musikalität ab. 
   Diese Organisationsprinzipien unterstützt jede_n dabei, seinen individuellen Zugang zu Tanz und Kreation zu finden.
