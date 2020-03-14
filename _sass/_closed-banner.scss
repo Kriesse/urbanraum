@@ -1,0 +1,36 @@
+body {
+  position: relative;
+}
+
+.closed-banner {
+  position: absolute;
+  z-index: 9;
+  top: 4.5rem;
+  border: .5rem solid $color-tomato;
+  background-color: $color-white;
+  padding: 1rem;
+  font-size: 1.25rem;
+  text-align: left;
+  @include media-query-min($on-tablet) {
+    top: 5.5rem;
+    max-width: 32rem;
+    left: calc(50% - 16rem);
+  }
+  @include media-query-min($on-laptop) {
+    padding: 2rem;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid $color-mint-yellow;
+    &:hover, &:focus {
+      text-decoration: none;
+      border-bottom: 1px solid $color-tomato;
+    }
+  }
+  hr {
+    margin: 1.5rem 0;
+    border: none;
+    border-bottom: 1px solid $color-mint-yellow;
+  }
+}
