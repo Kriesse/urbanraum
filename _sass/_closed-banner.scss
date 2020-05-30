@@ -5,19 +5,17 @@ body {
 .closed-banner {
   position: absolute;
   z-index: 9;
-  top: 4.5rem;
+  top: 5.5rem;
   border: .5rem solid $color-tomato;
   background-color: $color-white;
-  padding: 1rem;
-  font-size: 1.25rem;
-  text-align: left;
+  padding: 2rem 1rem;
+  font-size: 1.5rem;
+  text-align: center;
   @include media-query-min($on-tablet) {
-    top: 5.5rem;
+    top: 7.5rem;
     max-width: 32rem;
     left: calc(50% - 16rem);
-  }
-  @include media-query-min($on-laptop) {
-    padding: 2rem;
+    padding: 3rem 4rem;
   }
   a {
     text-decoration: none;
