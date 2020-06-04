@@ -31,6 +31,8 @@ trial_de: "Offener Abend am 1. Mittwoch im Monat"
 description_en:
 
 description_de: |
+  Der Kurs BIODANZA wird frühestens ab September 2020 wieder stattfinden.  
+  
   In den fortlaufenden Gruppen haben wir die Möglichkeit, neue Arten der Bewegung und der subtilen Kommunikation zu üben. Sie erleichtern es Dir, Deine Sensibilität, Zärtlichkeit und den Mut, über Deine Rollen hinaus, einfach Du selbst zu sein, frei und spontan auszudrücken und so zum Genuss des menschlicheren Lebens zurückzufinden.
 
   Eine Session besteht aus einer Reihe einfacher Tänze, die allen zugänglich sind. Das Wichtige dabei ist die Lust an der Bewegung! Es ist nicht notwendig „tanzen zu können”.
