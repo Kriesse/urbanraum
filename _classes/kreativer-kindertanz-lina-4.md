@@ -3,8 +3,8 @@ order: "1"
 teacher: "carmen"
 schedule:
   - day: "tuesday"
-    start: "4:00pm"
-    end: "4:45pm"
+    start: "4:30pm"
+    end: "5:15pm"
 image: "class-kindertanz.jpg"
 
 title_en: "Kreativer Kindertanz (4-6 Jahre)"
