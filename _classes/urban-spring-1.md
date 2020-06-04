@@ -31,7 +31,7 @@ language_en: "English"
 language_de: "Englisch"
 
 description_en: |
-
+  Starting again tuesday, 16.6.2020.  
   Iliana’s workshops are emphasizing on Contemporary Dance technique build-up and Improvisation.
   The focus is on floor work practice, on the study of organic movement, on connectivity, fluidity and awareness.
 
