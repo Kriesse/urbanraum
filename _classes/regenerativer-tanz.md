@@ -29,6 +29,7 @@ price_de: |
   Drop in (sliding scale): 8-15 Euro
   8-er Karte: 75 Euro (3 Monate gültig)  
 description_en: |
+  Der Kurs startet wieder nach den Sommerferien!  
   *Movement for body and mind*  
   REGENERATIVEN TANZ is about purifying and regenerating your energy. He inspires to explore your own psyche and body. Free from evaluation and stress, it provides a wonderful opportunity for self-awareness and the identification of physical blockages.  
 
