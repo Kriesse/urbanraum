@@ -123,24 +123,13 @@
 
 // Post list on overview pages
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-gap: 1rem;
   justify-content: center;
   margin-bottom: 3em;
   align-items: flex-end;
-}
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
-.gallery__item {
-  max-width: 50%;
-  width: 200px;
-  padding: .5em;
-}
-
-.gallery__item--large {
-  max-width: 100%;
-  @include media-query-min($on-tablet) {
-    width: 400px;
-  }
 }
 
 .post__link {
