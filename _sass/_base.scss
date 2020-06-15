@@ -2,22 +2,34 @@
 html {
   box-sizing: border-box;
 }
-*, *:before, *:after {
+
+*,
+*:after,
+*:before {
   box-sizing: inherit;
 }
-
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+blockquote,
+body,
+dd,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+ol,
+p,
+pre,
+ul {
+  margin: 0;
+  padding: 0;
 }
-
-
-
 /**
  * Basic styling
  */
@@ -28,68 +40,71 @@ body {
   font-weight: 300;
   color: $color-text;
   -webkit-text-size-adjust: 100%;
+  @include media-query-min($on-laptop) {
+    font-size: $base-font-size * 1.25;
+  }
 }
-
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
+%vertical-rhythm,
+blockquote,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+pre,
+ul {
   margin-bottom: $spacing-unit / 2;
 }
-
-
 /**
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 }
-
-
-
 /**
  * Figures
  */
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 }
-
-
-
 /**
  * Lists
  */
-ul, ol {
-    margin-left: $spacing-unit;
+ol,
+ul {
+  margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ol,
+  > ul {
+    margin-bottom: 0;
+  }
 }
-
-
-
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
 }
-
-
-
 /**
  * Links
  */
@@ -99,57 +114,51 @@ a {
   transition-property: color, background-color, border, transform;
   transition-duration: $transition-duration;
   transition-timing-function: ease-in-out;
-  &:hover, &:focus {
+
+  &:focus,
+  &:hover {
     color: $color-text;
   }
 }
-
-
-
 /**
  * Blockquotes
  */
 blockquote {
-    border-left: 4px solid $color-white;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+  border-left: 4px solid $color-white;
+  padding-left: $spacing-unit / 2;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
+  }
 }
-
-
-
 /**
  * Code formatting
  */
-pre,
-code {
-    font-size: .75em;
-    border-radius: 3px;
-    background-color: rgba($color-mint-yellow, .25);
-    font-family: Monaco, Menlo, monospace;
+code,
+pre {
+  font-size: 0.75em;
+  border-radius: 3px;
+  background-color: rgba($color-mint-yellow, .25);
+  font-family: Monaco, Menlo, monospace;
 }
 
 code {
-    padding: 1px 5px;
+  padding: 1px 5px;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
+  padding: 8px 12px;
+  overflow-x: scroll;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
-
-
 /**
  * Clearfix
  */
@@ -160,9 +169,6 @@ pre {
     clear: both;
   }
 }
-
-
-
 /**
  * Icons
  */
@@ -174,11 +180,11 @@ pre {
     vertical-align: middle;
   }
 }
-
-
 // translations, hide flash of untranslated content
-[data-de], [data-en] {
- visibility: hidden;
+[data-de],
+[data-en] {
+  visibility: hidden;
+
   .lang-loaded & {
     visibility: visible;
   }
