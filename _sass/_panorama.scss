@@ -40,3 +40,10 @@
     text-shadow: 0 0 8px rgba(255,255,255,.5);
   }
 }
+
+.separator {
+  white-space: nowrap;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: $color-mint-yellow;
+}

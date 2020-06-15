@@ -12,7 +12,7 @@ address: "Urbanstraße 93, 1. Hinterhof, 10967 Berlin"
 # Build settings
 
 markdown: kramdown
-future: true
+future: false
 
 collections:
   classes:

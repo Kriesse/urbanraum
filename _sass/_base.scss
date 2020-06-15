@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $color-mint;
   text-decoration: none;
-  transition-property: color, background-color, border;
+  transition-property: color, background-color, border, transform;
   transition-duration: $transition-duration;
   transition-timing-function: ease-in-out;
   &:hover, &:focus {

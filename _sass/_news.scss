@@ -1,0 +1,22 @@
+.news-list {
+  max-width: 36rem;
+  margin: 3em auto;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+}
+
+.news-list__article {
+  display: block;
+  color: $color-text;
+  border: .5rem solid $color-mint-yellow;
+  padding: 1rem;
+  &:hover, &:focus {
+    border-color: $color-pine;
+    transform: scale(1.05);
+  }
+}
+
+.news-list__title {
+  line-height: 1.25;
+}

@@ -14,7 +14,7 @@ $color-text--medium: #606765;
 $color-text--light: #8d9291;
 $color-tomato: #EC372F;
 
-$transition-duration: .05s;
+$transition-duration: .15s;
 
 // Our variables
 $base-font-family: "Brandon Text", "Brandon Grotesque", "brandon-grotesque", "Helvetica Neue", Arial, Helvetica, sans-serif;
@@ -66,5 +66,6 @@ $on-laptop:        1024px;
         "events",
         "modal",
         "closed-banner",
+        "news",
         "helpers"
 ;

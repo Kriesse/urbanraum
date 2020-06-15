@@ -1,0 +1,21 @@
+<div class="news-list">
+  {% for post in site.posts limit:2 %}
+    <a href="{{ post.url }}" class="news-list__article">
+      <p class="news-list__date">
+        {{ post.date | date_to_string }}
+      </p>
+      <h2 class="news-list__title">
+        <span data-en="{{ post.title_en }}"
+              data-de="{{ post.title_de }}">
+              {{ post.title_en }}
+        </span>
+      </h2>
+      <div class="news-list__body">
+        {{ post.excerpt }}
+      </div>
+      <div>
+        Details&nbsp;»
+      </div>
+    </a>
+  {% endfor %}
+</div>

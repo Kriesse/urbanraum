@@ -13,13 +13,6 @@ layout: default
 <div class="page-content">
   <div class="wrapper wrapper--content">
 
-    <header class="post__header">
-      <h1 class="post__title"
-        data-en="{{ site.data.lang.about_en }}"
-        data-de="{{ site.data.lang.about_de }}">
-        {{ site.data.lang.about_en }}
-      </h1>
-    </header>
 
     <div style="margin: 3em auto; max-width: 36em">
       <p data-en="{{ site.data.lang.intro_long_en }}"
@@ -32,8 +25,7 @@ layout: default
       </p>
       <p>
         <a href="mailto:info@urbanraum.com">info@urbanraum.com</a>
-      </p>
-      <p>
+        <span class="separator">|</span>
         <a  href="http://eepurl.com/cXFJej"
             data-en="{{ site.data.lang.subscribe_newsletter_en }}"
             data-de="{{ site.data.lang.subscribe_newsletter_de }}">
@@ -41,6 +33,17 @@ layout: default
         </a>
       </p>
     </div>
+
+
+    <header class="post__header">
+      <h1 class="post__title">
+        News
+      </h1>
+    </header>
+
+    {% include news-list.html %}
+
+
 
     <header class="post__header">
       <h1 class="post__title"

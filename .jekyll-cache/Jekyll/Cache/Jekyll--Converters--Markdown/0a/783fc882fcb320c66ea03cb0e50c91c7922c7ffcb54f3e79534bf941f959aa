@@ -1,0 +1,112 @@
+I"y<h1 id="dateien-editieren">Dateien editieren</h1>
+
+<p>Link: <a href="https://github.com/Kriesse/urbanraum/tree/gh-pages">Github</a></p>
+
+<h1 id="formatierungshilfen">Formatierungshilfen</h1>
+
+<ul>
+  <li>Kurze Zeilen müssen immer in Anführunszeichen stehen</li>
+  <li>Längere Texte:
+    <ul>
+      <li>haben keine Anführungszeichen</li>
+      <li>beginnen immer mit <code class="language-plaintext highlighter-rouge">|</code> und einem Zeilenumbruch</li>
+      <li>Alle folgenden Absätze müssen indentiert sein</li>
+    </ul>
+  </li>
+  <li>Ein Zeilenumbruch wird erreicht durch neue Zeile <em>und</em> zwei Leerzeichen am Ende der Zeile</li>
+  <li>So sieht ein Link aus: <code class="language-plaintext highlighter-rouge">[example link](http://example.com/)</code></li>
+  <li><em>Kursiver Text</em> wird so erzeugt: <code class="language-plaintext highlighter-rouge">*kursiver Text*</code></li>
+  <li><strong>Fetter Text</strong> wird so erzeugt: <code class="language-plaintext highlighter-rouge">**fetter Text**</code></li>
+  <li>Wenn es keine zugewiesene Person gibt (oder kein Bild): Nach dem Doppelpunkt einfach leerlassen. Keine Anführungszeichen ohne Inhalt verwenden, das verursacht Fehler. Also einfach nur: <code class="language-plaintext highlighter-rouge">teacher:</code> oder <code class="language-plaintext highlighter-rouge">image:</code>.</li>
+</ul>
+
+<h1 id="neue-datei-anlegen">Neue Datei anlegen</h1>
+
+<ul>
+  <li>Beispiel für Dateinamen: <code class="language-plaintext highlighter-rouge">class-contemporary-dancing.md</code></li>
+  <li>Immer Endung <code class="language-plaintext highlighter-rouge">.md</code> anlegen</li>
+  <li>Event-Dateien und News-Dateien müssen dem Muster folgen: <code class="language-plaintext highlighter-rouge">2016-05-28-not-red.md</code> (also Jahr-Monat-Tag, weil sie nach Datum sortiert werden).</li>
+  <li>Dateinamen dürfen <em>nicht</em> enthalten: Sonderzeichen, Umlaute, Leerzeichen, Großbuchstaben</li>
+  <li>Am besten immer den Namen ausschreiben, Abkürzungen vermeiden (besser lesbar für Menschen und Suchmaschinen)</li>
+</ul>
+
+<h1 id="newseintrag-anlegen">Newseintrag anlegen</h1>
+
+<ul>
+  <li>Im Ordner <code class="language-plaintext highlighter-rouge">_posts</code> eine neue Datei anlegen</li>
+  <li>Dateinamen müssen dem Muster folgen: <code class="language-plaintext highlighter-rouge">2020-08-31-news-title.md</code>.</li>
+  <li>In der Datei muss angegeben werden:
+    <ul>
+      <li>layout: news</li>
+      <li>author: z.B. Friederike</li>
+      <li>title_en: “English title of the news post”</li>
+      <li>title_de: “Deutscher Titel des Newseintrags”</li>
+    </ul>
+  </li>
+  <li>Danach kommt der Newstext
+    <ul>
+      <li>Wichtig: Immer mit einem einzelnen kurzen Absatz anfangen. Nur dieser erste Absatz wird dann auf der Startseite angezeigt. Links funktionieren in diesem ersten Absatz nicht, dazu muss mann dann auf die Detailansicht klicken.</li>
+    </ul>
+  </li>
+  <li>Einen Link kann man in der Beschreibung so anlegen:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">[Zeitgenössischer Tanz](/classes/zeitgenoessischer-tanz.html)</code>.</li>
+      <li>Das sieht dann so aus: <a href="/classes/zeitgenoessischer-tanz.html">Zeitgenössischer Tanz</a></li>
+      <li>Also: In den eckigen Klammern der anklickbare Text, und in den runden Klammern die URL.</li>
+    </ul>
+  </li>
+  <li>Veröffentlichung: Der Newseintrag wird erst sichtbar am Tag des Datums im Dateinamen. Du kannst also schon vorab eine News anlegen, die dann automatisch an dem Tag erscheint.</li>
+</ul>
+
+<h3 id="beispiel-für-einen-newseintrag">Beispiel für einen Newseintrag</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+layout: news
+author: Friederike
+title_en: "This is just for testing"
+title_de: "Ein Eintrag zum Testen"
+---
+
+Ein kurzer Eintrag zum Testen. Nur dieser erste Absatz wird auf der Startseite angezeigt!
+
+Hier ist dann Platz für weitere Absätze. Und hier können dann auch Links verwendet werden. Zum Beispiel ein Link zu Deinem Kurs:
+[Zeitgenössischer Tanz](/classes/zeitgenoessischer-tanz.html).
+
+Eine Liste kann man auch anlegen. Das geht so:
+
+* Erster Kurs
+* Zweiter Kurs
+* Dritter Kurs.
+
+Und danach einfach weiterschreiben, mit einer Leerzeile Abstand. Dann kommt wieder ein normaler Absatz raus.
+</code></pre></div></div>
+
+<h1 id="bilder">Bilder</h1>
+
+<ul>
+  <li>Mindestgröße: 1200x800px</li>
+  <li>Geeignete Dateiformate: <code class="language-plaintext highlighter-rouge">.jpg</code>, <code class="language-plaintext highlighter-rouge">.png</code>, <code class="language-plaintext highlighter-rouge">.svg</code></li>
+  <li>kein Text, keine Effekte</li>
+</ul>
+
+<h1 id="informationen-für-kurse-und-workshops">Informationen für Kurse und Workshops</h1>
+
+<ul>
+  <li>Titel</li>
+  <li>Untertitel (optional)</li>
+  <li>Beschreibung:<br />
+Was, wie, wer…<br />
+Ziele, Methoden, Anspruch, benötigte Vorkenntnisse…</li>
+  <li>Bild</li>
+  <li>Wochentag, Datum, Uhrzeit</li>
+  <li>Level</li>
+  <li>Sprache</li>
+  <li>Preis, z.B.:<br />
+Einzelklasse: 10 Euro<br />
+10 Klassen: 90 Euro</li>
+  <li>Kontakt:<br />
+Email<br />
+Telefonnummer<br />
+Website</li>
+</ul>
+:ET
