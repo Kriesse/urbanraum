@@ -5,7 +5,7 @@
   menu: main
 ---
 
-{% assign classes = (site.classes | sort: "order" ) %}
+{% assign classes = site.classes | sort: "order" %}
 <div class="gallery">
   {% for post in classes %}
     <div class="gallery__item">
