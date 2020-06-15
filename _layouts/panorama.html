@@ -14,7 +14,7 @@ layout: default
   <div class="wrapper wrapper--content">
 
 
-    <div style="margin: 3em auto; max-width: 36em">
+    <div style="margin: 3em auto; max-width: 36rem">
       <p data-en="{{ site.data.lang.intro_long_en }}"
          data-de="{{ site.data.lang.intro_long_de }}">
          {{ site.data.lang.intro_long_en }}
@@ -56,7 +56,7 @@ layout: default
     {% assign events=site.tags.events %}
     {% assign overview=true %}
 
-    <div class="event-list" style="margin: 3em auto; max-width: 36em">
+    <div class="event-list" style="margin: 3em auto; max-width: 36rem">
       {% for post in site.events %}
         <a  class="event-list__item"
             href="{{ post.url | prepend: site.baseurl }}">
