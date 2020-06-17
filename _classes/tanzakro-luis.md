@@ -2,9 +2,9 @@
 order: "1"
 teacher: "luis"
 schedule:
-  - day: "thursday"
-    start: "08:45am"
-    end: "09:45pm"
+day: "thursday"
+start: "08:45am"
+end: "09:45pm"
 
 image: "class-luis.jpg"
 
@@ -36,10 +36,7 @@ description_en: |
   
 
 description_de: |
-  Wir arbeiten an der Verbindung von Tanz und Akrobatik. Sowohl in der Bewegungs- sowie der künstlerischen Sprache. Die Klasse ist intensiv und körperlich anspruchsvoll. Wir trainieren verschiedene akrobatische
-Elemente und suchen nach Verbindungen. Gleichzeitig untersuchen wir verschiedene Improvisationstechniken und wie wir sie benutzen können
-um unser Körpergefühl zu verbessern und unsere Ausdrucksmöglichkeiten zu erweitern.  
-
+  Wir arbeiten an der Verbindung von Tanz und Akrobatik. Sowohl in der Bewegungs- sowie der künstlerischen Sprache. Die Klasse ist intensiv und körperlich anspruchsvoll. Wir trainieren verschiedene akrobatische Elemente und suchen nach Verbindungen. Gleichzeitig untersuchen wir verschiedene Improvisationstechniken und wie wir sie benutzen können, um unser Körpergefühl zu verbessern und unsere Ausdrucksmöglichkeiten zu erweitern.    
   Bitte schreibt mir hier oder an luis@naiscoaching.de wenn ihr kommen wollt.  
   Die Klasse ist auf 7 Teilnehmer_innen beschränkt.
   
