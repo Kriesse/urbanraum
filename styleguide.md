@@ -82,6 +82,17 @@ Und danach einfach weiterschreiben, mit einer Leerzeile Abstand. Dann kommt wied
 * kein Text, keine Effekte
 
 
+So kann man ein eigenes Bild einbinden. Der Text ist nicht sichtbar, aber sollte beschreiben, was auf dem Bild zu sehen ist (aus Accessibility-Gründen).
+
+![Contakids](/img/class-contakids-drei.jpg)
+
+So bindet man ein Bild ein, das extern gehostet ist:
+
+![Eine Katze](http://placekitten.com/g/400/300)
+
+
+
+
 # Informationen für Kurse und Workshops
 
 * Titel
