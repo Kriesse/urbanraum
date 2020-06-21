@@ -9,6 +9,9 @@ twitter_username: "urbanraum"
 facebook_username:  "urbanraumberlin"
 address: "Urbanstraße 93, 1. Hinterhof, 10967 Berlin"
 
+exclude:
+  - .jekyll-cache
+
 # Build settings
 
 markdown: kramdown
