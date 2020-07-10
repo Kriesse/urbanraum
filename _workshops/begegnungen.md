@@ -49,24 +49,26 @@ description_de: |
  
   Bei Interesse und Fragen gerne melden bei: produktion@evaburghardt.com  
 
-  Tanz und Farbe, 13. September, 10 – 15h   
+
+  **Tanz und Farbe, 13. September, 10 – 15h**   
   Abwechselnd oder gleichzeitig bewegen, tanzen, malen. Welche Farben und Formen tragen welche Energie, Kraft und Dynamik in sich? Wie lassen sich diese visuelllen Impulse körperlich aufgreifen und umsetzen? Was enstehen für neue Begegnungen und Dialoge zwischen Körper und Bild, Bild und Körper? Welche Spuren hinterlasse ich durch meinen Tanz auf dem Bild und im Raum? Sowohl bereits existierende Bilder, wie auch die im Prozess entstehenden Bilder, können als Ausgangspunkt und Inspiration für die Improvisation dienen.  
 
-  Tanz und Text, 11. Oktober, 10 – 15h  
+  **Tanz und Text, 11. Oktober, 10 – 15h**  
   Vom Tanz zum Text, vom Text zum Tanz. Welche Wechselspiele, gegenseitige Befruchtungen oder Reibungsmöglichkeiten enstehen aus Bewegung, Schreiben und Sprechen? Wie können sich Text und Bewegung ergänzen, in Dialog treten oder miteinander verschmelzen? Als Ausgangspunkt dienen sowohl bereits existierende, wie auch im Moment enstehende Texte. Gerne dürfen eigene Texte mitgebracht werden.  
 
-  Tanz und Sound, 8. November, 10 – 15h (zu Gast: Sebastian Flaig)  
+  **Tanz und Sound, 8. November, 10 – 15h (zu Gast: Sebastian Flaig)**  
   Zusammen mit dem Percussionisten Sebastian Flaig wird erforscht, wie sich Tanz und Sound begegnen, ergänzen oder kontrastieren können. Wie entsteht ein Dialog? Zuhören, reagieren, folgen oder führen werden spielerisch erprobt. Lasse ich mich vom Sound tragen oder setze ich eigene Akzente und Impulse? Ein Spiel mit Rhytmus, Fülle und Stille beginnt.  
 
-  Kosten pro Workshop: 75,-/erm. 65,-*  
+  **Kosten pro Workshop**: 75,-/erm. 65,-*  
   + 10€ Material (Tanz und Farbe)  
   + 20€ Live Musik (Tanz und Sound)  
   * Ermäßigungen für Schüler_innen, Student_innen, Hartz IV-Empfänger_innen bei Vorlage einer Bescheinigung  
 
-  Anmeldung bitte bis zum 1.9.2020: produktion@evaburghardt.com  
+  **Anmeldung** bitte bis zum 1.9.2020: produktion@evaburghardt.com  
 
   Die Kurse finden ab mindestens 6 TLN statt und sind begrenzt auf maximal (zurzeit) 11 TLN. Die Anmeldung gilt als verbindlich bei Eingang der 1. Hälfte der Teilnehmergebühr, die 2. Hälfte ist vor Beginn des WS fällig. Bei Ausfall des WS wird der gesamte Betrag zurückerstattet. Bei einem Rücktritt werden 50% der Teilnehmergebühr beibehalten, außer es wird eine Ersatzperson gefunden. Für eventuelle Verletzungen haftet jede_r Teilnehmer_in selbst.  
-  Weitere Informationen:  
+  
+  **Weitere Informationen**:  
   www.evaburghardt.com  
   Foto: Barbara Günther
 ---
