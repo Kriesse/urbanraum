@@ -20,14 +20,14 @@ level_en: "Intermediate"
 level_de: "Mittelstufe"
 
 price_en: |
-  Trial lesson (after registration): EUR 12  
-  10 classes (within 3 months): EUR 120  
-  Monthly: EUR 39   
+  Trial lesson (after registration): EUR 13  
+  10 classes (within 3 months): EUR 130  
+  Monthly: EUR 48   
 
 price_de: |
-  Probestunde (nach Voranmeldung): 12 Euro  
-  Zehnerkarte (3 Monate gültig): 120 Euro  
-  Monatlicher Vertrag (monatlich kündbar): 39 Euro
+  Probestunde (nach Voranmeldung): 13 Euro  
+  Zehnerkarte (3 Monate gültig): 130 Euro  
+  Monatlicher Vertrag (monatlich kündbar): 48 Euro
 
 description_en: |  
   My classes are based on the Joos-Leeder technique and,- expanded by elements from Release-, Limon- and Alexander Technique, aim at a comprehensive training of alignment, flow, joints, muscles and musicality.
