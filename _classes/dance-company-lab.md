@@ -21,10 +21,12 @@ level_en: "Intermediate"
 level_de: "Mittelstufe"
 
 price_en: |
-  Drop-in: EUR 12  
+  Drop-in: EUR 13   
+  10 classes (within 3 months): EUR 130
 
 price_de: |
-  Drop-in: 12 Euro  
+  Drop-in: 13 Euro  
+  10er Karte (3 Monate gültig): 130 Euro
   
 description_en: |
   s. German description
