@@ -31,7 +31,8 @@ language_en: "English"
 language_de: "Englisch"
 
 description_en: |
-  Starting again tuesday, 16.6.2020.  
+  Summer break: August 1st - September 13th, 2020  
+  Classes start again on September 15th!  
   Iliana’s workshops are emphasizing on Contemporary Dance technique build-up and Improvisation.
   The focus is on floor work practice, on the study of organic movement, on connectivity, fluidity and awareness.
 
