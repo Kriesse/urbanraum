@@ -49,37 +49,6 @@ description_en: |
   
   ///  
 
-  REGULAR CLASSES 2020
-
-  JANUARY
-  14-15-16.         Filippo Serra  
-  21-23-24.         Filippo Serra  
-  28-29-30.         Diana Thielen  
-
-  FEBRUARY
-  4 -5-6.           Diana Thielen  
-  11-12-13.         Antoine Ragot (+ anatomy lab 14h to 15h, feb 11th)  
-  18-19-20.         Kira Kirsch  
-  25-26-27.         Kira Kirsch  
-
-  MARCH  
-  3-4-5.            Francesca Pedulla
-  10-11-12.         Diana Thielen
-  17-18-19.         Diana Thielen
-  24-25-26.         Filippo Serra
- 
-  APRIL
-  31st1-2.          A teacher candidate
-  7-8-9.            Francesca Pedulla
-  14-15-16.         Francesca Pedulla
-  21-22-23.         A teacher candidate
-  28-29-30.         Kira Kirsch
-
-  MAY 
-  5-6-7.            Antoine Ragot
-  12-13-14.         Kira Kirsch
-  19-20.            Filippo Serra (2 days only)
-  26-27-28.         Filippo Serra
   
   
 
