@@ -27,17 +27,25 @@ level_de: "open level"
 
 price_en: |
   Single Class 12 Euro    
-  10 class card 90 Euro (valid 2 months)  
   First Time Special: 15 Euro for one week!  
   (no previous Axis Syllabus experience)  
   
 price_de: |
   Einzelstunde: 12 Euro  
-  10-er Karte (2 Monate gültig): 90 Euro  
   Anfänger_innen-Spezial: 15 Euro für 1 Woche  
   (keine vorherige Axis Syllabus-Erfahrung)
   
 description_en: |
+  Due to the current and still unknown developments regarding COVID 19 we are not able to offer the class card option right now. Classes are until further notice to be paid as single classes (12euro per class).   
+
+  For newcomers to the Axis Syllabus ( you are trying an axis syllabus class for the first time) we are still offering the NEWBEE discount of 15Euros for one week of classes. This cannot be spread over several weeks!   
+
+  We look forward to meet new faces as well as continue training, dancing, discovering with our regular students.   
+
+  Teachers for this semester are: Antoine Ragot, Francesca Pedulla, Filippos Serra, Frey Faust, Kira Kirsch and Sadhana Richter.  
+  We wish our dear team member Diana Thielen a restful and inspirational maternity leave and look forward to have her back soon! 
+  
+  ///  
   
   We are exited to start a new season of ongoing classes, taught by an international teachers team that share the AS as their common lense to investigate and transmit dance and movement. In addition each teacher brings a diverse backround which allows to enter shared information from different viewpoints and offers various movement emphasis. This provides a continuous and connective yet dynamic training approach.
 
