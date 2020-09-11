@@ -8,8 +8,8 @@ schedule:
 
 image: "class-blue.jpg"
 
-title_en: "Contemporary Dance and Improvisation | blue class"
-title_de: "Contemporary Dance and Improvisation | blue class"
+title_en: "Floor Work and Acrobatic Contemporary dance"
+title_de: "Floor Work and Acrobatic Contemporary dance"
 
 subtitle_en: ""
 subtitle_de: ""
