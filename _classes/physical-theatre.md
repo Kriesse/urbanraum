@@ -57,7 +57,7 @@ description_en: |
   
 description_de: |
   
-  Drop in im Physical Theatre ist wieder ab November 2019 möglich!  
+  Drop in ist jederzeit möglich!  
   
   Im Physical Theatre entdecken wir die Vielfalt der Möglichkeiten im zeitgenössischen Theater und experimentieren damit. Zwischen Spiel und Tiefe, kollektivem Arrangement und innerer Erfahrung, Lebendigkeit und Form ect. Theater, Tanz oder Performance? In diesem hybrid-Training ist alles möglich, die Grenzen verschwimmen, der Körper rückt ins Zentrum. Das Training spiegelt die Realität zeitgenössischer Bühnen, sowie aktuelle kreative Prozesse wieder.  
 
