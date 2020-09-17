@@ -6,7 +6,7 @@ schedule:
     start: "10:00am"
     end: "11:30am"
     
-image: ""
+image: "class-handstand.JPG"
 
 title_en: "Handstand"
 title_de: "Handstand"
