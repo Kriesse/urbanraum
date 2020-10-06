@@ -40,7 +40,7 @@ description_en: |
 
 description_de: |
  
-  Die Workshopreihe BEGENUNGEN widmet sich der Tanzimprovisation in Verbindung mit anderen künstlerischen Ausdrucksformen aus Bildener Kunst, Musik und Literatur. Wie können sich diese verschiedenen Künste begegnen, ergänzen, herausfordern und neue Spielräume eröffnen?  
+  Die Workshopreihe BEGEGNUNGEN widmet sich der Tanzimprovisation in Verbindung mit anderen künstlerischen Ausdrucksformen aus Bildener Kunst, Musik und Literatur. Wie können sich diese verschiedenen Künste begegnen, ergänzen, herausfordern und neue Spielräume eröffnen?  
   Die Workshoptage beginnen mit einem Warm-Up aus Elementen von Yoga und somatischen Praktiken, in denen das Körper- und Gruppenbewusstsein gefördert wird. Dieses Aufwärmen von Körper und Geist ermöglicht es, sich offen und wach auf die jeweiligen Improvisation einzulassen, in denen die verschiedenen Schwerpunkte vertieft und spielerisch erforscht werden. Hierbei wird sowohl solistisch, als auch im Duo oder der Gruppe gearbeitet.  
   Die Workshops können als Block oder einzeln gebucht werden. Vorerfahrung in Bewegungsimprovisation ist erwünscht, aber nicht zwingend notwendig!  
  
@@ -55,7 +55,7 @@ description_de: |
   50 Euro/42 Euro*
   sowie 12 Euro Musik
 
-  * Ermäßigungen für Schüler_innen, Student_innen, Hartz IV-Empfänger_innen bei Vorlage einer Bescheinigung  
+  *Ermäßigungen für Schüler_innen, Student_innen, Hartz IV-Empfänger_innen bei Vorlage einer Bescheinigung  
 
   **Anmeldung**: produktion@evaburghardt.com  
 
