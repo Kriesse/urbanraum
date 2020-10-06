@@ -50,7 +50,7 @@ description_de: |
 
 
 
-  **Tanz und Sound, 8. November, 10 – 15h (zu Gast: Sebastian Flaig)**  
+  **Tanz und Sound, 8. November, 10 – 13h (zu Gast: Sebastian Flaig)**  
   Zusammen mit dem Percussionisten Sebastian Flaig wird erforscht, wie sich Tanz und Sound begegnen, ergänzen oder kontrastieren können. Wie entsteht ein Dialog? Zuhören, reagieren, folgen oder führen werden spielerisch erprobt. Lasse ich mich vom Sound tragen oder setze ich eigene Akzente und Impulse? Ein Spiel mit Rhytmus, Fülle und Stille beginnt.  
 
   **Kosten pro Workshop**: 
