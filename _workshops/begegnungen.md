@@ -40,22 +40,20 @@ description_en: |
 
 description_de: |
  
-  Tanz und Sound, 8. November, 10 – 13h (zu Gast: Sebastian Flaig)  
-
-  Diese Workshopreihe widmet sich der Tanzimprovisation in Verbindung mit anderen künstlerischen Ausdrucksformen aus Bildener Kunst, Musik und Literatur. Wie können sich diese verschiedenen Künste begegnen, ergänzen, herausfordern und neue Spielräume eröffnen?  
+  Die Workshopreihe BEGENUNGEN widmet sich der Tanzimprovisation in Verbindung mit anderen künstlerischen Ausdrucksformen aus Bildener Kunst, Musik und Literatur. Wie können sich diese verschiedenen Künste begegnen, ergänzen, herausfordern und neue Spielräume eröffnen?  
   Die Workshoptage beginnen mit einem Warm-Up aus Elementen von Yoga und somatischen Praktiken, in denen das Körper- und Gruppenbewusstsein gefördert wird. Dieses Aufwärmen von Körper und Geist ermöglicht es, sich offen und wach auf die jeweiligen Improvisation einzulassen, in denen die verschiedenen Schwerpunkte vertieft und spielerisch erforscht werden. Hierbei wird sowohl solistisch, als auch im Duo oder der Gruppe gearbeitet.  
   Die Workshops können als Block oder einzeln gebucht werden. Vorerfahrung in Bewegungsimprovisation ist erwünscht, aber nicht zwingend notwendig!  
  
   Bei Interesse und Fragen gerne melden bei: produktion@evaburghardt.com  
 
-
-
-  **Tanz und Sound, 8. November, 10 – 13h (zu Gast: Sebastian Flaig)**  
+  Der vorerst letzte Workshop der Reihe findet am 8. November statt:  
+  
+  **Tanz und Sound, 8. November, 10 – 13h (zu Gast: Sebastian Flaig)**    
   Zusammen mit dem Percussionisten Sebastian Flaig wird erforscht, wie sich Tanz und Sound begegnen, ergänzen oder kontrastieren können. Wie entsteht ein Dialog? Zuhören, reagieren, folgen oder führen werden spielerisch erprobt. Lasse ich mich vom Sound tragen oder setze ich eigene Akzente und Impulse? Ein Spiel mit Rhytmus, Fülle und Stille beginnt.  
 
   **Kosten pro Workshop**: 
   50 Euro/42 Euro*
-  + 12 Euro Musik
+  sowie 12 Euro Musik
 
   * Ermäßigungen für Schüler_innen, Student_innen, Hartz IV-Empfänger_innen bei Vorlage einer Bescheinigung  
 
