@@ -53,7 +53,8 @@ description_de: |
   Der Vertrag ist monatlich mit einer Frist von 4 Wochen kündbar.  
   
   Der Kurs ist fortlaufend und der Einstieg jederzeit möglich.  
-  Eine Probestunde (nach Anmeldung!) kostet 10 Euro.    
+  
+  Eine Probestunde (nach Anmeldung!) kostet 12 Euro.    
   In den Berliner Schulferien findet der Kurs nicht statt.  
 
 
