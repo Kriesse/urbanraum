@@ -3,19 +3,22 @@ order: "2"
 teacher: "melina"
 schedule:
   - day: "wednesday"
-    start: "02:30pm"
+    start: "02:45pm"
     end: "03:45pm"
   - day: "wednesday"
     start: "04:00pm"
-    end: "05:30pm"
+    end: "05:00pm" 
+  - day: "wednesday"
+    start: "05:00pm"
+    end: "06:00pm"
     
 image: "wokshop-bewegungstheater.jpg"
 
 title_en: "Bewegungstheater"
 title_de: "Bewegungstheater"
 
-subtitle_en: "for kids"
-subtitle_de: "für Kinder"
+subtitle_en: "for kids from 8 years"
+subtitle_de: "für Kinder ab 8 Jahren"
 
 type_en: "Weekly Class"
 type_de: "Wöchentlicher Kurs"
@@ -41,9 +44,9 @@ description_de: |
   Kinder mit Behinderung sind herzlich willkommen.  
 
 
-  **Kurs A** 14.45 - 15.45 Uhr ( 8 - 10 Jahre)  
-  **Kurs B** 16.00 - 17.00 Uhr ( 10 - 12 Jahre), dieser Kurs ist momentan voll  
-  **Kurs C** 17.00 - 18.00 Uhr ( 12 - 14 Jahre), dieser Kurs ist nur für Mädchen, Vorkenntnisse erwünscht.    
+  *Kurs A* 14.45 - 15.45 Uhr ( 8 - 10 Jahre)  
+  *Kurs B* 16.00 - 17.00 Uhr ( 10 - 12 Jahre), dieser Kurs ist momentan voll  
+  *Kurs C* 17.00 - 18.00 Uhr ( 12 - 14 Jahre), dieser Kurs ist nur für Mädchen, Vorkenntnisse erwünscht.    
 
 
   Kosten: nach eigenem Ermessen zwischen 40 Euro und 50 Euro/Monatsbeitrag (Materialkosten z.B. für Aufführungen inklusive).    
