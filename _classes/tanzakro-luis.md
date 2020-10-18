@@ -21,10 +21,10 @@ level_en: "open level"
 level_de: "open level"
 
 price_en: |
-  10-14 €
+  15 €
   
 price_de: |
-  10-14 €
+  15 €
   
 description_en: |
   A combination of Dance and Acrobatics.  
