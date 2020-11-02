@@ -30,7 +30,8 @@ price_de: |
   Monatlicher Vertrag (monatlich kündbar): 48 Euro
 
 description_en: |  
-  During the lockdown in november the course is held online by Livia Politi. Just write an email to register.
+  *During the lockdown in november the course is held online by Livia Politi. Just write an email to register.*  
+  //  
   My classes are based on the Joos-Leeder technique and,- expanded by elements from Release-, Limon- and Alexander Technique, aim at a comprehensive training of alignment, flow, joints, muscles and musicality.
   These organisation principles support every dancer and choreographer to find their individual access to dance and creation.
 
