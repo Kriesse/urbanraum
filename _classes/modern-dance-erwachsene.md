@@ -7,8 +7,8 @@ schedule:
     end: "07:45pm"
 image: "class-moderndance-livia.jpg"
 
-title_en: "Modern Dance / Contemporary"
-title_de: "Modern Dance / Zeitgenössischer Tanz"
+title_en: "ONLINE Modern Dance / Contemporary"
+title_de: "ONLINE Modern Dance / Zeitgenössischer Tanz"
 
 subtitle_en: "with Livia Politi"
 subtitle_de: "mit Livia Politi"
@@ -30,6 +30,7 @@ price_de: |
   Monatlicher Vertrag (monatlich kündbar): 48 Euro
 
 description_en: |  
+  During the lockdown in november the course is held online by Livia Politi. Just write an email to register.
   My classes are based on the Joos-Leeder technique and,- expanded by elements from Release-, Limon- and Alexander Technique, aim at a comprehensive training of alignment, flow, joints, muscles and musicality.
   These organisation principles support every dancer and choreographer to find their individual access to dance and creation.
 
